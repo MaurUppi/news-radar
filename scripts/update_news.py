@@ -500,6 +500,21 @@ def parse_md_heading(text: str) -> tuple[int, int] | None:
     return int(m.group(1)), int(m.group(2))
 
 
+def resolve_aibase_news_url(href: str, listing_url: str) -> str:
+    href = (href or "").strip()
+    if not href:
+        return ""
+    if href.startswith("http://") or href.startswith("https://"):
+        return href
+
+    parsed_listing = urlparse(listing_url or "")
+    listing_path = parsed_listing.path or ""
+    if listing_path.startswith("/zh/") and href.startswith("/news/"):
+        href = "/zh" + href
+
+    return urljoin("https://www.aibase.com", href)
+
+
 def infer_shanghai_year_for_month_day(now_sh: datetime, month: int, day: int) -> int | None:
     year = now_sh.year
     try:
@@ -1241,6 +1256,7 @@ def fetch_aibase(session: requests.Session, now: datetime) -> list[RawItem]:
     r = session.get("https://www.aibase.com/zh/news", timeout=30)
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "html.parser")
+    listing_url = str(r.url or "https://www.aibase.com/zh/news")
 
     out: list[RawItem] = []
     for a in soup.select("a[href^='/news/']"):
@@ -1264,7 +1280,7 @@ def fetch_aibase(session: requests.Session, now: datetime) -> list[RawItem]:
                 site_name=site_name,
                 source=site_name,
                 title=title,
-                url=urljoin("https://www.aibase.com", href),
+                url=resolve_aibase_news_url(href, listing_url),
                 published_at=published,
                 meta={"time_hint": time_text},
             )

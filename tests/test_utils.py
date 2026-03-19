@@ -13,6 +13,7 @@ from scripts.update_news import (
     parse_opml_subscriptions,
     parse_relative_time_zh,
     split_archive_for_storage,
+    resolve_aibase_news_url,
 )
 
 
@@ -20,6 +21,16 @@ class UtilsTests(unittest.TestCase):
     def test_normalize_url_removes_tracking(self):
         raw = "https://example.com/path?a=1&utm_source=x&fbclid=abc"
         self.assertEqual(normalize_url(raw), "https://example.com/path?a=1")
+
+    def test_resolve_aibase_news_url_prefers_zh_path(self):
+        self.assertEqual(
+            resolve_aibase_news_url("/news/26362", "https://www.aibase.com/zh/news"),
+            "https://www.aibase.com/zh/news/26362",
+        )
+        self.assertEqual(
+            resolve_aibase_news_url("/news/26362", "https://www.aibase.com/news"),
+            "https://www.aibase.com/news/26362",
+        )
 
     def test_make_item_id_stable(self):
         a = make_item_id("site", "src", "Title", "https://a.com?p=1&utm_source=x")
