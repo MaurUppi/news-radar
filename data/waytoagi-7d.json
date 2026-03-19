@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T15:24:39.991357Z",
+  "generated_at": "2026-03-19T16:29:35.774555Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -26,7 +26,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/JBkVwUbFxiRm1PkCrMpciaAnnmg"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-03-19",
@@ -219,42 +219,6 @@
       "title": "2026年了，你的拖延症，连AI都看不下去了",
       "summary": "OpenClaw等AI工具已成为超级杠杆，而很多人却还在用“忙”掩盖不愿行动的真相。小鱿鱼以自身拖延年终总结的经历为例，帮你打破拖延惯性，不让未来的自己留下遗憾。",
       "url": "https://waytoagi.feishu.cn/wiki/RsVcwLWWVi1e7ak6IxrcuP97ned"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "秒懂大模型API，教你免费体验OpenClaw",
-      "summary": "最近发现好多刚入坑的小伙伴在部署OpenClaw的时候，第一步就卡住了——配置大模型API。今天专门给同样卡在这关的你写个秒懂教程，手把手带你过这关！",
-      "url": "https://waytoagi.feishu.cn/wiki/U2L3wPZVcihgtHkCQojcok1JnId"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "智能体工程的 8 个等级",
-      "summary": "想让AI编程效率翻倍？这份智能体工程8级进阶指南或许可以帮助你！从基础的Tab补全、智能体IDE，到上下文工程、复合工程，再到MCP与技能、Harness工程，最终抵达后台智能体与自主智能体团队，每一级都藏着生产力跃迁的关键。文中还分享了Dispatch等实战工具、多模型协作技巧，可以帮你避开只依赖工具却无实质提升的坑，真正释放AI编程的核心潜力。",
-      "url": "https://waytoagi.feishu.cn/wiki/Hw5Fw8lYZiYtSNkMuKxc6Izhnhz"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "实测3款主流开源OCR模型：DeepSeek、PaddleOCR、GLM",
-      "summary": "如果文本提取的准确度，这一步做不准，后面再强的分析、检索、生成，基本都白费。作者用同一套测试样本, 让 DeepSeek-OCR-2、PaddleOCR-VL-1.5、GLM-OCR 三个模型，跑了表格、扫描件、手写体、数学公式 四个场景的多轮实测。快来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/YdACw2ObBiti6zkiE19cenrTn1L"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "你不知道的 Claude Code：架构、治理与工程实践",
-      "summary": "今天这篇文章源于最近半年深度使用 Claude Code、两个账号每月 40 刀氪金换来的一些踩坑经验，希望能给大伙一些输入。这篇文章想和大伙聊聊这几个事：Claude Code 底层怎么运作、上下文为什么会乱以及怎么治理、Skills 和 Hooks 应该怎么设计、Subagents 的正确用法、Prompt Caching 的架构影响，以及怎么写一个真正有用的 CLAUDE.md。",
-      "url": "https://waytoagi.feishu.cn/wiki/JVOGwkmwXiPJTekm7SRctL8Inne"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "三分钟大白话：什么是SubAgent？它凭什么让OpenClaw、Claude Code、Codex中都有它的影子",
-      "summary": "最近OpenClaw火的一塌糊涂， 那么我相信只要接触过OpenClaw一段时间的人，基本都会听过一个词： Skill 。你可以不断地给AI加很多的Skill ，让它会更多技能。 但很多时候，真正卡住你的，不是它不会，而是它一个人做不了太多的事情。这时候，真正该上场的，不再是Skill了， 而是另一个重要的东西，就是SubAgent 。",
-      "url": "https://waytoagi.feishu.cn/wiki/MAGdwRehaiUTZ5k9weYcRzYMnnf"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "Uber 如何用 AI 做开发：内部实况揭秘",
-      "summary": "大公司是如何规模化落地AI研发的呢？Uber的实战方案很有参考价值！它搭建了四层智能体系统，靠MCP网关、Agent Builder、Minion等工具打通全流程，用Code Inbox、uReview解决AI时代代码审查的痛点。如今84%的Uber开发者用智能体编程，65-72%代码由AI生成，Claude Code使用率三月翻倍，工程师每周平均省4小时。",
-      "url": "https://waytoagi.feishu.cn/wiki/LJcswoHX8if7FvkHzpdc3UPnnKh"
     }
   ],
   "warning": null,
