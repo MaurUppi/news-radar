@@ -519,6 +519,19 @@ select {
   color: var(--ink);
 }
 
+.waytoagi-title-link {
+  color: var(--accent-2);
+  text-decoration: none;
+}
+
+.waytoagi-title-link:hover {
+  text-decoration: underline;
+}
+
+.waytoagi-title-text {
+  color: var(--ink);
+}
+
 .waytoagi-summary {
   margin-top: 6px;
   font-size: 13px;

@@ -354,16 +354,16 @@ function renderWaytoagi(waytoagi) {
   }
 
   updates.forEach((u) => {
-    const row = document.createElement("a");
+    const row = document.createElement("div");
     row.className = "waytoagi-item";
-    row.href = u.url || "#";
-    row.target = "_blank";
-    row.rel = "noopener noreferrer";
+    const title = u.url
+      ? `<a class="waytoagi-title-link" href="${escapeHtml(u.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(u.title)}</a>`
+      : `<span class="waytoagi-title-text">${escapeHtml(u.title)}</span>`;
     const summary = u.summary ? `<div class="waytoagi-summary">${escapeHtml(u.summary)}</div>` : "";
     row.innerHTML = `
       <span class="d">${fmtDate(u.date)}</span>
       <div class="waytoagi-body">
-        <div class="waytoagi-title">${escapeHtml(u.title)}</div>
+        <div class="waytoagi-title">${title}</div>
         ${summary}
       </div>
     `;
