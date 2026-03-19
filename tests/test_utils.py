@@ -1,9 +1,19 @@
+import gzip
+import json
 import unittest
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from tempfile import TemporaryDirectory
 
-from scripts.update_news import make_item_id, normalize_url, parse_date_any, parse_opml_subscriptions, parse_relative_time_zh
+from scripts.update_news import (
+    load_archive,
+    make_item_id,
+    normalize_url,
+    parse_date_any,
+    parse_opml_subscriptions,
+    parse_relative_time_zh,
+    split_archive_for_storage,
+)
 
 
 class UtilsTests(unittest.TestCase):
@@ -40,6 +50,69 @@ class UtilsTests(unittest.TestCase):
         self.assertEqual(len(feeds), 2)
         self.assertEqual(feeds[0]["title"], "A")
         self.assertEqual(feeds[1]["title"], "B")
+
+    def test_split_archive_for_storage_moves_old_items_to_cold_store(self):
+        now = datetime(2026, 3, 19, 0, 0, tzinfo=timezone.utc)
+        archive = {
+            "recent": {
+                "id": "recent",
+                "title": "Recent item",
+                "last_seen_at": "2026-03-18T00:00:00Z",
+            },
+            "old": {
+                "id": "old",
+                "title": "Old item",
+                "last_seen_at": "2026-03-10T00:00:00Z",
+            },
+        }
+
+        hot, cold = split_archive_for_storage(archive, now, hot_days=7)
+
+        self.assertEqual(list(hot.keys()), ["recent"])
+        self.assertEqual(list(cold.keys()), ["old"])
+
+    def test_load_archive_reads_hot_and_cold_files(self):
+        with TemporaryDirectory() as td:
+            root = Path(td)
+            hot_payload = {
+                "generated_at": "2026-03-19T00:00:00Z",
+                "items": [
+                    {
+                        "id": "recent",
+                        "title": "Recent item",
+                        "last_seen_at": "2026-03-18T00:00:00Z",
+                    }
+                ],
+            }
+            cold_payload = {
+                "generated_at": "2026-03-19T00:00:00Z",
+                "items": [
+                    {
+                        "id": "old",
+                        "title": "Old item",
+                        "last_seen_at": "2026-03-10T00:00:00Z",
+                    }
+                ],
+            }
+            manifest = {
+                "generated_at": "2026-03-19T00:00:00Z",
+                "hot_days": 7,
+                "total_items": 2,
+                "hot_items": 1,
+                "cold_items": 1,
+                "hot_archive": "archive-hot.json.gz",
+                "cold_archive": "archive-cold.json.gz",
+            }
+            (root / "archive.json").write_text(json.dumps(manifest), encoding="utf-8")
+            with gzip.open(root / "archive-hot.json.gz", "wt", encoding="utf-8") as fh:
+                json.dump(hot_payload, fh)
+            with gzip.open(root / "archive-cold.json.gz", "wt", encoding="utf-8") as fh:
+                json.dump(cold_payload, fh)
+
+            archive = load_archive(root)
+
+        self.assertEqual(set(archive.keys()), {"recent", "old"})
+        self.assertEqual(archive["old"]["title"], "Old item")
 
 
 if __name__ == "__main__":

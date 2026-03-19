@@ -16,7 +16,7 @@
 - 本地命令（一次）：
   - `python scripts/update_news.py --output-dir data --window-hours 24 --rss-opml feeds/follow.opml`
 - 自动化（推荐）：
-  - `.github/workflows/update-news.yml` 已配置定时任务，默认每 30 分钟自动更新并提交数据。
+  - `.github/workflows/update-news.yml` 已配置定时任务，默认每 30 分钟自动更新、提交数据，并自动部署 GitHub Pages。
 
 ### 2. 主要能力
 
@@ -37,7 +37,9 @@
 ### 3. 数据输出
 
 - `data/latest-24h.json`
-- `data/archive.json`
+- `data/archive.json`（归档清单）
+- `data/archive-hot.json.gz`（近 7 天压缩快照）
+- `data/archive-cold.json.gz`（7 天前压缩归档）
 - `data/source-status.json`
 - `data/waytoagi-7d.json`
 - `data/title-zh-cache.json`
@@ -81,9 +83,10 @@ python -m http.server 8080
 工作流：`.github/workflows/update-news.yml`
 
 - 定时：每 30 分钟
-- 任务：执行抓取命令并提交 `data/*`
+- 任务：执行抓取命令、提交 `data/*`，并自动部署静态站点
 - RSS OPML：若设置了 `FOLLOW_OPML_B64`，工作流会自动解码为 `feeds/follow.opml`
 - 推送权限：使用 `GITHUB_TOKEN`（workflow 内）
+- Pages：仓库启用 GitHub Pages 后，可直接访问生成的 `index.html`
 
 ---
 
@@ -101,7 +104,7 @@ You only need to run one command, or let GitHub Actions run it on schedule.
 - One-shot local command:
   - `python scripts/update_news.py --output-dir data --window-hours 24 --rss-opml feeds/follow.opml`
 - Scheduled automation:
-  - `.github/workflows/update-news.yml` runs every 30 minutes and commits updated data.
+  - `.github/workflows/update-news.yml` runs every 30 minutes, commits updated data, and deploys GitHub Pages automatically.
 
 ### 2. Core features
 
@@ -120,7 +123,9 @@ You only need to run one command, or let GitHub Actions run it on schedule.
 ### 3. Output files
 
 - `data/latest-24h.json`
-- `data/archive.json`
+- `data/archive.json` (manifest)
+- `data/archive-hot.json.gz` (compressed hot archive for the last 7 days)
+- `data/archive-cold.json.gz` (compressed cold storage beyond 7 days)
 - `data/source-status.json`
 - `data/waytoagi-7d.json`
 - `data/title-zh-cache.json`

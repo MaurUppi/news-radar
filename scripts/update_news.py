@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import gzip
 import hashlib
 import json
 import random
@@ -39,6 +40,9 @@ WAYTOAGI_DEFAULT = (
     "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
 )
 WAYTOAGI_HISTORY_FALLBACK = "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc"
+ARCHIVE_HOT_DAYS = 7
+ARCHIVE_HOT_NAME = "archive-hot.json.gz"
+ARCHIVE_COLD_NAME = "archive-cold.json.gz"
 
 RSS_FEED_REPLACEMENTS: dict[str, str] = {
     "https://rsshub.app/infoq/recommend": "https://www.infoq.cn/feed",
@@ -1687,26 +1691,71 @@ def fetch_opml_rss(
 
 
 def load_archive(path: Path) -> dict[str, dict[str, Any]]:
-    if not path.exists():
-        return {}
-    try:
-        payload = json.loads(path.read_text(encoding="utf-8"))
-    except Exception:
-        return {}
-
-    items = payload.get("items", [])
     out: dict[str, dict[str, Any]] = {}
-    if isinstance(items, list):
-        for it in items:
-            item_id = it.get("id")
-            if item_id:
-                out[item_id] = it
-    elif isinstance(items, dict):
-        for item_id, it in items.items():
-            if isinstance(it, dict):
-                it["id"] = item_id
-                out[item_id] = it
+    if path.is_dir():
+        candidates = [path / ARCHIVE_HOT_NAME, path / ARCHIVE_COLD_NAME, path / "archive.json"]
+    else:
+        candidates = [path]
+        if path.name == "archive.json":
+            candidates = [path.with_name(ARCHIVE_HOT_NAME), path.with_name(ARCHIVE_COLD_NAME), path]
+
+    for candidate in candidates:
+        if not candidate.exists():
+            continue
+        try:
+            if candidate.suffix == ".gz":
+                with gzip.open(candidate, "rt", encoding="utf-8") as fh:
+                    payload = json.load(fh)
+            else:
+                payload = json.loads(candidate.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+
+        items = payload.get("items", [])
+        if isinstance(items, list):
+            for it in items:
+                if isinstance(it, dict):
+                    item_id = it.get("id")
+                    if item_id:
+                        out[item_id] = it
+        elif isinstance(items, dict):
+            for item_id, it in items.items():
+                if isinstance(it, dict):
+                    it["id"] = item_id
+                    out[item_id] = it
     return out
+
+
+def split_archive_for_storage(
+    archive: dict[str, dict[str, Any]],
+    now: datetime,
+    hot_days: int = ARCHIVE_HOT_DAYS,
+) -> tuple[dict[str, dict[str, Any]], dict[str, dict[str, Any]]]:
+    keep_after = now - timedelta(days=max(0, hot_days))
+    hot: dict[str, dict[str, Any]] = {}
+    cold: dict[str, dict[str, Any]] = {}
+
+    for item_id, record in archive.items():
+        ts = (
+            parse_iso(record.get("last_seen_at"))
+            or parse_iso(record.get("published_at"))
+            or parse_iso(record.get("first_seen_at"))
+            or now
+        )
+        if ts >= keep_after:
+            hot[item_id] = record
+        else:
+            cold[item_id] = record
+    return hot, cold
+
+
+def write_json_file(path: Path, payload: dict[str, Any]) -> None:
+    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def write_gzip_json_file(path: Path, payload: dict[str, Any]) -> None:
+    with gzip.open(path, "wt", encoding="utf-8") as fh:
+        json.dump(payload, fh, ensure_ascii=False, indent=2)
 
 
 def event_time(record: dict[str, Any]) -> datetime | None:
@@ -2038,12 +2087,14 @@ def main() -> int:
     output_dir.mkdir(parents=True, exist_ok=True)
 
     archive_path = output_dir / "archive.json"
+    archive_hot_path = output_dir / ARCHIVE_HOT_NAME
+    archive_cold_path = output_dir / ARCHIVE_COLD_NAME
     latest_path = output_dir / "latest-24h.json"
     status_path = output_dir / "source-status.json"
     waytoagi_path = output_dir / "waytoagi-7d.json"
     title_cache_path = output_dir / "title-zh-cache.json"
 
-    archive = load_archive(archive_path)
+    archive = load_archive(output_dir)
 
     session = create_session()
     raw_items, statuses = collect_all(session, now)
@@ -2112,7 +2163,7 @@ def main() -> int:
                     existing["published_at"] = iso(raw.published_at)
             existing["last_seen_at"] = iso(now)
 
-    # Prune old archive
+    # Prune archive entries older than the retention period.
     keep_after = now - timedelta(days=args.archive_days)
     pruned: dict[str, dict[str, Any]] = {}
     for item_id, record in archive.items():
@@ -2216,11 +2267,24 @@ def main() -> int:
         "items_all": latest_items_all_dedup,
     }
 
+    hot_archive, cold_archive = split_archive_for_storage(archive, now, hot_days=ARCHIVE_HOT_DAYS)
+
     archive_payload = {
         "generated_at": iso(now),
+        "hot_days": ARCHIVE_HOT_DAYS,
         "total_items": len(archive),
+        "hot_items": len(hot_archive),
+        "cold_items": len(cold_archive),
+        "hot_archive": ARCHIVE_HOT_NAME,
+        "cold_archive": ARCHIVE_COLD_NAME,
+    }
+
+    cold_archive_payload = {
+        "generated_at": iso(now),
+        "hot_days": ARCHIVE_HOT_DAYS,
+        "total_items": len(cold_archive),
         "items": sorted(
-            archive.values(),
+            cold_archive.values(),
             key=lambda x: parse_iso(x.get("last_seen_at")) or datetime.min.replace(tzinfo=UTC),
             reverse=True,
         ),
@@ -2277,14 +2341,36 @@ def main() -> int:
             "error": str(exc),
         }
 
-    latest_path.write_text(json.dumps(latest_payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    archive_path.write_text(json.dumps(archive_payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    status_path.write_text(json.dumps(status_payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    waytoagi_path.write_text(json.dumps(waytoagi_payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    title_cache_path.write_text(json.dumps(title_cache, ensure_ascii=False, indent=2), encoding="utf-8")
+    write_json_file(latest_path, latest_payload)
+    write_json_file(archive_path, archive_payload)
+    if hot_archive:
+        write_gzip_json_file(
+            archive_hot_path,
+            {
+                "generated_at": iso(now),
+                "hot_days": ARCHIVE_HOT_DAYS,
+                "total_items": len(hot_archive),
+                "items": sorted(
+                    hot_archive.values(),
+                    key=lambda x: parse_iso(x.get("last_seen_at")) or datetime.min.replace(tzinfo=UTC),
+                    reverse=True,
+                ),
+            },
+        )
+    elif archive_hot_path.exists():
+        archive_hot_path.unlink()
+    if cold_archive_payload["items"]:
+        write_gzip_json_file(archive_cold_path, cold_archive_payload)
+    elif archive_cold_path.exists():
+        archive_cold_path.unlink()
+    write_json_file(status_path, status_payload)
+    write_json_file(waytoagi_path, waytoagi_payload)
+    write_json_file(title_cache_path, title_cache)
 
     print(f"Wrote: {latest_path} ({len(latest_items)} items)")
-    print(f"Wrote: {archive_path} ({len(archive)} items)")
+    print(
+        f"Wrote: {archive_path} manifest, {len(hot_archive)} hot items in {ARCHIVE_HOT_NAME}, {len(cold_archive)} cold items in {ARCHIVE_COLD_NAME}"
+    )
     print(f"Wrote: {status_path}")
     print(f"Wrote: {waytoagi_path} ({waytoagi_payload.get('count_7d', 0)} items)")
     print(f"Wrote: {title_cache_path} ({len(title_cache)} entries)")
