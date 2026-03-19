@@ -280,6 +280,69 @@ def parse_beehiiv_issue_title(page_html: str) -> str:
     return ""
 
 
+def normalize_beehiiv_story_title(raw_title: str) -> str:
+    title = html_unescape(" ".join((raw_title or "").split())).strip()
+    if not title:
+        return ""
+    title = re.sub(r"^\d+\s*/\s*", "", title)
+    title = re.sub(r"^[^\w\u4e00-\u9fff]+", "", title)
+    title = re.sub(r"\s+", " ", title).strip()
+    return title
+
+
+def extract_beehiiv_story_cards(
+    page_html: str,
+    base_url: str,
+    heading_tags: tuple[str, ...],
+    skip_section_prefixes: tuple[str, ...] = (),
+) -> list[dict[str, str]]:
+    soup = BeautifulSoup(page_html, "html.parser")
+    base_host = host_of_url(base_url)
+    seen_urls: set[str] = set()
+    out: list[dict[str, str]] = []
+
+    for heading in soup.find_all(list(heading_tags)):
+        raw_title = heading.get_text(" ", strip=True)
+        title = normalize_beehiiv_story_title(raw_title)
+        if not title or len(title) < 8:
+            continue
+
+        if skip_section_prefixes:
+            prev_heading = heading.find_previous_sibling(["h6", "h5", "h4", "h3", "h2", "h1"])
+            if prev_heading:
+                prev_text = normalize_beehiiv_story_title(prev_heading.get_text(" ", strip=True)).upper()
+                if prev_text and any(prev_text.startswith(prefix.upper()) for prefix in skip_section_prefixes):
+                    continue
+
+        container = heading.parent
+        if container is None:
+            continue
+
+        chosen_url = ""
+        for link in container.find_all("a", href=True):
+            href = str(link.get("href") or "").strip()
+            if not href or href.startswith("#") or href.startswith("javascript:"):
+                continue
+            absolute = urljoin(base_url, href)
+            parsed = urlparse(absolute)
+            if not parsed.scheme.startswith("http"):
+                continue
+            if not parsed.netloc:
+                continue
+            # Keep content links on other domains and same-brand subdomains.
+            if base_host and parsed.netloc.lower() == base_host and parsed.path in {"/", "", base_url}:
+                continue
+            chosen_url = normalize_url(absolute)
+            break
+
+        if not chosen_url or chosen_url in seen_urls:
+            continue
+        seen_urls.add(chosen_url)
+        out.append({"title": title, "url": chosen_url})
+
+    return out
+
+
 def parse_beehiiv_issue_publish_time(page_html: str, now: datetime) -> datetime | None:
     for key in ("override_scheduled_at", "scheduled_at", "published_at"):
         m = re.search(rf'"{re.escape(key)}":"([^"]+)"', page_html)
@@ -299,6 +362,8 @@ def fetch_beehiiv_archive(
     site_name: str,
     archive_url: str,
     source_name: str,
+    story_heading_tags: tuple[str, ...],
+    skip_section_prefixes: tuple[str, ...] = (),
     max_issue_urls: int = 12,
 ) -> list[RawItem]:
     archive_resp = session.get(
@@ -328,22 +393,45 @@ def fetch_beehiiv_archive(
                 },
             )
             issue_resp.raise_for_status()
-            title = parse_beehiiv_issue_title(issue_resp.text)
             published = parse_beehiiv_issue_publish_time(issue_resp.text, now)
-            if not title or not published:
+            story_cards = extract_beehiiv_story_cards(
+                issue_resp.text,
+                issue_url,
+                story_heading_tags,
+                skip_section_prefixes=skip_section_prefixes,
+            )
+            if not published:
                 errors += 1
                 continue
-            out.append(
-                RawItem(
-                    site_id=site_id,
-                    site_name=site_name,
-                    source=source_name,
-                    title=title,
-                    url=issue_url,
-                    published_at=published,
-                    meta={"archive_url": archive_url},
+            if story_cards:
+                for card in story_cards:
+                    out.append(
+                        RawItem(
+                            site_id=site_id,
+                            site_name=site_name,
+                            source=source_name,
+                            title=card["title"],
+                            url=card["url"],
+                            published_at=published,
+                            meta={"archive_url": archive_url, "issue_url": issue_url},
+                        )
+                    )
+            else:
+                title = parse_beehiiv_issue_title(issue_resp.text)
+                if not title:
+                    errors += 1
+                    continue
+                out.append(
+                    RawItem(
+                        site_id=site_id,
+                        site_name=site_name,
+                        source=source_name,
+                        title=title,
+                        url=issue_url,
+                        published_at=published,
+                        meta={"archive_url": archive_url},
+                    )
                 )
-            )
         except Exception:
             errors += 1
 
@@ -984,6 +1072,7 @@ def fetch_ai_valley(session: requests.Session, now: datetime) -> list[RawItem]:
         site_name="AI Valley",
         archive_url="https://www.theaivalley.com/",
         source_name="AI Valley",
+        story_heading_tags=("h5",),
     )
 
 
@@ -995,6 +1084,8 @@ def fetch_therundown_ai(session: requests.Session, now: datetime) -> list[RawIte
         site_name="The Rundown AI",
         archive_url="https://www.therundown.ai/archive",
         source_name="The Rundown AI",
+        story_heading_tags=("h4",),
+        skip_section_prefixes=("TOGETHER WITH", "PRESENTED BY"),
     )
 
 

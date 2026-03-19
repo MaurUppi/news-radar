@@ -160,6 +160,18 @@ class UtilsTests(unittest.TestCase):
           <meta property="og:title" content="A Pentagon lawsuit"/>
         </head>
         <body>
+          <div>
+            <h5>1/ OpenAI just triggered a $50B standoff with Microsoft</h5>
+            <a href="https://www.ft.com/content/e814f4c3-4fb5-4e2e-90a6-470044436b39?syn-25a6b1a6=1">OpenAI just triggered a $50B standoff with Microsoft</a>
+          </div>
+          <div>
+            <h5>2/ Anthropic launches Cowork Dispatch to rival OpenClaw</h5>
+            <a href="https://x.com/felixrieseberg/status/2034005731457044577?s=20">Anthropic launches Cowork Dispatch to rival OpenClaw</a>
+          </div>
+          <div>
+            <h5>3/ Mistral launches Forge so companies can train AI on their own data</h5>
+            <a href="https://mistral.ai/news/forge">Mistral launches Forge so companies can train AI on their own data</a>
+          </div>
           <script>window.__DATA__={"override_scheduled_at":"2026-03-10T14:34:14.263Z","slug":"a-pentagon-lawsuit"}</script>
         </body></html>
         """
@@ -173,10 +185,14 @@ class UtilsTests(unittest.TestCase):
 
         items = fetch_ai_valley(session, now)
 
-        self.assertEqual(len(items), 1)
-        self.assertEqual(items[0].title, "A Pentagon lawsuit")
+        self.assertEqual([item.title for item in items], [
+            "OpenAI just triggered a $50B standoff with Microsoft",
+            "Anthropic launches Cowork Dispatch to rival OpenClaw",
+            "Mistral launches Forge so companies can train AI on their own data",
+        ])
         self.assertEqual(items[0].source, "AI Valley")
         self.assertEqual(items[0].published_at, datetime(2026, 3, 10, 14, 34, 14, 263000, tzinfo=timezone.utc))
+        self.assertEqual(items[0].url, "https://www.ft.com/content/e814f4c3-4fb5-4e2e-90a6-470044436b39?syn-25a6b1a6=1")
 
     def test_fetch_therundown_ai_parses_latest_issue_from_archive(self):
         archive_html = """
@@ -190,6 +206,31 @@ class UtilsTests(unittest.TestCase):
           <meta property="og:title" content="Google bets on 'vibe design' with Stitch"/>
         </head>
         <body>
+          <div>
+            <h6>GOOGLE</h6>
+            <h4>🎨 Google brings 'vibe design' to its AI UI canvas</h4>
+            <a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/">Google brings 'vibe design' to its AI UI canvas</a>
+          </div>
+          <div>
+            <h6>MINIMAX</h6>
+            <h4>♻️ MiniMax's new M2.7 helped build itself</h4>
+            <a href="https://www.minimax.io/news/minimax-m27-en">MiniMax's new M2.7 helped build itself</a>
+          </div>
+          <div>
+            <h6>AI TRAINING</h6>
+            <h4>📝 Generate an actionable SEO audit with AI</h4>
+            <a href="https://app.therundown.ai/guides/generate-an-actionable-seo-audit-using-this-strategy-works-with-any-llm">Generate an actionable SEO audit with AI</a>
+          </div>
+          <div>
+            <h6>PRESENTED BY GLEAN</h6>
+            <h4>🔒 AI moves fast, and security hasn't caught up</h4>
+            <a href="https://www.glean.com/resources/guides/aware/?utm_source=3rd-party&utm_medium=email&utm_campaign=Aware-whitepaper&utm_partner=rundown">AI moves fast, and security hasn't caught up</a>
+          </div>
+          <div>
+            <h6>MICROSOFT &amp; OPENAI</h6>
+            <h4>⚖️ Microsoft ‘weighing’ legal action over Amazon-OAI deal</h4>
+            <a href="https://www.ft.com/content/e814f4c3-4fb5-4e2e-90a6-470044436b39">Microsoft ‘weighing’ legal action over Amazon-OAI deal</a>
+          </div>
           <script>window.__DATA__={"scheduled_at":"2026-03-19T09:00:00Z","slug":"google-bets-on-vibe-design-with-stitch"}</script>
         </body></html>
         """
@@ -203,10 +244,15 @@ class UtilsTests(unittest.TestCase):
 
         items = fetch_therundown_ai(session, now)
 
-        self.assertEqual(len(items), 1)
-        self.assertEqual(items[0].title, "Google bets on 'vibe design' with Stitch")
+        self.assertEqual([item.title for item in items], [
+            "Google brings 'vibe design' to its AI UI canvas",
+            "MiniMax's new M2.7 helped build itself",
+            "Generate an actionable SEO audit with AI",
+            "Microsoft ‘weighing’ legal action over Amazon-OAI deal",
+        ])
         self.assertEqual(items[0].source, "The Rundown AI")
         self.assertEqual(items[0].published_at, datetime(2026, 3, 19, 9, 0, tzinfo=timezone.utc))
+        self.assertEqual(items[0].url, "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design")
 
 
 if __name__ == "__main__":
