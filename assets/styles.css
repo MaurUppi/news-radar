@@ -492,22 +492,39 @@ select {
 .waytoagi-item {
   display: grid;
   grid-template-columns: 76px 1fr;
-  gap: 8px;
+  gap: 10px;
   text-decoration: none;
   border: 1px solid rgba(22, 16, 13, 0.08);
-  border-radius: 10px;
-  padding: 8px 10px;
+  border-radius: 12px;
+  padding: 10px 12px;
   color: var(--ink);
+  background: rgba(255, 255, 255, 0.65);
 }
 
 .waytoagi-item .d {
   color: var(--muted);
   font-size: 12px;
+  line-height: 1.5;
+  padding-top: 1px;
 }
 
-.waytoagi-item .t {
+.waytoagi-body {
+  min-width: 0;
+}
+
+.waytoagi-title {
   font-size: 13px;
-  line-height: 1.35;
+  line-height: 1.45;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.waytoagi-summary {
+  margin-top: 6px;
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--muted);
+  word-break: break-word;
 }
 
 .waytoagi-empty {

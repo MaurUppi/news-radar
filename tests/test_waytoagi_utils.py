@@ -63,7 +63,11 @@ class WaytoAgiUtilsTests(unittest.TestCase):
                                 ],
                             }
                         },
-                        "initialAttributedTexts": {"text": {"0": "《 》 OpenClaw 新教程"}},
+                        "initialAttributedTexts": {
+                            "text": {
+                                "0": "《 》这是一段简述，说明这篇文章会讲什么，以及读者为什么应该点开。"
+                            }
+                        },
                     },
                 }
             },
@@ -86,6 +90,7 @@ class WaytoAgiUtilsTests(unittest.TestCase):
         self.assertEqual(len(out), 1)
         self.assertEqual(out[0]["date"], "2026-02-20")
         self.assertEqual(out[0]["title"], "OpenClaw 新教程")
+        self.assertEqual(out[0]["summary"], "这是一段简述，说明这篇文章会讲什么，以及读者为什么应该点开。")
         self.assertEqual(out[0]["url"], "https://waytoagi.feishu.cn/wiki/abc123")
 
 

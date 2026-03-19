@@ -594,12 +594,15 @@ def extract_waytoagi_recent_updates_from_block_map(
         title = doc_ref["title"] or clean_update_title(block_text(bd))
         if not title:
             continue
+        summary = clean_update_title(block_text(bd))
+        if summary and summary == title:
+            summary = ""
         url = doc_ref["url"] or page_url
         key = (day.isoformat(), url or title)
         if key in seen:
             continue
         seen.add(key)
-        updates.append({"date": day.isoformat(), "title": title, "url": url})
+        updates.append({"date": day.isoformat(), "title": title, "summary": summary, "url": url})
 
     return updates
 
@@ -626,7 +629,7 @@ def fetch_waytoagi_recent_7d(session: requests.Session, now_utc: datetime, root_
 
     dedup_updates: dict[tuple[str, str], dict[str, Any]] = {}
     for item in updates:
-        key = (str(item.get("date") or ""), str(item.get("title") or ""))
+        key = (str(item.get("date") or ""), str(item.get("url") or item.get("title") or ""))
         if key[0] and key[1] and key not in dedup_updates:
             dedup_updates[key] = item
 
@@ -2385,6 +2388,7 @@ def main() -> int:
             "window_days": 7,
             "count_7d": 0,
             "updates_7d": [],
+            "updates_today": [],
             "warning": "WaytoAGI 近7日更新抓取失败",
             "has_error": True,
             "error": str(exc),

@@ -62,6 +62,16 @@ function fmtDate(iso) {
   }).format(d);
 }
 
+function escapeHtml(text) {
+  return String(text ?? "").replace(/[&<>"']/g, (ch) => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    "\"": "&quot;",
+    "'": "&#39;",
+  })[ch]);
+}
+
 function setStats(payload) {
   const cards = [
     ["24h AI", fmtNumber(payload.total_items)],
@@ -349,7 +359,14 @@ function renderWaytoagi(waytoagi) {
     row.href = u.url || "#";
     row.target = "_blank";
     row.rel = "noopener noreferrer";
-    row.innerHTML = `<span class="d">${fmtDate(u.date)}</span><span class="t">${u.title}</span>`;
+    const summary = u.summary ? `<div class="waytoagi-summary">${escapeHtml(u.summary)}</div>` : "";
+    row.innerHTML = `
+      <span class="d">${fmtDate(u.date)}</span>
+      <div class="waytoagi-body">
+        <div class="waytoagi-title">${escapeHtml(u.title)}</div>
+        ${summary}
+      </div>
+    `;
     waytoagiListEl.appendChild(row);
   });
 }
