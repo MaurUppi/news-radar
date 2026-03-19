@@ -342,6 +342,13 @@ function renderWaytoagi(waytoagi) {
     return;
   }
 
+  if (waytoagi.warning) {
+    const div = document.createElement("div");
+    div.className = "waytoagi-warning";
+    div.textContent = waytoagi.warning;
+    waytoagiListEl.appendChild(div);
+  }
+
   const updates = state.waytoagiMode === "today" ? updatesToday : updates7d;
   if (!updates.length) {
     const div = document.createElement("div");

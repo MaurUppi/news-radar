@@ -1826,6 +1826,13 @@ def write_gzip_json_file(path: Path, payload: dict[str, Any]) -> None:
         json.dump(payload, fh, ensure_ascii=False, indent=2)
 
 
+def read_json_file(path: Path) -> dict[str, Any] | None:
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return None
+
+
 def event_time(record: dict[str, Any]) -> datetime | None:
     # RSS sources must rely on the source's publish time only.
     # first_seen_at is fetch time and would falsely mark historical items as "24h".
@@ -2396,19 +2403,26 @@ def main() -> int:
     try:
         waytoagi_payload = fetch_waytoagi_recent_7d(session, now, WAYTOAGI_DEFAULT)
     except Exception as exc:
-        waytoagi_payload = {
-            "generated_at": iso(now),
-            "timezone": "Asia/Shanghai",
-            "root_url": WAYTOAGI_DEFAULT,
-            "history_url": None,
-            "window_days": 7,
-            "count_7d": 0,
-            "updates_7d": [],
-            "updates_today": [],
-            "warning": "WaytoAGI 近7日更新抓取失败",
-            "has_error": True,
-            "error": str(exc),
-        }
+        fallback_waytoagi = read_json_file(waytoagi_path)
+        if isinstance(fallback_waytoagi, dict) and fallback_waytoagi.get("updates_7d"):
+            waytoagi_payload = dict(fallback_waytoagi)
+            waytoagi_payload["warning"] = "WaytoAGI 近7日更新抓取失败，已回退到上次成功快照"
+            waytoagi_payload["has_error"] = False
+            waytoagi_payload["error"] = None
+        else:
+            waytoagi_payload = {
+                "generated_at": iso(now),
+                "timezone": "Asia/Shanghai",
+                "root_url": WAYTOAGI_DEFAULT,
+                "history_url": None,
+                "window_days": 7,
+                "count_7d": 0,
+                "updates_7d": [],
+                "updates_today": [],
+                "warning": "WaytoAGI 近7日更新抓取失败",
+                "has_error": True,
+                "error": str(exc),
+            }
 
     write_json_file(latest_path, latest_payload)
     write_json_file(archive_path, archive_payload)

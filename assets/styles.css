@@ -557,6 +557,15 @@ select {
   font-size: 13px;
 }
 
+.waytoagi-warning {
+  border: 1px solid rgba(180, 120, 0, 0.28);
+  background: rgba(255, 196, 0, 0.08);
+  border-radius: 10px;
+  padding: 9px 10px;
+  color: #805700;
+  font-size: 13px;
+}
+
 @media (max-width: 760px) {
   .shell {
     padding: 18px 12px 36px;
