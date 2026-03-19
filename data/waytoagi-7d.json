@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T17:34:21.532204Z",
+  "generated_at": "2026-03-19T18:58:05.554936Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-19",
-  "count_today": 3,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-03-19",
@@ -15,9 +15,27 @@
     },
     {
       "date": "2026-03-19",
+      "title": "全程 Demo｜飞书 2026 春季发布会，把龙虾融进飞书",
+      "summary": "今天，飞书举办 2026 年春季新品发布会。这场发布会 形式罕见 ：全程纯 Demo，没有 PPT。一共发布了 8 款产品，核心只有一件事： 让每个人在飞书里拥有自己的智能伙伴。发布的产品包括：飞书 aily（智能伙伴）、aily 专业版、飞书妙搭、多维表格 AI 搭建、AI 同传、会中 AI 纪要、安克 AI 录音豆、AnyGen × Lark（海外版）。让我们一同一览详情！",
+      "url": "https://waytoagi.feishu.cn/wiki/AgdNwWp9jiN1Cyke3khcXzNWn9g"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "你不知道的 Agent：原理、架构与工程实践",
+      "summary": "这篇文章主要讲 Agent 架构里几块最影响工程效果的内容，包括控制流、上下文工程、工具设计、记忆、多 Agent 组织、评测、追踪和安全，最后再用 OpenClaw 的实现把这些设计原则串起来看一遍。",
+      "url": "https://waytoagi.feishu.cn/wiki/AoDkwiCEYiVX46kx6fKcWAmentc"
+    },
+    {
+      "date": "2026-03-19",
       "title": "什么是 Vibe Design？教你如何利用stitch一句话生成一整套UI页面",
       "summary": "这篇文章带大家了解下Google Stitch这个产品是做什么的以及怎么更好的使用它。简单说，Stitch 就是\"你说，它画\"。告诉它你想要什么界面，它直接给你出设计稿，还支持导出到 Figma、AI Studio 等工具里。",
       "url": "https://waytoagi.feishu.cn/wiki/AptYwzsuwiK36Ek09vPch2BqnNc"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "OpenClaw Skill技能系统 - 3分钟秒懂教程",
+      "summary": "有没有想过，为什么有些人用OpenClaw特别顺手，三两下就能搞定复杂的活儿，而你让小龙虾帮忙做事，它总是\"听不懂人话\"？秘密就藏在一个叫Skill的小东西里。今天咱们用大白话聊聊这个 Skill 到底是啥，怎么用，保证你看完就能明白。",
+      "url": "https://waytoagi.feishu.cn/wiki/M6FOwCpJ5ikqeUkfFsZcos72npg"
     },
     {
       "date": "2026-03-19",
@@ -26,7 +44,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/JBkVwUbFxiRm1PkCrMpciaAnnmg"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 35,
   "updates_7d": [
     {
       "date": "2026-03-19",
@@ -36,9 +54,27 @@
     },
     {
       "date": "2026-03-19",
+      "title": "全程 Demo｜飞书 2026 春季发布会，把龙虾融进飞书",
+      "summary": "今天，飞书举办 2026 年春季新品发布会。这场发布会 形式罕见 ：全程纯 Demo，没有 PPT。一共发布了 8 款产品，核心只有一件事： 让每个人在飞书里拥有自己的智能伙伴。发布的产品包括：飞书 aily（智能伙伴）、aily 专业版、飞书妙搭、多维表格 AI 搭建、AI 同传、会中 AI 纪要、安克 AI 录音豆、AnyGen × Lark（海外版）。让我们一同一览详情！",
+      "url": "https://waytoagi.feishu.cn/wiki/AgdNwWp9jiN1Cyke3khcXzNWn9g"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "你不知道的 Agent：原理、架构与工程实践",
+      "summary": "这篇文章主要讲 Agent 架构里几块最影响工程效果的内容，包括控制流、上下文工程、工具设计、记忆、多 Agent 组织、评测、追踪和安全，最后再用 OpenClaw 的实现把这些设计原则串起来看一遍。",
+      "url": "https://waytoagi.feishu.cn/wiki/AoDkwiCEYiVX46kx6fKcWAmentc"
+    },
+    {
+      "date": "2026-03-19",
       "title": "什么是 Vibe Design？教你如何利用stitch一句话生成一整套UI页面",
       "summary": "这篇文章带大家了解下Google Stitch这个产品是做什么的以及怎么更好的使用它。简单说，Stitch 就是\"你说，它画\"。告诉它你想要什么界面，它直接给你出设计稿，还支持导出到 Figma、AI Studio 等工具里。",
       "url": "https://waytoagi.feishu.cn/wiki/AptYwzsuwiK36Ek09vPch2BqnNc"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "OpenClaw Skill技能系统 - 3分钟秒懂教程",
+      "summary": "有没有想过，为什么有些人用OpenClaw特别顺手，三两下就能搞定复杂的活儿，而你让小龙虾帮忙做事，它总是\"听不懂人话\"？秘密就藏在一个叫Skill的小东西里。今天咱们用大白话聊聊这个 Skill 到底是啥，怎么用，保证你看完就能明白。",
+      "url": "https://waytoagi.feishu.cn/wiki/M6FOwCpJ5ikqeUkfFsZcos72npg"
     },
     {
       "date": "2026-03-19",
