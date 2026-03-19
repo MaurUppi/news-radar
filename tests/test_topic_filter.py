@@ -32,6 +32,24 @@ class TopicFilterTests(unittest.TestCase):
         }
         self.assertTrue(is_ai_related_record(rec))
 
+    def test_accepts_beehiiv_ai_newsletters(self):
+        aivalley = {
+            "site_id": "aivalley",
+            "site_name": "AI Valley",
+            "source": "AI Valley",
+            "title": "A Pentagon lawsuit",
+            "url": "https://www.theaivalley.com/p/a-pentagon-lawsuit",
+        }
+        rundown = {
+            "site_id": "therundownai",
+            "site_name": "The Rundown AI",
+            "source": "The Rundown AI",
+            "title": "Google bets on 'vibe design' with Stitch",
+            "url": "https://www.therundown.ai/p/google-bets-on-vibe-design-with-stitch",
+        }
+        self.assertTrue(is_ai_related_record(aivalley))
+        self.assertTrue(is_ai_related_record(rundown))
+
     def test_rejects_noise_topic(self):
         rec = {
             "site_id": "tophub",

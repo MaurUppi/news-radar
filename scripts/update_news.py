@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from html import unescape as html_unescape
 import gzip
 import hashlib
 import json
@@ -226,6 +227,129 @@ def parse_feed_entries_via_xml(feed_xml: bytes) -> list[dict[str, Any]]:
                     continue
                 seen.add(key)
                 out.append({"title": title, "link": link, "published": published})
+    return out
+
+
+def extract_beehiiv_issue_urls(page_html: str, base_url: str, max_urls: int = 12) -> list[str]:
+    soup = BeautifulSoup(page_html, "html.parser")
+    seen: set[str] = set()
+    out: list[str] = []
+    base_host = host_of_url(base_url)
+
+    for a in soup.select("a[href]"):
+        href = str(a.get("href") or "").strip()
+        if not href:
+            continue
+        absolute = urljoin(base_url, href)
+        parsed = urlparse(absolute)
+        if not parsed.scheme.startswith("http"):
+            continue
+        if parsed.netloc and base_host and parsed.netloc.lower() != base_host:
+            continue
+        if not parsed.path.startswith("/p/"):
+            continue
+        normalized = normalize_url(absolute)
+        if normalized in seen:
+            continue
+        seen.add(normalized)
+        out.append(normalized)
+        if len(out) >= max_urls:
+            break
+
+    return out
+
+
+def parse_beehiiv_issue_title(page_html: str) -> str:
+    soup = BeautifulSoup(page_html, "html.parser")
+    candidates = []
+    for attrs in (
+        {"property": "og:title"},
+        {"name": "twitter:title"},
+        {"property": "twitter:title"},
+    ):
+        tag = soup.find("meta", attrs=attrs)
+        if tag and tag.get("content"):
+            candidates.append(str(tag.get("content") or ""))
+    if soup.title and soup.title.string:
+        candidates.append(str(soup.title.string))
+
+    for candidate in candidates:
+        title = html_unescape(candidate).strip()
+        if title and title.lower() not in {"ai valley", "the rundown ai", "archive | the rundown ai"}:
+            return title
+    return ""
+
+
+def parse_beehiiv_issue_publish_time(page_html: str, now: datetime) -> datetime | None:
+    for key in ("override_scheduled_at", "scheduled_at", "published_at"):
+        m = re.search(rf'"{re.escape(key)}":"([^"]+)"', page_html)
+        if not m:
+            continue
+        published = parse_date_any(m.group(1), now)
+        if published:
+            return published
+    return None
+
+
+def fetch_beehiiv_archive(
+    session: requests.Session,
+    now: datetime,
+    *,
+    site_id: str,
+    site_name: str,
+    archive_url: str,
+    source_name: str,
+    max_issue_urls: int = 12,
+) -> list[RawItem]:
+    archive_resp = session.get(
+        archive_url,
+        timeout=30,
+        headers={
+            "User-Agent": BROWSER_UA,
+            "Accept-Language": "en-US,en;q=0.9,zh-CN;q=0.8",
+        },
+    )
+    archive_resp.raise_for_status()
+
+    issue_urls = extract_beehiiv_issue_urls(archive_resp.text, archive_url, max_urls=max_issue_urls)
+    if not issue_urls:
+        raise ValueError(f"No Beehiiv issue URLs found at {archive_url}")
+
+    out: list[RawItem] = []
+    errors = 0
+    for issue_url in issue_urls:
+        try:
+            issue_resp = session.get(
+                issue_url,
+                timeout=30,
+                headers={
+                    "User-Agent": BROWSER_UA,
+                    "Accept-Language": "en-US,en;q=0.9,zh-CN;q=0.8",
+                },
+            )
+            issue_resp.raise_for_status()
+            title = parse_beehiiv_issue_title(issue_resp.text)
+            published = parse_beehiiv_issue_publish_time(issue_resp.text, now)
+            if not title or not published:
+                errors += 1
+                continue
+            out.append(
+                RawItem(
+                    site_id=site_id,
+                    site_name=site_name,
+                    source=source_name,
+                    title=title,
+                    url=issue_url,
+                    published_at=published,
+                    meta={"archive_url": archive_url},
+                )
+            )
+        except Exception:
+            errors += 1
+
+    if not out and errors:
+        raise ValueError(f"Failed to parse Beehiiv archive: {archive_url}")
+
     return out
 
 
@@ -850,6 +974,28 @@ def fetch_buzzing(session: requests.Session, now: datetime) -> list[RawItem]:
             )
         )
     return out
+
+
+def fetch_ai_valley(session: requests.Session, now: datetime) -> list[RawItem]:
+    return fetch_beehiiv_archive(
+        session,
+        now,
+        site_id="aivalley",
+        site_name="AI Valley",
+        archive_url="https://www.theaivalley.com/",
+        source_name="AI Valley",
+    )
+
+
+def fetch_therundown_ai(session: requests.Session, now: datetime) -> list[RawItem]:
+    return fetch_beehiiv_archive(
+        session,
+        now,
+        site_id="therundownai",
+        site_name="The Rundown AI",
+        archive_url="https://www.therundown.ai/archive",
+        source_name="The Rundown AI",
+    )
 
 
 def fetch_iris(session: requests.Session, now: datetime) -> list[RawItem]:
@@ -1513,6 +1659,8 @@ def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem]
         ("aihubtoday", "AI HubToday", fetch_ai_hubtoday),
         ("aibase", "AIbase", fetch_aibase),
         ("aihot", "AI今日热榜", fetch_aihot),
+        ("aivalley", "AI Valley", fetch_ai_valley),
+        ("therundownai", "The Rundown AI", fetch_therundown_ai),
         ("newsnow", "NewsNow", fetch_newsnow),
     ]
 
@@ -1998,7 +2146,7 @@ def is_ai_related_record(record: dict[str, Any]) -> bool:
             return False
 
     # AI/热点聚合站默认保留，避免误杀。
-    if site_id in {"aibase", "aihot", "aihubtoday"}:
+    if site_id in {"aibase", "aihot", "aihubtoday", "aivalley", "therundownai"}:
         return True
 
     has_ai = contains_any_keyword(text, AI_KEYWORDS) or EN_SIGNAL_RE.search(text) is not None

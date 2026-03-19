@@ -7,6 +7,8 @@ from tempfile import TemporaryDirectory
 
 from scripts.update_news import (
     load_archive,
+    fetch_ai_valley,
+    fetch_therundown_ai,
     make_item_id,
     normalize_url,
     parse_date_any,
@@ -15,6 +17,27 @@ from scripts.update_news import (
     split_archive_for_storage,
     resolve_aibase_news_url,
 )
+
+
+class DummyResponse:
+    def __init__(self, text: str):
+        self.text = text
+        self.content = text.encode("utf-8")
+
+    def raise_for_status(self):
+        return None
+
+
+class DummySession:
+    def __init__(self, payloads: dict[str, str]):
+        self.payloads = payloads
+        self.requested: list[str] = []
+
+    def get(self, url, timeout=30, headers=None):
+        self.requested.append(url)
+        if url not in self.payloads:
+            raise AssertionError(f"unexpected url: {url}")
+        return DummyResponse(self.payloads[url])
 
 
 class UtilsTests(unittest.TestCase):
@@ -124,6 +147,66 @@ class UtilsTests(unittest.TestCase):
 
         self.assertEqual(set(archive.keys()), {"recent", "old"})
         self.assertEqual(archive["old"]["title"], "Old item")
+
+    def test_fetch_ai_valley_parses_latest_issue_from_archive(self):
+        archive_html = """
+        <html><body>
+          <a href="/p/a-pentagon-lawsuit">Mar 10, 2026A Pentagon lawsuitPLUS: Nvidia is planning to launch an Open-Source AI Agent Platform</a>
+          <a href="/p/a-pentagon-lawsuit">Mar 10, 2026A Pentagon lawsuitPLUS: Nvidia is planning to launch an Open-Source AI Agent Platform</a>
+        </body></html>
+        """
+        issue_html = """
+        <html><head>
+          <meta property="og:title" content="A Pentagon lawsuit"/>
+        </head>
+        <body>
+          <script>window.__DATA__={"override_scheduled_at":"2026-03-10T14:34:14.263Z","slug":"a-pentagon-lawsuit"}</script>
+        </body></html>
+        """
+        session = DummySession(
+            {
+                "https://www.theaivalley.com/": archive_html,
+                "https://www.theaivalley.com/p/a-pentagon-lawsuit": issue_html,
+            }
+        )
+        now = datetime(2026, 3, 19, 0, 0, tzinfo=timezone.utc)
+
+        items = fetch_ai_valley(session, now)
+
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0].title, "A Pentagon lawsuit")
+        self.assertEqual(items[0].source, "AI Valley")
+        self.assertEqual(items[0].published_at, datetime(2026, 3, 10, 14, 34, 14, 263000, tzinfo=timezone.utc))
+
+    def test_fetch_therundown_ai_parses_latest_issue_from_archive(self):
+        archive_html = """
+        <html><body>
+          <a href="/p/google-bets-on-vibe-design-with-stitch">Google bets on 'vibe design' with StitchPLUS: Generate an actionable SEO audit using this LLM strategy Zach Mink, +4</a>
+          <a href="/p/google-bets-on-vibe-design-with-stitch">Google bets on 'vibe design' with StitchPLUS: Generate an actionable SEO audit using this LLM strategy Zach Mink, +4</a>
+        </body></html>
+        """
+        issue_html = """
+        <html><head>
+          <meta property="og:title" content="Google bets on 'vibe design' with Stitch"/>
+        </head>
+        <body>
+          <script>window.__DATA__={"scheduled_at":"2026-03-19T09:00:00Z","slug":"google-bets-on-vibe-design-with-stitch"}</script>
+        </body></html>
+        """
+        session = DummySession(
+            {
+                "https://www.therundown.ai/archive": archive_html,
+                "https://www.therundown.ai/p/google-bets-on-vibe-design-with-stitch": issue_html,
+            }
+        )
+        now = datetime(2026, 3, 19, 12, 0, tzinfo=timezone.utc)
+
+        items = fetch_therundown_ai(session, now)
+
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0].title, "Google bets on 'vibe design' with Stitch")
+        self.assertEqual(items[0].source, "The Rundown AI")
+        self.assertEqual(items[0].published_at, datetime(2026, 3, 19, 9, 0, tzinfo=timezone.utc))
 
 
 if __name__ == "__main__":
