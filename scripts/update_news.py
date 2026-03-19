@@ -439,6 +439,53 @@ def clean_update_title(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
+def normalize_waytoagi_doc_url(raw_url: str) -> str:
+    raw_url = (raw_url or "").strip()
+    if not raw_url:
+        return ""
+    try:
+        parsed = urlparse(raw_url)
+    except Exception:
+        return raw_url
+    if parsed.netloc.endswith("waytoagi.feishu.cn") and parsed.path.startswith(("/wiki/", "/docx/")):
+        return urlunparse(parsed._replace(query="", fragment=""))
+    return raw_url
+
+
+def extract_waytoagi_doc_ref(block_data: dict[str, Any]) -> dict[str, str]:
+    text_obj = block_data.get("text", {}) if isinstance(block_data, dict) else {}
+    apool = text_obj.get("apool", {}).get("numToAttrib", {}) if isinstance(text_obj, dict) else {}
+    if not isinstance(apool, dict):
+        return {"title": "", "url": ""}
+
+    def key_int(k: Any) -> int:
+        try:
+            return int(k)
+        except Exception:
+            return 0
+
+    for _, attr in sorted(apool.items(), key=lambda kv: key_int(kv[0])):
+        if not isinstance(attr, list) or len(attr) < 2:
+            continue
+        if attr[0] != "inline-component":
+            continue
+        payload = attr[1]
+        try:
+            obj = json.loads(payload) if isinstance(payload, str) else payload
+        except Exception:
+            continue
+        if not isinstance(obj, dict) or obj.get("type") != "mention_doc":
+            continue
+        data = obj.get("data", {})
+        if not isinstance(data, dict):
+            continue
+        return {
+            "title": clean_update_title(str(data.get("title") or "")),
+            "url": normalize_waytoagi_doc_url(str(data.get("raw_url") or "")),
+        }
+    return {"title": "", "url": ""}
+
+
 def parse_ym_heading(text: str) -> tuple[int, int] | None:
     m = re.search(r"(20\d{2})\s*年\s*(\d{1,2})\s*月", text)
     if not m:
@@ -543,14 +590,16 @@ def extract_waytoagi_recent_updates_from_block_map(
         day = nearest_heading_date(bid)
         if not day:
             continue
-        title = clean_update_title(block_text(bd))
+        doc_ref = extract_waytoagi_doc_ref(bd)
+        title = doc_ref["title"] or clean_update_title(block_text(bd))
         if not title:
             continue
-        key = (day.isoformat(), title)
+        url = doc_ref["url"] or page_url
+        key = (day.isoformat(), url or title)
         if key in seen:
             continue
         seen.add(key)
-        updates.append({"date": day.isoformat(), "title": title, "url": page_url})
+        updates.append({"date": day.isoformat(), "title": title, "url": url})
 
     return updates
 
