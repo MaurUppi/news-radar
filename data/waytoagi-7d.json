@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T16:04:45.037425Z",
+  "generated_at": "2026-03-20T17:08:49.347393Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-20",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-03-20",
@@ -27,12 +27,18 @@
     },
     {
       "date": "2026-03-20",
+      "title": "AI 发展太快跟不上？一张四象限图帮你做减法",
+      "summary": "AI 发展日新月异，急速迭代，概念/技术/产品层出不穷。但是当前工作繁重（工作本身跟 AI 直接关系不大），即便是很多比较流行的 AI 相关的东西，也不可能都花时间去了解/理解/深度使用研究。一方面希望跟上 AI 的浪潮，另一方面目前的精力又不允许。哪些原则可以辅助做以下判断：“哪些东西不必花时间/哪些东西简单了解即可/哪些东西需要花一些时间去学习/哪些有必要深度使用学习”，以及为什么有这个原则",
+      "url": "https://waytoagi.feishu.cn/wiki/QhvTw73J2iTIUykUT4acHP8pnMh"
+    },
+    {
+      "date": "2026-03-20",
       "title": "50个Claude Code日常使用技巧与最佳实践",
       "summary": "作者整理了50条Claude Code的最佳实践和技巧，无论你是刚使用一周还是已经用了几个月，这些都能有所帮助，它们的来源包括Anthropic的官方文档、Boris Cherny（Claude Code的开发者）、社区经验以及作者自己一年的日常使用心得。",
       "url": "https://waytoagi.feishu.cn/wiki/KyznwDZsaiYCWtkPPlvc4iFonqg"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 33,
   "updates_7d": [
     {
       "date": "2026-03-20",
@@ -51,6 +57,12 @@
       "title": "云舒：Claude Code每次都不认识我，于是我给它做了一套记忆系统",
       "summary": "作为一个Claude Code的深度用户，我一直被它没有记忆的事情折磨着。每开一个对话，我都得想办法告诉它我是谁、我在做什么项目、现在的进度是什么样子的，每次都得跟AI讲半天背景是什么，这样才能让它不跑偏。之前在研究龙虾源码的时候，发现龙虾的记忆逻辑做的蛮有趣的，我参考着龙虾的记忆思路，给我自己的Claude Code做了一套记忆系统。希望对你也有所帮助！",
       "url": "https://waytoagi.feishu.cn/wiki/R3khwIE1HiS285kPW4zcjlpUn1U"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "AI 发展太快跟不上？一张四象限图帮你做减法",
+      "summary": "AI 发展日新月异，急速迭代，概念/技术/产品层出不穷。但是当前工作繁重（工作本身跟 AI 直接关系不大），即便是很多比较流行的 AI 相关的东西，也不可能都花时间去了解/理解/深度使用研究。一方面希望跟上 AI 的浪潮，另一方面目前的精力又不允许。哪些原则可以辅助做以下判断：“哪些东西不必花时间/哪些东西简单了解即可/哪些东西需要花一些时间去学习/哪些有必要深度使用学习”，以及为什么有这个原则",
+      "url": "https://waytoagi.feishu.cn/wiki/QhvTw73J2iTIUykUT4acHP8pnMh"
     },
     {
       "date": "2026-03-20",
