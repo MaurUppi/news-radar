@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-03-20T15:10:56.488525Z",
+  "generated_at": "2026-03-20T16:04:45.037425Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-20",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
+    {
+      "date": "2026-03-20",
+      "title": "解析大语言模型中的KV缓存",
+      "summary": "每次使用ChatGPT或Claude时，你肯定都注意到第一个词元出现的时间明显更长，随后其余的词元几乎瞬间就会涌出。在幕后，这是一个被称为KV缓存精心设计的工程决策，目的是让大语言模型（LLM）推理速度更快。现在让我们从第一性原理出发，来了解它是如何运作的。",
+      "url": "https://waytoagi.feishu.cn/wiki/Rxzkw42pNiJgeukyE7Oc87LYnwb"
+    },
     {
       "date": "2026-03-20",
       "title": "彬子：拯救龙虾记忆，OpenClaw 记忆系统演进系列（三）——打造记忆检索的引擎",
@@ -26,8 +32,14 @@
       "url": "https://waytoagi.feishu.cn/wiki/KyznwDZsaiYCWtkPPlvc4iFonqg"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 32,
   "updates_7d": [
+    {
+      "date": "2026-03-20",
+      "title": "解析大语言模型中的KV缓存",
+      "summary": "每次使用ChatGPT或Claude时，你肯定都注意到第一个词元出现的时间明显更长，随后其余的词元几乎瞬间就会涌出。在幕后，这是一个被称为KV缓存精心设计的工程决策，目的是让大语言模型（LLM）推理速度更快。现在让我们从第一性原理出发，来了解它是如何运作的。",
+      "url": "https://waytoagi.feishu.cn/wiki/Rxzkw42pNiJgeukyE7Oc87LYnwb"
+    },
     {
       "date": "2026-03-20",
       "title": "彬子：拯救龙虾记忆，OpenClaw 记忆系统演进系列（三）——打造记忆检索的引擎",
@@ -213,48 +225,6 @@
       "title": "AI 记忆系统的核心公式：召回 = 存储 + 检索（一点小感悟）",
       "summary": "最近一篇关于 AI 记忆系统的论文引发了不少讨论，结论是\"检索比存储更重要\"。但如果换一个角度看这个问题，一个更有价值的等式浮出水面： 召回 = 存储 + 检索 。这个等式把\"写进去什么\"和\"找出来什么\"绑在了一起，存储决定了检索的天花板。很多做 RAG 系统的团队都踩过一个坑：精心设计的摘要和事实提取，效果反而不如把原始文本块直接存进去。这篇文章跟着作者一起探究这背后的原因！",
       "url": "https://waytoagi.feishu.cn/wiki/RVIDwISYYiX8b8kHWFycOeJpnFd"
-    },
-    {
-      "date": "2026-03-14",
-      "title": "深度｜Anthropic CEO：AI行业的盈利本质上源于对市场需求的低估，而亏损则因为高估了需求，2030年AI行业营收将跃迁至万亿美元级",
-      "summary": "Dario Amodei 是 Anthropic 公司核心负责人，深耕 AI 大模型研发领域，对模型缩放、技术发展趋势有着极具前瞻性的判断，主导了 Claude 系列模型的技术研发与落地， Dwarkesh Patel 是资深科技访谈者，聚焦 AI 领域前沿对话，挖掘行业核心发展议题。本次访谈于 2026 年 2 月 14 日开展，围绕 AI 技术指数增长尾声、模型缩放假说、 RL 发展等核心问题展开，深入探讨 AI 技术落地与经济渗透的关键议题，分享了对 AI 行业发展趋势的独到见解与实践思考。",
-      "url": "https://waytoagi.feishu.cn/wiki/Yrf5wn6rMiqsOAkV3l9cblMnnUb"
-    },
-    {
-      "date": "2026-03-14",
-      "title": "未来软件的用户将不是人...",
-      "summary": "Box 的 CEO Aaron Levie 写了篇长文，标题直接叫\"Building for trillions of agents\"（为万亿个 Agent 而建）。他是一家年收入12 亿美元的企业软件公司 CEO，每天要面对真实客户的真实需求。他的核心观点就一句话： 未来软件最大的用户群，不是人类，是 Agent。一家公司里 Agent 的数量可能是员工的 100 到 1000 倍，全球加起来会有数万亿个。让我们一同来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/UaV3wAlNDivnOSknby4czXtEnVu"
-    },
-    {
-      "date": "2026-03-14",
-      "title": "最全整理：有关 OpenClaw 的限制条令汇总",
-      "summary": "这段时间除了有各种 OpenClaw（龙虾）的倡导事件，业内还有一些警告提醒，截至 2026 年 3 月 14 日，OpenClaw 在国内遭遇密集的安全预警和使用限制。本文梳理了从国家级监管机构、金融行业到高等院校各层级已公开的限制措施。",
-      "url": "https://waytoagi.feishu.cn/wiki/Iw8awbuI6ihCtkk5yiccq3JCnSh"
-    },
-    {
-      "date": "2026-03-14",
-      "title": "彬子：拯救金鱼记忆，OpenClaw 记忆系统演进系列（一）——搭建记忆结构的底座",
-      "summary": "作者这篇文章带大家一同了解下他是如何拯救OpenClaw的记忆。这是一个循序渐进的过程，演进的主线大致为：Markdown 记忆文件分层分类 → 从主动记录到心跳补漏 → 夜间反思知识整理 → QMD 增强记忆搜索 → Context Engineering 适配 → 利用 SQLite 回顾一天的摘要 → Memory deep search 混合检索。会分多篇来讲养的经验教训，希望对大家有帮助。",
-      "url": "https://waytoagi.feishu.cn/wiki/XFo0warmsikjY2krWGTcO9Aonqf"
-    },
-    {
-      "date": "2026-03-14",
-      "title": "OpenClaw 命令行手册",
-      "summary": "本文档为 OpenClaw 完整命令手册，涵盖终端 CLI 命令和频道斜杠命令两大部分。或许会有你用得到的！",
-      "url": "https://waytoagi.feishu.cn/wiki/FylPwILknijHMPku5iMcqpHqnnc"
-    },
-    {
-      "date": "2026-03-14",
-      "title": "AI 学习系统搭建指南：手把手教你打造属于你的AI私教",
-      "summary": "这款基于布鲁姆掌握学习法的AI私教系统，可以让你实现高效自学。依托Claude Code实现本地文件交互，通过“阅读—标注疑问—作答反馈—AI迭代新课”的闭环，精准适配你的理解节奏。系统自带多领域课题，也可以自定义学习方向，所有数据都在本地留存，安全可控。AI会自动复盘错题、解答疑惑、调整难度，最终生成专属知识总结。30分钟即可上手，快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/Ix3wwzDWzigCIZkUhXLcDJRKn2d"
-    },
-    {
-      "date": "2026-03-14",
-      "title": "2026年了，你的拖延症，连AI都看不下去了",
-      "summary": "OpenClaw等AI工具已成为超级杠杆，而很多人却还在用“忙”掩盖不愿行动的真相。小鱿鱼以自身拖延年终总结的经历为例，帮你打破拖延惯性，不让未来的自己留下遗憾。",
-      "url": "https://waytoagi.feishu.cn/wiki/RsVcwLWWVi1e7ak6IxrcuP97ned"
     }
   ],
   "warning": null,
