@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T08:39:21.302379Z",
+  "generated_at": "2026-03-20T09:40:28.601520Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -10,7 +10,7 @@
     {
       "date": "2026-03-20",
       "title": "彬子：拯救龙虾记忆，OpenClaw 记忆系统演进系列（三）——打造记忆检索的引擎",
-      "summary": "",
+      "summary": "既然我们选择基于 OpenClaw 来体验个人智能体的进化之旅，那所有自定义改造，最好都能在它每一次升级中吃到红利。即使中间有个别小版本回退，长期趋势也应该是顺势而上，不要越改越偏最后只好硬分叉。所以在真正动手优化记忆系统之前，得先理解 OpenClaw 的底层理念： Local First、Files are the source of truth、File Over App 。",
       "url": "https://waytoagi.feishu.cn/wiki/OsDBwQB9RiRrI9kMQYLc0lnXncg"
     },
     {
@@ -25,7 +25,7 @@
     {
       "date": "2026-03-20",
       "title": "彬子：拯救龙虾记忆，OpenClaw 记忆系统演进系列（三）——打造记忆检索的引擎",
-      "summary": "",
+      "summary": "既然我们选择基于 OpenClaw 来体验个人智能体的进化之旅，那所有自定义改造，最好都能在它每一次升级中吃到红利。即使中间有个别小版本回退，长期趋势也应该是顺势而上，不要越改越偏最后只好硬分叉。所以在真正动手优化记忆系统之前，得先理解 OpenClaw 的底层理念： Local First、Files are the source of truth、File Over App 。",
       "url": "https://waytoagi.feishu.cn/wiki/OsDBwQB9RiRrI9kMQYLc0lnXncg"
     },
     {
