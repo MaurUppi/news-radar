@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-03-20T07:45:16.734351Z",
+  "generated_at": "2026-03-20T08:39:21.302379Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-20",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
+    {
+      "date": "2026-03-20",
+      "title": "彬子：拯救龙虾记忆，OpenClaw 记忆系统演进系列（三）——打造记忆检索的引擎",
+      "summary": "",
+      "url": "https://waytoagi.feishu.cn/wiki/OsDBwQB9RiRrI9kMQYLc0lnXncg"
+    },
     {
       "date": "2026-03-20",
       "title": "云舒：Claude Code每次都不认识我，于是我给它做了一套记忆系统",
@@ -14,8 +20,14 @@
       "url": "https://waytoagi.feishu.cn/wiki/R3khwIE1HiS285kPW4zcjlpUn1U"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
+    {
+      "date": "2026-03-20",
+      "title": "彬子：拯救龙虾记忆，OpenClaw 记忆系统演进系列（三）——打造记忆检索的引擎",
+      "summary": "",
+      "url": "https://waytoagi.feishu.cn/wiki/OsDBwQB9RiRrI9kMQYLc0lnXncg"
+    },
     {
       "date": "2026-03-20",
       "title": "云舒：Claude Code每次都不认识我，于是我给它做了一套记忆系统",
