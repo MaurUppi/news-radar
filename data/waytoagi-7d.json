@@ -1,51 +1,27 @@
 {
-  "generated_at": "2026-03-20T05:34:09.839782Z",
+  "generated_at": "2026-03-20T06:54:33.371520Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-03-19",
-  "count_today": 6,
+  "latest_date": "2026-03-20",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-03-19",
-      "title": "被美国遣返、禁止入境 5 年，他在温哥华的卧室里做出了日处理 400 万工作流的 AI 平台",
-      "summary": "Max Brodeur-Urbas 是 Gumloop 的联合创始人兼 CEO。这家公司刚拿了 Benchmark 领投的 5000 万美元 B 轮融资 ，客户包括 Instacart、Shopify、DoorDash、Gusto。在这之前，他是微软的一名普通工程师，因为过边境被遣返而被迫走上创业这条路。这次访谈来自 YouTube 频道 EO（Entrepreneur & Opportunities），来看看他都分享了哪些内容！",
-      "url": "https://waytoagi.feishu.cn/wiki/LIWywChovisTNdkggeQcYrDknqj"
-    },
-    {
-      "date": "2026-03-19",
-      "title": "全程 Demo｜飞书 2026 春季发布会，把龙虾融进飞书",
-      "summary": "今天，飞书举办 2026 年春季新品发布会。这场发布会 形式罕见 ：全程纯 Demo，没有 PPT。一共发布了 8 款产品，核心只有一件事： 让每个人在飞书里拥有自己的智能伙伴。发布的产品包括：飞书 aily（智能伙伴）、aily 专业版、飞书妙搭、多维表格 AI 搭建、AI 同传、会中 AI 纪要、安克 AI 录音豆、AnyGen × Lark（海外版）。让我们一同一览详情！",
-      "url": "https://waytoagi.feishu.cn/wiki/AgdNwWp9jiN1Cyke3khcXzNWn9g"
-    },
-    {
-      "date": "2026-03-19",
-      "title": "你不知道的 Agent：原理、架构与工程实践",
-      "summary": "这篇文章主要讲 Agent 架构里几块最影响工程效果的内容，包括控制流、上下文工程、工具设计、记忆、多 Agent 组织、评测、追踪和安全，最后再用 OpenClaw 的实现把这些设计原则串起来看一遍。",
-      "url": "https://waytoagi.feishu.cn/wiki/AoDkwiCEYiVX46kx6fKcWAmentc"
-    },
-    {
-      "date": "2026-03-19",
-      "title": "什么是 Vibe Design？教你如何利用stitch一句话生成一整套UI页面",
-      "summary": "这篇文章带大家了解下Google Stitch这个产品是做什么的以及怎么更好的使用它。简单说，Stitch 就是\"你说，它画\"。告诉它你想要什么界面，它直接给你出设计稿，还支持导出到 Figma、AI Studio 等工具里。",
-      "url": "https://waytoagi.feishu.cn/wiki/AptYwzsuwiK36Ek09vPch2BqnNc"
-    },
-    {
-      "date": "2026-03-19",
-      "title": "OpenClaw Skill技能系统 - 3分钟秒懂教程",
-      "summary": "有没有想过，为什么有些人用OpenClaw特别顺手，三两下就能搞定复杂的活儿，而你让小龙虾帮忙做事，它总是\"听不懂人话\"？秘密就藏在一个叫Skill的小东西里。今天咱们用大白话聊聊这个 Skill 到底是啥，怎么用，保证你看完就能明白。",
-      "url": "https://waytoagi.feishu.cn/wiki/M6FOwCpJ5ikqeUkfFsZcos72npg"
-    },
-    {
-      "date": "2026-03-19",
-      "title": "Google 再放大招 对着画布说话就能做设计 Figma 股价爆跌8.8%",
-      "summary": "Google 的 AI 设计工具 Stitch 昨天发了一次大更新，从 Labs 实验项目正式升级为 AI 原生设计平台。这次不是加个小功能那种升级，是整个产品形态变了。从一个\"用 AI 生成 UI 图片\"的工具，直接进化成了一个 AI 原生的软件设计平台。Google 给这个新方向起了个名字，叫 Vibe Design。让我们一同一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/JBkVwUbFxiRm1PkCrMpciaAnnmg"
+      "date": "2026-03-20",
+      "title": "云舒：Claude Code每次都不认识我，于是我给它做了一套记忆系统",
+      "summary": "作为一个Claude Code的深度用户，我一直被它没有记忆的事情折磨着。每开一个对话，我都得想办法告诉它我是谁、我在做什么项目、现在的进度是什么样子的，每次都得跟AI讲半天背景是什么，这样才能让它不跑偏。之前在研究龙虾源码的时候，发现龙虾的记忆逻辑做的蛮有趣的，我参考着龙虾的记忆思路，给我自己的Claude Code做了一套记忆系统。希望对你也有所帮助！",
+      "url": "https://waytoagi.feishu.cn/wiki/R3khwIE1HiS285kPW4zcjlpUn1U"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-03-20",
+      "title": "云舒：Claude Code每次都不认识我，于是我给它做了一套记忆系统",
+      "summary": "作为一个Claude Code的深度用户，我一直被它没有记忆的事情折磨着。每开一个对话，我都得想办法告诉它我是谁、我在做什么项目、现在的进度是什么样子的，每次都得跟AI讲半天背景是什么，这样才能让它不跑偏。之前在研究龙虾源码的时候，发现龙虾的记忆逻辑做的蛮有趣的，我参考着龙虾的记忆思路，给我自己的Claude Code做了一套记忆系统。希望对你也有所帮助！",
+      "url": "https://waytoagi.feishu.cn/wiki/R3khwIE1HiS285kPW4zcjlpUn1U"
+    },
     {
       "date": "2026-03-19",
       "title": "被美国遣返、禁止入境 5 年，他在温哥华的卧室里做出了日处理 400 万工作流的 AI 平台",
