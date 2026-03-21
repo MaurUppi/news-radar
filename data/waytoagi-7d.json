@@ -1,45 +1,51 @@
 {
-  "generated_at": "2026-03-21T10:53:05.662391Z",
+  "generated_at": "2026-03-21T12:46:45.985944Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-03-20",
-  "count_today": 5,
+  "latest_date": "2026-03-21",
+  "count_today": 3,
   "updates_today": [
     {
-      "date": "2026-03-20",
-      "title": "解析大语言模型中的KV缓存",
-      "summary": "每次使用ChatGPT或Claude时，你肯定都注意到第一个词元出现的时间明显更长，随后其余的词元几乎瞬间就会涌出。在幕后，这是一个被称为KV缓存精心设计的工程决策，目的是让大语言模型（LLM）推理速度更快。现在让我们从第一性原理出发，来了解它是如何运作的。",
-      "url": "https://waytoagi.feishu.cn/wiki/Rxzkw42pNiJgeukyE7Oc87LYnwb"
+      "date": "2026-03-21",
+      "title": "新手小白也能写出好用Skill，保姆级教程和SKill分享。",
+      "summary": "",
+      "url": "https://waytoagi.feishu.cn/wiki/GyLzw03qGigPo8kc3IIc03V2n76"
     },
     {
-      "date": "2026-03-20",
-      "title": "彬子：拯救龙虾记忆，OpenClaw 记忆系统演进系列（三）——打造记忆检索的引擎",
-      "summary": "既然我们选择基于 OpenClaw 来体验个人智能体的进化之旅，那所有自定义改造，最好都能在它每一次升级中吃到红利。即使中间有个别小版本回退，长期趋势也应该是顺势而上，不要越改越偏最后只好硬分叉。所以在真正动手优化记忆系统之前，得先理解 OpenClaw 的底层理念： Local First、Files are the source of truth、File Over App 。",
-      "url": "https://waytoagi.feishu.cn/wiki/OsDBwQB9RiRrI9kMQYLc0lnXncg"
+      "date": "2026-03-21",
+      "title": "万字讲透OpenClaw🦞从\"能用\"到\"真好用\"的分水岭： Workspace 深度解析",
+      "summary": "在 OpenClaw 的使用者里，有一条隐形的分界线。一边的人，每次跟 Agent 说话都像重新 onboarding：得再讲一遍背景、偏好和上下文。另一边的人，Agent 已经知道自己是谁、该怎么说话、用户讨厌什么，也记得上次积累下来的东西。这条分界线，叫 workspace 。更具体一点，就是默认情况下主 Agent 用的 ~/.openclaw/workspace/ 这一套文件(sub-agent也适用)。下面这篇文章，就把这套文件逐个拆开，说清楚它们各自管什么，以及最容易踩的坑是什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/WIxywUseSi1XwakKjHxc7RhVnfe"
     },
     {
-      "date": "2026-03-20",
-      "title": "云舒：Claude Code每次都不认识我，于是我给它做了一套记忆系统",
-      "summary": "作为一个Claude Code的深度用户，我一直被它没有记忆的事情折磨着。每开一个对话，我都得想办法告诉它我是谁、我在做什么项目、现在的进度是什么样子的，每次都得跟AI讲半天背景是什么，这样才能让它不跑偏。之前在研究龙虾源码的时候，发现龙虾的记忆逻辑做的蛮有趣的，我参考着龙虾的记忆思路，给我自己的Claude Code做了一套记忆系统。希望对你也有所帮助！",
-      "url": "https://waytoagi.feishu.cn/wiki/R3khwIE1HiS285kPW4zcjlpUn1U"
-    },
-    {
-      "date": "2026-03-20",
-      "title": "AI 发展太快跟不上？一张四象限图帮你做减法",
-      "summary": "AI 发展日新月异，急速迭代，概念/技术/产品层出不穷。但是当前工作繁重（工作本身跟 AI 直接关系不大），即便是很多比较流行的 AI 相关的东西，也不可能都花时间去了解/理解/深度使用研究。一方面希望跟上 AI 的浪潮，另一方面目前的精力又不允许。哪些原则可以辅助做以下判断：“哪些东西不必花时间/哪些东西简单了解即可/哪些东西需要花一些时间去学习/哪些有必要深度使用学习”，以及为什么有这个原则",
-      "url": "https://waytoagi.feishu.cn/wiki/QhvTw73J2iTIUykUT4acHP8pnMh"
-    },
-    {
-      "date": "2026-03-20",
-      "title": "50个Claude Code日常使用技巧与最佳实践",
-      "summary": "作者整理了50条Claude Code的最佳实践和技巧，无论你是刚使用一周还是已经用了几个月，这些都能有所帮助，它们的来源包括Anthropic的官方文档、Boris Cherny（Claude Code的开发者）、社区经验以及作者自己一年的日常使用心得。",
-      "url": "https://waytoagi.feishu.cn/wiki/KyznwDZsaiYCWtkPPlvc4iFonqg"
+      "date": "2026-03-21",
+      "title": "Karpathy：\"写代码\"已经不是对的动词了",
+      "summary": "这位 OpenAI 联合创始成员、前 Tesla AI 总监，现在是独立 AI 研究者和 Eureka Labs 创始人。他最近做客 Sarah Guo 的 No Priors 播客，聊了编码 Agent 如何改变工程师的日常、AutoResearch 与递归自我改进、AI 的“参差不齐”、开源与闭源的力量对比、物理世界 vs 数字世界的节奏差异，以及 Agent 时代教育的未来。",
+      "url": "https://waytoagi.feishu.cn/wiki/GlhuwGy13iVQwek3n2HcRxU4nVN"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-03-21",
+      "title": "新手小白也能写出好用Skill，保姆级教程和SKill分享。",
+      "summary": "",
+      "url": "https://waytoagi.feishu.cn/wiki/GyLzw03qGigPo8kc3IIc03V2n76"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "万字讲透OpenClaw🦞从\"能用\"到\"真好用\"的分水岭： Workspace 深度解析",
+      "summary": "在 OpenClaw 的使用者里，有一条隐形的分界线。一边的人，每次跟 Agent 说话都像重新 onboarding：得再讲一遍背景、偏好和上下文。另一边的人，Agent 已经知道自己是谁、该怎么说话、用户讨厌什么，也记得上次积累下来的东西。这条分界线，叫 workspace 。更具体一点，就是默认情况下主 Agent 用的 ~/.openclaw/workspace/ 这一套文件(sub-agent也适用)。下面这篇文章，就把这套文件逐个拆开，说清楚它们各自管什么，以及最容易踩的坑是什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/WIxywUseSi1XwakKjHxc7RhVnfe"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "Karpathy：\"写代码\"已经不是对的动词了",
+      "summary": "这位 OpenAI 联合创始成员、前 Tesla AI 总监，现在是独立 AI 研究者和 Eureka Labs 创始人。他最近做客 Sarah Guo 的 No Priors 播客，聊了编码 Agent 如何改变工程师的日常、AutoResearch 与递归自我改进、AI 的“参差不齐”、开源与闭源的力量对比、物理世界 vs 数字世界的节奏差异，以及 Agent 时代教育的未来。",
+      "url": "https://waytoagi.feishu.cn/wiki/GlhuwGy13iVQwek3n2HcRxU4nVN"
+    },
     {
       "date": "2026-03-20",
       "title": "解析大语言模型中的KV缓存",
@@ -239,7 +245,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/RVIDwISYYiX8b8kHWFycOeJpnFd"
     }
   ],
-  "warning": "WaytoAGI 近7日更新抓取失败，已回退到上次成功快照",
+  "warning": null,
   "has_error": false,
   "error": null
 }
