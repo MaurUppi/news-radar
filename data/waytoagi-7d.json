@@ -239,7 +239,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/RVIDwISYYiX8b8kHWFycOeJpnFd"
     }
   ],
-  "warning": null,
+  "warning": "WaytoAGI 近7日更新抓取失败，已回退到上次成功快照",
   "has_error": false,
   "error": null
 }
