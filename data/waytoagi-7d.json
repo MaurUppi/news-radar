@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T15:48:15.515958Z",
+  "generated_at": "2026-03-21T16:28:40.975418Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-21",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-03-21",
@@ -33,12 +33,18 @@
     },
     {
       "date": "2026-03-21",
+      "title": "OpenClaw企业落地的5个进阶配置，价值千亿的市场机会",
+      "summary": "大家对 OpenClaw 在企业管理端的想象力，明显比业务端弱。其实跨境公司的管理问题一点不比业务小：员工流失、知识断层、数据滞后、达人管理混乱，每一件都能搞垮一个正在增长的公司。饼干哥哥这篇文章就把他们团队真实在跑的几个场景拆开讲解，看看这千亿市场到底要怎么做？",
+      "url": "https://waytoagi.feishu.cn/wiki/M4MhwUkPoi9sF1kLUe8caMoGnWd"
+    },
+    {
+      "date": "2026-03-21",
       "title": "Karpathy：\"写代码\"已经不是对的动词了",
       "summary": "这位 OpenAI 联合创始成员、前 Tesla AI 总监，现在是独立 AI 研究者和 Eureka Labs 创始人。他最近做客 Sarah Guo 的 No Priors 播客，聊了编码 Agent 如何改变工程师的日常、AutoResearch 与递归自我改进、AI 的“参差不齐”、开源与闭源的力量对比、物理世界 vs 数字世界的节奏差异，以及 Agent 时代教育的未来。",
       "url": "https://waytoagi.feishu.cn/wiki/GlhuwGy13iVQwek3n2HcRxU4nVN"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-03-21",
@@ -63,6 +69,12 @@
       "title": "万字讲透OpenClaw🦞从\"能用\"到\"真好用\"的分水岭： Workspace 深度解析",
       "summary": "在 OpenClaw 的使用者里，有一条隐形的分界线。一边的人，每次跟 Agent 说话都像重新 onboarding：得再讲一遍背景、偏好和上下文。另一边的人，Agent 已经知道自己是谁、该怎么说话、用户讨厌什么，也记得上次积累下来的东西。这条分界线，叫 workspace 。更具体一点，就是默认情况下主 Agent 用的 ~/.openclaw/workspace/ 这一套文件(sub-agent也适用)。下面这篇文章，就把这套文件逐个拆开，说清楚它们各自管什么，以及最容易踩的坑是什么。",
       "url": "https://waytoagi.feishu.cn/wiki/WIxywUseSi1XwakKjHxc7RhVnfe"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "OpenClaw企业落地的5个进阶配置，价值千亿的市场机会",
+      "summary": "大家对 OpenClaw 在企业管理端的想象力，明显比业务端弱。其实跨境公司的管理问题一点不比业务小：员工流失、知识断层、数据滞后、达人管理混乱，每一件都能搞垮一个正在增长的公司。饼干哥哥这篇文章就把他们团队真实在跑的几个场景拆开讲解，看看这千亿市场到底要怎么做？",
+      "url": "https://waytoagi.feishu.cn/wiki/M4MhwUkPoi9sF1kLUe8caMoGnWd"
     },
     {
       "date": "2026-03-21",
@@ -225,48 +237,6 @@
       "title": "AI音乐周刊 W.A 019",
       "summary": "AI音乐周刊第19期带你一手掌握行业版权变局与实用工具的突破！全球AI音乐版权战升级，谷歌、Suno深陷侵权诉讼，数据合规成行业必答题；而本地化与开源工具全面爆发，LocalMusic离线生成器、ComfyUI-AudioX视频配乐节点等实用工具上新，谷歌还开源了Lyria模型DAW插件。雅马哈推出一站式创作订阅，Orphere免费和声工具降低了乐理门槛，还有6篇顶会论文解锁音乐情感控制、视频配乐等技术新玩法，音乐人、开发者都能从中找到实用干货与行业趋势。",
       "url": "https://waytoagi.feishu.cn/wiki/EE6AwkMqmiKdbCkib1OcouYLn1g"
-    },
-    {
-      "date": "2026-03-15",
-      "title": "读完这篇，你也敢说懂AI了：保姆级OpenClaw+Claude Code术语全攻略（万字长文）",
-      "summary": "或许很多人都会被AI领域的专业术语劝退。明明AI工具那么好用，却因为看不懂文档、搞不懂概念，最后只能遗憾放弃。希望作者的这篇适合普通人阅读的AI术语指南能够帮助到你！",
-      "url": "https://waytoagi.feishu.cn/wiki/ML8Jw1qsIib9h1kwISBcOb4rn9e"
-    },
-    {
-      "date": "2026-03-15",
-      "title": "第3课：数据中枢——小龙虾协同多维表格",
-      "summary": "OpenClaw训练营第3课，银海通过几个真实案例，带大家一起看看，AI 表格和飞书多维表格到底能帮我们解决哪些问题，以及如何在十分钟左右的时间里，让 OpenClaw 开始帮你管理数据，快来一起一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/Q81dw1byZimIN5kDRUHcHs7Bnaf"
-    },
-    {
-      "date": "2026-03-15",
-      "title": "拯救金鱼记忆，OpenClaw 记忆系统演进系列（二）——构建主被动记忆的防线",
-      "summary": "OpenClaw靠自身主动记忆极易遗漏混乱，作者的这篇文章给出一套三层记忆工程方案，通过机制兜底解决Agent“记不住、记不全、记不深”的问题。从会话压缩前的Memory Flush自动记录，到每小时心跳扫描补全信息，再到凌晨定时完成全天查漏与深度反思，最终实现日志完整度大幅提升，而且可以沉淀成可复用的经验、决策与项目进展。这套实战架构不仅能直接落地优化OpenClaw，也为所有Agent记忆系统设计提供了可复用思路。",
-      "url": "https://waytoagi.feishu.cn/wiki/U7l4wGQwVibBCLkz1HIcBnzznvc"
-    },
-    {
-      "date": "2026-03-15",
-      "title": "大白话读懂AI的27 个大语言模型核心概念",
-      "summary": "很多人都在用 ChatGPT、Claude、Gemini。但一聊到大语言模型相关概念，就容易被一堆术语绕晕。所以这篇，作者把这些核心概念重新整理成 6 大类，按“概念 + 大白话理解 + 例子”来讲，读起来会更清楚。",
-      "url": "https://waytoagi.feishu.cn/wiki/TVBiwg3hWiFwW8kuF9ecBL59nAg"
-    },
-    {
-      "date": "2026-03-15",
-      "title": "从底层机制一文讲透：OpenClaw🦞如何运行多Agents",
-      "summary": "本文主要讲解OpenClaw内秉的多agents机制如何运作，以及如何安装并运行多agents。很多人第一次看 OpenClaw 的目录结构，都会被绕住。这篇文章就带你先把 OpenClaw 原生概念理解清楚，再搞懂agency-agents 的100多个agents是怎么接到这套体系里的。",
-      "url": "https://waytoagi.feishu.cn/wiki/VaCTwi3LFioBpUkjCl1cggX1neg"
-    },
-    {
-      "date": "2026-03-15",
-      "title": "Elevenlabs增长负责人：为什么视频营销仍被低估？为什么公司没有“传统”PM？",
-      "summary": "ElevenLabs 绝对是今年 AI 多模态领域收入增长最快的公司之一，据称最新ARR高达3.3亿美金， 而从2亿美金到3.3亿只用了5 个月时间，同时在今年2月完成了D轮融资，估值110亿美金 。很有意思的是，公司的产品与增长没有走垂直深耕的传统路线，而是以通用技术+多线产品快速扩张。把视频营销、系统化发布与渠道运营做成低成本增长杠杆，再通过组织的创新与 AI 赋能良性扩张。ElevenLabs 增长负责人 Luke Harries ，完整还了原其从 0 到百亿估值的实战打法。希望能为大家带来帮助！",
-      "url": "https://waytoagi.feishu.cn/wiki/MUy1wWlyGiY5JykB5CMcz7EAnAh"
-    },
-    {
-      "date": "2026-03-15",
-      "title": "AI 记忆系统的核心公式：召回 = 存储 + 检索（一点小感悟）",
-      "summary": "最近一篇关于 AI 记忆系统的论文引发了不少讨论，结论是\"检索比存储更重要\"。但如果换一个角度看这个问题，一个更有价值的等式浮出水面： 召回 = 存储 + 检索 。这个等式把\"写进去什么\"和\"找出来什么\"绑在了一起，存储决定了检索的天花板。很多做 RAG 系统的团队都踩过一个坑：精心设计的摘要和事实提取，效果反而不如把原始文本块直接存进去。这篇文章跟着作者一起探究这背后的原因！",
-      "url": "https://waytoagi.feishu.cn/wiki/RVIDwISYYiX8b8kHWFycOeJpnFd"
     }
   ],
   "warning": null,
