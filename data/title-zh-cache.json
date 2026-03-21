@@ -5363,5 +5363,7 @@
   "console: a debugger for async rust": "控制台：异步 rust 的调试器",
   "Revert \"userdb: add birthDate field to JSON user records": "恢复“userdb：将birthDate字段添加到JSON用户记录",
   "Hide macOS Tahoe's Menu Icons": "隐藏 macOS Tahoe 的菜单图标",
-  "Is playing music good for the brain?": "听音乐对大脑有好处吗？"
+  "Is playing music good for the brain?": "听音乐对大脑有好处吗？",
+  "Professional video editing, right in the browser with WebGPU and WASM": "专业视频编辑，直接在浏览器中使用 WebGPU 和 WASM",
+  "A look at \"tokenmaxxing\", a status game where employees at a number of companies compete on leaderboards to show how much AI they're using (Kevin Roose/New York Times)": "看看“tokenmaxxing”，这是一种地位游戏，许多公司的员工在排行榜上竞争，以显示他们使用了多少人工智能（Kevin Roose/纽约时报）"
 }
