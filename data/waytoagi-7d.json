@@ -1,16 +1,28 @@
 {
-  "generated_at": "2026-03-21T12:46:45.985944Z",
+  "generated_at": "2026-03-21T13:41:35.085621Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-21",
-  "count_today": 3,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-03-21",
+      "title": "给第三方API Claude Code 接上飞书：从零写一个 Channels 插件",
+      "summary": "Telegram/Discord 的消息收发本身就需要特殊网络环境，用起来多了一层麻烦。这次我们不用官方插件了——直接自己动手写一个飞书（Lark）Channel 插件 ，让 Claude Code 变成你的飞书机器人。在地铁上、在床上、在马桶上，随时随地给 Claude 发消息让它帮你写代码！",
+      "url": "https://waytoagi.feishu.cn/wiki/OCVgwcrR0idE3xkQDRpccjMKnab"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "某厂大裁员？美术从业者生死存亡的思考",
+      "summary": "越来越多的岗位遭受到AI的冲击，这篇文章，作者想和所有画师、艺术生、创作者认真聊聊这件事。不是为了安慰你，而是想陪你把这件事真正想清楚。让你在时代变革中找准定位，化冲击为进阶动力。",
+      "url": "https://waytoagi.feishu.cn/wiki/FF3FwR0qiikiJSknNVPcIv32nne"
+    },
+    {
+      "date": "2026-03-21",
       "title": "新手小白也能写出好用Skill，保姆级教程和SKill分享。",
-      "summary": "",
+      "summary": "阿真这篇文章不讲那些更深奥的进阶知识。只分享她自己的一个超级适合小白且好用的写出自己需要的 Skill 的方法。当安装了这个 Skill 之后，你说“我想要通过访谈来新建 Skill”，这个 Skill 就会开始和你沟通，一步步向你提问。 然后在整个对话的过程中，它会逐步梳理清楚你的需求并输出 Skill。",
       "url": "https://waytoagi.feishu.cn/wiki/GyLzw03qGigPo8kc3IIc03V2n76"
     },
     {
@@ -26,12 +38,24 @@
       "url": "https://waytoagi.feishu.cn/wiki/GlhuwGy13iVQwek3n2HcRxU4nVN"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 38,
   "updates_7d": [
     {
       "date": "2026-03-21",
+      "title": "给第三方API Claude Code 接上飞书：从零写一个 Channels 插件",
+      "summary": "Telegram/Discord 的消息收发本身就需要特殊网络环境，用起来多了一层麻烦。这次我们不用官方插件了——直接自己动手写一个飞书（Lark）Channel 插件 ，让 Claude Code 变成你的飞书机器人。在地铁上、在床上、在马桶上，随时随地给 Claude 发消息让它帮你写代码！",
+      "url": "https://waytoagi.feishu.cn/wiki/OCVgwcrR0idE3xkQDRpccjMKnab"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "某厂大裁员？美术从业者生死存亡的思考",
+      "summary": "越来越多的岗位遭受到AI的冲击，这篇文章，作者想和所有画师、艺术生、创作者认真聊聊这件事。不是为了安慰你，而是想陪你把这件事真正想清楚。让你在时代变革中找准定位，化冲击为进阶动力。",
+      "url": "https://waytoagi.feishu.cn/wiki/FF3FwR0qiikiJSknNVPcIv32nne"
+    },
+    {
+      "date": "2026-03-21",
       "title": "新手小白也能写出好用Skill，保姆级教程和SKill分享。",
-      "summary": "",
+      "summary": "阿真这篇文章不讲那些更深奥的进阶知识。只分享她自己的一个超级适合小白且好用的写出自己需要的 Skill 的方法。当安装了这个 Skill 之后，你说“我想要通过访谈来新建 Skill”，这个 Skill 就会开始和你沟通，一步步向你提问。 然后在整个对话的过程中，它会逐步梳理清楚你的需求并输出 Skill。",
       "url": "https://waytoagi.feishu.cn/wiki/GyLzw03qGigPo8kc3IIc03V2n76"
     },
     {
