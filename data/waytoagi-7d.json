@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T15:49:14.518165Z",
+  "generated_at": "2026-03-22T16:29:41.027145Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -44,7 +44,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/GlhuwGy13iVQwek3n2HcRxU4nVN"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 26,
   "updates_7d": [
     {
       "date": "2026-03-21",
@@ -201,42 +201,6 @@
       "title": "Harness Engineering 深度解读：AI Agent 时代的工程范式革命",
       "summary": "Harness Engineering 是 2025-2026 年 AI 工程领域最重要的新概念之一。它不是一个工具，不是一个框架，而是一套围绕 AI Agent 构建的约束、反馈与控制系统 ——让 Agent 在人类设定的边界内自主、可靠、可持续地工作。",
       "url": "https://waytoagi.feishu.cn/wiki/DFsjwYahxiYtVfkteSycorfnnBc"
-    },
-    {
-      "date": "2026-03-16",
-      "title": "马斯克惊叹！DeepSeek和Kimi先后出手，捅破了Transformer的「潜规则」！",
-      "summary": "Kimi 全新AttnRes架构被马斯克盛赞，它跳出DeepSeek仅优化权重的思路，将注意力机制融入层间通信，让每层能按需调取所有历史层原始信息，可以动态适配输入，从根源解决信息淹没、深层失效的问题。分块设计可以大幅降低工程成本，同等算力下性能直接提升25%，推理、代码等任务提升显著，更重新激活了模型「深度」设计维度。这一基础架构突破，为大模型研发指明了全新方向！",
-      "url": "https://waytoagi.feishu.cn/wiki/NfjkwyyoiiTLLQkewIicmfI9nBb"
-    },
-    {
-      "date": "2026-03-16",
-      "title": "港大神器，让AI一条命令操控桌面软件！",
-      "summary": "你有没有遇到过这种情况：让AI帮你做个视频剪辑，或者批量处理一堆图片。结果AI的操作方式是：截屏，识别按钮位置，模拟鼠标点击。稍微换个分辨率就崩了。窗口弹出来挡住了关键按钮也崩了。软件更新了界面也崩了。而最近港大的一个开源项目 CLI-Anything 通过七步自动化流程，将开源软件源码转为 AI 可直接调用的命令行工具，输出结构化 JSON 数据，可以稳定不受分辨率、界面影响。",
-      "url": "https://waytoagi.feishu.cn/wiki/H9DEwxhr4iZ6a1kKrcyc2Tzxndf"
-    },
-    {
-      "date": "2026-03-16",
-      "title": "本周AITop论文速览：从终端编程到GPU优化,10篇前沿研究解读！",
-      "summary": "本周AITop论文速览来啦！从终端AI编程助手OpenDev的双智能体架构，到Google AutoHarness为AI搭建安全规则护栏，再到SkillNet实现技能持久化复用，每一项都兼具实用性与突破性。同时还涵盖了记忆管理、Transformer架构优化、GPU加速、网页智能体等关键方向，既有工程落地方案，也有底层理论突破。",
-      "url": "https://waytoagi.feishu.cn/wiki/O3BNwfOcgirsCjkQ4XBccls9nAe"
-    },
-    {
-      "date": "2026-03-16",
-      "title": "斯坦福CS146S：AI辅助、多智能体、AI原生，一次说清楚三者关系",
-      "summary": "AIOps三大架构选型指南来了！AI辅助、多智能体协作、AI原生是三种截然不同的系统逻辑。本篇文章深挖了国内外实战案例，拆解了各个模式的收益与风险——从AI辅助的bug隐患，到多智能体的协调挑战，再到AI原生的损失扩大风险。或许你也能从中快速找到适配场景的落地方案，精准提升运维效率。",
-      "url": "https://waytoagi.feishu.cn/wiki/YawUwHCXaij3SkkXxyGc95b0nWg"
-    },
-    {
-      "date": "2026-03-16",
-      "title": "不要建一千个 Agent：Ramp 如何用一个 Agent 搞定金融自动化",
-      "summary": "Ramp是美国增长最快的企业金融平台之一，估值320亿美元，超过50,000家客户，年交易处理量超过1000亿美元。在The Pragmatic Summit上，Ramp派出了四人阵容分享他们过去一年在 AI 领域的实战经验：工程执行副总裁（EVP）Nik Koblov、应用 AI 总监 Viral Patel、以及两位资深工程师（Staff Engineer）Will Koh 和 Ian Tracey。干货满满！",
-      "url": "https://waytoagi.feishu.cn/wiki/PmMkwbVUkiWGAWkPylLc6IRpnLd"
-    },
-    {
-      "date": "2026-03-16",
-      "title": "AI音乐周刊 W.A 019",
-      "summary": "AI音乐周刊第19期带你一手掌握行业版权变局与实用工具的突破！全球AI音乐版权战升级，谷歌、Suno深陷侵权诉讼，数据合规成行业必答题；而本地化与开源工具全面爆发，LocalMusic离线生成器、ComfyUI-AudioX视频配乐节点等实用工具上新，谷歌还开源了Lyria模型DAW插件。雅马哈推出一站式创作订阅，Orphere免费和声工具降低了乐理门槛，还有6篇顶会论文解锁音乐情感控制、视频配乐等技术新玩法，音乐人、开发者都能从中找到实用干货与行业趋势。",
-      "url": "https://waytoagi.feishu.cn/wiki/EE6AwkMqmiKdbCkib1OcouYLn1g"
     }
   ],
   "warning": null,
