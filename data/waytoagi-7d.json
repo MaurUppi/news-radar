@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-03-22T16:57:21.212755Z",
+  "generated_at": "2026-03-22T17:30:26.851729Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-22",
-  "count_today": 1,
+  "count_today": 4,
   "updates_today": [
+    {
+      "date": "2026-03-22",
+      "title": "喝点VC｜YC合伙人对谈：打造Agent愿意使用的产品，将会出现与人类经济并行运行的Agent经济",
+      "summary": "这期访谈围绕AI agents的快速崛起所带来的产业变化展开讨论。在近期生成式AI与Agent工具能力跃迁的背景下，四位YC合伙人结合一线创业观察与亲身使用体验，探讨agent如何改变软件使用方式、开发者工具的分发逻辑以及未来产品设计原则。",
+      "url": "https://waytoagi.feishu.cn/wiki/TzXYwaoW5i6MmwkxiqWchod8nzc"
+    },
+    {
+      "date": "2026-03-22",
+      "title": "后端互通，Agent 才能协作｜对话 Taku 团队",
+      "summary": "当下AI Agent普遍存在工具隔离、联动困难、部署繁琐的痛点，而Taku凭借三层Harness架构给出了全新解法。区别于Claude Code天然隔离的设计，Taku更贴合普通用户，降低了组装、分发AI能力的门槛，普通人也能一键串联各类工作流，快速搭建专属复合工具。",
+      "url": "https://waytoagi.feishu.cn/wiki/BUaAwnbEDisw8pkFjgncLOx7nue"
+    },
+    {
+      "date": "2026-03-22",
+      "title": "【教程】微信接万物，手把手将任意Agent接入微信（包括Claude Code、扣子、Dify...）",
+      "summary": "微信终于下场，做了第一个真正意义上让 外部AI接入微信 的功能。微信本次提供的方案， 本质上是一种信息传递桥梁，既然能够把OpenClaw的信息传到微信上，那么任意Agent的信息都将能够接到微信上。于是，梦飞下午研究了这个插件，并且进行了改造。",
+      "url": "https://waytoagi.feishu.cn/wiki/FpmCwo8IVir4xhk9qnYczfJ0nBf"
+    },
     {
       "date": "2026-03-22",
       "title": "AI 帮你写代码快了 50%，然后代码在审查队列里躺了三天",
@@ -14,8 +32,26 @@
       "url": "https://waytoagi.feishu.cn/wiki/XIZmwyv6di0SNqki7ZVcvEbAn6d"
     }
   ],
-  "count_7d": 27,
+  "count_7d": 30,
   "updates_7d": [
+    {
+      "date": "2026-03-22",
+      "title": "喝点VC｜YC合伙人对谈：打造Agent愿意使用的产品，将会出现与人类经济并行运行的Agent经济",
+      "summary": "这期访谈围绕AI agents的快速崛起所带来的产业变化展开讨论。在近期生成式AI与Agent工具能力跃迁的背景下，四位YC合伙人结合一线创业观察与亲身使用体验，探讨agent如何改变软件使用方式、开发者工具的分发逻辑以及未来产品设计原则。",
+      "url": "https://waytoagi.feishu.cn/wiki/TzXYwaoW5i6MmwkxiqWchod8nzc"
+    },
+    {
+      "date": "2026-03-22",
+      "title": "后端互通，Agent 才能协作｜对话 Taku 团队",
+      "summary": "当下AI Agent普遍存在工具隔离、联动困难、部署繁琐的痛点，而Taku凭借三层Harness架构给出了全新解法。区别于Claude Code天然隔离的设计，Taku更贴合普通用户，降低了组装、分发AI能力的门槛，普通人也能一键串联各类工作流，快速搭建专属复合工具。",
+      "url": "https://waytoagi.feishu.cn/wiki/BUaAwnbEDisw8pkFjgncLOx7nue"
+    },
+    {
+      "date": "2026-03-22",
+      "title": "【教程】微信接万物，手把手将任意Agent接入微信（包括Claude Code、扣子、Dify...）",
+      "summary": "微信终于下场，做了第一个真正意义上让 外部AI接入微信 的功能。微信本次提供的方案， 本质上是一种信息传递桥梁，既然能够把OpenClaw的信息传到微信上，那么任意Agent的信息都将能够接到微信上。于是，梦飞下午研究了这个插件，并且进行了改造。",
+      "url": "https://waytoagi.feishu.cn/wiki/FpmCwo8IVir4xhk9qnYczfJ0nBf"
+    },
     {
       "date": "2026-03-22",
       "title": "AI 帮你写代码快了 50%，然后代码在审查队列里躺了三天",
