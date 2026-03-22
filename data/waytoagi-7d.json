@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T17:30:26.851729Z",
+  "generated_at": "2026-03-22T18:36:21.716254Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-22",
-  "count_today": 4,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-03-22",
@@ -27,12 +27,24 @@
     },
     {
       "date": "2026-03-22",
+      "title": "Cat-Research：让 AI 像研究员一样工作",
+      "summary": "你有没有遇到过这样的场景：把问题丢给 AI，得到的却是一堆\"众所周知\"\"据报道\"的空话，找不到来源，也经不起追问？Cat-Research 就是为了解决这个问题而生的。它不是一个聊天机器人，而是一套多智能体协作的深度研究系统。 项目已开源，欢迎 Star ⭐～",
+      "url": "https://waytoagi.feishu.cn/wiki/UsV4wDvO2iMoZ9kx3gqcNyl0nId"
+    },
+    {
+      "date": "2026-03-22",
       "title": "AI 帮你写代码快了 50%，然后代码在审查队列里躺了三天",
       "summary": "2026年2月，Forsgren在Gergely Orosz主办的The Pragmatic Summit上做了一场对谈，覆盖 AI 时代的瓶颈转移、组织流程债务、度量陷阱和变革管理。让我们一同来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/XIZmwyv6di0SNqki7ZVcvEbAn6d"
+    },
+    {
+      "date": "2026-03-22",
+      "title": ".claude/文件夹剖析",
+      "summary": "大多数Claude Code用户都将.claude文件夹视为一个黑盒。他们知道这个文件夹存在，也见过它出现在项目根目录中，但从未打开过，更不了解里面每个文件的作用。本指南将全面解析该文件夹的完整结构，涵盖日常常用文件以及只需一次配置、后续无需打理的文件。",
+      "url": "https://waytoagi.feishu.cn/wiki/QMFLwjBmCiMqeakHdVwcbQCwnDe"
     }
   ],
-  "count_7d": 30,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-03-22",
@@ -54,9 +66,21 @@
     },
     {
       "date": "2026-03-22",
+      "title": "Cat-Research：让 AI 像研究员一样工作",
+      "summary": "你有没有遇到过这样的场景：把问题丢给 AI，得到的却是一堆\"众所周知\"\"据报道\"的空话，找不到来源，也经不起追问？Cat-Research 就是为了解决这个问题而生的。它不是一个聊天机器人，而是一套多智能体协作的深度研究系统。 项目已开源，欢迎 Star ⭐～",
+      "url": "https://waytoagi.feishu.cn/wiki/UsV4wDvO2iMoZ9kx3gqcNyl0nId"
+    },
+    {
+      "date": "2026-03-22",
       "title": "AI 帮你写代码快了 50%，然后代码在审查队列里躺了三天",
       "summary": "2026年2月，Forsgren在Gergely Orosz主办的The Pragmatic Summit上做了一场对谈，覆盖 AI 时代的瓶颈转移、组织流程债务、度量陷阱和变革管理。让我们一同来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/XIZmwyv6di0SNqki7ZVcvEbAn6d"
+    },
+    {
+      "date": "2026-03-22",
+      "title": ".claude/文件夹剖析",
+      "summary": "大多数Claude Code用户都将.claude文件夹视为一个黑盒。他们知道这个文件夹存在，也见过它出现在项目根目录中，但从未打开过，更不了解里面每个文件的作用。本指南将全面解析该文件夹的完整结构，涵盖日常常用文件以及只需一次配置、后续无需打理的文件。",
+      "url": "https://waytoagi.feishu.cn/wiki/QMFLwjBmCiMqeakHdVwcbQCwnDe"
     },
     {
       "date": "2026-03-21",
