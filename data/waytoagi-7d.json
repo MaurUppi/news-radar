@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-23T11:14:05.224328Z",
+  "generated_at": "2026-03-23T12:02:21.647140Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-23",
-  "count_today": 2,
+  "count_today": 4,
   "updates_today": [
+    {
+      "date": "2026-03-23",
+      "title": "看透 AI Agent 本质：Prompt、Context、Harness 的底层逻辑演进",
+      "summary": "如果你关注AI领域，这一年一定被这三个词轮番轰炸过： Prompt Engineering 、 Context Engineering 、 Harness Engineering。今天这篇文章，作者从「本质」聊起，串联它们的演进脉络，厘清它们的区别以及对我们设计 Agent 到底有什么用。",
+      "url": "https://waytoagi.feishu.cn/wiki/SmL7w8fBdiJ2x5kfgWLcavM4nRe"
+    },
+    {
+      "date": "2026-03-23",
+      "title": "小ai：OpenClaw 配置手册 - openclaw.json 完全指南",
+      "summary": "部署完小龙虾后，一旦出现故障或需要修改配置文件，OpenClaw的配置文件看起来是不是像天书？本文档完整梳理了 OpenClaw 配置文件~/.openclaw/openclaw.json 中所有24个顶层字段的含义与用法，或许对你有帮助。",
+      "url": "https://waytoagi.feishu.cn/wiki/Ew81wgRZxikhCJkDfhycTodsnyc"
+    },
     {
       "date": "2026-03-23",
       "title": "企业养虾🦞（OpenClaw），虾住在哪里比虾本身重要",
@@ -20,8 +32,20 @@
       "url": "https://waytoagi.feishu.cn/wiki/FHYkw8C9diYiTIkxHf9cMejEnTf"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-03-23",
+      "title": "看透 AI Agent 本质：Prompt、Context、Harness 的底层逻辑演进",
+      "summary": "如果你关注AI领域，这一年一定被这三个词轮番轰炸过： Prompt Engineering 、 Context Engineering 、 Harness Engineering。今天这篇文章，作者从「本质」聊起，串联它们的演进脉络，厘清它们的区别以及对我们设计 Agent 到底有什么用。",
+      "url": "https://waytoagi.feishu.cn/wiki/SmL7w8fBdiJ2x5kfgWLcavM4nRe"
+    },
+    {
+      "date": "2026-03-23",
+      "title": "小ai：OpenClaw 配置手册 - openclaw.json 完全指南",
+      "summary": "部署完小龙虾后，一旦出现故障或需要修改配置文件，OpenClaw的配置文件看起来是不是像天书？本文档完整梳理了 OpenClaw 配置文件~/.openclaw/openclaw.json 中所有24个顶层字段的含义与用法，或许对你有帮助。",
+      "url": "https://waytoagi.feishu.cn/wiki/Ew81wgRZxikhCJkDfhycTodsnyc"
+    },
     {
       "date": "2026-03-23",
       "title": "企业养虾🦞（OpenClaw），虾住在哪里比虾本身重要",
