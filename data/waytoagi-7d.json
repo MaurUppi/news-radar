@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T17:03:50.765896Z",
+  "generated_at": "2026-03-23T18:09:04.890847Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-23",
-  "count_today": 7,
+  "count_today": 8,
   "updates_today": [
     {
       "date": "2026-03-23",
@@ -39,6 +39,12 @@
     },
     {
       "date": "2026-03-23",
+      "title": "OpenClaw 养龙虾小白攻略！第2篇：内容创作者 7 大热门 Skills 推荐",
+      "summary": "做内容的人都知道，写稿并不难。真正磨人的，是前面找选题、找线索、找一手信息，中间把结构捋顺，后面再把内容做成图文、演示稿或者别的形式。所以内容创作最缺的，往往不是一个“会写稿的 AI”，而是能真正嵌进工作流的能力。下面是作者实测后，优先推荐的几组适合做内容的 skill。",
+      "url": "https://waytoagi.feishu.cn/wiki/FcCmwWm3LirUkdk2UwvcLmaOnKe"
+    },
+    {
+      "date": "2026-03-23",
       "title": "AI音乐周刊 W.A 020",
       "summary": "这周AI音乐领域迎来合规与创新的双重爆发！英国取消AI版权豁免，BMG、索尼等重拳维权，首个AI流媒体欺诈案宣判。BandM8、Roland等都推出“音乐生音乐”协作平台，专业音乐人AI使用率达78%，分轨提取成为了核心需求。更有多篇前沿论文聚焦音色控制、音频水印等关键方向。",
       "url": "https://waytoagi.feishu.cn/wiki/TonvwjmKQiqvXEkmOnCcLtM1nDf"
@@ -50,7 +56,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/GV0jw6tj1iTbnvkXxP0cjVrhnze"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 36,
   "updates_7d": [
     {
       "date": "2026-03-23",
@@ -81,6 +87,12 @@
       "title": "Web Access：一个 Skill，拉满 Agent 联网和浏览器能力",
       "summary": "一泽做的一个Skill，支持：一次性打开操作 100+ 浏览器网页、自动化模拟操作，发布各大社媒平台、帮你直接找 B 站、网飞等并自动打开播放、自动查美签系统，看可预约时间并预约、Agent 自动化测试 Web App等等。",
       "url": "https://waytoagi.feishu.cn/wiki/FHYkw8C9diYiTIkxHf9cMejEnTf"
+    },
+    {
+      "date": "2026-03-23",
+      "title": "OpenClaw 养龙虾小白攻略！第2篇：内容创作者 7 大热门 Skills 推荐",
+      "summary": "做内容的人都知道，写稿并不难。真正磨人的，是前面找选题、找线索、找一手信息，中间把结构捋顺，后面再把内容做成图文、演示稿或者别的形式。所以内容创作最缺的，往往不是一个“会写稿的 AI”，而是能真正嵌进工作流的能力。下面是作者实测后，优先推荐的几组适合做内容的 skill。",
+      "url": "https://waytoagi.feishu.cn/wiki/FcCmwWm3LirUkdk2UwvcLmaOnKe"
     },
     {
       "date": "2026-03-23",
