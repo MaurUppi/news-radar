@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-03-23T08:54:57.854877Z",
+  "generated_at": "2026-03-23T10:02:10.993712Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-23",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
+    {
+      "date": "2026-03-23",
+      "title": "企业养虾🦞（OpenClaw），虾住在哪里比虾本身重要",
+      "summary": "OpenClaw安装容易，用起来难 。做电商的公司，问虾上个月的退货率，它跑去网上搜；让它写封催款邮件，它连客户欠了多少钱都不知道。这样的虾，跟鱼缸里的宠物没什么区别，只有观赏价值。很多人说企业养虾没养好，是模型不够强，是 Skill 写得不好。这话不完全对。虾住在哪里，比虾本身重要。",
+      "url": "https://waytoagi.feishu.cn/wiki/DvomwpdBqiW5PkkONGRc9ywOnJc"
+    },
     {
       "date": "2026-03-23",
       "title": "Web Access：一个 Skill，拉满 Agent 联网和浏览器能力",
@@ -14,8 +20,14 @@
       "url": "https://waytoagi.feishu.cn/wiki/FHYkw8C9diYiTIkxHf9cMejEnTf"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-03-23",
+      "title": "企业养虾🦞（OpenClaw），虾住在哪里比虾本身重要",
+      "summary": "OpenClaw安装容易，用起来难 。做电商的公司，问虾上个月的退货率，它跑去网上搜；让它写封催款邮件，它连客户欠了多少钱都不知道。这样的虾，跟鱼缸里的宠物没什么区别，只有观赏价值。很多人说企业养虾没养好，是模型不够强，是 Skill 写得不好。这话不完全对。虾住在哪里，比虾本身重要。",
+      "url": "https://waytoagi.feishu.cn/wiki/DvomwpdBqiW5PkkONGRc9ywOnJc"
+    },
     {
       "date": "2026-03-23",
       "title": "Web Access：一个 Skill，拉满 Agent 联网和浏览器能力",
