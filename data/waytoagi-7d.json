@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T15:59:20.485075Z",
+  "generated_at": "2026-03-23T17:03:50.765896Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-23",
-  "count_today": 4,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-03-23",
@@ -27,12 +27,30 @@
     },
     {
       "date": "2026-03-23",
+      "title": "产品的未来：从\"以用户为中心\"到\"用户主导开发（UDD）\"",
+      "summary": "以前使用各种产品，有不好用的地方都只能找平台方反馈，大部分是得不到回复的。一部分是因为研发资源有限等排期，还有一大部分需求被评估之后抛弃了。 而现在，自己使用的工具和工作流每天都可以数次迭代，而且很多产品经过改造变得更加适合自己，再也不需要去等待平台的建设，更不用接受平台的\"取舍\"。那么或许产品的未来会从\"以用户为中心\"转变为\"用户主导开发（UDD）\"",
+      "url": "https://waytoagi.feishu.cn/wiki/FtWRwGhQgi4SBYkecI8c9l6bnAb"
+    },
+    {
+      "date": "2026-03-23",
       "title": "Web Access：一个 Skill，拉满 Agent 联网和浏览器能力",
       "summary": "一泽做的一个Skill，支持：一次性打开操作 100+ 浏览器网页、自动化模拟操作，发布各大社媒平台、帮你直接找 B 站、网飞等并自动打开播放、自动查美签系统，看可预约时间并预约、Agent 自动化测试 Web App等等。",
       "url": "https://waytoagi.feishu.cn/wiki/FHYkw8C9diYiTIkxHf9cMejEnTf"
+    },
+    {
+      "date": "2026-03-23",
+      "title": "AI音乐周刊 W.A 020",
+      "summary": "这周AI音乐领域迎来合规与创新的双重爆发！英国取消AI版权豁免，BMG、索尼等重拳维权，首个AI流媒体欺诈案宣判。BandM8、Roland等都推出“音乐生音乐”协作平台，专业音乐人AI使用率达78%，分轨提取成为了核心需求。更有多篇前沿论文聚焦音色控制、音频水印等关键方向。",
+      "url": "https://waytoagi.feishu.cn/wiki/TonvwjmKQiqvXEkmOnCcLtM1nDf"
+    },
+    {
+      "date": "2026-03-23",
+      "title": "AI大白话：喂饭案例讲透100个核心技术概念（万字*2）",
+      "summary": "这篇文章，作者用最通俗的语言、最生活化的例子，把AI的100个核心概念讲得明明白白。",
+      "url": "https://waytoagi.feishu.cn/wiki/GV0jw6tj1iTbnvkXxP0cjVrhnze"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 35,
   "updates_7d": [
     {
       "date": "2026-03-23",
@@ -54,9 +72,27 @@
     },
     {
       "date": "2026-03-23",
+      "title": "产品的未来：从\"以用户为中心\"到\"用户主导开发（UDD）\"",
+      "summary": "以前使用各种产品，有不好用的地方都只能找平台方反馈，大部分是得不到回复的。一部分是因为研发资源有限等排期，还有一大部分需求被评估之后抛弃了。 而现在，自己使用的工具和工作流每天都可以数次迭代，而且很多产品经过改造变得更加适合自己，再也不需要去等待平台的建设，更不用接受平台的\"取舍\"。那么或许产品的未来会从\"以用户为中心\"转变为\"用户主导开发（UDD）\"",
+      "url": "https://waytoagi.feishu.cn/wiki/FtWRwGhQgi4SBYkecI8c9l6bnAb"
+    },
+    {
+      "date": "2026-03-23",
       "title": "Web Access：一个 Skill，拉满 Agent 联网和浏览器能力",
       "summary": "一泽做的一个Skill，支持：一次性打开操作 100+ 浏览器网页、自动化模拟操作，发布各大社媒平台、帮你直接找 B 站、网飞等并自动打开播放、自动查美签系统，看可预约时间并预约、Agent 自动化测试 Web App等等。",
       "url": "https://waytoagi.feishu.cn/wiki/FHYkw8C9diYiTIkxHf9cMejEnTf"
+    },
+    {
+      "date": "2026-03-23",
+      "title": "AI音乐周刊 W.A 020",
+      "summary": "这周AI音乐领域迎来合规与创新的双重爆发！英国取消AI版权豁免，BMG、索尼等重拳维权，首个AI流媒体欺诈案宣判。BandM8、Roland等都推出“音乐生音乐”协作平台，专业音乐人AI使用率达78%，分轨提取成为了核心需求。更有多篇前沿论文聚焦音色控制、音频水印等关键方向。",
+      "url": "https://waytoagi.feishu.cn/wiki/TonvwjmKQiqvXEkmOnCcLtM1nDf"
+    },
+    {
+      "date": "2026-03-23",
+      "title": "AI大白话：喂饭案例讲透100个核心技术概念（万字*2）",
+      "summary": "这篇文章，作者用最通俗的语言、最生活化的例子，把AI的100个核心概念讲得明明白白。",
+      "url": "https://waytoagi.feishu.cn/wiki/GV0jw6tj1iTbnvkXxP0cjVrhnze"
     },
     {
       "date": "2026-03-22",
@@ -225,30 +261,6 @@
       "title": "MiniMax M2.7: 开启模型的自我进化",
       "summary": "MiniMax M2.7模型发布，是MiniMax第一个模型深度参与迭代自己的模型。它能够自行构建复杂Agent Harness，并基于Agent Teams、复杂Skills、Tool Search tool 等能力，完成高度复杂的生产力任务。快来一起看看具体迭代了哪些内容！",
       "url": "https://waytoagi.feishu.cn/wiki/RnllwG8mjiQMWzklp5pcFd2cnWg"
-    },
-    {
-      "date": "2026-03-17",
-      "title": "黄仁勋2小时都发布了什么：英伟达 GTC 2026 “AI春晚” 全部重磅，一文看完",
-      "summary": "这是老黄今天在 GTC 2026 上给出的最炸裂数字，Blackwell 和 Vera Rubin 到 2027 年的订单预期，比去年说的 5000 亿直接翻倍。英伟达股价盘中一度涨超 4%，收盘涨 1.6%。3月16日，英伟达一年一度的\"AI 春晚\" GTC 2026 在圣何塞 SAP 中心开幕，超 3 万人到场（比去年多 5000 人），450+ 赞助商，1000 场分论坛，2000 位演讲者。",
-      "url": "https://waytoagi.feishu.cn/wiki/VsFDwKUfVi755skMvjecmnqInFc"
-    },
-    {
-      "date": "2026-03-17",
-      "title": "花 2000 多块买了台 MacBook Neo 养龙虾，结果把它拆了个底朝天!(亲测！！)",
-      "summary": "2026 年开春，8 家大厂扎堆做“龙虾”。我花了一周，把智谱 AutoClaw 从 app.asar 到 SOUL.md 全逆向了一遍，顺便横评了 8 家竞品。这篇文章，一次讲完。",
-      "url": "https://waytoagi.feishu.cn/wiki/Xj0ew414giqNAWkBOj9c4Wt5nIh"
-    },
-    {
-      "date": "2026-03-17",
-      "title": "一文讲透：OpenClaw多agent模式下Skills的分层调用机制",
-      "summary": "这篇文章带你明晰OpenClaw里的skill本质是什么、skill 的目录层次是怎么样的、以及main agent、agency-agents、sub-agent 之间和skill的关系。很多人第一次接触 OpenClaw 的 skills 机制，都会把几件事混在一起。如果这些边界不先讲清楚，后面一旦开始做 multi-agent 协作，目录结构和行为就会越看越像“玄学”。",
-      "url": "https://waytoagi.feishu.cn/wiki/QoLGw3Gj0iHS3kk8PWjcx4QZnxc"
-    },
-    {
-      "date": "2026-03-17",
-      "title": "Harness Engineering 深度解读：AI Agent 时代的工程范式革命",
-      "summary": "Harness Engineering 是 2025-2026 年 AI 工程领域最重要的新概念之一。它不是一个工具，不是一个框架，而是一套围绕 AI Agent 构建的约束、反馈与控制系统 ——让 Agent 在人类设定的边界内自主、可靠、可持续地工作。",
-      "url": "https://waytoagi.feishu.cn/wiki/DFsjwYahxiYtVfkteSycorfnnBc"
     }
   ],
   "warning": null,
