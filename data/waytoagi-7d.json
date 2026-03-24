@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-03-24T12:03:14.745578Z",
+  "generated_at": "2026-03-24T13:55:40.285088Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-24",
-  "count_today": 3,
+  "count_today": 5,
   "updates_today": [
+    {
+      "date": "2026-03-24",
+      "title": "给 OpenClaw 加一道防火墙，省钱和安全我全要了",
+      "summary": "关于OpenClaw大家不仅仅在讨论怎么玩得更花，而更多的是两个字： 太贵 。以及另外两个字： 不安全 。甚至网上已经出现了 付费卸载龙虾 的笑话。今天这篇文章带大家使用 OpenClaw + n8n，打造更便宜、更安全的 Agent 。",
+      "url": "https://waytoagi.feishu.cn/wiki/FJP7wwEMliyTNfk4XusckB18nSc"
+    },
     {
       "date": "2026-03-24",
       "title": "有人扫了1000个GitHub仓库，筛出了这50个最值得装的Claude Skills和开源项目",
@@ -18,6 +24,12 @@
       "title": "对话Max王若愚：当AI取代一切能力，人还剩下什么？",
       "summary": "当机器的知识量彻底碾压人类，我们独有的“智慧”与“悟性”，究竟该如何刻意练习？如果你正处在职业的迷茫期，或者正在思考如何在这个疯狂的时代构建自己的个人系统，这期长达一个半小时的硬核对谈，或许会给你一些帮助。",
       "url": "https://waytoagi.feishu.cn/wiki/FStgw3Pmbi8L5Gk3acbcdwgpngg"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "CY：OpenClaw强提醒 干完活打个电话告诉我",
+      "summary": "虾干完活了你不知道？让🦐停下来休息了？这怎么行。CY带你让OpenClaw强提醒，干完活打个电话告诉你！从应用创建、权限开通到技能安装，有详细指引和排错方案，快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/ZMwxwktA4i7gxRkm6IdcYpGrn6o"
     },
     {
       "date": "2026-03-24",
@@ -26,8 +38,14 @@
       "url": "https://waytoagi.feishu.cn/wiki/L1mfwkm9GijqSrkIE4xciqTVn6g"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 41,
   "updates_7d": [
+    {
+      "date": "2026-03-24",
+      "title": "给 OpenClaw 加一道防火墙，省钱和安全我全要了",
+      "summary": "关于OpenClaw大家不仅仅在讨论怎么玩得更花，而更多的是两个字： 太贵 。以及另外两个字： 不安全 。甚至网上已经出现了 付费卸载龙虾 的笑话。今天这篇文章带大家使用 OpenClaw + n8n，打造更便宜、更安全的 Agent 。",
+      "url": "https://waytoagi.feishu.cn/wiki/FJP7wwEMliyTNfk4XusckB18nSc"
+    },
     {
       "date": "2026-03-24",
       "title": "有人扫了1000个GitHub仓库，筛出了这50个最值得装的Claude Skills和开源项目",
@@ -39,6 +57,12 @@
       "title": "对话Max王若愚：当AI取代一切能力，人还剩下什么？",
       "summary": "当机器的知识量彻底碾压人类，我们独有的“智慧”与“悟性”，究竟该如何刻意练习？如果你正处在职业的迷茫期，或者正在思考如何在这个疯狂的时代构建自己的个人系统，这期长达一个半小时的硬核对谈，或许会给你一些帮助。",
       "url": "https://waytoagi.feishu.cn/wiki/FStgw3Pmbi8L5Gk3acbcdwgpngg"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "CY：OpenClaw强提醒 干完活打个电话告诉我",
+      "summary": "虾干完活了你不知道？让🦐停下来休息了？这怎么行。CY带你让OpenClaw强提醒，干完活打个电话告诉你！从应用创建、权限开通到技能安装，有详细指引和排错方案，快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/ZMwxwktA4i7gxRkm6IdcYpGrn6o"
     },
     {
       "date": "2026-03-24",
