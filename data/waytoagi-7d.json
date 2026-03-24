@@ -1,63 +1,27 @@
 {
-  "generated_at": "2026-03-24T05:59:24.199187Z",
+  "generated_at": "2026-03-24T08:07:07.512467Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-03-23",
-  "count_today": 8,
+  "latest_date": "2026-03-24",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-03-23",
-      "title": "看透 AI Agent 本质：Prompt、Context、Harness 的底层逻辑演进",
-      "summary": "如果你关注AI领域，这一年一定被这三个词轮番轰炸过： Prompt Engineering 、 Context Engineering 、 Harness Engineering。今天这篇文章，作者从「本质」聊起，串联它们的演进脉络，厘清它们的区别以及对我们设计 Agent 到底有什么用。",
-      "url": "https://waytoagi.feishu.cn/wiki/SmL7w8fBdiJ2x5kfgWLcavM4nRe"
-    },
-    {
-      "date": "2026-03-23",
-      "title": "小ai：OpenClaw 配置手册 - openclaw.json 完全指南",
-      "summary": "部署完小龙虾后，一旦出现故障或需要修改配置文件，OpenClaw的配置文件看起来是不是像天书？本文档完整梳理了 OpenClaw 配置文件~/.openclaw/openclaw.json 中所有24个顶层字段的含义与用法，或许对你有帮助。",
-      "url": "https://waytoagi.feishu.cn/wiki/Ew81wgRZxikhCJkDfhycTodsnyc"
-    },
-    {
-      "date": "2026-03-23",
-      "title": "企业养虾🦞（OpenClaw），虾住在哪里比虾本身重要",
-      "summary": "OpenClaw安装容易，用起来难 。做电商的公司，问虾上个月的退货率，它跑去网上搜；让它写封催款邮件，它连客户欠了多少钱都不知道。这样的虾，跟鱼缸里的宠物没什么区别，只有观赏价值。很多人说企业养虾没养好，是模型不够强，是 Skill 写得不好。这话不完全对。虾住在哪里，比虾本身重要。",
-      "url": "https://waytoagi.feishu.cn/wiki/DvomwpdBqiW5PkkONGRc9ywOnJc"
-    },
-    {
-      "date": "2026-03-23",
-      "title": "产品的未来：从\"以用户为中心\"到\"用户主导开发（UDD）\"",
-      "summary": "以前使用各种产品，有不好用的地方都只能找平台方反馈，大部分是得不到回复的。一部分是因为研发资源有限等排期，还有一大部分需求被评估之后抛弃了。 而现在，自己使用的工具和工作流每天都可以数次迭代，而且很多产品经过改造变得更加适合自己，再也不需要去等待平台的建设，更不用接受平台的\"取舍\"。那么或许产品的未来会从\"以用户为中心\"转变为\"用户主导开发（UDD）\"",
-      "url": "https://waytoagi.feishu.cn/wiki/FtWRwGhQgi4SBYkecI8c9l6bnAb"
-    },
-    {
-      "date": "2026-03-23",
-      "title": "Web Access：一个 Skill，拉满 Agent 联网和浏览器能力",
-      "summary": "一泽做的一个Skill，支持：一次性打开操作 100+ 浏览器网页、自动化模拟操作，发布各大社媒平台、帮你直接找 B 站、网飞等并自动打开播放、自动查美签系统，看可预约时间并预约、Agent 自动化测试 Web App等等。",
-      "url": "https://waytoagi.feishu.cn/wiki/FHYkw8C9diYiTIkxHf9cMejEnTf"
-    },
-    {
-      "date": "2026-03-23",
-      "title": "OpenClaw 养龙虾小白攻略！第2篇：内容创作者 7 大热门 Skills 推荐",
-      "summary": "做内容的人都知道，写稿并不难。真正磨人的，是前面找选题、找线索、找一手信息，中间把结构捋顺，后面再把内容做成图文、演示稿或者别的形式。所以内容创作最缺的，往往不是一个“会写稿的 AI”，而是能真正嵌进工作流的能力。下面是作者实测后，优先推荐的几组适合做内容的 skill。",
-      "url": "https://waytoagi.feishu.cn/wiki/FcCmwWm3LirUkdk2UwvcLmaOnKe"
-    },
-    {
-      "date": "2026-03-23",
-      "title": "AI音乐周刊 W.A 020",
-      "summary": "这周AI音乐领域迎来合规与创新的双重爆发！英国取消AI版权豁免，BMG、索尼等重拳维权，首个AI流媒体欺诈案宣判。BandM8、Roland等都推出“音乐生音乐”协作平台，专业音乐人AI使用率达78%，分轨提取成为了核心需求。更有多篇前沿论文聚焦音色控制、音频水印等关键方向。",
-      "url": "https://waytoagi.feishu.cn/wiki/TonvwjmKQiqvXEkmOnCcLtM1nDf"
-    },
-    {
-      "date": "2026-03-23",
-      "title": "AI大白话：喂饭案例讲透100个核心技术概念（万字*2）",
-      "summary": "这篇文章，作者用最通俗的语言、最生活化的例子，把AI的100个核心概念讲得明明白白。",
-      "url": "https://waytoagi.feishu.cn/wiki/GV0jw6tj1iTbnvkXxP0cjVrhnze"
+      "date": "2026-03-24",
+      "title": "有人扫了1000个GitHub仓库，筛出了这50个最值得装的Claude Skills和开源项目",
+      "summary": "社区里有超过8万个 Claude Code Skills，GitHub上每周都冒出新的Agent框架和工具。问题是绝大多数都是噪音，真正好用的可能不到1%。有一位开发者扫了1000多个仓库，实测了 200多个 Skills，最终筛出了 50 个真正值得关注的工具，几乎覆盖了当下 AI 开发工作流的所有核心场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/LPD5wj88RinrNgkjmERcc9oenWf"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
+    {
+      "date": "2026-03-24",
+      "title": "有人扫了1000个GitHub仓库，筛出了这50个最值得装的Claude Skills和开源项目",
+      "summary": "社区里有超过8万个 Claude Code Skills，GitHub上每周都冒出新的Agent框架和工具。问题是绝大多数都是噪音，真正好用的可能不到1%。有一位开发者扫了1000多个仓库，实测了 200多个 Skills，最终筛出了 50 个真正值得关注的工具，几乎覆盖了当下 AI 开发工作流的所有核心场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/LPD5wj88RinrNgkjmERcc9oenWf"
+    },
     {
       "date": "2026-03-23",
       "title": "看透 AI Agent 本质：Prompt、Context、Harness 的底层逻辑演进",
@@ -275,7 +239,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/RnllwG8mjiQMWzklp5pcFd2cnWg"
     }
   ],
-  "warning": "WaytoAGI 近7日更新抓取失败，已回退到上次成功快照",
+  "warning": null,
   "has_error": false,
   "error": null
 }
