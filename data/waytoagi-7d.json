@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-03-24T09:27:49.535780Z",
+  "generated_at": "2026-03-24T10:27:31.796479Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-24",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
     {
       "date": "2026-03-24",
       "title": "有人扫了1000个GitHub仓库，筛出了这50个最值得装的Claude Skills和开源项目",
       "summary": "社区里有超过8万个 Claude Code Skills，GitHub上每周都冒出新的Agent框架和工具。问题是绝大多数都是噪音，真正好用的可能不到1%。有一位开发者扫了1000多个仓库，实测了 200多个 Skills，最终筛出了 50 个真正值得关注的工具，几乎覆盖了当下 AI 开发工作流的所有核心场景。",
       "url": "https://waytoagi.feishu.cn/wiki/LPD5wj88RinrNgkjmERcc9oenWf"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "对话Max王若愚：当AI取代一切能力，人还剩下什么？",
+      "summary": "当机器的知识量彻底碾压人类，我们独有的“智慧”与“悟性”，究竟该如何刻意练习？如果你正处在职业的迷茫期，或者正在思考如何在这个疯狂的时代构建自己的个人系统，这期长达一个半小时的硬核对谈，或许会给你一些帮助。",
+      "url": "https://waytoagi.feishu.cn/wiki/FStgw3Pmbi8L5Gk3acbcdwgpngg"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 38,
   "updates_7d": [
     {
       "date": "2026-03-24",
       "title": "有人扫了1000个GitHub仓库，筛出了这50个最值得装的Claude Skills和开源项目",
       "summary": "社区里有超过8万个 Claude Code Skills，GitHub上每周都冒出新的Agent框架和工具。问题是绝大多数都是噪音，真正好用的可能不到1%。有一位开发者扫了1000多个仓库，实测了 200多个 Skills，最终筛出了 50 个真正值得关注的工具，几乎覆盖了当下 AI 开发工作流的所有核心场景。",
       "url": "https://waytoagi.feishu.cn/wiki/LPD5wj88RinrNgkjmERcc9oenWf"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "对话Max王若愚：当AI取代一切能力，人还剩下什么？",
+      "summary": "当机器的知识量彻底碾压人类，我们独有的“智慧”与“悟性”，究竟该如何刻意练习？如果你正处在职业的迷茫期，或者正在思考如何在这个疯狂的时代构建自己的个人系统，这期长达一个半小时的硬核对谈，或许会给你一些帮助。",
+      "url": "https://waytoagi.feishu.cn/wiki/FStgw3Pmbi8L5Gk3acbcdwgpngg"
     },
     {
       "date": "2026-03-23",
