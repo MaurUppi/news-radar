@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T10:27:31.796479Z",
+  "generated_at": "2026-03-24T11:25:31.028713Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-24",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-03-24",
@@ -18,9 +18,15 @@
       "title": "对话Max王若愚：当AI取代一切能力，人还剩下什么？",
       "summary": "当机器的知识量彻底碾压人类，我们独有的“智慧”与“悟性”，究竟该如何刻意练习？如果你正处在职业的迷茫期，或者正在思考如何在这个疯狂的时代构建自己的个人系统，这期长达一个半小时的硬核对谈，或许会给你一些帮助。",
       "url": "https://waytoagi.feishu.cn/wiki/FStgw3Pmbi8L5Gk3acbcdwgpngg"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "\"将注意力旋转90°\"：深入浅出解读 Kimi 最新出圈成果",
+      "summary": "前几天 ，一篇来自Kimi的论文「ATTENTION RESIDUALS」在 AI 圈引发了激烈讨论——马斯克罕见地发出评价：\"Impressive work from Kimi\"。同时，两位前Openai大佬也同样发出了高度评价，OpenAI 「推理模型之父」Jerry Tworek表示“深度学习2.0时代即将到来”。然而这篇论文的共同一作者之一，是一位17岁的中国高中生——陈广宇。那这篇论文究竟写了什么，能让这些顶级大佬集体出动，这篇文章用更易懂的方式让大家了解它是什么，解决了什么问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/L1mfwkm9GijqSrkIE4xciqTVn6g"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 39,
   "updates_7d": [
     {
       "date": "2026-03-24",
@@ -33,6 +39,12 @@
       "title": "对话Max王若愚：当AI取代一切能力，人还剩下什么？",
       "summary": "当机器的知识量彻底碾压人类，我们独有的“智慧”与“悟性”，究竟该如何刻意练习？如果你正处在职业的迷茫期，或者正在思考如何在这个疯狂的时代构建自己的个人系统，这期长达一个半小时的硬核对谈，或许会给你一些帮助。",
       "url": "https://waytoagi.feishu.cn/wiki/FStgw3Pmbi8L5Gk3acbcdwgpngg"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "\"将注意力旋转90°\"：深入浅出解读 Kimi 最新出圈成果",
+      "summary": "前几天 ，一篇来自Kimi的论文「ATTENTION RESIDUALS」在 AI 圈引发了激烈讨论——马斯克罕见地发出评价：\"Impressive work from Kimi\"。同时，两位前Openai大佬也同样发出了高度评价，OpenAI 「推理模型之父」Jerry Tworek表示“深度学习2.0时代即将到来”。然而这篇论文的共同一作者之一，是一位17岁的中国高中生——陈广宇。那这篇论文究竟写了什么，能让这些顶级大佬集体出动，这篇文章用更易懂的方式让大家了解它是什么，解决了什么问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/L1mfwkm9GijqSrkIE4xciqTVn6g"
     },
     {
       "date": "2026-03-23",
