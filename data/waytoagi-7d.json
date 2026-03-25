@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-25T14:40:59.169636Z",
+  "generated_at": "2026-03-25T16:09:50.500229Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-25",
-  "count_today": 2,
+  "count_today": 5,
   "updates_today": [
+    {
+      "date": "2026-03-25",
+      "title": "按头学习| 让 AI 真正做好复杂任务，需要一套什么样的系统？（Anthropic官方指南）",
+      "summary": "这篇文章是Anthropic工程师在实战中搞清楚的一件事： 要让 AI 真正做好长时间、复杂的任务，光靠一个聪明的模型是不够的。你需要设计一套系统。让我们一起来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/PkHwwaW5LiWEkZkAW2ecMJHenLh"
+    },
+    {
+      "date": "2026-03-25",
+      "title": "如何为你的AI员工构建操作系统",
+      "summary": "",
+      "url": "https://waytoagi.feishu.cn/wiki/UPy3wghU6iEMCBkNaefczPkxn8b"
+    },
     {
       "date": "2026-03-25",
       "title": "喝点VC｜a16z合伙人：真正的问题在于，你究竟是在依附别人的模型，还是在它之上搭建了有意义的东西",
@@ -15,18 +27,42 @@
     },
     {
       "date": "2026-03-25",
+      "title": "一句话搞定公众号排版、封面生成、发布",
+      "summary": "最近小互一直研究 Claude Code 工作流，自动化搜集素材、处理素材、写文章、自动配图、自动排版、自动同步到各个平台。从今天开始他将陆续公布最近研究和实战的结果，帮助大家学习 Claude Code 工作流，如何实现各种复杂工作的自动化...",
+      "url": "https://waytoagi.feishu.cn/wiki/Ze6mw90iLi6x5ikEV4GcN1kgnBd"
+    },
+    {
+      "date": "2026-03-25",
       "title": "Sora 死了，OpenAI 正在变成另一家公司",
       "summary": "就在昨天，OpenAI 官方账号发布了一则简短的告别声明：“我们要和 Sora 说再见了。”不仅 App 关停、API 下线，就连原本计划接入 ChatGPT 的视频功能也一并搁置。这背后，究竟藏着怎样不为人知的深层原因？",
       "url": "https://waytoagi.feishu.cn/wiki/J5YHwOwFsio6XZkvkI5cnlhwneb"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-03-25",
+      "title": "按头学习| 让 AI 真正做好复杂任务，需要一套什么样的系统？（Anthropic官方指南）",
+      "summary": "这篇文章是Anthropic工程师在实战中搞清楚的一件事： 要让 AI 真正做好长时间、复杂的任务，光靠一个聪明的模型是不够的。你需要设计一套系统。让我们一起来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/PkHwwaW5LiWEkZkAW2ecMJHenLh"
+    },
+    {
+      "date": "2026-03-25",
+      "title": "如何为你的AI员工构建操作系统",
+      "summary": "",
+      "url": "https://waytoagi.feishu.cn/wiki/UPy3wghU6iEMCBkNaefczPkxn8b"
+    },
     {
       "date": "2026-03-25",
       "title": "喝点VC｜a16z合伙人：真正的问题在于，你究竟是在依附别人的模型，还是在它之上搭建了有意义的东西",
       "summary": "在这场对谈中， 围绕a16z如何判断成长阶段公司的 “ 第二增长曲线 ” 展开系统阐述，重点谈到 Waymo 、 ElevenLabs 、 Kalshi 、 Coinbase 、 Robinhood 、 Stripe 、 Revolut 等公司的投资逻辑，以及私募与公开市场的增长断层、 AI 时代毛利率与留存指标的重新定义、预测市场的监管路径和金融科技平台的长期演化方向。",
       "url": "https://waytoagi.feishu.cn/wiki/OgTuwWVYKigxZWk90ejcD7BcnmZ"
+    },
+    {
+      "date": "2026-03-25",
+      "title": "一句话搞定公众号排版、封面生成、发布",
+      "summary": "最近小互一直研究 Claude Code 工作流，自动化搜集素材、处理素材、写文章、自动配图、自动排版、自动同步到各个平台。从今天开始他将陆续公布最近研究和实战的结果，帮助大家学习 Claude Code 工作流，如何实现各种复杂工作的自动化...",
+      "url": "https://waytoagi.feishu.cn/wiki/Ze6mw90iLi6x5ikEV4GcN1kgnBd"
     },
     {
       "date": "2026-03-25",
@@ -219,42 +255,6 @@
       "title": "50个Claude Code日常使用技巧与最佳实践",
       "summary": "作者整理了50条Claude Code的最佳实践和技巧，无论你是刚使用一周还是已经用了几个月，这些都能有所帮助，它们的来源包括Anthropic的官方文档、Boris Cherny（Claude Code的开发者）、社区经验以及作者自己一年的日常使用心得。",
       "url": "https://waytoagi.feishu.cn/wiki/KyznwDZsaiYCWtkPPlvc4iFonqg"
-    },
-    {
-      "date": "2026-03-19",
-      "title": "被美国遣返、禁止入境 5 年，他在温哥华的卧室里做出了日处理 400 万工作流的 AI 平台",
-      "summary": "Max Brodeur-Urbas 是 Gumloop 的联合创始人兼 CEO。这家公司刚拿了 Benchmark 领投的 5000 万美元 B 轮融资 ，客户包括 Instacart、Shopify、DoorDash、Gusto。在这之前，他是微软的一名普通工程师，因为过边境被遣返而被迫走上创业这条路。这次访谈来自 YouTube 频道 EO（Entrepreneur & Opportunities），来看看他都分享了哪些内容！",
-      "url": "https://waytoagi.feishu.cn/wiki/LIWywChovisTNdkggeQcYrDknqj"
-    },
-    {
-      "date": "2026-03-19",
-      "title": "全程 Demo｜飞书 2026 春季发布会，把龙虾融进飞书",
-      "summary": "今天，飞书举办 2026 年春季新品发布会。这场发布会 形式罕见 ：全程纯 Demo，没有 PPT。一共发布了 8 款产品，核心只有一件事： 让每个人在飞书里拥有自己的智能伙伴。发布的产品包括：飞书 aily（智能伙伴）、aily 专业版、飞书妙搭、多维表格 AI 搭建、AI 同传、会中 AI 纪要、安克 AI 录音豆、AnyGen × Lark（海外版）。让我们一同一览详情！",
-      "url": "https://waytoagi.feishu.cn/wiki/AgdNwWp9jiN1Cyke3khcXzNWn9g"
-    },
-    {
-      "date": "2026-03-19",
-      "title": "你不知道的 Agent：原理、架构与工程实践",
-      "summary": "这篇文章主要讲 Agent 架构里几块最影响工程效果的内容，包括控制流、上下文工程、工具设计、记忆、多 Agent 组织、评测、追踪和安全，最后再用 OpenClaw 的实现把这些设计原则串起来看一遍。",
-      "url": "https://waytoagi.feishu.cn/wiki/AoDkwiCEYiVX46kx6fKcWAmentc"
-    },
-    {
-      "date": "2026-03-19",
-      "title": "什么是 Vibe Design？教你如何利用stitch一句话生成一整套UI页面",
-      "summary": "这篇文章带大家了解下Google Stitch这个产品是做什么的以及怎么更好的使用它。简单说，Stitch 就是\"你说，它画\"。告诉它你想要什么界面，它直接给你出设计稿，还支持导出到 Figma、AI Studio 等工具里。",
-      "url": "https://waytoagi.feishu.cn/wiki/AptYwzsuwiK36Ek09vPch2BqnNc"
-    },
-    {
-      "date": "2026-03-19",
-      "title": "OpenClaw Skill技能系统 - 3分钟秒懂教程",
-      "summary": "有没有想过，为什么有些人用OpenClaw特别顺手，三两下就能搞定复杂的活儿，而你让小龙虾帮忙做事，它总是\"听不懂人话\"？秘密就藏在一个叫Skill的小东西里。今天咱们用大白话聊聊这个 Skill 到底是啥，怎么用，保证你看完就能明白。",
-      "url": "https://waytoagi.feishu.cn/wiki/M6FOwCpJ5ikqeUkfFsZcos72npg"
-    },
-    {
-      "date": "2026-03-19",
-      "title": "Google 再放大招 对着画布说话就能做设计 Figma 股价爆跌8.8%",
-      "summary": "Google 的 AI 设计工具 Stitch 昨天发了一次大更新，从 Labs 实验项目正式升级为 AI 原生设计平台。这次不是加个小功能那种升级，是整个产品形态变了。从一个\"用 AI 生成 UI 图片\"的工具，直接进化成了一个 AI 原生的软件设计平台。Google 给这个新方向起了个名字，叫 Vibe Design。让我们一同一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/JBkVwUbFxiRm1PkCrMpciaAnnmg"
     }
   ],
   "warning": null,
