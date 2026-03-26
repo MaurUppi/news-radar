@@ -1,45 +1,27 @@
 {
-  "generated_at": "2026-03-26T06:12:22.947700Z",
+  "generated_at": "2026-03-26T07:42:09.597862Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-03-25",
-  "count_today": 5,
+  "latest_date": "2026-03-26",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-03-25",
-      "title": "按头学习| 让 AI 真正做好复杂任务，需要一套什么样的系统？（Anthropic官方指南）",
-      "summary": "这篇文章是Anthropic工程师在实战中搞清楚的一件事： 要让 AI 真正做好长时间、复杂的任务，光靠一个聪明的模型是不够的。你需要设计一套系统。让我们一起来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/PkHwwaW5LiWEkZkAW2ecMJHenLh"
-    },
-    {
-      "date": "2026-03-25",
-      "title": "如何为你的AI员工构建操作系统",
-      "summary": "本篇文章带你一起从第一性原理出发，探讨为何管理AI智能体集群需要的是一个OS层，而非更好的框架，以及该层实际需要承担的任务。",
-      "url": "https://waytoagi.feishu.cn/wiki/UPy3wghU6iEMCBkNaefczPkxn8b"
-    },
-    {
-      "date": "2026-03-25",
-      "title": "喝点VC｜a16z合伙人：真正的问题在于，你究竟是在依附别人的模型，还是在它之上搭建了有意义的东西",
-      "summary": "在这场对谈中， 围绕a16z如何判断成长阶段公司的 “ 第二增长曲线 ” 展开系统阐述，重点谈到 Waymo 、 ElevenLabs 、 Kalshi 、 Coinbase 、 Robinhood 、 Stripe 、 Revolut 等公司的投资逻辑，以及私募与公开市场的增长断层、 AI 时代毛利率与留存指标的重新定义、预测市场的监管路径和金融科技平台的长期演化方向。",
-      "url": "https://waytoagi.feishu.cn/wiki/OgTuwWVYKigxZWk90ejcD7BcnmZ"
-    },
-    {
-      "date": "2026-03-25",
-      "title": "一句话搞定公众号排版、封面生成、发布",
-      "summary": "最近小互一直研究 Claude Code 工作流，自动化搜集素材、处理素材、写文章、自动配图、自动排版、自动同步到各个平台。从今天开始他将陆续公布最近研究和实战的结果，帮助大家学习 Claude Code 工作流，如何实现各种复杂工作的自动化...",
-      "url": "https://waytoagi.feishu.cn/wiki/Ze6mw90iLi6x5ikEV4GcN1kgnBd"
-    },
-    {
-      "date": "2026-03-25",
-      "title": "Sora 死了，OpenAI 正在变成另一家公司",
-      "summary": "就在昨天，OpenAI 官方账号发布了一则简短的告别声明：“我们要和 Sora 说再见了。”不仅 App 关停、API 下线，就连原本计划接入 ChatGPT 的视频功能也一并搁置。这背后，究竟藏着怎样不为人知的深层原因？",
-      "url": "https://waytoagi.feishu.cn/wiki/J5YHwOwFsio6XZkvkI5cnlhwneb"
+      "date": "2026-03-26",
+      "title": "Claude Code auto mode 解析：如何用 AI 分类器替代人工审批",
+      "summary": "用 Claude Code 写代码的人都熟悉一个场景：Claude 每执行一个命令、每改一个文件，都要你点一次“同意”。Anthropic 的数据显示， 用户 93% 的操作都会批准 。也就是说，这个“安全审批”环节，绝大多数时候只是一个条件反射。Anthropic 刚发布了 Claude Code 的 auto mode（自动模式），试图解决这个问题。他们写了一篇工程博文详细解释了原理，里面有不少有意思的工程设计。",
+      "url": "https://waytoagi.feishu.cn/wiki/Kg00wiLqOi8sFnkWyUCcs300nBc"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
+    {
+      "date": "2026-03-26",
+      "title": "Claude Code auto mode 解析：如何用 AI 分类器替代人工审批",
+      "summary": "用 Claude Code 写代码的人都熟悉一个场景：Claude 每执行一个命令、每改一个文件，都要你点一次“同意”。Anthropic 的数据显示， 用户 93% 的操作都会批准 。也就是说，这个“安全审批”环节，绝大多数时候只是一个条件反射。Anthropic 刚发布了 Claude Code 的 auto mode（自动模式），试图解决这个问题。他们写了一篇工程博文详细解释了原理，里面有不少有意思的工程设计。",
+      "url": "https://waytoagi.feishu.cn/wiki/Kg00wiLqOi8sFnkWyUCcs300nBc"
+    },
     {
       "date": "2026-03-25",
       "title": "按头学习| 让 AI 真正做好复杂任务，需要一套什么样的系统？（Anthropic官方指南）",
