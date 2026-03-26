@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T17:00:13.214937Z",
+  "generated_at": "2026-03-26T18:06:02.991917Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-26",
-  "count_today": 7,
+  "count_today": 8,
   "updates_today": [
     {
       "date": "2026-03-26",
@@ -45,12 +45,18 @@
     },
     {
       "date": "2026-03-26",
+      "title": "2026 年初科技产品岗位市场全景：数据告诉我们的真相【译】",
+      "summary": "裁员新闻铺天盖地，AI 要抢走饭碗的焦虑四处蔓延——但如果暂时放下这些头条，认真看看数据，会发现一个截然不同的故事。科技行业的招聘正在呈现许多令人鼓舞的信号，同时也浮现了一些值得关注的新趋势！",
+      "url": "https://waytoagi.feishu.cn/wiki/UvKkwHFioiAD97kRd0RcLrq9nIh"
+    },
+    {
+      "date": "2026-03-26",
       "title": "00 后双非电商专业毕业，每周 4 场 AI 沙龙，我的能力从何而来？",
       "summary": "作者有一套流水线，可以在三个小时以内摸透一个领域最核心的东西。 去年靠这套方法，录制了gxb AI 智能体证书的课程，搭建了长沙某集团整套的矩阵运营系统。今天他把这套方法论完整公开。 看完之后，或许你也能搭建属于你自己的内容变现流水线。",
       "url": "https://waytoagi.feishu.cn/wiki/HYwpw5F4ciV8KVkxgCAc4xDhnmf"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 39,
   "updates_7d": [
     {
       "date": "2026-03-26",
@@ -87,6 +93,12 @@
       "title": "Claude Code auto mode 解析：如何用 AI 分类器替代人工审批",
       "summary": "用 Claude Code 写代码的人都熟悉一个场景：Claude 每执行一个命令、每改一个文件，都要你点一次“同意”。Anthropic 的数据显示， 用户 93% 的操作都会批准 。也就是说，这个“安全审批”环节，绝大多数时候只是一个条件反射。Anthropic 刚发布了 Claude Code 的 auto mode（自动模式），试图解决这个问题。他们写了一篇工程博文详细解释了原理，里面有不少有意思的工程设计。",
       "url": "https://waytoagi.feishu.cn/wiki/Kg00wiLqOi8sFnkWyUCcs300nBc"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "2026 年初科技产品岗位市场全景：数据告诉我们的真相【译】",
+      "summary": "裁员新闻铺天盖地，AI 要抢走饭碗的焦虑四处蔓延——但如果暂时放下这些头条，认真看看数据，会发现一个截然不同的故事。科技行业的招聘正在呈现许多令人鼓舞的信号，同时也浮现了一些值得关注的新趋势！",
+      "url": "https://waytoagi.feishu.cn/wiki/UvKkwHFioiAD97kRd0RcLrq9nIh"
     },
     {
       "date": "2026-03-26",
