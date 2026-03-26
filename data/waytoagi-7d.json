@@ -1,38 +1,98 @@
 {
-  "generated_at": "2026-03-26T15:50:50.346800Z",
+  "generated_at": "2026-03-26T17:00:13.214937Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-26",
-  "count_today": 2,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-03-26",
+      "title": "林俊旸离职后首发长文：从「想得更久」到「为行动而想」",
+      "summary": "3月4日凌晨发出那句「me stepping down. bye my beloved qwen」之后，林俊旸在社交媒体上沉默了三周。今天，他在 X（Twitter）上发布了离职以来的 第一篇长文。在这篇文章里，他没有谈离职原因，没有回应去向传闻。全文只做了一件事：写下他对 AI 下一阶段方向的判断。",
+      "url": "https://waytoagi.feishu.cn/wiki/KHVGwZLd4iYUAVkeJTvchW3QnCe"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "我说了一句话，飞书多维表格AI直接搭出了一套能交付的业务系统",
+      "summary": "作者用多维表格AI从最简单的 搭个活动报名系统 一路用到 搭一套完整的培训机构管理系统 ，把能做什么、做不了什么全部记下来。让我们来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/Q3O5wz6Jpi9yFlkeIufczdGunvb"
+    },
+    {
+      "date": "2026-03-26",
       "title": "一次设置，永久生效：Claude Skills 从入门到精通！玩转小龙虾直接原地起飞！",
-      "summary": "",
+      "summary": "这篇文章带你一同了解Skills 是什么、怎么建 、怎么建好以及Anthropic 在 2026 年 3 月刚推出的三个重要升级。",
       "url": "https://waytoagi.feishu.cn/wiki/A4mMwDtq9ijiP4kmt52cOnL4nLb"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "Dan Koe 最新长文：怎样把创造力提升到一种近乎离谱的程度",
+      "summary": "最近作者的也遇到了长文的创作瓶颈，正好看到了 Dan Koe的这篇深度长文，读完之后深有感触，于是他将原文进行编译分享给各位。如果你也苦恼于如何提升创作力，请花10分钟认真读完这篇文章，你一定不会后悔。",
+      "url": "https://waytoagi.feishu.cn/wiki/MQbBworoYi9qtkkf1GMc3w7NnUf"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "Claude Code进阶指南：装这9个Skill才算真正上手",
+      "summary": "Claude Code生态发展很快，头部项目已经有10万star了。作者整理了9个值得关注的开源项目，从技能框架到记忆系统到工作流自动化，基本覆盖了当前热门的方向。",
+      "url": "https://waytoagi.feishu.cn/wiki/CnfKwM4PzisrshkGH1Ycg3mYnAd"
     },
     {
       "date": "2026-03-26",
       "title": "Claude Code auto mode 解析：如何用 AI 分类器替代人工审批",
       "summary": "用 Claude Code 写代码的人都熟悉一个场景：Claude 每执行一个命令、每改一个文件，都要你点一次“同意”。Anthropic 的数据显示， 用户 93% 的操作都会批准 。也就是说，这个“安全审批”环节，绝大多数时候只是一个条件反射。Anthropic 刚发布了 Claude Code 的 auto mode（自动模式），试图解决这个问题。他们写了一篇工程博文详细解释了原理，里面有不少有意思的工程设计。",
       "url": "https://waytoagi.feishu.cn/wiki/Kg00wiLqOi8sFnkWyUCcs300nBc"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "00 后双非电商专业毕业，每周 4 场 AI 沙龙，我的能力从何而来？",
+      "summary": "作者有一套流水线，可以在三个小时以内摸透一个领域最核心的东西。 去年靠这套方法，录制了gxb AI 智能体证书的课程，搭建了长沙某集团整套的矩阵运营系统。今天他把这套方法论完整公开。 看完之后，或许你也能搭建属于你自己的内容变现流水线。",
+      "url": "https://waytoagi.feishu.cn/wiki/HYwpw5F4ciV8KVkxgCAc4xDhnmf"
     }
   ],
   "count_7d": 38,
   "updates_7d": [
     {
       "date": "2026-03-26",
+      "title": "林俊旸离职后首发长文：从「想得更久」到「为行动而想」",
+      "summary": "3月4日凌晨发出那句「me stepping down. bye my beloved qwen」之后，林俊旸在社交媒体上沉默了三周。今天，他在 X（Twitter）上发布了离职以来的 第一篇长文。在这篇文章里，他没有谈离职原因，没有回应去向传闻。全文只做了一件事：写下他对 AI 下一阶段方向的判断。",
+      "url": "https://waytoagi.feishu.cn/wiki/KHVGwZLd4iYUAVkeJTvchW3QnCe"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "我说了一句话，飞书多维表格AI直接搭出了一套能交付的业务系统",
+      "summary": "作者用多维表格AI从最简单的 搭个活动报名系统 一路用到 搭一套完整的培训机构管理系统 ，把能做什么、做不了什么全部记下来。让我们来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/Q3O5wz6Jpi9yFlkeIufczdGunvb"
+    },
+    {
+      "date": "2026-03-26",
       "title": "一次设置，永久生效：Claude Skills 从入门到精通！玩转小龙虾直接原地起飞！",
-      "summary": "",
+      "summary": "这篇文章带你一同了解Skills 是什么、怎么建 、怎么建好以及Anthropic 在 2026 年 3 月刚推出的三个重要升级。",
       "url": "https://waytoagi.feishu.cn/wiki/A4mMwDtq9ijiP4kmt52cOnL4nLb"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "Dan Koe 最新长文：怎样把创造力提升到一种近乎离谱的程度",
+      "summary": "最近作者的也遇到了长文的创作瓶颈，正好看到了 Dan Koe的这篇深度长文，读完之后深有感触，于是他将原文进行编译分享给各位。如果你也苦恼于如何提升创作力，请花10分钟认真读完这篇文章，你一定不会后悔。",
+      "url": "https://waytoagi.feishu.cn/wiki/MQbBworoYi9qtkkf1GMc3w7NnUf"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "Claude Code进阶指南：装这9个Skill才算真正上手",
+      "summary": "Claude Code生态发展很快，头部项目已经有10万star了。作者整理了9个值得关注的开源项目，从技能框架到记忆系统到工作流自动化，基本覆盖了当前热门的方向。",
+      "url": "https://waytoagi.feishu.cn/wiki/CnfKwM4PzisrshkGH1Ycg3mYnAd"
     },
     {
       "date": "2026-03-26",
       "title": "Claude Code auto mode 解析：如何用 AI 分类器替代人工审批",
       "summary": "用 Claude Code 写代码的人都熟悉一个场景：Claude 每执行一个命令、每改一个文件，都要你点一次“同意”。Anthropic 的数据显示， 用户 93% 的操作都会批准 。也就是说，这个“安全审批”环节，绝大多数时候只是一个条件反射。Anthropic 刚发布了 Claude Code 的 auto mode（自动模式），试图解决这个问题。他们写了一篇工程博文详细解释了原理，里面有不少有意思的工程设计。",
       "url": "https://waytoagi.feishu.cn/wiki/Kg00wiLqOi8sFnkWyUCcs300nBc"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "00 后双非电商专业毕业，每周 4 场 AI 沙龙，我的能力从何而来？",
+      "summary": "作者有一套流水线，可以在三个小时以内摸透一个领域最核心的东西。 去年靠这套方法，录制了gxb AI 智能体证书的课程，搭建了长沙某集团整套的矩阵运营系统。今天他把这套方法论完整公开。 看完之后，或许你也能搭建属于你自己的内容变现流水线。",
+      "url": "https://waytoagi.feishu.cn/wiki/HYwpw5F4ciV8KVkxgCAc4xDhnmf"
     },
     {
       "date": "2026-03-25",
@@ -219,36 +279,6 @@
       "title": "Karpathy：\"写代码\"已经不是对的动词了",
       "summary": "这位 OpenAI 联合创始成员、前 Tesla AI 总监，现在是独立 AI 研究者和 Eureka Labs 创始人。他最近做客 Sarah Guo 的 No Priors 播客，聊了编码 Agent 如何改变工程师的日常、AutoResearch 与递归自我改进、AI 的“参差不齐”、开源与闭源的力量对比、物理世界 vs 数字世界的节奏差异，以及 Agent 时代教育的未来。",
       "url": "https://waytoagi.feishu.cn/wiki/GlhuwGy13iVQwek3n2HcRxU4nVN"
-    },
-    {
-      "date": "2026-03-20",
-      "title": "解析大语言模型中的KV缓存",
-      "summary": "每次使用ChatGPT或Claude时，你肯定都注意到第一个词元出现的时间明显更长，随后其余的词元几乎瞬间就会涌出。在幕后，这是一个被称为KV缓存精心设计的工程决策，目的是让大语言模型（LLM）推理速度更快。现在让我们从第一性原理出发，来了解它是如何运作的。",
-      "url": "https://waytoagi.feishu.cn/wiki/Rxzkw42pNiJgeukyE7Oc87LYnwb"
-    },
-    {
-      "date": "2026-03-20",
-      "title": "彬子：拯救龙虾记忆，OpenClaw 记忆系统演进系列（三）——打造记忆检索的引擎",
-      "summary": "既然我们选择基于 OpenClaw 来体验个人智能体的进化之旅，那所有自定义改造，最好都能在它每一次升级中吃到红利。即使中间有个别小版本回退，长期趋势也应该是顺势而上，不要越改越偏最后只好硬分叉。所以在真正动手优化记忆系统之前，得先理解 OpenClaw 的底层理念： Local First、Files are the source of truth、File Over App 。",
-      "url": "https://waytoagi.feishu.cn/wiki/OsDBwQB9RiRrI9kMQYLc0lnXncg"
-    },
-    {
-      "date": "2026-03-20",
-      "title": "云舒：Claude Code每次都不认识我，于是我给它做了一套记忆系统",
-      "summary": "作为一个Claude Code的深度用户，我一直被它没有记忆的事情折磨着。每开一个对话，我都得想办法告诉它我是谁、我在做什么项目、现在的进度是什么样子的，每次都得跟AI讲半天背景是什么，这样才能让它不跑偏。之前在研究龙虾源码的时候，发现龙虾的记忆逻辑做的蛮有趣的，我参考着龙虾的记忆思路，给我自己的Claude Code做了一套记忆系统。希望对你也有所帮助！",
-      "url": "https://waytoagi.feishu.cn/wiki/R3khwIE1HiS285kPW4zcjlpUn1U"
-    },
-    {
-      "date": "2026-03-20",
-      "title": "AI 发展太快跟不上？一张四象限图帮你做减法",
-      "summary": "AI 发展日新月异，急速迭代，概念/技术/产品层出不穷。但是当前工作繁重（工作本身跟 AI 直接关系不大），即便是很多比较流行的 AI 相关的东西，也不可能都花时间去了解/理解/深度使用研究。一方面希望跟上 AI 的浪潮，另一方面目前的精力又不允许。哪些原则可以辅助做以下判断：“哪些东西不必花时间/哪些东西简单了解即可/哪些东西需要花一些时间去学习/哪些有必要深度使用学习”，以及为什么有这个原则",
-      "url": "https://waytoagi.feishu.cn/wiki/QhvTw73J2iTIUykUT4acHP8pnMh"
-    },
-    {
-      "date": "2026-03-20",
-      "title": "50个Claude Code日常使用技巧与最佳实践",
-      "summary": "作者整理了50条Claude Code的最佳实践和技巧，无论你是刚使用一周还是已经用了几个月，这些都能有所帮助，它们的来源包括Anthropic的官方文档、Boris Cherny（Claude Code的开发者）、社区经验以及作者自己一年的日常使用心得。",
-      "url": "https://waytoagi.feishu.cn/wiki/KyznwDZsaiYCWtkPPlvc4iFonqg"
     }
   ],
   "warning": null,
