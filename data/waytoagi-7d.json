@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-03-27T16:54:19.866589Z",
+  "generated_at": "2026-03-27T17:49:45.311586Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-27",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
+    {
+      "date": "2026-03-27",
+      "title": "构建无向量RAG系统（无需嵌入向量，无需向量数据库）",
+      "summary": "本文中，作者借助分层页面索引技术，构建了一套无需向量数据库、基于推理模型的RAG系统。这个系统会把文档转化为树形结构，再由大语言模型（LLM）通过推理遍历这个树形结构来获取答案，全程都不需要嵌入向量，也不需要相似度检索。",
+      "url": "https://waytoagi.feishu.cn/wiki/Fj5UwmoRKiEP9mkRL3ccCEPvnLg"
+    },
     {
       "date": "2026-03-27",
       "title": "我用OpenClaw构建了一个AI记忆系统：从线性笔记到分层大脑",
@@ -32,8 +38,14 @@
       "url": "https://waytoagi.feishu.cn/wiki/Eyl4wOTm6i4kW2ktmVvcVIwLnXb"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 38,
   "updates_7d": [
+    {
+      "date": "2026-03-27",
+      "title": "构建无向量RAG系统（无需嵌入向量，无需向量数据库）",
+      "summary": "本文中，作者借助分层页面索引技术，构建了一套无需向量数据库、基于推理模型的RAG系统。这个系统会把文档转化为树形结构，再由大语言模型（LLM）通过推理遍历这个树形结构来获取答案，全程都不需要嵌入向量，也不需要相似度检索。",
+      "url": "https://waytoagi.feishu.cn/wiki/Fj5UwmoRKiEP9mkRL3ccCEPvnLg"
+    },
     {
       "date": "2026-03-27",
       "title": "我用OpenClaw构建了一个AI记忆系统：从线性笔记到分层大脑",
