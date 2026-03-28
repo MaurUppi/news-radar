@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T15:30:01.303705Z",
+  "generated_at": "2026-03-28T15:57:20.594024Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-28",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-03-28",
@@ -18,9 +18,15 @@
       "title": "52天74个发布！Anthropic打造出了AI时代最疯狂的团队！",
       "summary": "有人统计了Anthropic从2月1号到3月24号的产品发布记录，做了一张shipping calendar。数了一下： 52天，74次发布 。两个全新模型、一个桌面级Agent平台、一个手机远程控制系统、一个企业应用市场、一个代码安全扫描器、二十多个Claude Code的功能更新，以及十几个第三方连接器。让我们一同一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/VoTmwGeiSi1rgfkT2gnc8RGPnWx"
+    },
+    {
+      "date": "2026-03-28",
+      "title": "10个Claude工作流，每周为我节省10多个小时。",
+      "summary": "作者连续两周记录自己使用Claude的情况，包括时间戳、处理任务，以及相较于手动操作节省的时间。每周可节省11.4小时。仅通过浏览器标签页里的10个工作流程，每月就能为你夺回45小时以上，也就是整整两天的时间。",
+      "url": "https://waytoagi.feishu.cn/wiki/OD5Ewi7nOiIEywkzopfczGrznJe"
     }
   ],
-  "count_7d": 40,
+  "count_7d": 41,
   "updates_7d": [
     {
       "date": "2026-03-28",
@@ -33,6 +39,12 @@
       "title": "52天74个发布！Anthropic打造出了AI时代最疯狂的团队！",
       "summary": "有人统计了Anthropic从2月1号到3月24号的产品发布记录，做了一张shipping calendar。数了一下： 52天，74次发布 。两个全新模型、一个桌面级Agent平台、一个手机远程控制系统、一个企业应用市场、一个代码安全扫描器、二十多个Claude Code的功能更新，以及十几个第三方连接器。让我们一同一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/VoTmwGeiSi1rgfkT2gnc8RGPnWx"
+    },
+    {
+      "date": "2026-03-28",
+      "title": "10个Claude工作流，每周为我节省10多个小时。",
+      "summary": "作者连续两周记录自己使用Claude的情况，包括时间戳、处理任务，以及相较于手动操作节省的时间。每周可节省11.4小时。仅通过浏览器标签页里的10个工作流程，每月就能为你夺回45小时以上，也就是整整两天的时间。",
+      "url": "https://waytoagi.feishu.cn/wiki/OD5Ewi7nOiIEywkzopfczGrznJe"
     },
     {
       "date": "2026-03-27",
