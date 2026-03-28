@@ -1,17 +1,23 @@
 {
-  "generated_at": "2026-03-28T16:40:08.068851Z",
+  "generated_at": "2026-03-28T17:28:05.262568Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-28",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-03-28",
       "title": "我们如何为Deep Agents构建评估体系",
       "summary": "最优质的智能体评估方法会直接衡量我们所关注的智能体行为。本文将介绍我们如何采集数据、构建评估指标，并持续开展范围明确、目标精准的实验，从而让智能体更加精准可靠。",
       "url": "https://waytoagi.feishu.cn/wiki/GY8OwGeYWiB3RZkBj7QcGkmUnnc"
+    },
+    {
+      "date": "2026-03-28",
+      "title": "从Prompt到Context到Harness：AI工程的三次范式转移，第三次正在发生",
+      "summary": "2026年初，Anthropic 和 OpenAI 几乎同一周发了各自关于 Harness Engineering 的实践文章。加上两篇关于 Agent 记忆基础设施的学术论文，以及关于三代工程范式演进的讨论。",
+      "url": "https://waytoagi.feishu.cn/wiki/JT4PwNxiAi76TKkOGaBc8Y7fnae"
     },
     {
       "date": "2026-03-28",
@@ -38,13 +44,19 @@
       "url": "https://waytoagi.feishu.cn/wiki/OD5Ewi7nOiIEywkzopfczGrznJe"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 38,
   "updates_7d": [
     {
       "date": "2026-03-28",
       "title": "我们如何为Deep Agents构建评估体系",
       "summary": "最优质的智能体评估方法会直接衡量我们所关注的智能体行为。本文将介绍我们如何采集数据、构建评估指标，并持续开展范围明确、目标精准的实验，从而让智能体更加精准可靠。",
       "url": "https://waytoagi.feishu.cn/wiki/GY8OwGeYWiB3RZkBj7QcGkmUnnc"
+    },
+    {
+      "date": "2026-03-28",
+      "title": "从Prompt到Context到Harness：AI工程的三次范式转移，第三次正在发生",
+      "summary": "2026年初，Anthropic 和 OpenAI 几乎同一周发了各自关于 Harness Engineering 的实践文章。加上两篇关于 Agent 记忆基础设施的学术论文，以及关于三代工程范式演进的讨论。",
+      "url": "https://waytoagi.feishu.cn/wiki/JT4PwNxiAi76TKkOGaBc8Y7fnae"
     },
     {
       "date": "2026-03-28",
