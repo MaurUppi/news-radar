@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-03-28T15:57:20.594024Z",
+  "generated_at": "2026-03-28T16:40:08.068851Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-28",
-  "count_today": 3,
+  "count_today": 5,
   "updates_today": [
+    {
+      "date": "2026-03-28",
+      "title": "我们如何为Deep Agents构建评估体系",
+      "summary": "最优质的智能体评估方法会直接衡量我们所关注的智能体行为。本文将介绍我们如何采集数据、构建评估指标，并持续开展范围明确、目标精准的实验，从而让智能体更加精准可靠。",
+      "url": "https://waytoagi.feishu.cn/wiki/GY8OwGeYWiB3RZkBj7QcGkmUnnc"
+    },
     {
       "date": "2026-03-28",
       "title": "Notion 联合创始人 Simon Last：我从去年夏天起就没写过一行代码了",
       "summary": "Simon Last 是 Notion 的联合创始人，也是 Notion AI 背后的核心推动者。他和另一位联合创始人 Ivan Zhao 在 2013 年创办 Notion，目前平台用户超过 1 亿。在这期访谈中，Simon 讲了 Notion AI 从 2022 年墨西哥全员大会上的 GPT-4 初体验开始，经历写作助手、语义搜索、通用 Agent 三四次失败，到最近发布 Custom Agent 的完整历程。他还分享了自己怎么用编码 Agent 工作以及 Notion 的使命如何从“帮人做事的工具”变成“帮人管理 Agent 的工具”。",
       "url": "https://waytoagi.feishu.cn/wiki/ToCawqcTjiqUYCkpVx3cY95tnci"
+    },
+    {
+      "date": "2026-03-28",
+      "title": "Cognition联合创始人：AI Agents如何创造 12 倍的生产力提升丨Joe Lonsdale",
+      "summary": "Cognition 的联合创始人 Scott Wu 和 Russell Kaplan 正领导着一家发展迅猛、人才济济的人工智能公司。他们的使命是：让专业的软件工程无处不在。软件资源丰富的世界会是什么样子？Cognition 是如何帮助一些最大的公司和组织大幅提升生产力的？人工智能最终能否让价值 1000 亿美元的政府 IT 系统摆脱困境？Scott 和 Russell 探讨了这些以及其他热门话题。",
+      "url": "https://waytoagi.feishu.cn/wiki/VcpWwLHWOi1HeckR9WXc30E6nac"
     },
     {
       "date": "2026-03-28",
@@ -26,13 +38,25 @@
       "url": "https://waytoagi.feishu.cn/wiki/OD5Ewi7nOiIEywkzopfczGrznJe"
     }
   ],
-  "count_7d": 41,
+  "count_7d": 37,
   "updates_7d": [
+    {
+      "date": "2026-03-28",
+      "title": "我们如何为Deep Agents构建评估体系",
+      "summary": "最优质的智能体评估方法会直接衡量我们所关注的智能体行为。本文将介绍我们如何采集数据、构建评估指标，并持续开展范围明确、目标精准的实验，从而让智能体更加精准可靠。",
+      "url": "https://waytoagi.feishu.cn/wiki/GY8OwGeYWiB3RZkBj7QcGkmUnnc"
+    },
     {
       "date": "2026-03-28",
       "title": "Notion 联合创始人 Simon Last：我从去年夏天起就没写过一行代码了",
       "summary": "Simon Last 是 Notion 的联合创始人，也是 Notion AI 背后的核心推动者。他和另一位联合创始人 Ivan Zhao 在 2013 年创办 Notion，目前平台用户超过 1 亿。在这期访谈中，Simon 讲了 Notion AI 从 2022 年墨西哥全员大会上的 GPT-4 初体验开始，经历写作助手、语义搜索、通用 Agent 三四次失败，到最近发布 Custom Agent 的完整历程。他还分享了自己怎么用编码 Agent 工作以及 Notion 的使命如何从“帮人做事的工具”变成“帮人管理 Agent 的工具”。",
       "url": "https://waytoagi.feishu.cn/wiki/ToCawqcTjiqUYCkpVx3cY95tnci"
+    },
+    {
+      "date": "2026-03-28",
+      "title": "Cognition联合创始人：AI Agents如何创造 12 倍的生产力提升丨Joe Lonsdale",
+      "summary": "Cognition 的联合创始人 Scott Wu 和 Russell Kaplan 正领导着一家发展迅猛、人才济济的人工智能公司。他们的使命是：让专业的软件工程无处不在。软件资源丰富的世界会是什么样子？Cognition 是如何帮助一些最大的公司和组织大幅提升生产力的？人工智能最终能否让价值 1000 亿美元的政府 IT 系统摆脱困境？Scott 和 Russell 探讨了这些以及其他热门话题。",
+      "url": "https://waytoagi.feishu.cn/wiki/VcpWwLHWOi1HeckR9WXc30E6nac"
     },
     {
       "date": "2026-03-28",
@@ -237,42 +261,6 @@
       "title": "AI大白话：喂饭案例讲透100个核心技术概念（万字*2）",
       "summary": "这篇文章，作者用最通俗的语言、最生活化的例子，把AI的100个核心概念讲得明明白白。",
       "url": "https://waytoagi.feishu.cn/wiki/GV0jw6tj1iTbnvkXxP0cjVrhnze"
-    },
-    {
-      "date": "2026-03-22",
-      "title": "喝点VC｜YC合伙人对谈：打造Agent愿意使用的产品，将会出现与人类经济并行运行的Agent经济",
-      "summary": "这期访谈围绕AI agents的快速崛起所带来的产业变化展开讨论。在近期生成式AI与Agent工具能力跃迁的背景下，四位YC合伙人结合一线创业观察与亲身使用体验，探讨agent如何改变软件使用方式、开发者工具的分发逻辑以及未来产品设计原则。",
-      "url": "https://waytoagi.feishu.cn/wiki/TzXYwaoW5i6MmwkxiqWchod8nzc"
-    },
-    {
-      "date": "2026-03-22",
-      "title": "后端互通，Agent 才能协作｜对话 Taku 团队",
-      "summary": "当下AI Agent普遍存在工具隔离、联动困难、部署繁琐的痛点，而Taku凭借三层Harness架构给出了全新解法。区别于Claude Code天然隔离的设计，Taku更贴合普通用户，降低了组装、分发AI能力的门槛，普通人也能一键串联各类工作流，快速搭建专属复合工具。",
-      "url": "https://waytoagi.feishu.cn/wiki/BUaAwnbEDisw8pkFjgncLOx7nue"
-    },
-    {
-      "date": "2026-03-22",
-      "title": "【教程】微信接万物，手把手将任意Agent接入微信（包括Claude Code、扣子、Dify...）",
-      "summary": "微信终于下场，做了第一个真正意义上让 外部AI接入微信 的功能。微信本次提供的方案， 本质上是一种信息传递桥梁，既然能够把OpenClaw的信息传到微信上，那么任意Agent的信息都将能够接到微信上。于是，梦飞下午研究了这个插件，并且进行了改造。",
-      "url": "https://waytoagi.feishu.cn/wiki/FpmCwo8IVir4xhk9qnYczfJ0nBf"
-    },
-    {
-      "date": "2026-03-22",
-      "title": "Cat-Research：让 AI 像研究员一样工作",
-      "summary": "你有没有遇到过这样的场景：把问题丢给 AI，得到的却是一堆\"众所周知\"\"据报道\"的空话，找不到来源，也经不起追问？Cat-Research 就是为了解决这个问题而生的。它不是一个聊天机器人，而是一套多智能体协作的深度研究系统。 项目已开源，欢迎 Star ⭐～",
-      "url": "https://waytoagi.feishu.cn/wiki/UsV4wDvO2iMoZ9kx3gqcNyl0nId"
-    },
-    {
-      "date": "2026-03-22",
-      "title": "AI 帮你写代码快了 50%，然后代码在审查队列里躺了三天",
-      "summary": "2026年2月，Forsgren在Gergely Orosz主办的The Pragmatic Summit上做了一场对谈，覆盖 AI 时代的瓶颈转移、组织流程债务、度量陷阱和变革管理。让我们一同来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/XIZmwyv6di0SNqki7ZVcvEbAn6d"
-    },
-    {
-      "date": "2026-03-22",
-      "title": ".claude/文件夹剖析",
-      "summary": "大多数Claude Code用户都将.claude文件夹视为一个黑盒。他们知道这个文件夹存在，也见过它出现在项目根目录中，但从未打开过，更不了解里面每个文件的作用。本指南将全面解析该文件夹的完整结构，涵盖日常常用文件以及只需一次配置、后续无需打理的文件。",
-      "url": "https://waytoagi.feishu.cn/wiki/QMFLwjBmCiMqeakHdVwcbQCwnDe"
     }
   ],
   "warning": null,
