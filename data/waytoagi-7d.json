@@ -1,45 +1,39 @@
 {
-  "generated_at": "2026-03-28T14:31:13.677436Z",
+  "generated_at": "2026-03-28T15:30:01.303705Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-03-27",
-  "count_today": 5,
+  "latest_date": "2026-03-28",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-03-27",
-      "title": "构建无向量RAG系统（无需嵌入向量，无需向量数据库）",
-      "summary": "本文中，作者借助分层页面索引技术，构建了一套无需向量数据库、基于推理模型的RAG系统。这个系统会把文档转化为树形结构，再由大语言模型（LLM）通过推理遍历这个树形结构来获取答案，全程都不需要嵌入向量，也不需要相似度检索。",
-      "url": "https://waytoagi.feishu.cn/wiki/Fj5UwmoRKiEP9mkRL3ccCEPvnLg"
+      "date": "2026-03-28",
+      "title": "Notion 联合创始人 Simon Last：我从去年夏天起就没写过一行代码了",
+      "summary": "Simon Last 是 Notion 的联合创始人，也是 Notion AI 背后的核心推动者。他和另一位联合创始人 Ivan Zhao 在 2013 年创办 Notion，目前平台用户超过 1 亿。在这期访谈中，Simon 讲了 Notion AI 从 2022 年墨西哥全员大会上的 GPT-4 初体验开始，经历写作助手、语义搜索、通用 Agent 三四次失败，到最近发布 Custom Agent 的完整历程。他还分享了自己怎么用编码 Agent 工作以及 Notion 的使命如何从“帮人做事的工具”变成“帮人管理 Agent 的工具”。",
+      "url": "https://waytoagi.feishu.cn/wiki/ToCawqcTjiqUYCkpVx3cY95tnci"
     },
     {
-      "date": "2026-03-27",
-      "title": "我用OpenClaw构建了一个AI记忆系统：从线性笔记到分层大脑",
-      "summary": "大多数AI助手的记忆存储方式是 线性JSONL文件 ——就像把所有笔记按时间顺序塞进一个抽屉，没有分类，没有索引，没有优先级。作者基于OpenClaw构建了一个 高级Memory系统，很好地解决了这一问题！",
-      "url": "https://waytoagi.feishu.cn/wiki/HBKCwdP9Eig91NkhcTUc3QEhnXg"
-    },
-    {
-      "date": "2026-03-27",
-      "title": "对谈海外增长“老兵”Iris与Kostja：出奇制胜，如何打出AI产品的增长组合拳｜Linkloud Talk",
-      "summary": "Linkloud Talk 本期聊了一个过去一年被无数 AI 创业者反复提起、但又始终没有标准答案的话题：在产品高度同质化、推广成本持续上升的今天，一个产品到底是如何找到 PMF，又是如何完成冷启动与可持续增长。",
-      "url": "https://waytoagi.feishu.cn/wiki/PhUBwaF9Ei1fddkgWQ7cMdDVnwf"
-    },
-    {
-      "date": "2026-03-27",
-      "title": "在中国 AI 生态圈摸底了两周，我学到了什么【译】",
-      "summary": "José Maria Macedo（若泽·马里亚·马塞多），Delphi Ventures 创始合伙人、Delphi Labs 创始人兼 CEO。最近，他在中国待了两个星期，拜访了 AI 生态圈里的各位创始人、风险投资人（VC）以及上市公司的 CEO。本文正是 Macedo 在中国进行 AI 生态实地考察后写的观察总结。",
-      "url": "https://waytoagi.feishu.cn/wiki/Ol0GwhoBAi24wlkSFEhcbMcAnid"
-    },
-    {
-      "date": "2026-03-27",
-      "title": "万字复盘｜社区首部AI贺岁片：全流程实操手册",
-      "summary": "本篇文章是基于贺岁片《老马的AI囧途》项目经验整理，覆盖从选题到宣发的完整链路。有一定AI视频工具基础，想系统做AI影视项目的创作者一定不容错过！",
-      "url": "https://waytoagi.feishu.cn/wiki/Eyl4wOTm6i4kW2ktmVvcVIwLnXb"
+      "date": "2026-03-28",
+      "title": "52天74个发布！Anthropic打造出了AI时代最疯狂的团队！",
+      "summary": "有人统计了Anthropic从2月1号到3月24号的产品发布记录，做了一张shipping calendar。数了一下： 52天，74次发布 。两个全新模型、一个桌面级Agent平台、一个手机远程控制系统、一个企业应用市场、一个代码安全扫描器、二十多个Claude Code的功能更新，以及十几个第三方连接器。让我们一同一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/VoTmwGeiSi1rgfkT2gnc8RGPnWx"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 40,
   "updates_7d": [
+    {
+      "date": "2026-03-28",
+      "title": "Notion 联合创始人 Simon Last：我从去年夏天起就没写过一行代码了",
+      "summary": "Simon Last 是 Notion 的联合创始人，也是 Notion AI 背后的核心推动者。他和另一位联合创始人 Ivan Zhao 在 2013 年创办 Notion，目前平台用户超过 1 亿。在这期访谈中，Simon 讲了 Notion AI 从 2022 年墨西哥全员大会上的 GPT-4 初体验开始，经历写作助手、语义搜索、通用 Agent 三四次失败，到最近发布 Custom Agent 的完整历程。他还分享了自己怎么用编码 Agent 工作以及 Notion 的使命如何从“帮人做事的工具”变成“帮人管理 Agent 的工具”。",
+      "url": "https://waytoagi.feishu.cn/wiki/ToCawqcTjiqUYCkpVx3cY95tnci"
+    },
+    {
+      "date": "2026-03-28",
+      "title": "52天74个发布！Anthropic打造出了AI时代最疯狂的团队！",
+      "summary": "有人统计了Anthropic从2月1号到3月24号的产品发布记录，做了一张shipping calendar。数了一下： 52天，74次发布 。两个全新模型、一个桌面级Agent平台、一个手机远程控制系统、一个企业应用市场、一个代码安全扫描器、二十多个Claude Code的功能更新，以及十几个第三方连接器。让我们一同一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/VoTmwGeiSi1rgfkT2gnc8RGPnWx"
+    },
     {
       "date": "2026-03-27",
       "title": "构建无向量RAG系统（无需嵌入向量，无需向量数据库）",
