@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T14:49:23.992959Z",
+  "generated_at": "2026-04-01T16:05:23.520078Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -20,7 +20,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/GZFWwI4pGinY4FkTbxScNblJnud"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 31,
   "updates_7d": [
     {
       "date": "2026-04-01",
@@ -207,54 +207,6 @@
       "title": "万字复盘｜社区首部AI贺岁片：全流程实操手册",
       "summary": "本篇文章是基于贺岁片《老马的AI囧途》项目经验整理，覆盖从选题到宣发的完整链路。有一定AI视频工具基础，想系统做AI影视项目的创作者一定不容错过！",
       "url": "https://waytoagi.feishu.cn/wiki/Eyl4wOTm6i4kW2ktmVvcVIwLnXb"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "林俊旸离职后首发长文：从「想得更久」到「为行动而想」",
-      "summary": "3月4日凌晨发出那句「me stepping down. bye my beloved qwen」之后，林俊旸在社交媒体上沉默了三周。今天，他在 X（Twitter）上发布了离职以来的 第一篇长文。在这篇文章里，他没有谈离职原因，没有回应去向传闻。全文只做了一件事：写下他对 AI 下一阶段方向的判断。",
-      "url": "https://waytoagi.feishu.cn/wiki/KHVGwZLd4iYUAVkeJTvchW3QnCe"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "我说了一句话，飞书多维表格AI直接搭出了一套能交付的业务系统",
-      "summary": "作者用多维表格AI从最简单的 搭个活动报名系统 一路用到 搭一套完整的培训机构管理系统 ，把能做什么、做不了什么全部记下来。让我们来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/Q3O5wz6Jpi9yFlkeIufczdGunvb"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "一次设置，永久生效：Claude Skills 从入门到精通！玩转小龙虾直接原地起飞！",
-      "summary": "这篇文章带你一同了解Skills 是什么、怎么建 、怎么建好以及Anthropic 在 2026 年 3 月刚推出的三个重要升级。",
-      "url": "https://waytoagi.feishu.cn/wiki/A4mMwDtq9ijiP4kmt52cOnL4nLb"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "Dan Koe 最新长文：怎样把创造力提升到一种近乎离谱的程度",
-      "summary": "最近作者的也遇到了长文的创作瓶颈，正好看到了 Dan Koe的这篇深度长文，读完之后深有感触，于是他将原文进行编译分享给各位。如果你也苦恼于如何提升创作力，请花10分钟认真读完这篇文章，你一定不会后悔。",
-      "url": "https://waytoagi.feishu.cn/wiki/MQbBworoYi9qtkkf1GMc3w7NnUf"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "Claude Code进阶指南：装这9个Skill才算真正上手",
-      "summary": "Claude Code生态发展很快，头部项目已经有10万star了。作者整理了9个值得关注的开源项目，从技能框架到记忆系统到工作流自动化，基本覆盖了当前热门的方向。",
-      "url": "https://waytoagi.feishu.cn/wiki/CnfKwM4PzisrshkGH1Ycg3mYnAd"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "Claude Code auto mode 解析：如何用 AI 分类器替代人工审批",
-      "summary": "用 Claude Code 写代码的人都熟悉一个场景：Claude 每执行一个命令、每改一个文件，都要你点一次“同意”。Anthropic 的数据显示， 用户 93% 的操作都会批准 。也就是说，这个“安全审批”环节，绝大多数时候只是一个条件反射。Anthropic 刚发布了 Claude Code 的 auto mode（自动模式），试图解决这个问题。他们写了一篇工程博文详细解释了原理，里面有不少有意思的工程设计。",
-      "url": "https://waytoagi.feishu.cn/wiki/Kg00wiLqOi8sFnkWyUCcs300nBc"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "2026 年初科技产品岗位市场全景：数据告诉我们的真相【译】",
-      "summary": "裁员新闻铺天盖地，AI 要抢走饭碗的焦虑四处蔓延——但如果暂时放下这些头条，认真看看数据，会发现一个截然不同的故事。科技行业的招聘正在呈现许多令人鼓舞的信号，同时也浮现了一些值得关注的新趋势！",
-      "url": "https://waytoagi.feishu.cn/wiki/UvKkwHFioiAD97kRd0RcLrq9nIh"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "00 后双非电商专业毕业，每周 4 场 AI 沙龙，我的能力从何而来？",
-      "summary": "作者有一套流水线，可以在三个小时以内摸透一个领域最核心的东西。 去年靠这套方法，录制了gxb AI 智能体证书的课程，搭建了长沙某集团整套的矩阵运营系统。今天他把这套方法论完整公开。 看完之后，或许你也能搭建属于你自己的内容变现流水线。",
-      "url": "https://waytoagi.feishu.cn/wiki/HYwpw5F4ciV8KVkxgCAc4xDhnmf"
     }
   ],
   "warning": null,
