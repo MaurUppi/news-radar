@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T17:28:48.550616Z",
+  "generated_at": "2026-04-01T18:11:00.860785Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-01",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-04-01",
@@ -27,12 +27,18 @@
     },
     {
       "date": "2026-04-01",
+      "title": "Claude Code CLI 源码分析 : 从 Prompt 架构到工业级 AI Agent缓存黑科技+自我进化+多Agent协作+遥测监控",
+      "summary": "Anthropic 这种量级的公司，他们会怎么设计 AI Agent？看完源码才发现，这不是“Prompt 工程”那么简单，而是 缓存架构 + 自我进化记忆 + 多模式编排 的完整基础设施。",
+      "url": "https://waytoagi.feishu.cn/wiki/EWgZw2kq3i8ZrIkFTIRcCn2vnKe"
+    },
+    {
+      "date": "2026-04-01",
       "title": "26年3月开源模型汇总！Agent很火，但模型貌似没跟上~",
       "summary": "3月份，是OpenClaw制霸的一个月，各家主要以推出各种Claw为主，大模型这一块，超大尺寸的模型，基本上各家都是发布，但没更新，比如， 智谱的GLM5-Turbo模型 、 千问的Qwen3.5-Omni-Plus模型 、MiniMax的M2.7模型、 小米的MiMo-V2-Pro模型 等等。不过盘点下来，还是开源了不少模型，Qwen开源了3.5系列的小模型、美团开源了全模态和定理模型、腾讯开源了视觉&音频模型、小红书开源了OCR&图像编辑模型。",
       "url": "https://waytoagi.feishu.cn/wiki/GZFWwI4pGinY4FkTbxScNblJnud"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 34,
   "updates_7d": [
     {
       "date": "2026-04-01",
@@ -51,6 +57,12 @@
       "title": "Claude Code 泄露代码隐藏的87个未发布功能 暴露其野心...",
       "summary": "Claude Code 的完整源码泄漏后 有人说\"44个隐藏feature flag\"。小互翻完源码的实际数字是87个。让我们来一同看看这背后隐藏了哪些未上线的功能！",
       "url": "https://waytoagi.feishu.cn/wiki/PeSYwZR0kiiZmHkU6lccu1xAnZ0"
+    },
+    {
+      "date": "2026-04-01",
+      "title": "Claude Code CLI 源码分析 : 从 Prompt 架构到工业级 AI Agent缓存黑科技+自我进化+多Agent协作+遥测监控",
+      "summary": "Anthropic 这种量级的公司，他们会怎么设计 AI Agent？看完源码才发现，这不是“Prompt 工程”那么简单，而是 缓存架构 + 自我进化记忆 + 多模式编排 的完整基础设施。",
+      "url": "https://waytoagi.feishu.cn/wiki/EWgZw2kq3i8ZrIkFTIRcCn2vnKe"
     },
     {
       "date": "2026-04-01",
