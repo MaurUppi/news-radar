@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-04-02T12:05:53.737746Z",
+  "generated_at": "2026-04-02T14:01:45.656636Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-02",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
+    {
+      "date": "2026-04-02",
+      "title": "零基础如何构建你的第一个AI Agent——完整指南",
+      "summary": "本篇文章将从智能体框架、多智能体协同调度、智能体循环机制、工具调用、子智能体协作这几个方面一步步带你搭建出你的第一个真正意义上的AI Agent！",
+      "url": "https://waytoagi.feishu.cn/wiki/JsyFwEtAtibxJskilImcfhfUnVd"
+    },
     {
       "date": "2026-04-02",
       "title": "我做了一个精美 PDF 排版 Skill，以生成 100+ 页 Claude Code 系统报告为例",
@@ -20,8 +26,14 @@
       "url": "https://waytoagi.feishu.cn/wiki/Veanw2x4QidHe7ksmqYcWxeFn4b"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
+    {
+      "date": "2026-04-02",
+      "title": "零基础如何构建你的第一个AI Agent——完整指南",
+      "summary": "本篇文章将从智能体框架、多智能体协同调度、智能体循环机制、工具调用、子智能体协作这几个方面一步步带你搭建出你的第一个真正意义上的AI Agent！",
+      "url": "https://waytoagi.feishu.cn/wiki/JsyFwEtAtibxJskilImcfhfUnVd"
+    },
     {
       "date": "2026-04-02",
       "title": "我做了一个精美 PDF 排版 Skill，以生成 100+ 页 Claude Code 系统报告为例",
