@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T15:08:31.187808Z",
+  "generated_at": "2026-04-03T16:01:04.484214Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -50,7 +50,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/UW8zwpk1piKki7k1EmQcC6sHnEh"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 30,
   "updates_7d": [
     {
       "date": "2026-04-02",
@@ -231,42 +231,6 @@
       "title": "一个从执行到记忆的完整 Agent Harness: gstack + Compound Engineering：",
       "summary": "Compound Engineering凭借更先进的架构，成为了超越热门Superpowers的AI开发工作流。它贴合Anthropic的Harness设计，在规划、审查环节深度更强，还独创了知识沉淀机制，让AI不再每次从零开始。搭配gstack使用，可以覆盖决策、规划、执行、审核全链路，让AI开发更可靠、更具长期价值，对长期迭代项目的开发者极具实用意义。",
       "url": "https://waytoagi.feishu.cn/wiki/QYdew4W0eivvsJk4aWccwl4enYM"
-    },
-    {
-      "date": "2026-03-28",
-      "title": "我们如何为Deep Agents构建评估体系",
-      "summary": "最优质的智能体评估方法会直接衡量我们所关注的智能体行为。本文将介绍我们如何采集数据、构建评估指标，并持续开展范围明确、目标精准的实验，从而让智能体更加精准可靠。",
-      "url": "https://waytoagi.feishu.cn/wiki/GY8OwGeYWiB3RZkBj7QcGkmUnnc"
-    },
-    {
-      "date": "2026-03-28",
-      "title": "从Prompt到Context到Harness：AI工程的三次范式转移，第三次正在发生",
-      "summary": "2026年初，Anthropic 和 OpenAI 几乎同一周发了各自关于 Harness Engineering 的实践文章。加上两篇关于 Agent 记忆基础设施的学术论文，以及关于三代工程范式演进的讨论。",
-      "url": "https://waytoagi.feishu.cn/wiki/JT4PwNxiAi76TKkOGaBc8Y7fnae"
-    },
-    {
-      "date": "2026-03-28",
-      "title": "Notion 联合创始人 Simon Last：我从去年夏天起就没写过一行代码了",
-      "summary": "Simon Last 是 Notion 的联合创始人，也是 Notion AI 背后的核心推动者。他和另一位联合创始人 Ivan Zhao 在 2013 年创办 Notion，目前平台用户超过 1 亿。在这期访谈中，Simon 讲了 Notion AI 从 2022 年墨西哥全员大会上的 GPT-4 初体验开始，经历写作助手、语义搜索、通用 Agent 三四次失败，到最近发布 Custom Agent 的完整历程。他还分享了自己怎么用编码 Agent 工作以及 Notion 的使命如何从“帮人做事的工具”变成“帮人管理 Agent 的工具”。",
-      "url": "https://waytoagi.feishu.cn/wiki/ToCawqcTjiqUYCkpVx3cY95tnci"
-    },
-    {
-      "date": "2026-03-28",
-      "title": "Cognition联合创始人：AI Agents如何创造 12 倍的生产力提升丨Joe Lonsdale",
-      "summary": "Cognition 的联合创始人 Scott Wu 和 Russell Kaplan 正领导着一家发展迅猛、人才济济的人工智能公司。他们的使命是：让专业的软件工程无处不在。软件资源丰富的世界会是什么样子？Cognition 是如何帮助一些最大的公司和组织大幅提升生产力的？人工智能最终能否让价值 1000 亿美元的政府 IT 系统摆脱困境？Scott 和 Russell 探讨了这些以及其他热门话题。",
-      "url": "https://waytoagi.feishu.cn/wiki/VcpWwLHWOi1HeckR9WXc30E6nac"
-    },
-    {
-      "date": "2026-03-28",
-      "title": "52天74个发布！Anthropic打造出了AI时代最疯狂的团队！",
-      "summary": "有人统计了Anthropic从2月1号到3月24号的产品发布记录，做了一张shipping calendar。数了一下： 52天，74次发布 。两个全新模型、一个桌面级Agent平台、一个手机远程控制系统、一个企业应用市场、一个代码安全扫描器、二十多个Claude Code的功能更新，以及十几个第三方连接器。让我们一同一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/VoTmwGeiSi1rgfkT2gnc8RGPnWx"
-    },
-    {
-      "date": "2026-03-28",
-      "title": "10个Claude工作流，每周为我节省10多个小时。",
-      "summary": "作者连续两周记录自己使用Claude的情况，包括时间戳、处理任务，以及相较于手动操作节省的时间。每周可节省11.4小时。仅通过浏览器标签页里的10个工作流程，每月就能为你夺回45小时以上，也就是整整两天的时间。",
-      "url": "https://waytoagi.feishu.cn/wiki/OD5Ewi7nOiIEywkzopfczGrznJe"
     }
   ],
   "warning": null,
