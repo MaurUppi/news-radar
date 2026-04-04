@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T16:35:08.154718Z",
+  "generated_at": "2026-04-04T17:28:50.500505Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-04",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-04-04",
@@ -18,9 +18,15 @@
       "title": "Anthropic 设计主管的工作流：垃圾进去，宝贝出来",
       "summary": "Jenny Wen ，Anthropic 的设计负责人，Cowork 的设计主导者。她最近上了一期播客，完整展示了自己怎么用 Cowork 干活，还讲了 Cowork 的真实诞生过程，以及产品界面经历了多少次推翻重来。",
       "url": "https://waytoagi.feishu.cn/wiki/LXbFwrHp9ihq7ykvOXkciGUZn0b"
+    },
+    {
+      "date": "2026-04-04",
+      "title": "8 个 Claude Code Hooks 实战（译）",
+      "summary": "在用Claude Code开发时误改配置、乱删文件、漏跑测试的痛点，靠Hooks就能一键解决。这篇文章推荐了8个Claude Code Hooks，对日常使用AI写码的人来说实用性极强，快上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/AnJIwnyATiXRZekuJNtclt0qnrd"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 34,
   "updates_7d": [
     {
       "date": "2026-04-04",
@@ -33,6 +39,12 @@
       "title": "Anthropic 设计主管的工作流：垃圾进去，宝贝出来",
       "summary": "Jenny Wen ，Anthropic 的设计负责人，Cowork 的设计主导者。她最近上了一期播客，完整展示了自己怎么用 Cowork 干活，还讲了 Cowork 的真实诞生过程，以及产品界面经历了多少次推翻重来。",
       "url": "https://waytoagi.feishu.cn/wiki/LXbFwrHp9ihq7ykvOXkciGUZn0b"
+    },
+    {
+      "date": "2026-04-04",
+      "title": "8 个 Claude Code Hooks 实战（译）",
+      "summary": "在用Claude Code开发时误改配置、乱删文件、漏跑测试的痛点，靠Hooks就能一键解决。这篇文章推荐了8个Claude Code Hooks，对日常使用AI写码的人来说实用性极强，快上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/AnJIwnyATiXRZekuJNtclt0qnrd"
     },
     {
       "date": "2026-04-03",
