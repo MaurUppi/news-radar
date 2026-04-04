@@ -1,51 +1,39 @@
 {
-  "generated_at": "2026-04-04T15:31:01.575242Z",
+  "generated_at": "2026-04-04T16:35:08.154718Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-04-03",
-  "count_today": 6,
+  "latest_date": "2026-04-04",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-04-03",
-      "title": "驾驭 Claude 的智能 | 构建应用的 3 个关键模式【译】",
-      "summary": "Claude 平台团队技术人员 Lance Martin 分享了团队在构建应用时应该采用的三个核心模式。这些模式能帮助你的应用跟上 Claude 智能进化的步伐，同时兼顾延迟和系统成本。",
-      "url": "https://waytoagi.feishu.cn/wiki/IATXwyj7HiE2wJkkLFucnj6kn0f"
+      "date": "2026-04-04",
+      "title": "从Vibe coding到Dark factories：AI接管软件生产的完整路线图丨Lenny's Podcast",
+      "summary": "Simon Willison 是 Django 的联合创始人——那个同时托着 Instagram、Pinterest、Spotify 的 Web 框架。他创造了\"prompt injection\"这个词，普及了\"AI slop\"和\"agentic engineering\"的概念，还有超过 100 个开源项目，其中 Datasette 已经成为全球调查记者的常用工具。在这期 Lenny's Podcast 对谈里，他带来的不是预测，而是一个在最前线工作的工程师，对这个行业正在发生的事情最诚实的描述。",
+      "url": "https://waytoagi.feishu.cn/wiki/PvQVw2GfziEbuIkYHEwcgDhZnsy"
     },
     {
-      "date": "2026-04-03",
-      "title": "你真的了解GitHub吗？- 搜索篇",
-      "summary": "或许你也经常看到很多推荐GitHub项目的文章，这篇文章帮助小白可以熟练上手GitHub，先从最简单的搜索开始。作者主要分享了GitHub项目信息的四种搜索方式，以及GitHub中都有什么信息。",
-      "url": "https://waytoagi.feishu.cn/wiki/BoYhw3w1piyrl5k1dhTcDOIfnAf"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "你不知道的大模型训练：原理、路径与新实践",
-      "summary": "2026 年来看大模型效果真正拉开差距的地方，慢慢不再是预训练本身了，而在它更后面的那一大段：后训练、评测、奖励、Agent 训练、蒸馏，每一个步骤都在影响用户实际感受效果。你发现某个模型突然变强了，背后可能是这几块一起优化到位了，而非单一因素导致。本篇文章就按大模型训练链路顺序来讲，非专业背景的人也能读得懂。",
-      "url": "https://waytoagi.feishu.cn/wiki/ZrYUwM4MeiNrhZk07V1cBFUvnNc"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Wan2.7-Video 为创作自由而来",
-      "summary": "更可控 、 更全能 的 视频创作大模型 Wan2.7-Video 全新上线。除了“生成”，本次升级更是聚焦在 “创作” 全链路，覆盖 生成、编辑、复刻、重塑、驱动、续写、参考 …… 一个更低使用门槛、真正能导擅演、服务于创作者的视频创作套件，来了！",
-      "url": "https://waytoagi.feishu.cn/wiki/ZQSFwp6LGiNHfxkY0v6caMVBnyf"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Harness Engineering 在讨论什么：三个 Scaling 维度的统一框架",
-      "summary": "2026 年第一季度，OpenAI、Cursor 和 Anthropic 先后发布了各自在 agent-first 软件开发上的实践报告。三篇文章都被归入同一个术语：harness engineering。但仔细读下来，它们讲的几乎是三件完全不同的事。这篇文章提供了一个统一框架来理清这些讨论。",
-      "url": "https://waytoagi.feishu.cn/wiki/D0x2wz52MiSu2fkdrmRcZNginJh"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Google前高管：如何在下一阶段AI（2026-2027）到来之前做好定位 | Silicon Valley Girl",
-      "summary": "Mo Gawdat在谷歌X担任首席商务官超过十年，主导过上百个前沿科技项目的商业化探索。在这期对话里，他从七个维度拆解了未来就业市场的走向并给出了四条异常清醒的个人准备建议。",
-      "url": "https://waytoagi.feishu.cn/wiki/YNlyw1dRjilC1Yko0MEccxdBnKd"
+      "date": "2026-04-04",
+      "title": "Anthropic 设计主管的工作流：垃圾进去，宝贝出来",
+      "summary": "Jenny Wen ，Anthropic 的设计负责人，Cowork 的设计主导者。她最近上了一期播客，完整展示了自己怎么用 Cowork 干活，还讲了 Cowork 的真实诞生过程，以及产品界面经历了多少次推翻重来。",
+      "url": "https://waytoagi.feishu.cn/wiki/LXbFwrHp9ihq7ykvOXkciGUZn0b"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 33,
   "updates_7d": [
+    {
+      "date": "2026-04-04",
+      "title": "从Vibe coding到Dark factories：AI接管软件生产的完整路线图丨Lenny's Podcast",
+      "summary": "Simon Willison 是 Django 的联合创始人——那个同时托着 Instagram、Pinterest、Spotify 的 Web 框架。他创造了\"prompt injection\"这个词，普及了\"AI slop\"和\"agentic engineering\"的概念，还有超过 100 个开源项目，其中 Datasette 已经成为全球调查记者的常用工具。在这期 Lenny's Podcast 对谈里，他带来的不是预测，而是一个在最前线工作的工程师，对这个行业正在发生的事情最诚实的描述。",
+      "url": "https://waytoagi.feishu.cn/wiki/PvQVw2GfziEbuIkYHEwcgDhZnsy"
+    },
+    {
+      "date": "2026-04-04",
+      "title": "Anthropic 设计主管的工作流：垃圾进去，宝贝出来",
+      "summary": "Jenny Wen ，Anthropic 的设计负责人，Cowork 的设计主导者。她最近上了一期播客，完整展示了自己怎么用 Cowork 干活，还讲了 Cowork 的真实诞生过程，以及产品界面经历了多少次推翻重来。",
+      "url": "https://waytoagi.feishu.cn/wiki/LXbFwrHp9ihq7ykvOXkciGUZn0b"
+    },
     {
       "date": "2026-04-03",
       "title": "驾驭 Claude 的智能 | 构建应用的 3 个关键模式【译】",
@@ -231,36 +219,6 @@
       "title": "AI音乐周刊 W.A 021",
       "summary": "本周AI音乐赛道迎来密集升级，从创作、剪辑到音频处理全面突破。谷歌Lyria 3 Pro实现长音频结构化生成，Suno v5.5主打声音克隆与个性化创作，Mureka新增视频配乐能力，工具实用性大幅提升。LALAL.AI分轨效率与音质同步优化，Neural frames、Tunee则让MV与虚拟艺人制作更简单。而且多篇前沿论文发布，覆盖长音频生成、音乐质量评估、深度伪造检测等关键方向。",
       "url": "https://waytoagi.feishu.cn/wiki/VDXtwIozvigGqGklpULccKwbnfg"
-    },
-    {
-      "date": "2026-03-29",
-      "title": "我用9个AI Agent管理工作和家庭，省出来的时间你想象不到丨Lenny's Podcast",
-      "summary": "Claire Vo曾三度担任首席产品官，也是ChatPRD 的创始人。她几乎用过市面上所有AI产品。她第一次安装OpenClaw花了整整八个小时，换来的结果是——家庭日历被清空。然而半年后，她在家里摆了三台 Mac Mini，运行着九个专属 AI 智能体。克莱尔完整复盘了她从怀疑者到深度用户的全程，以及她如何用 OpenClaw 同时打理工作、播客、课程和三个孩子的日常。",
-      "url": "https://waytoagi.feishu.cn/wiki/MY9uwvYUPi0kTtkeX3kcIrNGnyf"
-    },
-    {
-      "date": "2026-03-29",
-      "title": "对谈Gamma创始人Grant：如何让7,000万用户爱上视觉创作｜Linkloud Talk",
-      "summary": "Linkloud Talk本期邀请到Gamma的创始人Grant Lee。Gamma最早从“革命”Powerpoint 切入，在上线至今3年多的时间里，以极高的人效在去年突破1亿美金的ARR，用户突破 7000万，并且完成了a16z领投的6800万美金的融资，估值高达21亿美金。Grant 分享了创业以来的公司治理理念、以及在高速发展阶段如何保持竞争力，营销与增长上的挑战和最佳实践！",
-      "url": "https://waytoagi.feishu.cn/wiki/IO0WwCUHOi2zK4kpDLBct45Pnc6"
-    },
-    {
-      "date": "2026-03-29",
-      "title": "使用Claude Code两个月以来学到的一切",
-      "summary": "过去两个月，作者一直在深度使用Claude Code，不是随便玩玩，而是每天都在实战一线深耕。他完成了相关课程，考取了认证，用它搭建项目，搞砸过功能，再逐一修复，接着开发更多功能。这篇文章是他全部的实战心得：那些鲜有人提及的功能、真正高效可用的工作流、让他耗费数小时才踩完的坑，以及帮他节省数天时间的技巧。",
-      "url": "https://waytoagi.feishu.cn/wiki/ZsckwE66givJsxkWlRscbmuSnXd"
-    },
-    {
-      "date": "2026-03-29",
-      "title": "从零开始两天构建一个 Claude Code：带你拆解 AI CLI 的每一层",
-      "summary": "一个生产级的 agentic CLI 到底需要哪些组件？每一层的具体怎么实现？SSE 缓冲区怎么管理、system prompt 怎么分段、工具权限怎么拦截、上下文满了怎么压缩。这些问题靠读文档回答不了，靠逆向混淆代码效率极低。作者以 Claude Code 为参照系，从零重建了一个功能等价的实现——纯 TypeScript，零框架，唯一的依赖是 fast-glob，得到了46 个文件，一万行 TypeScript。这篇文章记录的是这个过程中每一层的技术决策和实现细节。",
-      "url": "https://waytoagi.feishu.cn/wiki/JyQjwf9JziRzv5klJB1cXSIxnDd"
-    },
-    {
-      "date": "2026-03-29",
-      "title": "一个从执行到记忆的完整 Agent Harness: gstack + Compound Engineering：",
-      "summary": "Compound Engineering凭借更先进的架构，成为了超越热门Superpowers的AI开发工作流。它贴合Anthropic的Harness设计，在规划、审查环节深度更强，还独创了知识沉淀机制，让AI不再每次从零开始。搭配gstack使用，可以覆盖决策、规划、执行、审核全链路，让AI开发更可靠、更具长期价值，对长期迭代项目的开发者极具实用意义。",
-      "url": "https://waytoagi.feishu.cn/wiki/QYdew4W0eivvsJk4aWccwl4enYM"
     }
   ],
   "warning": null,
