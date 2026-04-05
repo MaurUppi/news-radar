@@ -8033,5 +8033,8 @@
   "Ubuntu now requires more RAM than Windows 11": "Ubuntu 现在需要比 Windows 11 更多的 RAM",
   "Sad Story of My Google Workspace Account Suspension": "我的 Google Workspace 帐号被暂停的悲惨故事",
   "For crypto miners turned AI stars, the real test is about to come": "对于加密矿工转型为人工智能明星来说，真正的考验即将到来",
-  "Congress Became the Weakest Branch": "国会成为最弱的部门"
+  "Congress Became the Weakest Branch": "国会成为最弱的部门",
+  "A tail-call interpreter in (nightly) Rust": "（每晚）Rust 中的尾部调用解释器",
+  "Someone at BrowserStack Is Leaking Users' Email Address": "BrowserStack 的某人泄露了用户的电子邮件地址",
+  "Building slogbox": "构建日志框"
 }
