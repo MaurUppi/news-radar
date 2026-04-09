@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-09T21:08:43.624569Z",
+  "generated_at": "2026-04-09T22:04:32.788113Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 502,
+      "duration_ms": 389,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 768,
-      "duration_ms": 333,
+      "duration_ms": 422,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Info Flow",
       "ok": true,
       "item_count": 357,
-      "duration_ms": 9638,
+      "duration_ms": 10252,
       "error": null
     },
     {
@@ -30,23 +30,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 89,
-      "duration_ms": 2719,
+      "duration_ms": 2283,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 2869,
-      "duration_ms": 1541,
+      "item_count": 2866,
+      "duration_ms": 1510,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 69,
-      "duration_ms": 424,
+      "item_count": 72,
+      "duration_ms": 385,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 194,
+      "duration_ms": 253,
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1846,
+      "duration_ms": 1471,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "AI今日热榜",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 113,
       "error": "403 Client Error: Forbidden for url: https://aihot.today/"
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI Valley",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 4460,
+      "duration_ms": 4946,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "The Rundown AI",
       "ok": true,
       "item_count": 67,
-      "duration_ms": 6540,
+      "duration_ms": 8424,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 140,
-      "duration_ms": 431,
+      "duration_ms": 513,
       "error": null
     }
   ],
@@ -104,8 +104,8 @@
   ],
   "zero_item_sites": [],
   "fetched_raw_items": 4802,
-  "items_before_topic_filter": 7949,
-  "items_in_24h": 931,
+  "items_before_topic_filter": 7914,
+  "items_in_24h": 929,
   "rss_opml": {
     "enabled": false,
     "path": null,
