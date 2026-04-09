@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T15:22:44.442351Z",
+  "generated_at": "2026-04-09T16:47:54.712293Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -14,7 +14,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/WArwwDGJviBNpykzL20cEJxTnBc"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 31,
   "updates_7d": [
     {
       "date": "2026-04-09",
@@ -201,42 +201,6 @@
       "title": "25个当下即可打造的实用Skills、Agent和自动化方案——完整清单",
       "summary": "大多数人学习了AI相关知识后，却完全不知道该打造什么作品。或许掌握了理论知识，熟悉各类工具，可一旦坐下来动手创作，就只能对着空白屏幕发呆。这份清单就是为了解决这个问题。25个项目按难度分级整理，每个项目都能在一个周末内完成，每个项目都能解决实际问题，每个项目所学到的技能，还能为后续项目打下基础、层层叠加。",
       "url": "https://waytoagi.feishu.cn/wiki/D7A9wwzcriQ8hGkLu53cm3QQnif"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "驾驭 Claude 的智能 | 构建应用的 3 个关键模式【译】",
-      "summary": "Claude 平台团队技术人员 Lance Martin 分享了团队在构建应用时应该采用的三个核心模式。这些模式能帮助你的应用跟上 Claude 智能进化的步伐，同时兼顾延迟和系统成本。",
-      "url": "https://waytoagi.feishu.cn/wiki/IATXwyj7HiE2wJkkLFucnj6kn0f"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "你真的了解GitHub吗？- 搜索篇",
-      "summary": "或许你也经常看到很多推荐GitHub项目的文章，这篇文章帮助小白可以熟练上手GitHub，先从最简单的搜索开始。作者主要分享了GitHub项目信息的四种搜索方式，以及GitHub中都有什么信息。",
-      "url": "https://waytoagi.feishu.cn/wiki/BoYhw3w1piyrl5k1dhTcDOIfnAf"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "你不知道的大模型训练：原理、路径与新实践",
-      "summary": "2026 年来看大模型效果真正拉开差距的地方，慢慢不再是预训练本身了，而在它更后面的那一大段：后训练、评测、奖励、Agent 训练、蒸馏，每一个步骤都在影响用户实际感受效果。你发现某个模型突然变强了，背后可能是这几块一起优化到位了，而非单一因素导致。本篇文章就按大模型训练链路顺序来讲，非专业背景的人也能读得懂。",
-      "url": "https://waytoagi.feishu.cn/wiki/ZrYUwM4MeiNrhZk07V1cBFUvnNc"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Wan2.7-Video 为创作自由而来",
-      "summary": "更可控 、 更全能 的 视频创作大模型 Wan2.7-Video 全新上线。除了“生成”，本次升级更是聚焦在 “创作” 全链路，覆盖 生成、编辑、复刻、重塑、驱动、续写、参考 …… 一个更低使用门槛、真正能导擅演、服务于创作者的视频创作套件，来了！",
-      "url": "https://waytoagi.feishu.cn/wiki/ZQSFwp6LGiNHfxkY0v6caMVBnyf"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Harness Engineering 在讨论什么：三个 Scaling 维度的统一框架",
-      "summary": "2026 年第一季度，OpenAI、Cursor 和 Anthropic 先后发布了各自在 agent-first 软件开发上的实践报告。三篇文章都被归入同一个术语：harness engineering。但仔细读下来，它们讲的几乎是三件完全不同的事。这篇文章提供了一个统一框架来理清这些讨论。",
-      "url": "https://waytoagi.feishu.cn/wiki/D0x2wz52MiSu2fkdrmRcZNginJh"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Google前高管：如何在下一阶段AI（2026-2027）到来之前做好定位 | Silicon Valley Girl",
-      "summary": "Mo Gawdat在谷歌X担任首席商务官超过十年，主导过上百个前沿科技项目的商业化探索。在这期对话里，他从七个维度拆解了未来就业市场的走向并给出了四条异常清醒的个人准备建议。",
-      "url": "https://waytoagi.feishu.cn/wiki/YNlyw1dRjilC1Yko0MEccxdBnKd"
     }
   ],
   "warning": null,
