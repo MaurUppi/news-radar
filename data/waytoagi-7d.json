@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T17:30:33.011726Z",
+  "generated_at": "2026-04-11T18:42:57.146696Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-11",
-  "count_today": 6,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-04-11",
@@ -18,6 +18,12 @@
       "title": "如何使用Hermes Agent稳定爬取公众号文章",
       "summary": "Hermes Agent官方推荐的Browser Use开启免费试用，支持无限时长、免费代理与持久化鉴权，极大降低了网页自动化成本。本篇文章详细演示了API配置流程，以及借助Hermes快速封装微信公众号文章抓取技能，还能实现内容同步至飞书文档的完整自动化链路，格式可以完美保留。快来试试！",
       "url": "https://waytoagi.feishu.cn/wiki/OHC6wrM37iapyVk9BD8c7xXqn4c"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "像 Boris Cherny 那样使用 Claude Code 的 10 个 Slash Commands",
+      "summary": "在终端里设置 shell aliases 已经自然到几乎成了每个开发者的肌肉记忆。某个命令只要你用得足够频繁，你就会给它起个 alias。但在 Claude Code prompts 这件事上，开发者通常会完全跳过这一步。作者整理了10 个在工作流里最有用的commands，让我们来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/XedYw85WKiiMKmkfaDRcoG4Rnpc"
     },
     {
       "date": "2026-04-11",
@@ -44,7 +50,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/K59owupjYihoDNkqQQscv6gGnTd"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 38,
   "updates_7d": [
     {
       "date": "2026-04-11",
@@ -57,6 +63,12 @@
       "title": "如何使用Hermes Agent稳定爬取公众号文章",
       "summary": "Hermes Agent官方推荐的Browser Use开启免费试用，支持无限时长、免费代理与持久化鉴权，极大降低了网页自动化成本。本篇文章详细演示了API配置流程，以及借助Hermes快速封装微信公众号文章抓取技能，还能实现内容同步至飞书文档的完整自动化链路，格式可以完美保留。快来试试！",
       "url": "https://waytoagi.feishu.cn/wiki/OHC6wrM37iapyVk9BD8c7xXqn4c"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "像 Boris Cherny 那样使用 Claude Code 的 10 个 Slash Commands",
+      "summary": "在终端里设置 shell aliases 已经自然到几乎成了每个开发者的肌肉记忆。某个命令只要你用得足够频繁，你就会给它起个 alias。但在 Claude Code prompts 这件事上，开发者通常会完全跳过这一步。作者整理了10 个在工作流里最有用的commands，让我们来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/XedYw85WKiiMKmkfaDRcoG4Rnpc"
     },
     {
       "date": "2026-04-11",
