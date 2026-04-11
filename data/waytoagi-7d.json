@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T16:36:01.253675Z",
+  "generated_at": "2026-04-11T17:30:33.011726Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-11",
-  "count_today": 4,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-04-11",
@@ -30,9 +30,21 @@
       "title": "Anthropic 官方指南：怎么给 Agent 设计工具",
       "summary": "这篇Anthropic官方博客揭秘了Claude Code的工具设计心法，为Agent开发者提供了极具参考价值的架构思路。文中通过多次迭代案例，展现了从低效方案到结构化工具、从待办清单到任务协作的演进逻辑。读懂这套设计哲学，你也可以避开工具冗余的陷阱，打造更高效、更适配模型的智能体系统。",
       "url": "https://waytoagi.feishu.cn/wiki/E0P6wFVV0iUmmTkqq7FcNqJinVf"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "5分钟上手，Hermes 丝滑接入个人微信",
+      "summary": "Hermes Agent 宣布原生支持个人微信了。微信扫码即可连接，私聊群聊都支持。图片、视频、文件、语音消息全覆盖，长轮询直连，不需要公网 IP。作者速速整理了上手教程，前后不到5分钟，很丝滑～",
+      "url": "https://waytoagi.feishu.cn/wiki/TqyTwIE6Kiu3i4kVDMQcNvm6nig"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "40 个能把 Claude 变成生产力机器的 MCP Servers",
+      "summary": "作者实测筛选出40个可以让 Claude 从封闭大脑变为智能助手的实用MCP服务器，而且按搜索、文件、开发、生产力等场景分类，清晰说明了用途与适用场景，并针对不同职业提供入门安装套餐。",
+      "url": "https://waytoagi.feishu.cn/wiki/K59owupjYihoDNkqQQscv6gGnTd"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-04-11",
@@ -57,6 +69,18 @@
       "title": "Anthropic 官方指南：怎么给 Agent 设计工具",
       "summary": "这篇Anthropic官方博客揭秘了Claude Code的工具设计心法，为Agent开发者提供了极具参考价值的架构思路。文中通过多次迭代案例，展现了从低效方案到结构化工具、从待办清单到任务协作的演进逻辑。读懂这套设计哲学，你也可以避开工具冗余的陷阱，打造更高效、更适配模型的智能体系统。",
       "url": "https://waytoagi.feishu.cn/wiki/E0P6wFVV0iUmmTkqq7FcNqJinVf"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "5分钟上手，Hermes 丝滑接入个人微信",
+      "summary": "Hermes Agent 宣布原生支持个人微信了。微信扫码即可连接，私聊群聊都支持。图片、视频、文件、语音消息全覆盖，长轮询直连，不需要公网 IP。作者速速整理了上手教程，前后不到5分钟，很丝滑～",
+      "url": "https://waytoagi.feishu.cn/wiki/TqyTwIE6Kiu3i4kVDMQcNvm6nig"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "40 个能把 Claude 变成生产力机器的 MCP Servers",
+      "summary": "作者实测筛选出40个可以让 Claude 从封闭大脑变为智能助手的实用MCP服务器，而且按搜索、文件、开发、生产力等场景分类，清晰说明了用途与适用场景，并针对不同职业提供入门安装套餐。",
+      "url": "https://waytoagi.feishu.cn/wiki/K59owupjYihoDNkqQQscv6gGnTd"
     },
     {
       "date": "2026-04-10",
