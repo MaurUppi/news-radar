@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-04-13T16:42:10.302394Z",
+  "generated_at": "2026-04-13T17:59:03.014919Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-13",
-  "count_today": 3,
+  "count_today": 7,
   "updates_today": [
+    {
+      "date": "2026-04-13",
+      "title": "分享一个我用了2年的深度研究Prompt，半小时帮你搞懂任何陌生领域。",
+      "summary": "卡兹克自己三年前还在金融行业的时候，研究公司和行业用的方法论，然后后面AI来了，各种各样的深度研究也出来了，他自己又把这套方法论稍微迭代了一下，封装成了给很多AI的深度研究功能用的Prompt，能适用于研究任何东西，或许对你也同样适用，快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/YhpiwEYHQiWS9Ok1s7bcgHg2nne"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "做Agent产品，你不是在做AI助手，你是在重新分配责任",
+      "summary": "做Agent产品翻车的根因，几乎从来不是模型不够聪明，而是产品经理还在用做SaaS的脑子做Agent。这篇文章不讲Prompt技巧，不讲框架选型，只讲一件事：做Agent产品的时候，你脑子里那张\"产品地图\"，到底应该长什么样。",
+      "url": "https://waytoagi.feishu.cn/wiki/Skzvwid6EihNZxkBNEKcERXdnmg"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "万字干货！Agent Skills从入门到精通",
+      "summary": "2026年最值得学习的AI技能是什么？毫无疑问是Skill。无论是Claude Code，还是龙虾、爱马仕，几乎所有的Agent，如果想把事情干得又快又好，都越来越依赖Skills。今天这篇文章，作者带大家从入门到精通，彻底搞懂Skills ——理解skill，成为skill，超越skill。",
+      "url": "https://waytoagi.feishu.cn/wiki/LWHywW2Xxi7mGvkhhotc9tt6nHg"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "Harness、LLM、Token、Agent、MCP…AI圈最烧脑的8个概念，一文彻底讲透",
+      "summary": "LLM、Token、Context、Prompt、Tool、MCP、Agent、Agent Skill、Harness……随便拎一个出来，很多人其实说不太清它到底指的是什么。更扎心的是， 你以为你懂了，但一深入追问，发现全是模糊的。这篇文章，作者从最底层的工程视角出发，把AI的核心概念一个个拆开讲透。",
+      "url": "https://waytoagi.feishu.cn/wiki/LUKMwoS6Gi1SHHkO48wcuIJ2n2c"
+    },
     {
       "date": "2026-04-13",
       "title": "Box CEO：你的软件，是为人设计的还是为 Agent 设计的？ 丨a16z",
@@ -26,8 +50,32 @@
       "url": "https://waytoagi.feishu.cn/wiki/EZ0awlZHuitQR9kcpPkc2a9xnWc"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 39,
   "updates_7d": [
+    {
+      "date": "2026-04-13",
+      "title": "分享一个我用了2年的深度研究Prompt，半小时帮你搞懂任何陌生领域。",
+      "summary": "卡兹克自己三年前还在金融行业的时候，研究公司和行业用的方法论，然后后面AI来了，各种各样的深度研究也出来了，他自己又把这套方法论稍微迭代了一下，封装成了给很多AI的深度研究功能用的Prompt，能适用于研究任何东西，或许对你也同样适用，快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/YhpiwEYHQiWS9Ok1s7bcgHg2nne"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "做Agent产品，你不是在做AI助手，你是在重新分配责任",
+      "summary": "做Agent产品翻车的根因，几乎从来不是模型不够聪明，而是产品经理还在用做SaaS的脑子做Agent。这篇文章不讲Prompt技巧，不讲框架选型，只讲一件事：做Agent产品的时候，你脑子里那张\"产品地图\"，到底应该长什么样。",
+      "url": "https://waytoagi.feishu.cn/wiki/Skzvwid6EihNZxkBNEKcERXdnmg"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "万字干货！Agent Skills从入门到精通",
+      "summary": "2026年最值得学习的AI技能是什么？毫无疑问是Skill。无论是Claude Code，还是龙虾、爱马仕，几乎所有的Agent，如果想把事情干得又快又好，都越来越依赖Skills。今天这篇文章，作者带大家从入门到精通，彻底搞懂Skills ——理解skill，成为skill，超越skill。",
+      "url": "https://waytoagi.feishu.cn/wiki/LWHywW2Xxi7mGvkhhotc9tt6nHg"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "Harness、LLM、Token、Agent、MCP…AI圈最烧脑的8个概念，一文彻底讲透",
+      "summary": "LLM、Token、Context、Prompt、Tool、MCP、Agent、Agent Skill、Harness……随便拎一个出来，很多人其实说不太清它到底指的是什么。更扎心的是， 你以为你懂了，但一深入追问，发现全是模糊的。这篇文章，作者从最底层的工程视角出发，把AI的核心概念一个个拆开讲透。",
+      "url": "https://waytoagi.feishu.cn/wiki/LUKMwoS6Gi1SHHkO48wcuIJ2n2c"
+    },
     {
       "date": "2026-04-13",
       "title": "Box CEO：你的软件，是为人设计的还是为 Agent 设计的？ 丨a16z",
