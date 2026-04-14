@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T18:03:51.334897Z",
+  "generated_at": "2026-04-14T19:48:06.858290Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-14",
-  "count_today": 4,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-04-14",
@@ -15,9 +15,27 @@
     },
     {
       "date": "2026-04-14",
+      "title": "如何构建永不遗忘的Agent【译】",
+      "summary": "本篇文章从第一性原理出发解析智能体记忆：从Python列表、Markdown文件，到向量检索、图向量混合架构，最终形成一套简洁易用的开源完整解决方案。",
+      "url": "https://waytoagi.feishu.cn/wiki/HNvTwZeRhiefRakKCj8cp892nab"
+    },
+    {
+      "date": "2026-04-14",
+      "title": "如何在 6 个月内成为 AI 自动化工程师（附学习资源）【译】",
+      "summary": "AI 自动化，正在悄悄成为整个 AI 领域里 ROI 最高的一项技能。问题在于，大多数进入这个领域的人，都会以同样的方式卡住。有人第一天就打开 Python 教程，第二周就撞墙，此后再也不碰无代码工具。有人迷失在 8 小时的 YouTube 教程里，却从来没有为真实业务搭出过一个真正的工作流。这份指南的目标，是给你一条实用的 6 个月路线图。",
+      "url": "https://waytoagi.feishu.cn/wiki/KUSYwJPpCiZSUqkSy6GcE1xyn0e"
+    },
+    {
+      "date": "2026-04-14",
       "title": "分享10个你可能不知道的Claude Code隐藏命令和技巧。",
       "summary": "Claude Code更新了Auto Mode（自动模式）。上线三周了，还在用 claude --dangerously-skip-permissions 的朋友可以都切换成 claude --permission-mode auto 了，不至于闭着眼把权限全批了，执行到高风险动作还是提醒的。作者这次一口气整理了这段时间觉得最有用的十个命令和技巧，全分享出来，快来看看都有什么！",
       "url": "https://waytoagi.feishu.cn/wiki/GsP4wW2bciVST2k4YdicZ3cGnIb"
+    },
+    {
+      "date": "2026-04-14",
+      "title": "全球AI大会2026精华总结，上午七场演讲一文看完",
+      "summary": "4月8日，AGI HORIZON Tokyo 2026 圆满落幕了！上午七场演讲，让我们来看看嘉宾们都分享了哪些精彩内容！",
+      "url": "https://waytoagi.feishu.cn/wiki/LaamwVJwjibJllkuL4bcwSEDn5f"
     },
     {
       "date": "2026-04-14",
@@ -32,7 +50,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/JdzUwjBwQiw4ESkz4UxcIsCXnah"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 40,
   "updates_7d": [
     {
       "date": "2026-04-14",
@@ -42,9 +60,27 @@
     },
     {
       "date": "2026-04-14",
+      "title": "如何构建永不遗忘的Agent【译】",
+      "summary": "本篇文章从第一性原理出发解析智能体记忆：从Python列表、Markdown文件，到向量检索、图向量混合架构，最终形成一套简洁易用的开源完整解决方案。",
+      "url": "https://waytoagi.feishu.cn/wiki/HNvTwZeRhiefRakKCj8cp892nab"
+    },
+    {
+      "date": "2026-04-14",
+      "title": "如何在 6 个月内成为 AI 自动化工程师（附学习资源）【译】",
+      "summary": "AI 自动化，正在悄悄成为整个 AI 领域里 ROI 最高的一项技能。问题在于，大多数进入这个领域的人，都会以同样的方式卡住。有人第一天就打开 Python 教程，第二周就撞墙，此后再也不碰无代码工具。有人迷失在 8 小时的 YouTube 教程里，却从来没有为真实业务搭出过一个真正的工作流。这份指南的目标，是给你一条实用的 6 个月路线图。",
+      "url": "https://waytoagi.feishu.cn/wiki/KUSYwJPpCiZSUqkSy6GcE1xyn0e"
+    },
+    {
+      "date": "2026-04-14",
       "title": "分享10个你可能不知道的Claude Code隐藏命令和技巧。",
       "summary": "Claude Code更新了Auto Mode（自动模式）。上线三周了，还在用 claude --dangerously-skip-permissions 的朋友可以都切换成 claude --permission-mode auto 了，不至于闭着眼把权限全批了，执行到高风险动作还是提醒的。作者这次一口气整理了这段时间觉得最有用的十个命令和技巧，全分享出来，快来看看都有什么！",
       "url": "https://waytoagi.feishu.cn/wiki/GsP4wW2bciVST2k4YdicZ3cGnIb"
+    },
+    {
+      "date": "2026-04-14",
+      "title": "全球AI大会2026精华总结，上午七场演讲一文看完",
+      "summary": "4月8日，AGI HORIZON Tokyo 2026 圆满落幕了！上午七场演讲，让我们来看看嘉宾们都分享了哪些精彩内容！",
+      "url": "https://waytoagi.feishu.cn/wiki/LaamwVJwjibJllkuL4bcwSEDn5f"
     },
     {
       "date": "2026-04-14",
