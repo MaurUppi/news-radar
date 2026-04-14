@@ -1,17 +1,23 @@
 {
-  "generated_at": "2026-04-14T16:40:02.481838Z",
+  "generated_at": "2026-04-14T18:03:51.334897Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-14",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-04-14",
       "title": "完整解读：斯坦福 AI 年度报告｜26版发布，423页",
       "summary": "「斯坦福 AI 指数报告 2026」发布，423 页，9 个章节。与2025版 相比，今年新增了两个独立章节： AI 与科学 、 AI 与医疗 ，同时新增了 AI 主权分析框架和生成式 AI 的消费者价值估算。让我们来一起一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/HdYIwdW1AiHVt6kimMScGLHknrh"
+    },
+    {
+      "date": "2026-04-14",
+      "title": "分享10个你可能不知道的Claude Code隐藏命令和技巧。",
+      "summary": "Claude Code更新了Auto Mode（自动模式）。上线三周了，还在用 claude --dangerously-skip-permissions 的朋友可以都切换成 claude --permission-mode auto 了，不至于闭着眼把权限全批了，执行到高风险动作还是提醒的。作者这次一口气整理了这段时间觉得最有用的十个命令和技巧，全分享出来，快来看看都有什么！",
+      "url": "https://waytoagi.feishu.cn/wiki/GsP4wW2bciVST2k4YdicZ3cGnIb"
     },
     {
       "date": "2026-04-14",
@@ -26,13 +32,19 @@
       "url": "https://waytoagi.feishu.cn/wiki/JdzUwjBwQiw4ESkz4UxcIsCXnah"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-04-14",
       "title": "完整解读：斯坦福 AI 年度报告｜26版发布，423页",
       "summary": "「斯坦福 AI 指数报告 2026」发布，423 页，9 个章节。与2025版 相比，今年新增了两个独立章节： AI 与科学 、 AI 与医疗 ，同时新增了 AI 主权分析框架和生成式 AI 的消费者价值估算。让我们来一起一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/HdYIwdW1AiHVt6kimMScGLHknrh"
+    },
+    {
+      "date": "2026-04-14",
+      "title": "分享10个你可能不知道的Claude Code隐藏命令和技巧。",
+      "summary": "Claude Code更新了Auto Mode（自动模式）。上线三周了，还在用 claude --dangerously-skip-permissions 的朋友可以都切换成 claude --permission-mode auto 了，不至于闭着眼把权限全批了，执行到高风险动作还是提醒的。作者这次一口气整理了这段时间觉得最有用的十个命令和技巧，全分享出来，快来看看都有什么！",
+      "url": "https://waytoagi.feishu.cn/wiki/GsP4wW2bciVST2k4YdicZ3cGnIb"
     },
     {
       "date": "2026-04-14",
