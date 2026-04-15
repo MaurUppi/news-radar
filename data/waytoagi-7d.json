@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-04-15T10:41:53.127650Z",
+  "generated_at": "2026-04-15T11:55:36.764572Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-15",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
+    {
+      "date": "2026-04-15",
+      "title": "刚刚！全网爆火 Hermes Agent 原生支持接入飞书了，小白保姆级教程 5 分钟上手。",
+      "summary": "前两天 Hermes上还只能飞书聊天，但缺少文件管理权限，玩法少了很多，现在飞书CLI官宣支持Hermes了！你可以照着这篇保姆级教程做，抢先一步把 Hermes 接进飞书并进化为功能权限齐全的完全体飞书CLI！",
+      "url": "https://waytoagi.feishu.cn/wiki/YC81wRG62ikFAZkPESmczN4bnYc"
+    },
     {
       "date": "2026-04-15",
       "title": "AI视频镜头语言提示词大全之运镜篇，手把手教你写提示词，附可套用模板",
@@ -14,8 +20,14 @@
       "url": "https://waytoagi.feishu.cn/wiki/N3A2wjNC1i3rWakhnbecqsfTnFc"
     }
   ],
-  "count_7d": 41,
+  "count_7d": 42,
   "updates_7d": [
+    {
+      "date": "2026-04-15",
+      "title": "刚刚！全网爆火 Hermes Agent 原生支持接入飞书了，小白保姆级教程 5 分钟上手。",
+      "summary": "前两天 Hermes上还只能飞书聊天，但缺少文件管理权限，玩法少了很多，现在飞书CLI官宣支持Hermes了！你可以照着这篇保姆级教程做，抢先一步把 Hermes 接进飞书并进化为功能权限齐全的完全体飞书CLI！",
+      "url": "https://waytoagi.feishu.cn/wiki/YC81wRG62ikFAZkPESmczN4bnYc"
+    },
     {
       "date": "2026-04-15",
       "title": "AI视频镜头语言提示词大全之运镜篇，手把手教你写提示词，附可套用模板",
