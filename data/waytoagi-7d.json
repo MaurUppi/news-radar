@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T14:55:17.571800Z",
+  "generated_at": "2026-04-16T16:22:34.102076Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-16",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-04-16",
@@ -21,6 +21,12 @@
     },
     {
       "date": "2026-04-16",
+      "title": "全球AI大会下午场全记录：企业、创作与IP，正在被AI重新定义",
+      "summary": "4月8日，WaytoAGI联合全球华人AI及SaaS创始人社区Linkloud和Asu Capital Partners，在东京八芳园举办了一场全球AI大会。这篇文章是下午场的完整回顾。",
+      "url": "https://waytoagi.feishu.cn/wiki/F25GwmJrzis2Fkk0uA9cJFi9nyf"
+    },
+    {
+      "date": "2026-04-16",
       "title": "云舒：我把马斯克、乔布斯等10个最强大脑塞进一个 Skill，结果被他们合伙 diss 了一天",
       "summary": "摆脱单一AI的思维局限，云舒从代码多子Agent校验中获得灵感，打造出多视角深度分析Skill。通过十位精英视角独立研判，精准戳破复盘过多、产出不足的盲区，在增长、产品、内容等方向给出破局建议，最终确立兴趣驱动的创作模式。这套方法能有效打破认知茧房，现在已经开源可直接安装，快来试试！",
       "url": "https://waytoagi.feishu.cn/wiki/WBVPwpU5WiD53ukvTH3c2rKQnIb"
@@ -32,7 +38,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QeG1wkHdFijWp3kl9B5cl9Z1n4b"
     }
   ],
-  "count_7d": 45,
+  "count_7d": 39,
   "updates_7d": [
     {
       "date": "2026-04-16",
@@ -45,6 +51,12 @@
       "title": "剪辑 Agent 字幕升级：99% 正确率的字幕，一条指令直接推进剪映",
       "summary": "成峰最近把他的剪辑 Agent 的字幕功能重做了一遍。跑一条指令，剪映首页多出一个新草稿。双击打开，字幕全在时间轴上，花字和入场动画都已经配好了。字幕准确率 95%，有口播稿能到 99%。",
       "url": "https://waytoagi.feishu.cn/wiki/YJ7gwaet0iuccskW2BKcjoaYnuf"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "全球AI大会下午场全记录：企业、创作与IP，正在被AI重新定义",
+      "summary": "4月8日，WaytoAGI联合全球华人AI及SaaS创始人社区Linkloud和Asu Capital Partners，在东京八芳园举办了一场全球AI大会。这篇文章是下午场的完整回顾。",
+      "url": "https://waytoagi.feishu.cn/wiki/F25GwmJrzis2Fkk0uA9cJFi9nyf"
     },
     {
       "date": "2026-04-16",
@@ -261,48 +273,6 @@
       "title": "40 个能把 Claude 变成生产力机器的 MCP Servers",
       "summary": "作者实测筛选出40个可以让 Claude 从封闭大脑变为智能助手的实用MCP服务器，而且按搜索、文件、开发、生产力等场景分类，清晰说明了用途与适用场景，并针对不同职业提供入门安装套餐。",
       "url": "https://waytoagi.feishu.cn/wiki/K59owupjYihoDNkqQQscv6gGnTd"
-    },
-    {
-      "date": "2026-04-10",
-      "title": "那个会自己\"进化\"的 Hermes Agent 来了｜附Windows安装教程",
-      "summary": "款Hermes Agent彻底打破常规，自带学习循环，可以在执行任务中自主沉淀、优化专属技能，还可以自动搜索安装能力，越用越强。本篇文章带来Windows系统完整部署教程，从环境配置、模型接入到飞书集成一步到位，而且汇总了高频坑点的解决方案与常用指令。快来跟着一步步上手操作试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/BWrcwMJU4iKqpikcVWJcPhKlnlI"
-    },
-    {
-      "date": "2026-04-10",
-      "title": "扩展 Claude 会话完整指南",
-      "summary": "面对 Claude 额度受限的困扰，本文分享了4 套 Claude Code 与 NotebookLM 的高效集成工作流，可以绕过额度限制，把重量级的文档分析卸载到 Google 那边去做。",
-      "url": "https://waytoagi.feishu.cn/wiki/WEfAwQy5hikJiqkb0Yacke5dnJc"
-    },
-    {
-      "date": "2026-04-10",
-      "title": "当所有人都在蒸馏「同事.skill」，我想聊剩下的 90%",
-      "summary": "最近两周，从「同事.skill」开始，各种诸如乔布斯、老板、前任甚至赛博算命的蒸馏人格系列铺天盖地。但剥开表象会发现一个现象 ：这波热潮里的绝大多数项目，仅仅发挥了 Skill 10% 的能力——本质上只是把一段角色 Prompt 存成了文件。本文不是教你做「同事.skill」那种角色扮演玩具。 如果你想把 Skill 做成 持续运转的系统 ——像搭乐高一样拼装 Agent 的能力边界，这篇文章正是为你准备的。",
-      "url": "https://waytoagi.feishu.cn/wiki/V5unwb34Ei92owkEM8ScQ4ptnHf"
-    },
-    {
-      "date": "2026-04-10",
-      "title": "小开源：蒸馏版自己的 SEO 审计工具 seo-audit-skill",
-      "summary": "子木做了一个 seo-audit-skill — 给它一个 URL，它就能跑出针对这个页面，一份结构化的报告 ，并告诉你在SEO方面哪里有问题、为什么有问题、怎么改。",
-      "url": "https://waytoagi.feishu.cn/wiki/BBknw4M5fibNvYklDZ6cDnw8nRd"
-    },
-    {
-      "date": "2026-04-10",
-      "title": "上手 Hermes Agent 后建议先尝试的十件事情",
-      "summary": "本文通过上手实践操作Hermes Agent ，给出了安装Hermes 后建议先尝试的十项功能，内容非常丰富，纯手敲，经过源码review和实验验证。 并通过尝试，也总结了Hermes 的八大亮点，都在文中了，欢迎阅读交流～",
-      "url": "https://waytoagi.feishu.cn/wiki/VKuaw7GETi9J5Mkx3mncDrQCnke"
-    },
-    {
-      "date": "2026-04-10",
-      "title": "OiiOii正式版使用手册",
-      "summary": "OiiOii 是全球首个动画创作Agent。用户通过自然语言对话，就能快速生成一张精美的插图、制作几秒的惊艳短视频，或者创作一段完整的剧情动画短片。这篇使用手册将带你快速熟悉平台的核心功能，开启你的 AI 创作之旅！",
-      "url": "https://waytoagi.feishu.cn/wiki/LXg1wZ6BzieMsVk9cVVco54lnlh"
-    },
-    {
-      "date": "2026-04-10",
-      "title": "Hermes Agent 的七个冷知识",
-      "summary": "这份Hermes Agent实用指南，集齐了日常使用中最能提升效率与体验的硬核技巧。不管你是新手还是进阶玩家，或许都能从中解锁一些高效好用的隐藏玩法。",
-      "url": "https://waytoagi.feishu.cn/wiki/So4Ww7h2XiPCoMkrgYscLnnTnsb"
     }
   ],
   "warning": null,
