@@ -10040,5 +10040,15 @@
   "Sal Khan's AI revolution hasn't happened yet": "萨尔·汗的人工智能革命尚未发生",
   "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus": "将大规模指标管道从 StatsD 迁移到 OpenTelemetry / Prometheus",
   "A Look into NaviDial, Japan's Legacy Phone Service": "探究日本传统电话服务 NaviDial",
-  "IPv6 traffic crosses the 50% mark": "IPv6 流量突破 50% 大关"
+  "IPv6 traffic crosses the 50% mark": "IPv6 流量突破 50% 大关",
+  "Allbirds ditches sneakers for AI compute": "Allbirds 放弃运动鞋转而采用 AI 计算",
+  "Audit business with Notion's built-in Claude agents": "使用 Notion 内置的 Claude 代理进行审计业务",
+  "The ROI of AI engineering": "人工智能工程的投资回报率",
+  "Snap cuts 1,000 jobs on AI productivity boosts": "Snap 因 AI 生产力提升而裁员 1,000 人",
+  "Musk is asking chip suppliers to move at ‘light speed’ for his Terafab AI chip plant": "马斯克要求芯片供应商以“光速”建设他的 Terafab 人工智能芯片工厂",
+  "Opera's browsers just picked up a new AI feature that's actually useful": "Opera 浏览器刚刚采用了一项真正有用的新人工智能功能",
+  "Opera adds Browser Connector for integrating AI chatbots": "Opera 添加了用于集成 AI 聊天机器人的浏览器连接器",
+  "Germany suspends military approval for long stays abroad for men under 45": "德国暂停军方批准 45 岁以下男性长期居留国外",
+  "North American English Dialects": "北美英语方言",
+  "Keycard – inject API keys into subprocesses, never touch shell env": "Keycard – 将 API 密钥注入子进程，切勿触及 shell 环境"
 }
