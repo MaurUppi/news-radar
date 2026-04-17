@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-04-17T10:54:55.103170Z",
+  "generated_at": "2026-04-17T11:51:52.678411Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-17",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
+    {
+      "date": "2026-04-17",
+      "title": "OpenCLI入门：让任何网站变成你的命令行工具（超详细版）",
+      "summary": "OpenCLI把复杂网页操作变成极简命令，一行指令就能秒查热榜、搜爆款、导数据，大幅提升信息获取效率。依托后台服务与浏览器插件联动，可以覆盖知乎、小红书、GitHub等数十平台，既能支撑内容创作者快速找选题，也适合程序员高效查项目。本篇指南，小白也能快速上手，彻底告别繁琐手动操作。",
+      "url": "https://waytoagi.feishu.cn/wiki/M2rkwVEbiimjSekUdFycGXDFnVe"
+    },
     {
       "date": "2026-04-17",
       "title": "GPT Image 2再登生图SOTA王座，文生图超全测评来了。",
@@ -14,8 +20,14 @@
       "url": "https://waytoagi.feishu.cn/wiki/C9kBwVzPtiWl3hkjbl1cHO4dngS"
     }
   ],
-  "count_7d": 41,
+  "count_7d": 42,
   "updates_7d": [
+    {
+      "date": "2026-04-17",
+      "title": "OpenCLI入门：让任何网站变成你的命令行工具（超详细版）",
+      "summary": "OpenCLI把复杂网页操作变成极简命令，一行指令就能秒查热榜、搜爆款、导数据，大幅提升信息获取效率。依托后台服务与浏览器插件联动，可以覆盖知乎、小红书、GitHub等数十平台，既能支撑内容创作者快速找选题，也适合程序员高效查项目。本篇指南，小白也能快速上手，彻底告别繁琐手动操作。",
+      "url": "https://waytoagi.feishu.cn/wiki/M2rkwVEbiimjSekUdFycGXDFnVe"
+    },
     {
       "date": "2026-04-17",
       "title": "GPT Image 2再登生图SOTA王座，文生图超全测评来了。",
