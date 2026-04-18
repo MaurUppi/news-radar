@@ -1,17 +1,23 @@
 {
-  "generated_at": "2026-04-18T18:01:49.213084Z",
+  "generated_at": "2026-04-18T19:22:26.009132Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-18",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-04-18",
       "title": "阿里的世界模型发布， HappyOyster 全面解读",
       "summary": "阿里推出世界模型HappyOyster（快乐生蚝），支持一句话生成可漫游、可导演、可创造、可分享的交互式 3D 世界。用户能用 WASD 自由探索，生成中实时改剧情与镜头，还可以保存分享二创，实现从 “看视频” 到 “进世界” 的体验跃迁。目前处于内测阶段，来看看大聪明的全面测评与解读。",
       "url": "https://waytoagi.feishu.cn/wiki/XzclwVjvMiEmUikQrxIcnt1hni1"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "开源「仓颉.Skill」，你现在可以蒸馏任何书！",
+      "summary": "我们可以蒸馏一个人，为什么不蒸馏他花了大量时间写的书呢？书是一个人花了大量时间沉淀下来的深度思考，是他反复推敲，实战沉淀下来的精华。蒸馏大佬们写的书，你能拿到他们的方法论，那是真正可落地的验证过的经验。于是我决定干一件事： 做一个能蒸馏任何书的 skill，然后让Agent帮我们把这些知识用起来！于是 仓颉.Skill 就这么诞生了",
+      "url": "https://waytoagi.feishu.cn/wiki/DOHJwxCHUivX5WkKQmtcGmP5nsc"
     },
     {
       "date": "2026-04-18",
@@ -32,13 +38,19 @@
       "url": "https://waytoagi.feishu.cn/wiki/QzwDwDGUmiJblKkdRNXcz8WjnSq"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 38,
   "updates_7d": [
     {
       "date": "2026-04-18",
       "title": "阿里的世界模型发布， HappyOyster 全面解读",
       "summary": "阿里推出世界模型HappyOyster（快乐生蚝），支持一句话生成可漫游、可导演、可创造、可分享的交互式 3D 世界。用户能用 WASD 自由探索，生成中实时改剧情与镜头，还可以保存分享二创，实现从 “看视频” 到 “进世界” 的体验跃迁。目前处于内测阶段，来看看大聪明的全面测评与解读。",
       "url": "https://waytoagi.feishu.cn/wiki/XzclwVjvMiEmUikQrxIcnt1hni1"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "开源「仓颉.Skill」，你现在可以蒸馏任何书！",
+      "summary": "我们可以蒸馏一个人，为什么不蒸馏他花了大量时间写的书呢？书是一个人花了大量时间沉淀下来的深度思考，是他反复推敲，实战沉淀下来的精华。蒸馏大佬们写的书，你能拿到他们的方法论，那是真正可落地的验证过的经验。于是我决定干一件事： 做一个能蒸馏任何书的 skill，然后让Agent帮我们把这些知识用起来！于是 仓颉.Skill 就这么诞生了",
+      "url": "https://waytoagi.feishu.cn/wiki/DOHJwxCHUivX5WkKQmtcGmP5nsc"
     },
     {
       "date": "2026-04-18",
