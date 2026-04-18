@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T17:04:48.453458Z",
+  "generated_at": "2026-04-18T18:01:49.213084Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-18",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-04-18",
@@ -24,9 +24,15 @@
       "title": "Notion 团队：为什么真正难的不是做 Agent，而是重做整个工作系统丨Latent Space",
       "summary": "Notion 的 Sarah Sachs 和 Simon Last。前者负责 Notion 的核心 AI 能力与基础设施，后者长期站在原型和 agent harness 的最前线。Notion要做的，并不是给文档软件外挂一个会聊天的助手，而是把企业记录工作、协作工作、检索工作、推进工作的底层系统，一点点改造成既能给人用，也能给 Agent 用。如果你正在做 AI 产品、企业软件，或者正在琢磨 MCP、Eval、检索和工作流自动化，这期对话的信息密度非常高。",
       "url": "https://waytoagi.feishu.cn/wiki/QZd3wft9yiTgDEk50XlcOW1YnNb"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "AI视频转场提示词大全：6大类19种技巧+通用模板直接套用",
+      "summary": "我们在制作AI视频的时候， 转场 这东西，很容易被忽略。很多新手写AI视频提示词，压根没想过\"这条视频和下一条之间怎么接\"，生成完了才发现拼不上。其实，不同方式的转场呈现的情绪和视觉效果是完全不一样的。小歪分享了6大类19种技巧+通用模板直接套用，快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QzwDwDGUmiJblKkdRNXcz8WjnSq"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-04-18",
@@ -45,6 +51,12 @@
       "title": "Notion 团队：为什么真正难的不是做 Agent，而是重做整个工作系统丨Latent Space",
       "summary": "Notion 的 Sarah Sachs 和 Simon Last。前者负责 Notion 的核心 AI 能力与基础设施，后者长期站在原型和 agent harness 的最前线。Notion要做的，并不是给文档软件外挂一个会聊天的助手，而是把企业记录工作、协作工作、检索工作、推进工作的底层系统，一点点改造成既能给人用，也能给 Agent 用。如果你正在做 AI 产品、企业软件，或者正在琢磨 MCP、Eval、检索和工作流自动化，这期对话的信息密度非常高。",
       "url": "https://waytoagi.feishu.cn/wiki/QZd3wft9yiTgDEk50XlcOW1YnNb"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "AI视频转场提示词大全：6大类19种技巧+通用模板直接套用",
+      "summary": "我们在制作AI视频的时候， 转场 这东西，很容易被忽略。很多新手写AI视频提示词，压根没想过\"这条视频和下一条之间怎么接\"，生成完了才发现拼不上。其实，不同方式的转场呈现的情绪和视觉效果是完全不一样的。小歪分享了6大类19种技巧+通用模板直接套用，快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QzwDwDGUmiJblKkdRNXcz8WjnSq"
     },
     {
       "date": "2026-04-17",
