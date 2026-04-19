@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-04-19T17:04:35.152156Z",
+  "generated_at": "2026-04-19T18:01:20.380859Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-19",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
+    {
+      "date": "2026-04-19",
+      "title": "大语言模型中的提示词缓存技术详解",
+      "summary": "长时程Agent工作流中，固定的超长系统提示词在多轮对话里会被重复计算，会产生大量无价值token消耗。Prompt caching正是破解这一浪费的关键方案，能显著降低使用成本。但如果你想把它真正用好，就得先理解它在底层到底是怎么工作的，让我们来一起一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/IXL0wgX6sivJegk9oJ3cyxUdn3b"
+    },
     {
       "date": "2026-04-19",
       "title": "万字讲透Agent Harness的十二大模块",
@@ -38,8 +44,14 @@
       "url": "https://waytoagi.feishu.cn/wiki/IVMywh0nni420vkt7E5csxrmnoh"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
+    {
+      "date": "2026-04-19",
+      "title": "大语言模型中的提示词缓存技术详解",
+      "summary": "长时程Agent工作流中，固定的超长系统提示词在多轮对话里会被重复计算，会产生大量无价值token消耗。Prompt caching正是破解这一浪费的关键方案，能显著降低使用成本。但如果你想把它真正用好，就得先理解它在底层到底是怎么工作的，让我们来一起一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/IXL0wgX6sivJegk9oJ3cyxUdn3b"
+    },
     {
       "date": "2026-04-19",
       "title": "万字讲透Agent Harness的十二大模块",
