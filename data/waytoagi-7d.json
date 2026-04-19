@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T16:00:57.459152Z",
+  "generated_at": "2026-04-19T17:04:35.152156Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-19",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-04-19",
@@ -30,9 +30,15 @@
       "title": "Hermes Memory系统协议P链：让AI Agent永不遗忘的隐形纽带",
       "summary": "Hermes Agent独创的P链协议，打破了AI会话遗忘困境，让跨天、跨平台的连续协作成为现实。依托会话血缘链与全文检索，AI能完整追溯历史对话、自动沉淀经验技能，还能智能压缩上下文，高效又省Token。相比传统框架与RAG，AI从一次性工具升级为懂你的长期协作伙伴，大幅提升了复杂任务的执行效率。",
       "url": "https://waytoagi.feishu.cn/wiki/SuUEwKVnbiLoYWk2nqVc93gwnCc"
+    },
+    {
+      "date": "2026-04-19",
+      "title": "4.13- 4.19｜本周 AI 论文精选",
+      "summary": "本周AI论文精选汇聚十大前沿突破，直指Agent科研、长时程协作、产业评测等核心方向。从全自动AI科研团队高效攻克对齐难题，到文件驱动的长时程研究框架，再到贴合真实生产的Agent评测体系，同时覆盖高性能开源模型、记忆迁移、日志自动诊断等落地技术，清晰展现了AI Agent从实验室走向产业的关键进化，极具参考与落地价值。",
+      "url": "https://waytoagi.feishu.cn/wiki/IVMywh0nni420vkt7E5csxrmnoh"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 36,
   "updates_7d": [
     {
       "date": "2026-04-19",
@@ -57,6 +63,12 @@
       "title": "Hermes Memory系统协议P链：让AI Agent永不遗忘的隐形纽带",
       "summary": "Hermes Agent独创的P链协议，打破了AI会话遗忘困境，让跨天、跨平台的连续协作成为现实。依托会话血缘链与全文检索，AI能完整追溯历史对话、自动沉淀经验技能，还能智能压缩上下文，高效又省Token。相比传统框架与RAG，AI从一次性工具升级为懂你的长期协作伙伴，大幅提升了复杂任务的执行效率。",
       "url": "https://waytoagi.feishu.cn/wiki/SuUEwKVnbiLoYWk2nqVc93gwnCc"
+    },
+    {
+      "date": "2026-04-19",
+      "title": "4.13- 4.19｜本周 AI 论文精选",
+      "summary": "本周AI论文精选汇聚十大前沿突破，直指Agent科研、长时程协作、产业评测等核心方向。从全自动AI科研团队高效攻克对齐难题，到文件驱动的长时程研究框架，再到贴合真实生产的Agent评测体系，同时覆盖高性能开源模型、记忆迁移、日志自动诊断等落地技术，清晰展现了AI Agent从实验室走向产业的关键进化，极具参考与落地价值。",
+      "url": "https://waytoagi.feishu.cn/wiki/IVMywh0nni420vkt7E5csxrmnoh"
     },
     {
       "date": "2026-04-18",
