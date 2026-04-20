@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T10:14:49.295471Z",
+  "generated_at": "2026-04-20T13:27:36.348454Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -257,7 +257,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/JdzUwjBwQiw4ESkz4UxcIsCXnah"
     }
   ],
-  "warning": "WaytoAGI 近7日更新抓取失败，已回退到上次成功快照",
+  "warning": null,
   "has_error": false,
   "error": null
 }
