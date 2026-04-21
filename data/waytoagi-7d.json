@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-21T14:14:53.779698Z",
+  "generated_at": "2026-04-21T15:51:40.793567Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-21",
-  "count_today": 1,
+  "count_today": 3,
   "updates_today": [
+    {
+      "date": "2026-04-21",
+      "title": "我逆向了Claude Design！免费开源！",
+      "summary": "花叔依托 Claude Design 精髓重构了工作流，打造了一个适配终端的设计 Skill。在终端一句话即可完成 PPT、可交互原型、动画等设计产出。还支持多风格并行生成，成本与效率远超传统工具。这篇文章讲三件事：为什么做这个skill、它能做什么（带一堆案例）、以及它和Claude Design的差异在哪里。",
+      "url": "https://waytoagi.feishu.cn/wiki/NF5uwRFuriAnpYkHMKTcERHpnbg"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "前 Google PM：从 PRD 到原型，Claude Code 正在重写 PM 工作流丨Aakash Gupta",
+      "summary": "Mahesh Yadav，一个做过 Microsoft、Amazon、Meta、Google 的产品经理。本期谈话他将带我们一起拆解下：PM 的价值到底会变大，还是会被边缘化？ 他没有在讲一套空中楼阁的方法论，而是在用自己从大厂到独立 Builder 的切换，解释 PM 为什么必须重新定义自己的工作边界。",
+      "url": "https://waytoagi.feishu.cn/wiki/BEWpwdZZtitMKXksJYXcpHHOnNh"
+    },
     {
       "date": "2026-04-21",
       "title": "GPT-Image-2 全量上线，中文顶到爆，50+ Case 生图实测",
@@ -14,8 +26,20 @@
       "url": "https://waytoagi.feishu.cn/wiki/Vkv5wJzJuiRUsok0c6HcR2rInyd"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 39,
   "updates_7d": [
+    {
+      "date": "2026-04-21",
+      "title": "我逆向了Claude Design！免费开源！",
+      "summary": "花叔依托 Claude Design 精髓重构了工作流，打造了一个适配终端的设计 Skill。在终端一句话即可完成 PPT、可交互原型、动画等设计产出。还支持多风格并行生成，成本与效率远超传统工具。这篇文章讲三件事：为什么做这个skill、它能做什么（带一堆案例）、以及它和Claude Design的差异在哪里。",
+      "url": "https://waytoagi.feishu.cn/wiki/NF5uwRFuriAnpYkHMKTcERHpnbg"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "前 Google PM：从 PRD 到原型，Claude Code 正在重写 PM 工作流丨Aakash Gupta",
+      "summary": "Mahesh Yadav，一个做过 Microsoft、Amazon、Meta、Google 的产品经理。本期谈话他将带我们一起拆解下：PM 的价值到底会变大，还是会被边缘化？ 他没有在讲一套空中楼阁的方法论，而是在用自己从大厂到独立 Builder 的切换，解释 PM 为什么必须重新定义自己的工作边界。",
+      "url": "https://waytoagi.feishu.cn/wiki/BEWpwdZZtitMKXksJYXcpHHOnNh"
+    },
     {
       "date": "2026-04-21",
       "title": "GPT-Image-2 全量上线，中文顶到爆，50+ Case 生图实测",
