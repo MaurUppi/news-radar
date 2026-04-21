@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T17:00:15.876775Z",
+  "generated_at": "2026-04-21T18:07:42.795350Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-21",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-04-21",
@@ -24,9 +24,15 @@
       "title": "GPT-Image-2 全量上线，中文顶到爆，50+ Case 生图实测",
       "summary": "GPT-Image-2已经全量上线，在中文排版、复杂版式与长图文呈现上实现了跨越式升级。短短几句提示词，就能一键生成杂志封面、信息长图、复古海报、UI界面、古风印刷品等专业级内容，风格迁移精准、细节质感拉满。作者实测了五十张作品，覆盖实用设计与趣味创作，快来看看效果如何！",
       "url": "https://waytoagi.feishu.cn/wiki/Vkv5wJzJuiRUsok0c6HcR2rInyd"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "AI 编程三剑客：Spec-Kit、OpenSpec、Superpowers 深度对比与实战指南",
+      "summary": "本文将深入介绍 GitHub 官方的 Spec-Kit、社区热门的 OpenSpec 以及跨平台方法论工具 Superpowers 三个 AI 编程辅助工具，从安装配置到实战使用，再到三者协同的最佳实践，带你全面掌握 AI 驱动的规范化开发新范式。",
+      "url": "https://waytoagi.feishu.cn/wiki/U69Twxw0miy8YokLpWacqYcInHh"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 33,
   "updates_7d": [
     {
       "date": "2026-04-21",
@@ -45,6 +51,12 @@
       "title": "GPT-Image-2 全量上线，中文顶到爆，50+ Case 生图实测",
       "summary": "GPT-Image-2已经全量上线，在中文排版、复杂版式与长图文呈现上实现了跨越式升级。短短几句提示词，就能一键生成杂志封面、信息长图、复古海报、UI界面、古风印刷品等专业级内容，风格迁移精准、细节质感拉满。作者实测了五十张作品，覆盖实用设计与趣味创作，快来看看效果如何！",
       "url": "https://waytoagi.feishu.cn/wiki/Vkv5wJzJuiRUsok0c6HcR2rInyd"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "AI 编程三剑客：Spec-Kit、OpenSpec、Superpowers 深度对比与实战指南",
+      "summary": "本文将深入介绍 GitHub 官方的 Spec-Kit、社区热门的 OpenSpec 以及跨平台方法论工具 Superpowers 三个 AI 编程辅助工具，从安装配置到实战使用，再到三者协同的最佳实践，带你全面掌握 AI 驱动的规范化开发新范式。",
+      "url": "https://waytoagi.feishu.cn/wiki/U69Twxw0miy8YokLpWacqYcInHh"
     },
     {
       "date": "2026-04-20",
