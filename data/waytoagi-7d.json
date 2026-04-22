@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T16:59:05.166161Z",
+  "generated_at": "2026-04-22T18:06:57.598714Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-22",
-  "count_today": 3,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-04-22",
@@ -15,9 +15,21 @@
     },
     {
       "date": "2026-04-22",
+      "title": "可以优化生图提示词 的 提示词",
+      "summary": "猫叔这个针对GPT Image 2优化的提示词引擎，可以把你的模糊想法一键转为专业可用的绘图指令。系统自动识别角色、场景、叙事等五大类型，按主体、环境、光影、镜头、风格结构化输出，拒绝空泛描述，可以精准匹配画面逻辑与质感，减少试错成本与token消耗。新手也能稳定生成高质量图像，提升AI生图效率与成品率。",
+      "url": "https://waytoagi.feishu.cn/wiki/DvkYw6iagiAhz3kQ44BcEQAUnod"
+    },
+    {
+      "date": "2026-04-22",
       "title": "发现意图：AI 时代的用户体验设计",
       "summary": "AI 改变的不仅是界面外观，而是用户角色本身 ——从\"操作员（operator）\"变成\"监督员（supervisor）\"。这使得 UX 从\"命令式交互\"彻底转向\"意图委托式交互\"。本文是 Jakob Nielsen （尼尔森诺曼集团创始人、UX 领域泰斗）写的关于 AI 时代用户体验设计的深度长文，核心是提出 \"Intent by Discovery\"（通过发现来明确意图） 作为 AI 时代 UX 的核心范式。",
       "url": "https://waytoagi.feishu.cn/wiki/FtYGwOMNJiIfy5k5m5QcWXKendc"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "乔木博客免费开源，打造你的学习、分享阵地！",
+      "summary": "乔木博客免费开源，专为内容创作者打造自主可控的知识阵地，可以摆脱平台封号与算法波动风险。系统集成了 AI 全流程辅助，写作与配图一步到位。此外还采用类飞书的所见即所得编辑器，支持多媒体插入与多状态发布，配合浏览器剪藏、Obsidian 一键发布等工具，大大降低了写作成本。快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/OBiNwnGxaign12kUjIxcKtYUnUg"
     },
     {
       "date": "2026-04-22",
@@ -26,7 +38,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/MhxZwJ742icTCXkGwE1cGC3RnSc"
     }
   ],
-  "count_7d": 31,
+  "count_7d": 33,
   "updates_7d": [
     {
       "date": "2026-04-22",
@@ -36,9 +48,21 @@
     },
     {
       "date": "2026-04-22",
+      "title": "可以优化生图提示词 的 提示词",
+      "summary": "猫叔这个针对GPT Image 2优化的提示词引擎，可以把你的模糊想法一键转为专业可用的绘图指令。系统自动识别角色、场景、叙事等五大类型，按主体、环境、光影、镜头、风格结构化输出，拒绝空泛描述，可以精准匹配画面逻辑与质感，减少试错成本与token消耗。新手也能稳定生成高质量图像，提升AI生图效率与成品率。",
+      "url": "https://waytoagi.feishu.cn/wiki/DvkYw6iagiAhz3kQ44BcEQAUnod"
+    },
+    {
+      "date": "2026-04-22",
       "title": "发现意图：AI 时代的用户体验设计",
       "summary": "AI 改变的不仅是界面外观，而是用户角色本身 ——从\"操作员（operator）\"变成\"监督员（supervisor）\"。这使得 UX 从\"命令式交互\"彻底转向\"意图委托式交互\"。本文是 Jakob Nielsen （尼尔森诺曼集团创始人、UX 领域泰斗）写的关于 AI 时代用户体验设计的深度长文，核心是提出 \"Intent by Discovery\"（通过发现来明确意图） 作为 AI 时代 UX 的核心范式。",
       "url": "https://waytoagi.feishu.cn/wiki/FtYGwOMNJiIfy5k5m5QcWXKendc"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "乔木博客免费开源，打造你的学习、分享阵地！",
+      "summary": "乔木博客免费开源，专为内容创作者打造自主可控的知识阵地，可以摆脱平台封号与算法波动风险。系统集成了 AI 全流程辅助，写作与配图一步到位。此外还采用类飞书的所见即所得编辑器，支持多媒体插入与多状态发布，配合浏览器剪藏、Obsidian 一键发布等工具，大大降低了写作成本。快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/OBiNwnGxaign12kUjIxcKtYUnUg"
     },
     {
       "date": "2026-04-22",
