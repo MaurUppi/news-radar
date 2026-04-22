@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-22T14:03:16.929719Z",
+  "generated_at": "2026-04-22T15:53:51.616440Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-22",
-  "count_today": 1,
+  "count_today": 3,
   "updates_today": [
+    {
+      "date": "2026-04-22",
+      "title": "大羽玩AI：《带你去玩球！》 技术白皮书",
+      "summary": "",
+      "url": "https://waytoagi.feishu.cn/wiki/PRKkwmxeni6PiTkSwFucQdkwnHd"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "发现意图：AI 时代的用户体验设计",
+      "summary": "AI 改变的不仅是界面外观，而是用户角色本身 ——从\"操作员（operator）\"变成\"监督员（supervisor）\"。这使得 UX 从\"命令式交互\"彻底转向\"意图委托式交互\"。本文是 Jakob Nielsen （尼尔森诺曼集团创始人、UX 领域泰斗）写的关于 AI 时代用户体验设计的深度长文，核心是提出 \"Intent by Discovery\"（通过发现来明确意图） 作为 AI 时代 UX 的核心范式。",
+      "url": "https://waytoagi.feishu.cn/wiki/FtYGwOMNJiIfy5k5m5QcWXKendc"
+    },
     {
       "date": "2026-04-22",
       "title": "GPT Image 2 全量开放！100+案例，跟 Nano Banana 2 正面PK（附提示词）",
@@ -14,8 +26,20 @@
       "url": "https://waytoagi.feishu.cn/wiki/MhxZwJ742icTCXkGwE1cGC3RnSc"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 37,
   "updates_7d": [
+    {
+      "date": "2026-04-22",
+      "title": "大羽玩AI：《带你去玩球！》 技术白皮书",
+      "summary": "",
+      "url": "https://waytoagi.feishu.cn/wiki/PRKkwmxeni6PiTkSwFucQdkwnHd"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "发现意图：AI 时代的用户体验设计",
+      "summary": "AI 改变的不仅是界面外观，而是用户角色本身 ——从\"操作员（operator）\"变成\"监督员（supervisor）\"。这使得 UX 从\"命令式交互\"彻底转向\"意图委托式交互\"。本文是 Jakob Nielsen （尼尔森诺曼集团创始人、UX 领域泰斗）写的关于 AI 时代用户体验设计的深度长文，核心是提出 \"Intent by Discovery\"（通过发现来明确意图） 作为 AI 时代 UX 的核心范式。",
+      "url": "https://waytoagi.feishu.cn/wiki/FtYGwOMNJiIfy5k5m5QcWXKendc"
+    },
     {
       "date": "2026-04-22",
       "title": "GPT Image 2 全量开放！100+案例，跟 Nano Banana 2 正面PK（附提示词）",
