@@ -1,16 +1,22 @@
 {
-  "generated_at": "2026-04-26T18:53:15.501138Z",
+  "generated_at": "2026-04-26T19:45:28.278880Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-26",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-04-26",
+      "title": "记忆，是 Agent 基建｜对话 Calvin@Vida",
+      "summary": "随着大模型性能趋近同质化，专属记忆能力已成为AI体验突围的关键。对标OpenAI付费封闭的Chronicle，开源项目OpenChronicle横空出世，以本地优先方案夺回用户记忆所有权。它搭建跨应用统一记忆池，借助MCP协议打通各类AI工具，实现工作行为与项目上下文无缝衔接。跳出单一对话记忆，深耕行为习惯沉淀，为主动式Agent筑牢底层基建，打破大厂生态绑定，给用户自由、连贯、无束缚的AI全新交互体验！",
+      "url": "https://waytoagi.feishu.cn/wiki/KuLiwf9cAiobk7kZjhechzaYnOb"
+    },
+    {
+      "date": "2026-04-26",
       "title": "你不知道的 AI Coding：非技术人的上手、场景与实战",
-      "summary": "",
+      "summary": "这篇实用指南面向产品、运营等非技术人群，拆解了Claude Code零门槛落地玩法。本篇文章分享了需求精准描述、项目规范配置、Skill工作流沉淀等核心技巧。无需深厚的编程基础，就能搭建高效AI工作流，将重复繁琐工作自动化，全面提升日常办公与内容产出效率。",
       "url": "https://waytoagi.feishu.cn/wiki/Nl2Xwa1vSifcCzkYMz2c4EitnDd"
     },
     {
@@ -20,12 +26,18 @@
       "url": "https://waytoagi.feishu.cn/wiki/C01kwFKSEiRRZkkYGXVc2XIHnwd"
     }
   ],
-  "count_7d": 23,
+  "count_7d": 24,
   "updates_7d": [
     {
       "date": "2026-04-26",
+      "title": "记忆，是 Agent 基建｜对话 Calvin@Vida",
+      "summary": "随着大模型性能趋近同质化，专属记忆能力已成为AI体验突围的关键。对标OpenAI付费封闭的Chronicle，开源项目OpenChronicle横空出世，以本地优先方案夺回用户记忆所有权。它搭建跨应用统一记忆池，借助MCP协议打通各类AI工具，实现工作行为与项目上下文无缝衔接。跳出单一对话记忆，深耕行为习惯沉淀，为主动式Agent筑牢底层基建，打破大厂生态绑定，给用户自由、连贯、无束缚的AI全新交互体验！",
+      "url": "https://waytoagi.feishu.cn/wiki/KuLiwf9cAiobk7kZjhechzaYnOb"
+    },
+    {
+      "date": "2026-04-26",
       "title": "你不知道的 AI Coding：非技术人的上手、场景与实战",
-      "summary": "",
+      "summary": "这篇实用指南面向产品、运营等非技术人群，拆解了Claude Code零门槛落地玩法。本篇文章分享了需求精准描述、项目规范配置、Skill工作流沉淀等核心技巧。无需深厚的编程基础，就能搭建高效AI工作流，将重复繁琐工作自动化，全面提升日常办公与内容产出效率。",
       "url": "https://waytoagi.feishu.cn/wiki/Nl2Xwa1vSifcCzkYMz2c4EitnDd"
     },
     {
