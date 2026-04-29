@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T14:24:46.983169Z",
+  "generated_at": "2026-04-29T16:13:06.720867Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -44,7 +44,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/TonKwbt5BiBxhEkcEjWc2t5RnQN"
     }
   ],
-  "count_7d": 26,
+  "count_7d": 22,
   "updates_7d": [
     {
       "date": "2026-04-28",
@@ -177,30 +177,6 @@
       "title": "AI / ML 所需线性代数知识（完整路线图）",
       "summary": "做 AI / ML 并不需要数学博士学位。你只需要掌握足够的线性代数，这样在打开论文或 PyTorch 文档时，不会总觉得自己在迷雾里打转。这份路线图会按正确顺序告诉你该学什么，以及为什么它重要。",
       "url": "https://waytoagi.feishu.cn/wiki/UTSCw2RD5i9W55kMiLZcM6HJnZF"
-    },
-    {
-      "date": "2026-04-23",
-      "title": "🧠✨ChatGPT 5.5 有了判断力",
-      "summary": "GPT-5.5 的核心意义，不是“更会答题”，而是更像一个能把复杂工作真正往前推进的执行型智能体。代码、知识工作、科研分析、网络安全全面进阶，400K 上下文支撑复杂任务，延迟不变、生成效率提升 20%，还助力数学难题取得新突破。今天已经开始向 ChatGPT 的 Plus、Pro、Business、Enterprise 用户滚动开放！",
-      "url": "https://waytoagi.feishu.cn/wiki/MOTwwBN2oiHYo9kq5kvc9zZQnQd"
-    },
-    {
-      "date": "2026-04-23",
-      "title": "斯坦福经济学家：职业阶梯正在失效，年轻人该怎么在 AI 时代往上走？丨EO",
-      "summary": "斯坦福学者通过海量职场数据，揭示了AI冲击职场的残酷真相。AI精准取代了入门级标准化执行工作，而资深从业者却凭借经验与综合能力站稳脚跟。未来职场或许将是人统筹方向、AI落地执行的全新模式。如果你关心的不只是“会不会被替代”，而是“职业的起点还在不在”，这期几乎每一句都值得划线。",
-      "url": "https://waytoagi.feishu.cn/wiki/FS2zwmVVdiH0hykH93acCJ5bnqb"
-    },
-    {
-      "date": "2026-04-23",
-      "title": "OpenAI 发布 Workspace Agents，接替 GPTs",
-      "summary": "OpenAI重磅上线Workspace Agents，依托Codex底层架构，可以快速搭建智能体，联动Slack、办公软件等多类工具，可以自动承接IT审核、产品反馈、周报统计、销售运维、风控排查等高频重复的工作。非技术人员也能自主搭建团队专属Agent。现阶段限时免费体验，快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/GXK5wDOd4iyN3skNzWQcTyyVncO"
-    },
-    {
-      "date": "2026-04-23",
-      "title": "Kora产品负责人：如果Agent负责中间 80% 的工作，人还剩什么价值？丨Every",
-      "summary": "Kieran 是 Kora 的产品负责人，他在这期对话里，和 Dan Shipper 讨论了一个越来越紧迫的问题：当 AI 能做的事越来越多，人类的位置在哪？Kieran 的答案是：人类不是被挤出去，而是变成\"三明治两端的面包\"——在最开始定义问题，在最后打磨作品，中间的执行让 AI 去填。整个对话的核心，就是在帮你找到你在 AI 时代的具体位置。",
-      "url": "https://waytoagi.feishu.cn/wiki/QBFcwFdwsiwfIUkxSO7cVsVHnBf"
     }
   ],
   "warning": null,
