@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T12:45:56.519212Z",
+  "generated_at": "2026-05-05T17:03:50.619989Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -50,7 +50,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/VPHUwQiuBirNWBku6D9ctIGinrc"
     }
   ],
-  "count_7d": 13,
+  "count_7d": 7,
   "updates_7d": [
     {
       "date": "2026-04-30",
@@ -93,42 +93,6 @@
       "title": "20 个 Claude 提示词，把 20 美元订阅真正用成你的个人助理、编辑、教练和分析师",
       "summary": "Claude 可以成为你的健身教练、语言导师、谈判陪练、财务分析师、编辑、策略顾问。下面这 20 个提示词，覆盖的是一个真实人生活里的真实场景。需要什么就拿什么。不需要的就跳过。把它们当成底座，再长出你自己的版本。",
       "url": "https://waytoagi.feishu.cn/wiki/VPHUwQiuBirNWBku6D9ctIGinrc"
-    },
-    {
-      "date": "2026-04-29",
-      "title": "硅谷创业者：90天做出月入1万美元AI生意，先别融资，去找一个无聊小众市场丨Silicon Valley Girl",
-      "summary": "这期访谈里，Silicon Valley Girl把同一个问题抛给了几位创业者、投资人和 AI 公司创始人：如果 2026 年从零开始，没有代码、团队和融资，只剩 AI 和一台电脑，怎样先做到每月 1 万美元收入？让我们一同看看创业者们的答案！",
-      "url": "https://waytoagi.feishu.cn/wiki/WNz4wEwKIimuKHknVpLcIqMMnlg"
-    },
-    {
-      "date": "2026-04-29",
-      "title": "当我用Codex做PPT，这可能是目前最好的解法之一。",
-      "summary": "阿真基于Codex和GPT Image 2打磨出专属技能，突破过往风格迁移杂乱、细节割裂的通病，只需上传参考图或网页链接，就能轻松做出高颜值、风格统一的专业PPT。生成的风格模板可永久复用，一键打包输出全套文件，快来上手试试。",
-      "url": "https://waytoagi.feishu.cn/wiki/FZpowIhfqiHbFLkdvjzcmLnhnQf"
-    },
-    {
-      "date": "2026-04-29",
-      "title": "开源「洁癖.skill」，让你的Agent越用越聪明。",
-      "summary": "很多人用AI开发都陷入越用越笨的困境，根源不是模型不行，而是项目文档、约束记忆长期疏于更新。卡兹克开源了他自研洁癖Skill，补齐了官方工具只清理记忆、不维护项目文档的短板，可以帮你把AI协作项目越做越规整、越用越高效。",
-      "url": "https://waytoagi.feishu.cn/wiki/F9nZwhX8bi6VzbklljfcQ2AZn95"
-    },
-    {
-      "date": "2026-04-29",
-      "title": "DeepSeek开眼了，更新多模态，实测过后发现。。。",
-      "summary": "DeepSeek首款多模态模型开启灰度测试，作者实测显示，该模型在OCR、表格提取、图片释义、猜成语等日常视觉任务中表现稳健，能够满足基础图文处理需求。但在空间推理、逻辑判断、事件排序、图片转HTML等复杂场景仍有明显短板，存在一定幻觉与过拟合问题。作为DeepSeek首次亮相的视觉模型，可以关注开源后在实际场景与Agent系统中的落地效果。",
-      "url": "https://waytoagi.feishu.cn/wiki/NJBfwHTV8ibM90kwgSCcIF7pnFA"
-    },
-    {
-      "date": "2026-04-29",
-      "title": "Anthropic 的 PM，是怎么工作的",
-      "summary": "Jess Yan 是 Anthropic 的一位 PM。她刚刚做了一个分享，颇为有趣： 在 AI 时代当 PM，我的工作反而更像人了。PM 这个岗位，过去大半时间花在协调上：跨部门会议、汇报、工程团队的工单 backlog，做完决定还得上山下乡说服人、拉资源。真正的手艺（craft）反而是被挤掉的那一块。借助Claude，她现在能把协调那部分压缩，把时间还给手艺本身，一同来看看！",
-      "url": "https://waytoagi.feishu.cn/wiki/IlhMwVhmxiClMnk06ZncqJRtnUd"
-    },
-    {
-      "date": "2026-04-29",
-      "title": "2026，我们一定要多见面 ｜ WaytoAGI@2050 三周年现场",
-      "summary": "2050大会暨 WaytoAGI 三周年盛会，无距离感的分享交流、千人航拍大合照、沉浸式环屏音乐会氛围感拉满！大会论坛场场爆满，还有完整演讲稿与复盘资料可以回看。这不仅仅是一场科技聚会，更是 AI 爱好者结识同好、交流成长、链接资源的绝佳契机，来年我们继续奔赴线下相逢！",
-      "url": "https://waytoagi.feishu.cn/wiki/T0cPw5KVti45nukpHMEc32lcnue"
     }
   ],
   "warning": null,
