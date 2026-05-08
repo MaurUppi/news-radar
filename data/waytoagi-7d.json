@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-05-08T13:44:23.114664Z",
+  "generated_at": "2026-05-08T15:23:55.509508Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-08",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
+    {
+      "date": "2026-05-08",
+      "title": "《GEO红皮书：生成式引擎优化的伦理边界、作弊风险与治理手册》",
+      "summary": "为了让GEO行业回归理性，帮中小企业在AI时代真正做好营销，姚金刚和向阳乔木基于国内外前沿论文、生成式AI法规 & 互联网广告法、一年实战踩坑经验整理出一份10万字《GEO红皮书》，拆解了常见黑帽GEO手段，让你一眼识破并教你甄别GEO服务商水平，避免踩坑以及提供GEO风险自查清单，防患于未然。",
+      "url": "https://waytoagi.feishu.cn/wiki/Otqtw0HFbiNeCMkjKalcFkoJnpf"
+    },
     {
       "date": "2026-05-08",
       "title": "GPT-Realtime-2 语音模型发布：语音首次接入 GPT-5 推理能力",
@@ -14,8 +20,14 @@
       "url": "https://waytoagi.feishu.cn/wiki/Sl3dwM50OigRTfkhFk3ciKagnfe"
     }
   ],
-  "count_7d": 12,
+  "count_7d": 13,
   "updates_7d": [
+    {
+      "date": "2026-05-08",
+      "title": "《GEO红皮书：生成式引擎优化的伦理边界、作弊风险与治理手册》",
+      "summary": "为了让GEO行业回归理性，帮中小企业在AI时代真正做好营销，姚金刚和向阳乔木基于国内外前沿论文、生成式AI法规 & 互联网广告法、一年实战踩坑经验整理出一份10万字《GEO红皮书》，拆解了常见黑帽GEO手段，让你一眼识破并教你甄别GEO服务商水平，避免踩坑以及提供GEO风险自查清单，防患于未然。",
+      "url": "https://waytoagi.feishu.cn/wiki/Otqtw0HFbiNeCMkjKalcFkoJnpf"
+    },
     {
       "date": "2026-05-08",
       "title": "GPT-Realtime-2 语音模型发布：语音首次接入 GPT-5 推理能力",
