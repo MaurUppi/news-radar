@@ -1,26 +1,86 @@
 {
-  "generated_at": "2026-05-09T17:00:37.961792Z",
+  "generated_at": "2026-05-09T18:12:43.898024Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-09",
-  "count_today": 1,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-05-09",
-      "title": "万字实录| 红杉AI峰会2026主旨演讲：从软件时代到智能体时代的范式跃迁 | 全文图解",
-      "summary": "近日，在备受瞩目的红杉资本“人工智能巅峰”行业峰会上，红杉资本的核心合伙人们与硅谷的顶尖创业者和技术专家齐聚一堂，共同探讨这场正在重塑世界秩序的变革。",
-      "url": "https://waytoagi.feishu.cn/wiki/MmyUwGC48i482wkhCkIcQyxyneg"
-    }
-  ],
-  "count_7d": 19,
-  "updates_7d": [
+      "title": "第一性原理思维：如何看见别人看不见的东西（译）",
+      "summary": "做事总陷入跟风模仿的思维惯性，一味照搬他人路径、套用现成模板，埋头苦干一番后却极易做出无人需要的成果。本篇文章以作者亲身经历为引，深度剖析了类比思维的局限，对比阐释第一性原理的底层逻辑，结合马斯克、福特的经典案例生动佐证。或许也可以帮你跳出从众套路，挣脱固有认知束缚，学会溯源底层真理做独立判断，抓住被忽略的破局机遇。",
+      "url": "https://waytoagi.feishu.cn/wiki/TVGTwKvKmin6FHkRddncgyABnVf"
+    },
+    {
+      "date": "2026-05-09",
+      "title": "对话大M博士：出海欧洲——国家差异拆解与避坑指南",
+      "summary": "Monica出海说的本期节目邀请到了大M博士，为大家剥离对欧洲“安逸、老派”的刻板印象，从语言本地化、合规文件、渠道分销与客户决策四个底层维度拆解真实的市场规则 。无论你是做SaaS服务、智能硬件还是消费品，这期极具信息密度的干货将帮你避开“盲目复制”陷阱 ，提供一套极具实操性的欧洲本地化“清零重构”指南。",
+      "url": "https://waytoagi.feishu.cn/wiki/FGqAww00Cixz9vkLtYEcBm3tnXg"
+    },
+    {
+      "date": "2026-05-09",
+      "title": "元子：WayToAGI知识库活了！AI帮你5分钟在WayToAGI定制学习路径 — Study Reviver",
+      "summary": "深陷海量AI学习资料却无从下手？元子基于飞书CLI盘活了社区知识库。凭借特定的Skill配置就能实现文档检索、路径定制、消息推送全流程自动化。同时她还分享了五条适配不同人群的标准化学习路线，覆盖零基础入门、代码提效、产品搭建、Agent深耕和社区运营。快来上手试试，找到自己的成长路径！",
+      "url": "https://waytoagi.feishu.cn/wiki/J7hzwSO53i3TODk2u5TcFzFgnqh"
+    },
+    {
+      "date": "2026-05-09",
+      "title": "使用 Claude Code：HTML 难以置信的奇效【译】",
+      "summary": "当下AI协作常用的Markdown出现各种局限，长篇内容可读性差、视觉呈现单薄、分享不便，已经难以承载复杂的工作诉求。Anthropic Claude Code 团队的工程师Thariq 强势推崇用HTML替代Markdown做AI输出载体，可以凭借超高信息密度、精美视觉排版、自适应布局和交互能力。一起来看看他的深度思考与实战逻辑！",
+      "url": "https://waytoagi.feishu.cn/wiki/Y6cWwjhU1iCTzXk3AjjcaPkJnaf"
+    },
     {
       "date": "2026-05-09",
       "title": "万字实录| 红杉AI峰会2026主旨演讲：从软件时代到智能体时代的范式跃迁 | 全文图解",
       "summary": "近日，在备受瞩目的红杉资本“人工智能巅峰”行业峰会上，红杉资本的核心合伙人们与硅谷的顶尖创业者和技术专家齐聚一堂，共同探讨这场正在重塑世界秩序的变革。",
       "url": "https://waytoagi.feishu.cn/wiki/MmyUwGC48i482wkhCkIcQyxyneg"
+    },
+    {
+      "date": "2026-05-09",
+      "title": "Anthropic负责人：AI Agent 正在重写企业工作流丨Every",
+      "summary": "Claude 平台负责人 Angela 和工程负责人 Caitlin在这场访谈中深度拆解了Claude 开发者平台底层布局。工程师、产品负责人和创业团队读这场对话，可以看到下一层抽象会落在哪里，以及今天自己搭 Agent 时哪些基础设施不该重复造。",
+      "url": "https://waytoagi.feishu.cn/wiki/DNYewc8mIi89dIk1eGqcgcwHnuv"
+    }
+  ],
+  "count_7d": 24,
+  "updates_7d": [
+    {
+      "date": "2026-05-09",
+      "title": "第一性原理思维：如何看见别人看不见的东西（译）",
+      "summary": "做事总陷入跟风模仿的思维惯性，一味照搬他人路径、套用现成模板，埋头苦干一番后却极易做出无人需要的成果。本篇文章以作者亲身经历为引，深度剖析了类比思维的局限，对比阐释第一性原理的底层逻辑，结合马斯克、福特的经典案例生动佐证。或许也可以帮你跳出从众套路，挣脱固有认知束缚，学会溯源底层真理做独立判断，抓住被忽略的破局机遇。",
+      "url": "https://waytoagi.feishu.cn/wiki/TVGTwKvKmin6FHkRddncgyABnVf"
+    },
+    {
+      "date": "2026-05-09",
+      "title": "对话大M博士：出海欧洲——国家差异拆解与避坑指南",
+      "summary": "Monica出海说的本期节目邀请到了大M博士，为大家剥离对欧洲“安逸、老派”的刻板印象，从语言本地化、合规文件、渠道分销与客户决策四个底层维度拆解真实的市场规则 。无论你是做SaaS服务、智能硬件还是消费品，这期极具信息密度的干货将帮你避开“盲目复制”陷阱 ，提供一套极具实操性的欧洲本地化“清零重构”指南。",
+      "url": "https://waytoagi.feishu.cn/wiki/FGqAww00Cixz9vkLtYEcBm3tnXg"
+    },
+    {
+      "date": "2026-05-09",
+      "title": "元子：WayToAGI知识库活了！AI帮你5分钟在WayToAGI定制学习路径 — Study Reviver",
+      "summary": "深陷海量AI学习资料却无从下手？元子基于飞书CLI盘活了社区知识库。凭借特定的Skill配置就能实现文档检索、路径定制、消息推送全流程自动化。同时她还分享了五条适配不同人群的标准化学习路线，覆盖零基础入门、代码提效、产品搭建、Agent深耕和社区运营。快来上手试试，找到自己的成长路径！",
+      "url": "https://waytoagi.feishu.cn/wiki/J7hzwSO53i3TODk2u5TcFzFgnqh"
+    },
+    {
+      "date": "2026-05-09",
+      "title": "使用 Claude Code：HTML 难以置信的奇效【译】",
+      "summary": "当下AI协作常用的Markdown出现各种局限，长篇内容可读性差、视觉呈现单薄、分享不便，已经难以承载复杂的工作诉求。Anthropic Claude Code 团队的工程师Thariq 强势推崇用HTML替代Markdown做AI输出载体，可以凭借超高信息密度、精美视觉排版、自适应布局和交互能力。一起来看看他的深度思考与实战逻辑！",
+      "url": "https://waytoagi.feishu.cn/wiki/Y6cWwjhU1iCTzXk3AjjcaPkJnaf"
+    },
+    {
+      "date": "2026-05-09",
+      "title": "万字实录| 红杉AI峰会2026主旨演讲：从软件时代到智能体时代的范式跃迁 | 全文图解",
+      "summary": "近日，在备受瞩目的红杉资本“人工智能巅峰”行业峰会上，红杉资本的核心合伙人们与硅谷的顶尖创业者和技术专家齐聚一堂，共同探讨这场正在重塑世界秩序的变革。",
+      "url": "https://waytoagi.feishu.cn/wiki/MmyUwGC48i482wkhCkIcQyxyneg"
+    },
+    {
+      "date": "2026-05-09",
+      "title": "Anthropic负责人：AI Agent 正在重写企业工作流丨Every",
+      "summary": "Claude 平台负责人 Angela 和工程负责人 Caitlin在这场访谈中深度拆解了Claude 开发者平台底层布局。工程师、产品负责人和创业团队读这场对话，可以看到下一层抽象会落在哪里，以及今天自己搭 Agent 时哪些基础设施不该重复造。",
+      "url": "https://waytoagi.feishu.cn/wiki/DNYewc8mIi89dIk1eGqcgcwHnuv"
     },
     {
       "date": "2026-05-08",
