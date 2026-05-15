@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T16:18:59.885901Z",
+  "generated_at": "2026-05-15T18:03:49.685320Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-15",
-  "count_today": 2,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-05-15",
@@ -15,12 +15,24 @@
     },
     {
       "date": "2026-05-15",
+      "title": "Forward Deployed Engineer：AI 时代的新宠岗位，到底干什么？",
+      "summary": "AI 行业已从拼模型转向拼落地，FDE 前线部署工程师成为大厂抢人核心。OpenAI、Anthropic、Google 均重兵布局，成立独立部署公司、收购团队、简化面试疯狂扩编。FDE 不做 PPT 咨询，而是驻场写代码、集成调试、帮企业把 AI 落地到真实业务。本篇文章清晰拆解了三大巨头的不同打法、岗位本质、职业价值与风险。",
+      "url": "https://waytoagi.feishu.cn/wiki/Dp7jwkCuNinErakyFW6cnOQMnyg"
+    },
+    {
+      "date": "2026-05-15",
       "title": "Claude Code 的 Agent View，让我看到 AI 编程真正麻烦的地方",
       "summary": "这两天 Claude Code 又更新了一个东西，叫 Agent View。它解决的不是模型会不会写代码的问题。它解决的是当你同时让几个 AI 去干活时，人到底怎么盯、怎么插手、怎么拍板的问题。",
       "url": "https://waytoagi.feishu.cn/wiki/CJ22wxsYYi3PxnklZdZcVyG5nbg"
+    },
+    {
+      "date": "2026-05-15",
+      "title": "AI Native 创业手册",
+      "summary": "Anthropic 刚刚出了一份 36 页的创始人手册： 创建一家 AI Native 的公司，几个人，做几百人的事儿。手册把创业拆成四个阶段（想法、MVP、上线、规模化），每个阶段讲清楚该做什么、容易踩什么坑、Claude 的三个产品形态（Chat、Cowork、Code）分别在什么时候用。",
+      "url": "https://waytoagi.feishu.cn/wiki/QV9VwW9MhicpWBkMxoucN82Dnle"
     }
   ],
-  "count_7d": 28,
+  "count_7d": 30,
   "updates_7d": [
     {
       "date": "2026-05-15",
@@ -30,9 +42,21 @@
     },
     {
       "date": "2026-05-15",
+      "title": "Forward Deployed Engineer：AI 时代的新宠岗位，到底干什么？",
+      "summary": "AI 行业已从拼模型转向拼落地，FDE 前线部署工程师成为大厂抢人核心。OpenAI、Anthropic、Google 均重兵布局，成立独立部署公司、收购团队、简化面试疯狂扩编。FDE 不做 PPT 咨询，而是驻场写代码、集成调试、帮企业把 AI 落地到真实业务。本篇文章清晰拆解了三大巨头的不同打法、岗位本质、职业价值与风险。",
+      "url": "https://waytoagi.feishu.cn/wiki/Dp7jwkCuNinErakyFW6cnOQMnyg"
+    },
+    {
+      "date": "2026-05-15",
       "title": "Claude Code 的 Agent View，让我看到 AI 编程真正麻烦的地方",
       "summary": "这两天 Claude Code 又更新了一个东西，叫 Agent View。它解决的不是模型会不会写代码的问题。它解决的是当你同时让几个 AI 去干活时，人到底怎么盯、怎么插手、怎么拍板的问题。",
       "url": "https://waytoagi.feishu.cn/wiki/CJ22wxsYYi3PxnklZdZcVyG5nbg"
+    },
+    {
+      "date": "2026-05-15",
+      "title": "AI Native 创业手册",
+      "summary": "Anthropic 刚刚出了一份 36 页的创始人手册： 创建一家 AI Native 的公司，几个人，做几百人的事儿。手册把创业拆成四个阶段（想法、MVP、上线、规模化），每个阶段讲清楚该做什么、容易踩什么坑、Claude 的三个产品形态（Chat、Cowork、Code）分别在什么时候用。",
+      "url": "https://waytoagi.feishu.cn/wiki/QV9VwW9MhicpWBkMxoucN82Dnle"
     },
     {
       "date": "2026-05-14",
