@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-05-17T16:56:07.694650Z",
+  "generated_at": "2026-05-17T17:57:54.347422Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-17",
-  "count_today": 4,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-05-17",
       "title": "🥇5.11-5.17｜本周 AI 顶级论文",
       "summary": "本周精选的10篇AI 顶尖前沿论文成果，覆盖大模型训练提速、长文本优化、智能体记忆、代码检索、多智能体协作等热门赛道。从 Lighthouse Attention 大幅降低长上下文训练成本，到 grep 搜索媲美向量检索，再到 δ‑mem 轻量在线记忆、Token 训练提速 3 倍，每篇都直击行业痛点。不仅有技术原理，更有实测效果与工程价值，为研发优化、项目落地提供全新思路与参考方向。",
       "url": "https://waytoagi.feishu.cn/wiki/R4MqwiSfSi2ay3kgM86c32V7nPc"
+    },
+    {
+      "date": "2026-05-17",
+      "title": "我又开源了一个群报纸 skill，让你的微信群每天都能产出一份高质量的报纸",
+      "summary": "作者这套开源Skill可以一键将群聊记录整理成正统A3版式社群报纸。它能根据当日信息量自动增减版面，智能适配图文排版与字体样式，轻松把碎片化社群交流，沉淀成可留存、可传播、有温度的实体内容资产。",
+      "url": "https://waytoagi.feishu.cn/wiki/VjPvwaEP7ieRRsks1vicWEtdnIb"
+    },
+    {
+      "date": "2026-05-17",
+      "title": "如何成为 Hermes Agent Operator",
+      "summary": "本篇文章带你学习如何操作并掌握 Hermes Agent：搭建 Agent 控制室模板，配置专职 Agent，并从一个 Agent 扩展到一整套运行在同一台 VPS 上的营销公司。",
+      "url": "https://waytoagi.feishu.cn/wiki/T20HwbOP1iDgRzkKH9BcAHD9nVh"
     },
     {
       "date": "2026-05-17",
@@ -32,13 +44,25 @@
       "url": "https://waytoagi.feishu.cn/wiki/NP8QwegILi0vU6kwTClcRdiEncc"
     }
   ],
-  "count_7d": 31,
+  "count_7d": 33,
   "updates_7d": [
     {
       "date": "2026-05-17",
       "title": "🥇5.11-5.17｜本周 AI 顶级论文",
       "summary": "本周精选的10篇AI 顶尖前沿论文成果，覆盖大模型训练提速、长文本优化、智能体记忆、代码检索、多智能体协作等热门赛道。从 Lighthouse Attention 大幅降低长上下文训练成本，到 grep 搜索媲美向量检索，再到 δ‑mem 轻量在线记忆、Token 训练提速 3 倍，每篇都直击行业痛点。不仅有技术原理，更有实测效果与工程价值，为研发优化、项目落地提供全新思路与参考方向。",
       "url": "https://waytoagi.feishu.cn/wiki/R4MqwiSfSi2ay3kgM86c32V7nPc"
+    },
+    {
+      "date": "2026-05-17",
+      "title": "我又开源了一个群报纸 skill，让你的微信群每天都能产出一份高质量的报纸",
+      "summary": "作者这套开源Skill可以一键将群聊记录整理成正统A3版式社群报纸。它能根据当日信息量自动增减版面，智能适配图文排版与字体样式，轻松把碎片化社群交流，沉淀成可留存、可传播、有温度的实体内容资产。",
+      "url": "https://waytoagi.feishu.cn/wiki/VjPvwaEP7ieRRsks1vicWEtdnIb"
+    },
+    {
+      "date": "2026-05-17",
+      "title": "如何成为 Hermes Agent Operator",
+      "summary": "本篇文章带你学习如何操作并掌握 Hermes Agent：搭建 Agent 控制室模板，配置专职 Agent，并从一个 Agent 扩展到一整套运行在同一台 VPS 上的营销公司。",
+      "url": "https://waytoagi.feishu.cn/wiki/T20HwbOP1iDgRzkKH9BcAHD9nVh"
     },
     {
       "date": "2026-05-17",
