@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-05-19T10:47:05.842705Z",
+  "generated_at": "2026-05-19T13:54:29.577974Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-19",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
+    {
+      "date": "2026-05-19",
+      "title": "Codex 从零基础到精通——By WaytoAGI二师兄",
+      "summary": "这不是一篇写给程序员炫技的工具手册。这是一篇写给普通人、零基础新手、刚接触 AI 工具的读者的实战入门教学。你不需要先学会编程，也不需要一上来就懂命令行、配置文件、模型参数、MCP、Skill 这些听起来很吓人的词。",
+      "url": "https://waytoagi.feishu.cn/wiki/Kzu6w2koFi07bZkAD2ec9KBgnN7"
+    },
     {
       "date": "2026-05-19",
       "title": "Anthropic 更新：Manage Agent 开放自托管",
@@ -14,8 +20,14 @@
       "url": "https://waytoagi.feishu.cn/wiki/XyBjwDUB4i5JV7kfPklc6YzcnNh"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-05-19",
+      "title": "Codex 从零基础到精通——By WaytoAGI二师兄",
+      "summary": "这不是一篇写给程序员炫技的工具手册。这是一篇写给普通人、零基础新手、刚接触 AI 工具的读者的实战入门教学。你不需要先学会编程，也不需要一上来就懂命令行、配置文件、模型参数、MCP、Skill 这些听起来很吓人的词。",
+      "url": "https://waytoagi.feishu.cn/wiki/Kzu6w2koFi07bZkAD2ec9KBgnN7"
+    },
     {
       "date": "2026-05-19",
       "title": "Anthropic 更新：Manage Agent 开放自托管",
