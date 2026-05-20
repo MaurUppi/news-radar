@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T16:51:39.845340Z",
+  "generated_at": "2026-05-20T19:23:34.938519Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-20",
-  "count_today": 2,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-05-20",
@@ -15,12 +15,42 @@
     },
     {
       "date": "2026-05-20",
+      "title": "深度解读-FDE 前线部署工程师研究报告",
+      "summary": "FDE 的本质，是复杂企业 AI 公司的一套 客户现场学习与生产部署机制：把有工程能力、产品判断和业务理解的人放到客户最复杂、最高价值、最不清晰的业务现场，完成从问题发现、系统集成、生产上线、效果度量，到产品化反馈的闭环。让我们一同跟着雪梅这篇文章深度探究下FDE！",
+      "url": "https://waytoagi.feishu.cn/wiki/YxZVwWdHLiClqVkGg1bcO0k1nSP"
+    },
+    {
+      "date": "2026-05-20",
+      "title": "张咋啦Zara：把 Claude Code 接入飞书：Claude Code Feishu Bridge",
+      "summary": "龙虾虽然好玩，但是严肃办公场景下还是coding agent最靠谱！做了个bridge，可以把本地的Claude Code桥接到飞书/Lark里，让Claude Code成为飞书里的一个bot，可以像跟同事交流一样无缝跟Claude Code协作！",
+      "url": "https://waytoagi.feishu.cn/wiki/AvKDw6bFQi18HjkMhPkcW9RMnTf"
+    },
+    {
+      "date": "2026-05-20",
+      "title": "体验微信读书skill，给自己做一个【我的微信读书画像】信息表",
+      "summary": "微信读书正式开放 Skill 接口，普通人也能一键调取个人阅读数据，轻松生成专属阅读画像信息图。只需简单配置 API Key，就能同步阅读时长、书籍数量、笔记、年度趋势、阅读时段与兴趣分类等完整数据。",
+      "url": "https://waytoagi.feishu.cn/wiki/IZyDw3FLBitPL3kkHTPc51uvnFe"
+    },
+    {
+      "date": "2026-05-20",
       "title": "产品经理如何把 Claude 变成自己的工作系统丨Aakash",
       "summary": "Pawel 是欧洲很有影响力的 AI PM 作者，LinkedIn 关注者超过 20 万，newsletter 订阅超过 10 万，还做了一个 PM skills marketplace，GitHub 上有 1 万 star。这次他分享的是一套完整 Claude PM 操作系统：Cowork、Claude Code、Dispatch、Skills、MCP connector、自我改进知识库，以及手机上的远程工作流。让我们一同看看PM如何把日常工作拆成可积累、可复用、可验证的系统，并让系统在下一次任务里带着记忆继续工作。",
       "url": "https://waytoagi.feishu.cn/wiki/MBqxwDNyzi1eVqkU9SEcs6nSnod"
+    },
+    {
+      "date": "2026-05-20",
+      "title": "Kychrona：小白教程：如何用AI做一个线上博物馆",
+      "summary": "作者最近上线了用AI做的《汴京十二时辰》数字博物馆，有很多小伙伴问是怎么做的：涉及到哪些AI工具，具体的工作流是什么。这篇文章就手把手来教大家，如何制作属于自己的数字博物馆。",
+      "url": "https://waytoagi.feishu.cn/wiki/Qbc1w11TtiYeO5k2A7jcOxtznpc"
+    },
+    {
+      "date": "2026-05-20",
+      "title": "GitHub到底是什么？小白一看就懂",
+      "summary": "今天这篇文章，就是写给所有非技术背景的人。不讲\"分布式版本控制系统\"，不堆术语，就用大白话，把 GitHub 到底是什么给你掰开揉碎讲清楚。",
+      "url": "https://waytoagi.feishu.cn/wiki/OSGuw6RvRiRi3bkoYy9c4SC6nrg"
     }
   ],
-  "count_7d": 30,
+  "count_7d": 35,
   "updates_7d": [
     {
       "date": "2026-05-20",
@@ -30,9 +60,39 @@
     },
     {
       "date": "2026-05-20",
+      "title": "深度解读-FDE 前线部署工程师研究报告",
+      "summary": "FDE 的本质，是复杂企业 AI 公司的一套 客户现场学习与生产部署机制：把有工程能力、产品判断和业务理解的人放到客户最复杂、最高价值、最不清晰的业务现场，完成从问题发现、系统集成、生产上线、效果度量，到产品化反馈的闭环。让我们一同跟着雪梅这篇文章深度探究下FDE！",
+      "url": "https://waytoagi.feishu.cn/wiki/YxZVwWdHLiClqVkGg1bcO0k1nSP"
+    },
+    {
+      "date": "2026-05-20",
+      "title": "张咋啦Zara：把 Claude Code 接入飞书：Claude Code Feishu Bridge",
+      "summary": "龙虾虽然好玩，但是严肃办公场景下还是coding agent最靠谱！做了个bridge，可以把本地的Claude Code桥接到飞书/Lark里，让Claude Code成为飞书里的一个bot，可以像跟同事交流一样无缝跟Claude Code协作！",
+      "url": "https://waytoagi.feishu.cn/wiki/AvKDw6bFQi18HjkMhPkcW9RMnTf"
+    },
+    {
+      "date": "2026-05-20",
+      "title": "体验微信读书skill，给自己做一个【我的微信读书画像】信息表",
+      "summary": "微信读书正式开放 Skill 接口，普通人也能一键调取个人阅读数据，轻松生成专属阅读画像信息图。只需简单配置 API Key，就能同步阅读时长、书籍数量、笔记、年度趋势、阅读时段与兴趣分类等完整数据。",
+      "url": "https://waytoagi.feishu.cn/wiki/IZyDw3FLBitPL3kkHTPc51uvnFe"
+    },
+    {
+      "date": "2026-05-20",
       "title": "产品经理如何把 Claude 变成自己的工作系统丨Aakash",
       "summary": "Pawel 是欧洲很有影响力的 AI PM 作者，LinkedIn 关注者超过 20 万，newsletter 订阅超过 10 万，还做了一个 PM skills marketplace，GitHub 上有 1 万 star。这次他分享的是一套完整 Claude PM 操作系统：Cowork、Claude Code、Dispatch、Skills、MCP connector、自我改进知识库，以及手机上的远程工作流。让我们一同看看PM如何把日常工作拆成可积累、可复用、可验证的系统，并让系统在下一次任务里带着记忆继续工作。",
       "url": "https://waytoagi.feishu.cn/wiki/MBqxwDNyzi1eVqkU9SEcs6nSnod"
+    },
+    {
+      "date": "2026-05-20",
+      "title": "Kychrona：小白教程：如何用AI做一个线上博物馆",
+      "summary": "作者最近上线了用AI做的《汴京十二时辰》数字博物馆，有很多小伙伴问是怎么做的：涉及到哪些AI工具，具体的工作流是什么。这篇文章就手把手来教大家，如何制作属于自己的数字博物馆。",
+      "url": "https://waytoagi.feishu.cn/wiki/Qbc1w11TtiYeO5k2A7jcOxtznpc"
+    },
+    {
+      "date": "2026-05-20",
+      "title": "GitHub到底是什么？小白一看就懂",
+      "summary": "今天这篇文章，就是写给所有非技术背景的人。不讲\"分布式版本控制系统\"，不堆术语，就用大白话，把 GitHub 到底是什么给你掰开揉碎讲清楚。",
+      "url": "https://waytoagi.feishu.cn/wiki/OSGuw6RvRiRi3bkoYy9c4SC6nrg"
     },
     {
       "date": "2026-05-19",
