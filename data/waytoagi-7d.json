@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-05-20T13:36:57.620931Z",
+  "generated_at": "2026-05-20T16:51:39.845340Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-20",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
     {
       "date": "2026-05-20",
       "title": "现场直击 Google I/O 2026：Gemini 3.5 Flash、Spark、Omni 三剑齐发",
       "summary": "本届 Google I/O 26 大会，Google 正式完成 AI 生态战略重构，以三大核心产品打通全场景落地路径。全新 Gemini 3.5 Flash 打破模型层级壁垒，兼具旗舰性能、极速响应与低成本优势，成为生态通用执行核心，助力企业高效搭建多智能体协作工作流。云端常驻个人AI Agent Gemini Spark 无需本地部署，可全天候自主处理各类日常事务。Gemini Omni 开启对话式视频创作新时代，多模态融合创作门槛大幅降低。",
       "url": "https://waytoagi.feishu.cn/wiki/Lo0nw2IqXiDRFokBc6Lcsen9nfg"
+    },
+    {
+      "date": "2026-05-20",
+      "title": "产品经理如何把 Claude 变成自己的工作系统丨Aakash",
+      "summary": "Pawel 是欧洲很有影响力的 AI PM 作者，LinkedIn 关注者超过 20 万，newsletter 订阅超过 10 万，还做了一个 PM skills marketplace，GitHub 上有 1 万 star。这次他分享的是一套完整 Claude PM 操作系统：Cowork、Claude Code、Dispatch、Skills、MCP connector、自我改进知识库，以及手机上的远程工作流。让我们一同看看PM如何把日常工作拆成可积累、可复用、可验证的系统，并让系统在下一次任务里带着记忆继续工作。",
+      "url": "https://waytoagi.feishu.cn/wiki/MBqxwDNyzi1eVqkU9SEcs6nSnod"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 30,
   "updates_7d": [
     {
       "date": "2026-05-20",
       "title": "现场直击 Google I/O 2026：Gemini 3.5 Flash、Spark、Omni 三剑齐发",
       "summary": "本届 Google I/O 26 大会，Google 正式完成 AI 生态战略重构，以三大核心产品打通全场景落地路径。全新 Gemini 3.5 Flash 打破模型层级壁垒，兼具旗舰性能、极速响应与低成本优势，成为生态通用执行核心，助力企业高效搭建多智能体协作工作流。云端常驻个人AI Agent Gemini Spark 无需本地部署，可全天候自主处理各类日常事务。Gemini Omni 开启对话式视频创作新时代，多模态融合创作门槛大幅降低。",
       "url": "https://waytoagi.feishu.cn/wiki/Lo0nw2IqXiDRFokBc6Lcsen9nfg"
+    },
+    {
+      "date": "2026-05-20",
+      "title": "产品经理如何把 Claude 变成自己的工作系统丨Aakash",
+      "summary": "Pawel 是欧洲很有影响力的 AI PM 作者，LinkedIn 关注者超过 20 万，newsletter 订阅超过 10 万，还做了一个 PM skills marketplace，GitHub 上有 1 万 star。这次他分享的是一套完整 Claude PM 操作系统：Cowork、Claude Code、Dispatch、Skills、MCP connector、自我改进知识库，以及手机上的远程工作流。让我们一同看看PM如何把日常工作拆成可积累、可复用、可验证的系统，并让系统在下一次任务里带着记忆继续工作。",
+      "url": "https://waytoagi.feishu.cn/wiki/MBqxwDNyzi1eVqkU9SEcs6nSnod"
     },
     {
       "date": "2026-05-19",
@@ -189,36 +201,6 @@
       "title": "AI Native 创业手册",
       "summary": "Anthropic 刚刚出了一份 36 页的创始人手册： 创建一家 AI Native 的公司，几个人，做几百人的事儿。手册把创业拆成四个阶段（想法、MVP、上线、规模化），每个阶段讲清楚该做什么、容易踩什么坑、Claude 的三个产品形态（Chat、Cowork、Code）分别在什么时候用。",
       "url": "https://waytoagi.feishu.cn/wiki/QV9VwW9MhicpWBkMxoucN82Dnle"
-    },
-    {
-      "date": "2026-05-14",
-      "title": "如何真正用好 Claude：释放它全部潜力的 18 个步骤（译）",
-      "summary": "Claude 已经发布两年了。很多每天都在用它的人，仍然只用到了它能力的 10%。不是因为它复杂，而是因为没人向他们展示另外 90% 到底是什么样。这份指南就是为了解决这个问题。读完之后，你会把 Claude 配置成一个能记住你、理解你、按你的思考方式工作的系统。你也会知道如何用它完成很多人从未尝试过的事情。",
-      "url": "https://waytoagi.feishu.cn/wiki/SPW5wm1eGiG2kokMa1ycNy0TnQe"
-    },
-    {
-      "date": "2026-05-14",
-      "title": "吴恩达最新Prompt课3000字笔记：没有复杂框架，只有让你AI变好用的小技巧",
-      "summary": "吴恩达全新AI提示词课程干货满满，全是普通人能立刻上手的AI使用心法。适配当下思考模型的全新交互逻辑，从高质量上下文输入、锁定权威信源、给模型预留推理空间，到活用深度研究、多维度交叉核验全覆盖。跟着这套思路就能避开 AI 废话与刻意讨好，精准拿捏不同场景下的 AI 使用精髓。",
-      "url": "https://waytoagi.feishu.cn/wiki/PuBWwlhFriob86ki6OecxwqznNW"
-    },
-    {
-      "date": "2026-05-14",
-      "title": "Codex+Claude+Hermes+Obsidian，打造你的内容生产天团",
-      "summary": "多数人学AI会陷入盲目追工具、囤教程的怪圈，看似什么都懂，实操仍然要从零开始，根源是缺少专属的中枢与工作流体系。本篇文章帮你建立工程化工作流思维，把AI从临时助手变成长期协作的高效生产力系统。",
-      "url": "https://waytoagi.feishu.cn/wiki/Iqwew8sYtiDWTSkAFGnc1squnkb"
-    },
-    {
-      "date": "2026-05-14",
-      "title": "Claude Code 正在重写你的第二大脑丨Every",
-      "summary": "Noah早年共同创办Percolate，后来做 Variance，现在经营 AI 策略咨询公司 Alephic，也做一个关于 AI 与营销的会议 brand.ai。本期节目他把Claude code带到现场：Obsidian 笔记库、Git、家里地下室的小服务器、手机终端、客户项目和写作资料，全都接在一起。",
-      "url": "https://waytoagi.feishu.cn/wiki/EYjawAnsdi8pIpkN8sEcpMzNnzh"
-    },
-    {
-      "date": "2026-05-14",
-      "title": "9 个在你睡觉时工作的 Claude Agents",
-      "summary": "这9个Claude Agent堪称创业者、自由职业者的效率神器，依托Claude定时异步运行，在休息时段也可以自动完成每日简报、行业调研、邮件分拣、数据复盘、代码维护、竞品监测、内容创作、会议筹备与知识提炼。",
-      "url": "https://waytoagi.feishu.cn/wiki/XA55wc38AivULuknSdzcoJPXntg"
     }
   ],
   "warning": null,
