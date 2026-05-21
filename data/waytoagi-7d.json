@@ -1,57 +1,39 @@
 {
-  "generated_at": "2026-05-21T12:13:27.757792Z",
+  "generated_at": "2026-05-21T15:55:36.875377Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-05-20",
-  "count_today": 7,
+  "latest_date": "2026-05-21",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-05-20",
-      "title": "现场直击 Google I/O 2026：Gemini 3.5 Flash、Spark、Omni 三剑齐发",
-      "summary": "本届 Google I/O 26 大会，Google 正式完成 AI 生态战略重构，以三大核心产品打通全场景落地路径。全新 Gemini 3.5 Flash 打破模型层级壁垒，兼具旗舰性能、极速响应与低成本优势，成为生态通用执行核心，助力企业高效搭建多智能体协作工作流。云端常驻个人AI Agent Gemini Spark 无需本地部署，可全天候自主处理各类日常事务。Gemini Omni 开启对话式视频创作新时代，多模态融合创作门槛大幅降低。",
-      "url": "https://waytoagi.feishu.cn/wiki/Lo0nw2IqXiDRFokBc6Lcsen9nfg"
+      "date": "2026-05-21",
+      "title": "来自 Codex 官方团队的分享：如何把 Codex 用到极致",
+      "summary": "我们在电脑上做的大部分工作，本质上其实都和代码息息相关：执行终端命令、浏览网页、调用应用程序接口、导出文档、响应各种事件，或者是触发自动化流程。当 Codex 开始延伸到这些领域时，它给人的感觉就不再只是一个狭义上的“编程助手”了，而是进化成了一个能帮你搞定各种电脑工作的“全能打工人”。",
+      "url": "https://waytoagi.feishu.cn/wiki/PY3UwWOQyil9IRk0fZ9c1DdpnSc"
     },
     {
-      "date": "2026-05-20",
-      "title": "深度解读-FDE 前线部署工程师研究报告",
-      "summary": "FDE 的本质，是复杂企业 AI 公司的一套 客户现场学习与生产部署机制：把有工程能力、产品判断和业务理解的人放到客户最复杂、最高价值、最不清晰的业务现场，完成从问题发现、系统集成、生产上线、效果度量，到产品化反馈的闭环。让我们一同跟着雪梅这篇文章深度探究下FDE！",
-      "url": "https://waytoagi.feishu.cn/wiki/YxZVwWdHLiClqVkGg1bcO0k1nSP"
-    },
-    {
-      "date": "2026-05-20",
-      "title": "张咋啦Zara：把 Claude Code 接入飞书：Claude Code Feishu Bridge",
-      "summary": "龙虾虽然好玩，但是严肃办公场景下还是coding agent最靠谱！做了个bridge，可以把本地的Claude Code桥接到飞书/Lark里，让Claude Code成为飞书里的一个bot，可以像跟同事交流一样无缝跟Claude Code协作！",
-      "url": "https://waytoagi.feishu.cn/wiki/AvKDw6bFQi18HjkMhPkcW9RMnTf"
-    },
-    {
-      "date": "2026-05-20",
-      "title": "体验微信读书skill，给自己做一个【我的微信读书画像】信息表",
-      "summary": "微信读书正式开放 Skill 接口，普通人也能一键调取个人阅读数据，轻松生成专属阅读画像信息图。只需简单配置 API Key，就能同步阅读时长、书籍数量、笔记、年度趋势、阅读时段与兴趣分类等完整数据。",
-      "url": "https://waytoagi.feishu.cn/wiki/IZyDw3FLBitPL3kkHTPc51uvnFe"
-    },
-    {
-      "date": "2026-05-20",
-      "title": "产品经理如何把 Claude 变成自己的工作系统丨Aakash",
-      "summary": "Pawel 是欧洲很有影响力的 AI PM 作者，LinkedIn 关注者超过 20 万，newsletter 订阅超过 10 万，还做了一个 PM skills marketplace，GitHub 上有 1 万 star。这次他分享的是一套完整 Claude PM 操作系统：Cowork、Claude Code、Dispatch、Skills、MCP connector、自我改进知识库，以及手机上的远程工作流。让我们一同看看PM如何把日常工作拆成可积累、可复用、可验证的系统，并让系统在下一次任务里带着记忆继续工作。",
-      "url": "https://waytoagi.feishu.cn/wiki/MBqxwDNyzi1eVqkU9SEcs6nSnod"
-    },
-    {
-      "date": "2026-05-20",
-      "title": "Kychrona：小白教程：如何用AI做一个线上博物馆",
-      "summary": "作者最近上线了用AI做的《汴京十二时辰》数字博物馆，有很多小伙伴问是怎么做的：涉及到哪些AI工具，具体的工作流是什么。这篇文章就手把手来教大家，如何制作属于自己的数字博物馆。",
-      "url": "https://waytoagi.feishu.cn/wiki/Qbc1w11TtiYeO5k2A7jcOxtznpc"
-    },
-    {
-      "date": "2026-05-20",
-      "title": "GitHub到底是什么？小白一看就懂",
-      "summary": "今天这篇文章，就是写给所有非技术背景的人。不讲\"分布式版本控制系统\"，不堆术语，就用大白话，把 GitHub 到底是什么给你掰开揉碎讲清楚。",
-      "url": "https://waytoagi.feishu.cn/wiki/OSGuw6RvRiRi3bkoYy9c4SC6nrg"
+      "date": "2026-05-21",
+      "title": "一文看懂 Harness Engineering，帮你的 AI 提效 10 倍",
+      "summary": "",
+      "url": "https://waytoagi.feishu.cn/wiki/Hrbsw06rWitZjYkZi7KcoKOYnQf"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 37,
   "updates_7d": [
+    {
+      "date": "2026-05-21",
+      "title": "来自 Codex 官方团队的分享：如何把 Codex 用到极致",
+      "summary": "我们在电脑上做的大部分工作，本质上其实都和代码息息相关：执行终端命令、浏览网页、调用应用程序接口、导出文档、响应各种事件，或者是触发自动化流程。当 Codex 开始延伸到这些领域时，它给人的感觉就不再只是一个狭义上的“编程助手”了，而是进化成了一个能帮你搞定各种电脑工作的“全能打工人”。",
+      "url": "https://waytoagi.feishu.cn/wiki/PY3UwWOQyil9IRk0fZ9c1DdpnSc"
+    },
+    {
+      "date": "2026-05-21",
+      "title": "一文看懂 Harness Engineering，帮你的 AI 提效 10 倍",
+      "summary": "",
+      "url": "https://waytoagi.feishu.cn/wiki/Hrbsw06rWitZjYkZi7KcoKOYnQf"
+    },
     {
       "date": "2026-05-20",
       "title": "现场直击 Google I/O 2026：Gemini 3.5 Flash、Spark、Omni 三剑齐发",
