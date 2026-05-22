@@ -1,51 +1,75 @@
 {
-  "generated_at": "2026-05-22T15:30:13.326706Z",
+  "generated_at": "2026-05-22T17:26:02.016199Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-05-21",
-  "count_today": 6,
+  "latest_date": "2026-05-22",
+  "count_today": 5,
   "updates_today": [
     {
-      "date": "2026-05-21",
-      "title": "西羊石AI视频团队：真人短剧全流程制作方法，Gemini 3.5 Flash 提示词分享，照抄即可",
-      "summary": "AI 真人短剧赛道有大量零散教程、无效提示词让新手屡屡踩坑、难以落地。本篇文章分享了一套可以直接照搬的实操成片流程，解决了AI 短剧画面崩坏、人物变脸、风格混乱等常见问题。",
-      "url": "https://waytoagi.feishu.cn/wiki/T60bwrWrfifRj9kRAxTccIrznKg"
+      "date": "2026-05-22",
+      "title": "怎么让 Agent Skills 自进化？Agent 回答质量翻倍",
+      "summary": "成峰的这套Skills自进化模式，跳出了低效手动逐句调试的旧思路，借助多智能体协作实现能力迭代。这个模式可以大幅缩减调试耗时，但同时也要把控规则冗余的问题，人工做好筛选监督，才能让Agent的作答质量稳步提升。",
+      "url": "https://waytoagi.feishu.cn/wiki/O2nHwWvi5iFnygkJnzAcB1OVnh4"
     },
     {
-      "date": "2026-05-21",
-      "title": "来自 Codex 官方团队的分享：如何把 Codex 用到极致",
-      "summary": "我们在电脑上做的大部分工作，本质上其实都和代码息息相关：执行终端命令、浏览网页、调用应用程序接口、导出文档、响应各种事件，或者是触发自动化流程。当 Codex 开始延伸到这些领域时，它给人的感觉就不再只是一个狭义上的“编程助手”了，而是进化成了一个能帮你搞定各种电脑工作的“全能打工人”。",
-      "url": "https://waytoagi.feishu.cn/wiki/PY3UwWOQyil9IRk0fZ9c1DdpnSc"
+      "date": "2026-05-22",
+      "title": "开源一个 Skill，让 AI 接管你屏幕边那张便签纸",
+      "summary": "臧师傅开源的这个Skill，依托磁吸墨水屏打造出动态桌面信息终端。联动各类办公与开发平台，可以同步更新日程任务、项目工单，还能适时提醒作息、天气等日常讯息。感兴趣的朋友，不妨上手体验一番！",
+      "url": "https://waytoagi.feishu.cn/wiki/BawkwR9Hpig0yMktEb9cETBPnPe"
     },
     {
-      "date": "2026-05-21",
-      "title": "一文看懂 Harness Engineering，帮你的 AI 提效 10 倍",
-      "summary": "现在AI能帮你写掉一大部分代码，但 AI 不会替你做需求分析、不会替你拆任务、不会替你设计上下文架构、不会替你判断哪个工具该接哪个该删、不会替你建立验证标准、不会替你守住架构边界。这些事情的总和就是 Harness Engineering。",
-      "url": "https://waytoagi.feishu.cn/wiki/Hrbsw06rWitZjYkZi7KcoKOYnQf"
+      "date": "2026-05-22",
+      "title": "使用 Google 构建 Agent的开发者指南：Antigravity、Agents API 和 ADK",
+      "summary": "过去，构建一个生产级 Agent 意味着你要接手大量基础设施工作：自己搭编排循环，自己构建沙箱，让模型能安全地运行代码；还要接工具、管理状态、处理重试，然后祈祷凌晨 3 点不要出故障。真正有意思的工作，也就是 Agent 本身，会被埋在基础设施工作下面。现在，一个带托管沙箱、内置工具和生产级推理循环的完整 Agent，只需要一次 API 调用就能创建。这篇文章会讲三个组成部分，以及它们如何配合。",
+      "url": "https://waytoagi.feishu.cn/wiki/L5owwvlxui0C24kLscjc0HrZnrP"
     },
     {
-      "date": "2026-05-21",
-      "title": "Claude Code还是Codex？老金告你怎么选！",
-      "summary": "最近不少人纠结Claude Code和Codex两款编码工具到底应该选择哪个？Claude Code适合需求未定、需要实时查看进度、随时调整修改的场景，把控项目改动细节，灵活应对突发问题。Codex则更偏向任务委派，边界清晰、验收标准明确的工作可交由其后台独立完成，可以高效批量处理多项事务。选工具要先匹配自身的需求与工作习惯，才能规避半成品问题，最大化发挥工具价值。",
-      "url": "https://waytoagi.feishu.cn/wiki/PF8mwiuibil7ASkiGRYcRggrn4G"
+      "date": "2026-05-22",
+      "title": "Obsidian 小白完整入门教程(本地知识库)",
+      "summary": "AI 时代，人人都需要一个自己的知识库。AI 本身没有立场、没有经历、没有审美。你想让它替你写一篇文章、做一份方案、整理一段录音——它给你的永远是通用、平均、谁都能写出来的内容。每个人都该拥有一座属于自己的本地知识库。而本地知识库的最佳方案，就是 Obsidian，这篇文章是针对小白用户从0到1的完整入门教程！",
+      "url": "https://waytoagi.feishu.cn/wiki/GrrPwjnNYivgGfk5KFtctDpMnvh"
     },
     {
-      "date": "2026-05-21",
-      "title": "2026文字类提示词设计指南（下册）",
-      "summary": "这份字体提示词合集，囊括多样风格创作素材，可以满足各类视觉用字需求。内容涵盖硬笔手写、工业机械、运动竞技、建筑碑刻等常规字体，还包含霓虹、金属、碎裂、水墨等二十余种创意特效字。作者还分享了专业的字体画面反推提示词，来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/OpxpwRsrYiaWs3kNUqbc2hhnngg"
-    },
-    {
-      "date": "2026-05-21",
-      "title": "20 个多数开发者不知道的 Claude Skills",
-      "summary": "下面这 20 个技能覆盖了专业开发者会接触的所有类别。复制你需要的，保存下来，让每次会话开始时 Claude 就已经知道该如何工作。",
-      "url": "https://waytoagi.feishu.cn/wiki/EmdMw2ThSiXFm2kQmxMc2I0EnAb"
+      "date": "2026-05-22",
+      "title": "9 个 Claude Cowork prompt 模板：把我 8 小时工作日压到 47 分钟主动监督",
+      "summary": "这套经过作者实测筛选出的Claude Cowork提示词模板，覆盖情报汇总、竞品调研、文档审阅、内容分发等高频工作场景，可以让你实际每周腾出34小时空余时间。",
+      "url": "https://waytoagi.feishu.cn/wiki/UKSmwWYLfiZQTLkZmpIcW0CIn9N"
     }
   ],
   "count_7d": 35,
   "updates_7d": [
+    {
+      "date": "2026-05-22",
+      "title": "怎么让 Agent Skills 自进化？Agent 回答质量翻倍",
+      "summary": "成峰的这套Skills自进化模式，跳出了低效手动逐句调试的旧思路，借助多智能体协作实现能力迭代。这个模式可以大幅缩减调试耗时，但同时也要把控规则冗余的问题，人工做好筛选监督，才能让Agent的作答质量稳步提升。",
+      "url": "https://waytoagi.feishu.cn/wiki/O2nHwWvi5iFnygkJnzAcB1OVnh4"
+    },
+    {
+      "date": "2026-05-22",
+      "title": "开源一个 Skill，让 AI 接管你屏幕边那张便签纸",
+      "summary": "臧师傅开源的这个Skill，依托磁吸墨水屏打造出动态桌面信息终端。联动各类办公与开发平台，可以同步更新日程任务、项目工单，还能适时提醒作息、天气等日常讯息。感兴趣的朋友，不妨上手体验一番！",
+      "url": "https://waytoagi.feishu.cn/wiki/BawkwR9Hpig0yMktEb9cETBPnPe"
+    },
+    {
+      "date": "2026-05-22",
+      "title": "使用 Google 构建 Agent的开发者指南：Antigravity、Agents API 和 ADK",
+      "summary": "过去，构建一个生产级 Agent 意味着你要接手大量基础设施工作：自己搭编排循环，自己构建沙箱，让模型能安全地运行代码；还要接工具、管理状态、处理重试，然后祈祷凌晨 3 点不要出故障。真正有意思的工作，也就是 Agent 本身，会被埋在基础设施工作下面。现在，一个带托管沙箱、内置工具和生产级推理循环的完整 Agent，只需要一次 API 调用就能创建。这篇文章会讲三个组成部分，以及它们如何配合。",
+      "url": "https://waytoagi.feishu.cn/wiki/L5owwvlxui0C24kLscjc0HrZnrP"
+    },
+    {
+      "date": "2026-05-22",
+      "title": "Obsidian 小白完整入门教程(本地知识库)",
+      "summary": "AI 时代，人人都需要一个自己的知识库。AI 本身没有立场、没有经历、没有审美。你想让它替你写一篇文章、做一份方案、整理一段录音——它给你的永远是通用、平均、谁都能写出来的内容。每个人都该拥有一座属于自己的本地知识库。而本地知识库的最佳方案，就是 Obsidian，这篇文章是针对小白用户从0到1的完整入门教程！",
+      "url": "https://waytoagi.feishu.cn/wiki/GrrPwjnNYivgGfk5KFtctDpMnvh"
+    },
+    {
+      "date": "2026-05-22",
+      "title": "9 个 Claude Cowork prompt 模板：把我 8 小时工作日压到 47 分钟主动监督",
+      "summary": "这套经过作者实测筛选出的Claude Cowork提示词模板，覆盖情报汇总、竞品调研、文档审阅、内容分发等高频工作场景，可以让你实际每周腾出34小时空余时间。",
+      "url": "https://waytoagi.feishu.cn/wiki/UKSmwWYLfiZQTLkZmpIcW0CIn9N"
+    },
     {
       "date": "2026-05-21",
       "title": "西羊石AI视频团队：真人短剧全流程制作方法，Gemini 3.5 Flash 提示词分享，照抄即可",
@@ -225,36 +249,6 @@
       "title": "Agentic Memory：详细拆解",
       "summary": "大模型普遍存在交互失忆问题，难以延续长期协作。本篇文章这套智能体记忆体系可以补齐该短板。文中搭配了完整可落地的实战代码，手把手带你搭建本地记忆存储架构，同时给出记忆衰减、权重评级、定期整合等高效管理策略。吃透这套记忆搭建逻辑，既能解决智能体任务中断、经验无法复用等难题，还能打造具备长期学习能力的智能协作体，大幅提升 Agent 实战稳定性与个性化服务能力。",
       "url": "https://waytoagi.feishu.cn/wiki/NP8QwegILi0vU6kwTClcRdiEncc"
-    },
-    {
-      "date": "2026-05-16",
-      "title": "放弃双手后，AI终于帮我自动剪起了视频！（附详细教程）",
-      "summary": "厌倦了效果拉胯、流程繁琐的普通AI剪辑工具？作者这篇文章带来全新实用方案，依托Codex就能快速部署，可以轻松把文章、网页、产品资料快速转为短视频。只需要用文字明确视频定位、时长、风格与框架，就能一键生成初稿，还能以聊天形式灵活调整画面、字幕与节奏。作者整理了多场景万能提示词与高效修改技巧，快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/PTuUwiUAjiTCH4kO7uBcWRoXnFb"
-    },
-    {
-      "date": "2026-05-16",
-      "title": "对话闫威：科技企业出海中亚机会",
-      "summary": "当东南亚和中东的红海竞争愈演愈烈，中亚——这片曾被贴上“传统”与“地缘复杂”标签的腹地，正在经历一场剧烈的商业重构。这里有基建的巨大落差，也有AI大模型在小语种语料上的市场真空；这里有极度稀缺的TikTok内容生态，也潜伏着不靠谱的翻译、“假领导”关系网以及致命的合规陷阱。如果你聚焦中国科技企业中亚布局，正焦虑“自身优势突出却找不到破局路径”，不妨细读这篇万字对谈。",
-      "url": "https://waytoagi.feishu.cn/wiki/NYmewMjBri4FDUksWTZcBUyincR"
-    },
-    {
-      "date": "2026-05-16",
-      "title": "DeepMind CEO：真正的 Agent 还没开始爆发丨Y Combinator",
-      "summary": "DeepMind创始人Demis Hassabis的重磅分享，包括：AGI 还差什么，Agent 到底走到哪一步，创业者在 AGI 逼近时还该押注什么。 这场对话少有空泛愿景，更像一份给工程师、产品负责人和深科技创始人的路线图。",
-      "url": "https://waytoagi.feishu.cn/wiki/VTvBw2F7Yi8JIEkyEz7cpYoTnWg"
-    },
-    {
-      "date": "2026-05-16",
-      "title": "Codex为什么叫超级Agent：本篇教你学会它的12 个进阶玩法！",
-      "summary": "99% 教程只教你\"装好登录、随便聊一下\"。 但真正让 Codex 配得上\"百亿超级 Agent\"这个名号的，是 那些藏得很深的进阶功能 。作者整理了12个进阶玩法，快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/KV3iwh9UKive7dklOrgcZm7InXb"
-    },
-    {
-      "date": "2026-05-16",
-      "title": "Agent Hooks：为 Agent Workflows 提供确定性控制",
-      "summary": "想要摆脱反复叮嘱AI遵守规则的困扰，Agent Hooks正是优化智能体工作流的高效方案。它可以将自定义逻辑绑定在会话全生命周期节点，依托事件触发机制自动执行校验、管控与收尾操作，把硬性规范从提示词中剥离出来。这篇文章使用 6 个生命周期节点，覆盖开发者通常最先需要的主流程！",
-      "url": "https://waytoagi.feishu.cn/wiki/YqBJwdBALiUbKwkhvlVctUwfn6e"
     }
   ],
   "warning": null,
