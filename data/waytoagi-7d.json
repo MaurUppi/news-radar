@@ -1,17 +1,35 @@
 {
-  "generated_at": "2026-05-26T17:25:36.816622Z",
+  "generated_at": "2026-05-26T19:33:10.408562Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-26",
-  "count_today": 3,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-05-26",
       "title": "如何用 Codex 强兼 Claude Code 生态（并被它教做人）",
       "summary": "Codex在模型和产品的更新下，体感和Claude Code五五开，甚至在某些领域更强，但它对Claude Code搭好的完整生态一无所知。这篇文章记录了作者怎么让 Codex 自动适配 Claude Code 生态，轻松打通两大工具，高效复用过往搭建的全部能力。",
       "url": "https://waytoagi.feishu.cn/wiki/Y64YwL3NHi6thhkeMXkcPtrbnfc"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "如何构建 Claude Research Agent：自动抓取全网资讯生成日报",
+      "summary": "不少人开工先沉迷各类信息流，耗费大量时间却获取不到有效信息，还打乱当日工作计划、徒增压力。本文带来从零搭建一款自动化生成日报的Agent的完整教程，帮你提前自动筛选、整合各类资讯，告别无效信息消耗，只需花五分钟浏览，就能快速掌握新一天的关键动态。",
+      "url": "https://waytoagi.feishu.cn/wiki/T1wuwpfRZiC0vhkgPfMc2v45nxb"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "个人觉得用AI剪视频最好的方法，求你别再手动剪视频了！Codex一句话搞定。",
+      "summary": "Codex搭配Remotion插件可以通过自然语言轻松制作视频。而且它有一个很大的优势，就是你可以反复修改。如果你不满意，可以继续跟它说这个文字大一点、按钮再长一点、背景音乐从开头加进去等等。它会直接改代码，然后再重新生成。",
+      "url": "https://waytoagi.feishu.cn/wiki/EwUKwypuliYYlmkXR9OcOYt3nQb"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "Pydantic 修好了我的 Agent Memory",
+      "summary": "不少AI智能体看似能存储海量信息，却难以完成复杂的关联推理。向量检索存在信息断层，自由构建的知识图谱又会因为归类模糊丧失查询能力。本篇文章给出了高效解决方案，借助Pydantic预先定义实体、关系与属性，搭建专属本体框架，配合标准化流程来规范信息提取与输出，可以很好地改善Agent记忆！",
+      "url": "https://waytoagi.feishu.cn/wiki/GQzuwdlBmiVDI2kVrYEc7SphnOe"
     },
     {
       "date": "2026-05-26",
@@ -26,13 +44,31 @@
       "url": "https://waytoagi.feishu.cn/wiki/K0lDw6Iw1i1vaOk96zecKMxRnJb"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 35,
   "updates_7d": [
     {
       "date": "2026-05-26",
       "title": "如何用 Codex 强兼 Claude Code 生态（并被它教做人）",
       "summary": "Codex在模型和产品的更新下，体感和Claude Code五五开，甚至在某些领域更强，但它对Claude Code搭好的完整生态一无所知。这篇文章记录了作者怎么让 Codex 自动适配 Claude Code 生态，轻松打通两大工具，高效复用过往搭建的全部能力。",
       "url": "https://waytoagi.feishu.cn/wiki/Y64YwL3NHi6thhkeMXkcPtrbnfc"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "如何构建 Claude Research Agent：自动抓取全网资讯生成日报",
+      "summary": "不少人开工先沉迷各类信息流，耗费大量时间却获取不到有效信息，还打乱当日工作计划、徒增压力。本文带来从零搭建一款自动化生成日报的Agent的完整教程，帮你提前自动筛选、整合各类资讯，告别无效信息消耗，只需花五分钟浏览，就能快速掌握新一天的关键动态。",
+      "url": "https://waytoagi.feishu.cn/wiki/T1wuwpfRZiC0vhkgPfMc2v45nxb"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "个人觉得用AI剪视频最好的方法，求你别再手动剪视频了！Codex一句话搞定。",
+      "summary": "Codex搭配Remotion插件可以通过自然语言轻松制作视频。而且它有一个很大的优势，就是你可以反复修改。如果你不满意，可以继续跟它说这个文字大一点、按钮再长一点、背景音乐从开头加进去等等。它会直接改代码，然后再重新生成。",
+      "url": "https://waytoagi.feishu.cn/wiki/EwUKwypuliYYlmkXR9OcOYt3nQb"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "Pydantic 修好了我的 Agent Memory",
+      "summary": "不少AI智能体看似能存储海量信息，却难以完成复杂的关联推理。向量检索存在信息断层，自由构建的知识图谱又会因为归类模糊丧失查询能力。本篇文章给出了高效解决方案，借助Pydantic预先定义实体、关系与属性，搭建专属本体框架，配合标准化流程来规范信息提取与输出，可以很好地改善Agent记忆！",
+      "url": "https://waytoagi.feishu.cn/wiki/GQzuwdlBmiVDI2kVrYEc7SphnOe"
     },
     {
       "date": "2026-05-26",
