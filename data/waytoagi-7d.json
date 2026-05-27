@@ -1,51 +1,63 @@
 {
-  "generated_at": "2026-05-27T14:25:47.564932Z",
+  "generated_at": "2026-05-27T17:40:41.130979Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-05-26",
-  "count_today": 6,
+  "latest_date": "2026-05-27",
+  "count_today": 4,
   "updates_today": [
     {
-      "date": "2026-05-26",
-      "title": "如何用 Codex 强兼 Claude Code 生态（并被它教做人）",
-      "summary": "Codex在模型和产品的更新下，体感和Claude Code五五开，甚至在某些领域更强，但它对Claude Code搭好的完整生态一无所知。这篇文章记录了作者怎么让 Codex 自动适配 Claude Code 生态，轻松打通两大工具，高效复用过往搭建的全部能力。",
-      "url": "https://waytoagi.feishu.cn/wiki/Y64YwL3NHi6thhkeMXkcPtrbnfc"
+      "date": "2026-05-27",
+      "title": "爆肝两周，我把 Codex 最全实战指南开源了",
+      "summary": "苍何老师开源了一份《Codex 实战指南》。从第一次上手，到把 Codex 接入真实工作流；帮助不同背景的人用 Codex 完成开发、创作、研究、自动化与团队协作。 如果这个项目帮你节省了摸索时间，欢迎点亮 Star，让更多人看到它。",
+      "url": "https://waytoagi.feishu.cn/wiki/Sc8SwpAnoimNJUkcqt5c4eFInlg"
     },
     {
-      "date": "2026-05-26",
-      "title": "如何构建 Claude Research Agent：自动抓取全网资讯生成日报",
-      "summary": "不少人开工先沉迷各类信息流，耗费大量时间却获取不到有效信息，还打乱当日工作计划、徒增压力。本文带来从零搭建一款自动化生成日报的Agent的完整教程，帮你提前自动筛选、整合各类资讯，告别无效信息消耗，只需花五分钟浏览，就能快速掌握新一天的关键动态。",
-      "url": "https://waytoagi.feishu.cn/wiki/T1wuwpfRZiC0vhkgPfMc2v45nxb"
+      "date": "2026-05-27",
+      "title": "我用Lovart在汶川开了家民宿，设计师朋友看完沉默了",
+      "summary": "现在你只需要设定品牌调性，就可以用Lovart快速生成LOGO、专属字体与完整品牌套件，自动统一设计风格。冷逸这篇文章就给大家详细介绍下一整套的民宿视觉物料都有些什么，以及他是怎么做的。",
+      "url": "https://waytoagi.feishu.cn/wiki/E4wewb2yqicwcDkohPHchWj0nFe"
     },
     {
-      "date": "2026-05-26",
-      "title": "个人觉得用AI剪视频最好的方法，求你别再手动剪视频了！Codex一句话搞定。",
-      "summary": "Codex搭配Remotion插件可以通过自然语言轻松制作视频。而且它有一个很大的优势，就是你可以反复修改。如果你不满意，可以继续跟它说这个文字大一点、按钮再长一点、背景音乐从开头加进去等等。它会直接改代码，然后再重新生成。",
-      "url": "https://waytoagi.feishu.cn/wiki/EwUKwypuliYYlmkXR9OcOYt3nQb"
+      "date": "2026-05-27",
+      "title": "别画了！用飞书 CLI 真能一句话生成架构图",
+      "summary": "飞书CLI全新上线画板能力，搭配Codex、Claude Code等AI Agent，一句话就能生成架构图、流程图、思维导图等各类图表。生成内容原生就是可编辑的飞书画板，还支持拖拽改节点、增删逻辑、双语改写。配套开源的32款视觉风格库，对产品、运营、开发者来说，大幅提高了办公协作与方案输出效率。",
+      "url": "https://waytoagi.feishu.cn/wiki/CNS5wafOIiNgcAk3UZnc1iEpn7d"
     },
     {
-      "date": "2026-05-26",
-      "title": "Pydantic 修好了我的 Agent Memory",
-      "summary": "不少AI智能体看似能存储海量信息，却难以完成复杂的关联推理。向量检索存在信息断层，自由构建的知识图谱又会因为归类模糊丧失查询能力。本篇文章给出了高效解决方案，借助Pydantic预先定义实体、关系与属性，搭建专属本体框架，配合标准化流程来规范信息提取与输出，可以很好地改善Agent记忆！",
-      "url": "https://waytoagi.feishu.cn/wiki/GQzuwdlBmiVDI2kVrYEc7SphnOe"
-    },
-    {
-      "date": "2026-05-26",
-      "title": "Notion CEO：AI公司应该是“爵士乐队”，而我是“Refounder”！",
-      "summary": "Notion CEO Ivan Zhao 上周去 Sequoia Capital 录了一期播客，聊了他经历了两次公司濒死、两次从头重建的经历。如今他以“Refounder”身份在用同一套逻辑”重构“一家千人公司。他认为 AI 让技术能力变成了商品，真正稀缺的是 Taste（品味） 和 Agency（主动性），所以招聘标准要变；信息传递和协调工作正在被 AI 接管，所以组织结构要变；技术变化太快，任何超过几周的规划都可能失效，规划方式也要变。",
-      "url": "https://waytoagi.feishu.cn/wiki/Ut94wnl5zi4LHmkt4XXcMQoYn3f"
-    },
-    {
-      "date": "2026-05-26",
-      "title": "AI主题的闭门会，大家却只想聊教育：一些暴论与洞察",
-      "summary": "四月底，产品力领航者大会的闭门会深度剖析了AI浪潮下职场、教育与创业的现实困境与变革方向，并对比了中美AI创业的模式差异。如果你是职场人、教育从业者或者创业者，或许都能从中找到适配当下的成长与发展路径。",
-      "url": "https://waytoagi.feishu.cn/wiki/K0lDw6Iw1i1vaOk96zecKMxRnJb"
+      "date": "2026-05-27",
+      "title": "不懂这几个技巧，难怪你用不好AI！",
+      "summary": "很多人用AI只会简单发指令、坐等输出，效率极低还总觉得不好用。这篇文章结合总结六套实用进阶用法，带你精准明确需求意图，把知识库从杂物堆变成可复用的知识网络，真正把AI变成高效生产力帮手。",
+      "url": "https://waytoagi.feishu.cn/wiki/LA9NwfPf0iRP2GkFtDocNatZnTf"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 33,
   "updates_7d": [
+    {
+      "date": "2026-05-27",
+      "title": "爆肝两周，我把 Codex 最全实战指南开源了",
+      "summary": "苍何老师开源了一份《Codex 实战指南》。从第一次上手，到把 Codex 接入真实工作流；帮助不同背景的人用 Codex 完成开发、创作、研究、自动化与团队协作。 如果这个项目帮你节省了摸索时间，欢迎点亮 Star，让更多人看到它。",
+      "url": "https://waytoagi.feishu.cn/wiki/Sc8SwpAnoimNJUkcqt5c4eFInlg"
+    },
+    {
+      "date": "2026-05-27",
+      "title": "我用Lovart在汶川开了家民宿，设计师朋友看完沉默了",
+      "summary": "现在你只需要设定品牌调性，就可以用Lovart快速生成LOGO、专属字体与完整品牌套件，自动统一设计风格。冷逸这篇文章就给大家详细介绍下一整套的民宿视觉物料都有些什么，以及他是怎么做的。",
+      "url": "https://waytoagi.feishu.cn/wiki/E4wewb2yqicwcDkohPHchWj0nFe"
+    },
+    {
+      "date": "2026-05-27",
+      "title": "别画了！用飞书 CLI 真能一句话生成架构图",
+      "summary": "飞书CLI全新上线画板能力，搭配Codex、Claude Code等AI Agent，一句话就能生成架构图、流程图、思维导图等各类图表。生成内容原生就是可编辑的飞书画板，还支持拖拽改节点、增删逻辑、双语改写。配套开源的32款视觉风格库，对产品、运营、开发者来说，大幅提高了办公协作与方案输出效率。",
+      "url": "https://waytoagi.feishu.cn/wiki/CNS5wafOIiNgcAk3UZnc1iEpn7d"
+    },
+    {
+      "date": "2026-05-27",
+      "title": "不懂这几个技巧，难怪你用不好AI！",
+      "summary": "很多人用AI只会简单发指令、坐等输出，效率极低还总觉得不好用。这篇文章结合总结六套实用进阶用法，带你精准明确需求意图，把知识库从杂物堆变成可复用的知识网络，真正把AI变成高效生产力帮手。",
+      "url": "https://waytoagi.feishu.cn/wiki/LA9NwfPf0iRP2GkFtDocNatZnTf"
+    },
     {
       "date": "2026-05-26",
       "title": "如何用 Codex 强兼 Claude Code 生态（并被它教做人）",
@@ -219,42 +231,6 @@
       "title": "9 个 Claude Cowork prompt 模板：把我 8 小时工作日压到 47 分钟主动监督",
       "summary": "这套经过作者实测筛选出的Claude Cowork提示词模板，覆盖情报汇总、竞品调研、文档审阅、内容分发等高频工作场景，可以让你实际每周腾出34小时空余时间。",
       "url": "https://waytoagi.feishu.cn/wiki/UKSmwWYLfiZQTLkZmpIcW0CIn9N"
-    },
-    {
-      "date": "2026-05-21",
-      "title": "西羊石AI视频团队：真人短剧全流程制作方法，Gemini 3.5 Flash 提示词分享，照抄即可",
-      "summary": "AI 真人短剧赛道有大量零散教程、无效提示词让新手屡屡踩坑、难以落地。本篇文章分享了一套可以直接照搬的实操成片流程，解决了AI 短剧画面崩坏、人物变脸、风格混乱等常见问题。",
-      "url": "https://waytoagi.feishu.cn/wiki/T60bwrWrfifRj9kRAxTccIrznKg"
-    },
-    {
-      "date": "2026-05-21",
-      "title": "来自 Codex 官方团队的分享：如何把 Codex 用到极致",
-      "summary": "我们在电脑上做的大部分工作，本质上其实都和代码息息相关：执行终端命令、浏览网页、调用应用程序接口、导出文档、响应各种事件，或者是触发自动化流程。当 Codex 开始延伸到这些领域时，它给人的感觉就不再只是一个狭义上的“编程助手”了，而是进化成了一个能帮你搞定各种电脑工作的“全能打工人”。",
-      "url": "https://waytoagi.feishu.cn/wiki/PY3UwWOQyil9IRk0fZ9c1DdpnSc"
-    },
-    {
-      "date": "2026-05-21",
-      "title": "一文看懂 Harness Engineering，帮你的 AI 提效 10 倍",
-      "summary": "现在AI能帮你写掉一大部分代码，但 AI 不会替你做需求分析、不会替你拆任务、不会替你设计上下文架构、不会替你判断哪个工具该接哪个该删、不会替你建立验证标准、不会替你守住架构边界。这些事情的总和就是 Harness Engineering。",
-      "url": "https://waytoagi.feishu.cn/wiki/Hrbsw06rWitZjYkZi7KcoKOYnQf"
-    },
-    {
-      "date": "2026-05-21",
-      "title": "Claude Code还是Codex？老金告你怎么选！",
-      "summary": "最近不少人纠结Claude Code和Codex两款编码工具到底应该选择哪个？Claude Code适合需求未定、需要实时查看进度、随时调整修改的场景，把控项目改动细节，灵活应对突发问题。Codex则更偏向任务委派，边界清晰、验收标准明确的工作可交由其后台独立完成，可以高效批量处理多项事务。选工具要先匹配自身的需求与工作习惯，才能规避半成品问题，最大化发挥工具价值。",
-      "url": "https://waytoagi.feishu.cn/wiki/PF8mwiuibil7ASkiGRYcRggrn4G"
-    },
-    {
-      "date": "2026-05-21",
-      "title": "2026文字类提示词设计指南（下册）",
-      "summary": "这份字体提示词合集，囊括多样风格创作素材，可以满足各类视觉用字需求。内容涵盖硬笔手写、工业机械、运动竞技、建筑碑刻等常规字体，还包含霓虹、金属、碎裂、水墨等二十余种创意特效字。作者还分享了专业的字体画面反推提示词，来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/OpxpwRsrYiaWs3kNUqbc2hhnngg"
-    },
-    {
-      "date": "2026-05-21",
-      "title": "20 个多数开发者不知道的 Claude Skills",
-      "summary": "下面这 20 个技能覆盖了专业开发者会接触的所有类别。复制你需要的，保存下来，让每次会话开始时 Claude 就已经知道该如何工作。",
-      "url": "https://waytoagi.feishu.cn/wiki/EmdMw2ThSiXFm2kQmxMc2I0EnAb"
     }
   ],
   "warning": null,
