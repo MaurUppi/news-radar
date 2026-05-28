@@ -1,26 +1,50 @@
 {
-  "generated_at": "2026-05-28T14:47:55.585492Z",
+  "generated_at": "2026-05-28T18:10:44.290748Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-28",
-  "count_today": 1,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-05-28",
       "title": "西羊石AI视频团队：电商老板别再花钱拍一堆废片了，我搭了一套 AI 女装卖货工作流（附提示词）",
       "summary": "如果你本身就是做女装的老板，或者身边有做女装、电商、服装供应链的朋友，或者想尝试 AI 女装带货项目，可以看看这篇文章是否真的有帮助。",
       "url": "https://waytoagi.feishu.cn/wiki/NXWgwSd5SipJXFkFKE5cO7ZLnOb"
+    },
+    {
+      "date": "2026-05-28",
+      "title": "真正会用 AI 编程的人，都会做需求抽象",
+      "summary": "面对各类定制开发需求，只解决当下问题很容易陷入反复改代码的困境。很多看似零散的功能诉求，背后都藏着同一核心痛点。作者结合实战经历拆解了通用抽象与过度设计两大陷阱，结合 DRY 和 YAGNI 开发原则给出了一个平衡思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/Gwbuwj4Xuiq0QWkcoOLcWCrhnnc"
+    },
+    {
+      "date": "2026-05-28",
+      "title": "开源个 Skill｜彻底解决小红、小绿书配图难题",
+      "summary": "臧师傅这款图文卡片生成Skill，跳出同质化网页风模板，对标专业杂志版式设计，可以轻松产出高质感配图。如果你也在做图文内容，希望它能帮你省掉那些被排版毁掉的好选题。",
+      "url": "https://waytoagi.feishu.cn/wiki/M94ewQYoOiTlx2kVpclcLrlQnqe"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 31,
   "updates_7d": [
     {
       "date": "2026-05-28",
       "title": "西羊石AI视频团队：电商老板别再花钱拍一堆废片了，我搭了一套 AI 女装卖货工作流（附提示词）",
       "summary": "如果你本身就是做女装的老板，或者身边有做女装、电商、服装供应链的朋友，或者想尝试 AI 女装带货项目，可以看看这篇文章是否真的有帮助。",
       "url": "https://waytoagi.feishu.cn/wiki/NXWgwSd5SipJXFkFKE5cO7ZLnOb"
+    },
+    {
+      "date": "2026-05-28",
+      "title": "真正会用 AI 编程的人，都会做需求抽象",
+      "summary": "面对各类定制开发需求，只解决当下问题很容易陷入反复改代码的困境。很多看似零散的功能诉求，背后都藏着同一核心痛点。作者结合实战经历拆解了通用抽象与过度设计两大陷阱，结合 DRY 和 YAGNI 开发原则给出了一个平衡思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/Gwbuwj4Xuiq0QWkcoOLcWCrhnnc"
+    },
+    {
+      "date": "2026-05-28",
+      "title": "开源个 Skill｜彻底解决小红、小绿书配图难题",
+      "summary": "臧师傅这款图文卡片生成Skill，跳出同质化网页风模板，对标专业杂志版式设计，可以轻松产出高质感配图。如果你也在做图文内容，希望它能帮你省掉那些被排版毁掉的好选题。",
+      "url": "https://waytoagi.feishu.cn/wiki/M94ewQYoOiTlx2kVpclcLrlQnqe"
     },
     {
       "date": "2026-05-27",
@@ -189,36 +213,6 @@
       "title": "2026 年必须理解的 20 个 AI 概念",
       "summary": "人人都在用 AI。但几乎没人真正理解它是怎么工作的。大家随口就会说 transformer、embedding、RAG、agent、RLHF……仿佛所有人本来就懂。其实大多数人并不懂。理解下面这 20 个概念之后，它们都会变得说得通。",
       "url": "https://waytoagi.feishu.cn/wiki/ByypwsWa4iWwMYke19xc0ewMnac"
-    },
-    {
-      "date": "2026-05-22",
-      "title": "怎么让 Agent Skills 自进化？Agent 回答质量翻倍",
-      "summary": "成峰的这套Skills自进化模式，跳出了低效手动逐句调试的旧思路，借助多智能体协作实现能力迭代。这个模式可以大幅缩减调试耗时，但同时也要把控规则冗余的问题，人工做好筛选监督，才能让Agent的作答质量稳步提升。",
-      "url": "https://waytoagi.feishu.cn/wiki/O2nHwWvi5iFnygkJnzAcB1OVnh4"
-    },
-    {
-      "date": "2026-05-22",
-      "title": "开源一个 Skill，让 AI 接管你屏幕边那张便签纸",
-      "summary": "臧师傅开源的这个Skill，依托磁吸墨水屏打造出动态桌面信息终端。联动各类办公与开发平台，可以同步更新日程任务、项目工单，还能适时提醒作息、天气等日常讯息。感兴趣的朋友，不妨上手体验一番！",
-      "url": "https://waytoagi.feishu.cn/wiki/BawkwR9Hpig0yMktEb9cETBPnPe"
-    },
-    {
-      "date": "2026-05-22",
-      "title": "使用 Google 构建 Agent的开发者指南：Antigravity、Agents API 和 ADK",
-      "summary": "过去，构建一个生产级 Agent 意味着你要接手大量基础设施工作：自己搭编排循环，自己构建沙箱，让模型能安全地运行代码；还要接工具、管理状态、处理重试，然后祈祷凌晨 3 点不要出故障。真正有意思的工作，也就是 Agent 本身，会被埋在基础设施工作下面。现在，一个带托管沙箱、内置工具和生产级推理循环的完整 Agent，只需要一次 API 调用就能创建。这篇文章会讲三个组成部分，以及它们如何配合。",
-      "url": "https://waytoagi.feishu.cn/wiki/L5owwvlxui0C24kLscjc0HrZnrP"
-    },
-    {
-      "date": "2026-05-22",
-      "title": "Obsidian 小白完整入门教程(本地知识库)",
-      "summary": "AI 时代，人人都需要一个自己的知识库。AI 本身没有立场、没有经历、没有审美。你想让它替你写一篇文章、做一份方案、整理一段录音——它给你的永远是通用、平均、谁都能写出来的内容。每个人都该拥有一座属于自己的本地知识库。而本地知识库的最佳方案，就是 Obsidian，这篇文章是针对小白用户从0到1的完整入门教程！",
-      "url": "https://waytoagi.feishu.cn/wiki/GrrPwjnNYivgGfk5KFtctDpMnvh"
-    },
-    {
-      "date": "2026-05-22",
-      "title": "9 个 Claude Cowork prompt 模板：把我 8 小时工作日压到 47 分钟主动监督",
-      "summary": "这套经过作者实测筛选出的Claude Cowork提示词模板，覆盖情报汇总、竞品调研、文档审阅、内容分发等高频工作场景，可以让你实际每周腾出34小时空余时间。",
-      "url": "https://waytoagi.feishu.cn/wiki/UKSmwWYLfiZQTLkZmpIcW0CIn9N"
     }
   ],
   "warning": null,
