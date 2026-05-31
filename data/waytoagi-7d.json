@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-05-31T18:00:31.560775Z",
+  "generated_at": "2026-05-31T19:48:26.561781Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-31",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
+    {
+      "date": "2026-05-31",
+      "title": "第一次GEO公开课总结：从AI搜索逻辑到GEOFlow落地实战",
+      "summary": "向阳乔木和姚金刚老师在社区的第一次GEO公开课从前期基线诊断、搭建标准化事实知识库，到内容结构设计、多渠道分发、分层效果评估，还配套30天落地路线图、避坑指南与全套可复用模板。整套体系逻辑完整、实操性极强，能帮助企业打通AI搜索营销链路，统一品牌信息，提升曝光与转化，是布局AI时代内容运营的实用参考。",
+      "url": "https://waytoagi.feishu.cn/wiki/XpnQwxf8oibOpFkvvinc2GzDnTj"
+    },
     {
       "date": "2026-05-31",
       "title": "和科班程序员划了两小时重点：当vibe coding不够用时，我们要如何学习CS？",
@@ -38,8 +44,14 @@
       "url": "https://waytoagi.feishu.cn/wiki/SzZqw3cv6iRl3wkRFKscf0ZKnae"
     }
   ],
-  "count_7d": 27,
+  "count_7d": 28,
   "updates_7d": [
+    {
+      "date": "2026-05-31",
+      "title": "第一次GEO公开课总结：从AI搜索逻辑到GEOFlow落地实战",
+      "summary": "向阳乔木和姚金刚老师在社区的第一次GEO公开课从前期基线诊断、搭建标准化事实知识库，到内容结构设计、多渠道分发、分层效果评估，还配套30天落地路线图、避坑指南与全套可复用模板。整套体系逻辑完整、实操性极强，能帮助企业打通AI搜索营销链路，统一品牌信息，提升曝光与转化，是布局AI时代内容运营的实用参考。",
+      "url": "https://waytoagi.feishu.cn/wiki/XpnQwxf8oibOpFkvvinc2GzDnTj"
+    },
     {
       "date": "2026-05-31",
       "title": "和科班程序员划了两小时重点：当vibe coding不够用时，我们要如何学习CS？",
