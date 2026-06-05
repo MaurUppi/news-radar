@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-06-05T16:28:35.865241Z",
+  "generated_at": "2026-06-05T18:23:32.212758Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-05",
-  "count_today": 2,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-06-05",
+      "title": "横评Opus 4.8、GPT-5.5、DeepSeek V4、MiniMax M3，356元测出来的真实排名",
+      "summary": "最近，模型圈的节奏又加快了。 Opus 4.8、GPT-5.5、Qwen3.7-Plus、MiniMax M3 ，四款重量级模型几乎同时登场，想认真跟一遍都很难。冷逸用同一套任务、同一条提示词、同一个评分标准，全部接API走Claude Code/Codex测了一遍。覆盖了3D编程、视觉编程、游戏开发、Agent长程任务四大场景，来看看横评结果！",
+      "url": "https://waytoagi.feishu.cn/wiki/X2jbwb6DkipLfNk1B6fcE9yEnUd"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "分享一个把200k的Github项目转成元Skill工作流的方法！",
+      "summary": "不少开发者被零散的Skill困扰，工具过多会造成无用的Token损耗，依托OpenSquilla的MetaSkill思路就能高效破局。将Superpowers套件打包成定制工作流后，实测Token用量降至原先的67%，搭配小模型前置任务分级、子Agent精简上下文，在长会话里既能保全历史信息，还可以精细化核算各项开销。",
+      "url": "https://waytoagi.feishu.cn/wiki/RsUmw3aNtixZp4kgQTXcR3ANnUc"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "为什么你的ClaudeCode不好用？80%的人卡在这4层约束上",
+      "summary": "很多人装完 Claude Code后，会经历一种很熟悉的落差。别人的分享里，它像一个高级工程师：读项目、拆任务、改代码、跑测试、做总结，一路顺滑。轮到自己这里，它却像一个刚入职但没人带的新人。Claude Code的很多差体验，根源不在模型本身，而在你没有给它搭 harness。所以别急着装更多Skill，也别急着换模型。先检查一件事：你的项目里，有没有一套让Claude Code稳定工作的四层约束。",
+      "url": "https://waytoagi.feishu.cn/wiki/CsLWwcFUYiiIP3koyjRcJ2sgn5g"
+    },
+    {
+      "date": "2026-06-05",
       "title": "不懂金融如何学投资？从开盘前到收盘后，他把扣子接到了真实交易流程",
       "summary": "扣子3.0升级以来，作为全新的 AI Agent 平台，越来越多的用户正在用扣子完成真实工作任务，也有很多人用来辅助投资理财、提供决策参考，让 Agent 来整理信息、追踪变化，并在一次次复盘中不断优化。 有一个用户把扣子接进了自己的日常 A 股交易辅助流程里， 盘前整理市场信息，盘中监控持仓变化，盘后复盘交易策略，再把每天的执行结果继续带回系统中迭代，收益获得大幅提升。",
       "url": "https://waytoagi.feishu.cn/wiki/WVLwwL64wifcn2k9Y3xcDLiknxf"
@@ -18,12 +36,42 @@
       "title": "一问一答式的Vibe Coding的时代已经结束",
       "summary": "还在靠碎片化闲聊指挥AI敲代码的Vibe Coding模式已然落伍，随着Codex、Claude Code上线/goal指令，Goal Coding成为了新趋势。只需要写明落地的收尾标准，AI就能自主规划开发、自测改错，实现无人值守的长时间迭代。未来的核心不再是精妙提示词，而是精准定义项目收尾标准来帮开发者节省盯工耗时。",
       "url": "https://waytoagi.feishu.cn/wiki/RL71wP8ntiKAlKkbI1UcoLqnn9b"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "Claude Code 高阶用法：10 个插件搭起完整开发工作流",
+      "summary": "Claude Code 本身已经挺好用了，但装对插件之后，它可以给开发者一个完整的开发环境：思考、测试、review、部署，一条龙下来不用切换工具。裸装的 Claude Code 有几个明显的问题：跨 session 没有记忆、不能实时访问网络、没法做浏览器测试、也缺一道安全门槛挡住危险代码。插件就是来补这些洞的。下面 10 个作者实际用下来觉得有帮助的，每个解决一个具体痛点。",
+      "url": "https://waytoagi.feishu.cn/wiki/Eb5uwZJQli9Mg4kOmKjcZRrCnWo"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "30分钟掌握Codex的97%功能(完整教程)",
+      "summary": "大多数人打开 Codex，看到聊天窗口，就把它当成一个界面更华丽的 ChatGPT。结果， 90%的用户 都错过了它真正强大的功能。他们 不会构建技能（Skills） ， 不会部署到线上 ， 不会让自动化任务在后台运行 。本文将用14个步骤，在30分钟内带你从空白文件夹搭建出完整可用的 AI 工作流。",
+      "url": "https://waytoagi.feishu.cn/wiki/Mo08w2F6KiwUOVkBDHUc7Uysnxf"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 38,
   "updates_7d": [
     {
       "date": "2026-06-05",
+      "title": "横评Opus 4.8、GPT-5.5、DeepSeek V4、MiniMax M3，356元测出来的真实排名",
+      "summary": "最近，模型圈的节奏又加快了。 Opus 4.8、GPT-5.5、Qwen3.7-Plus、MiniMax M3 ，四款重量级模型几乎同时登场，想认真跟一遍都很难。冷逸用同一套任务、同一条提示词、同一个评分标准，全部接API走Claude Code/Codex测了一遍。覆盖了3D编程、视觉编程、游戏开发、Agent长程任务四大场景，来看看横评结果！",
+      "url": "https://waytoagi.feishu.cn/wiki/X2jbwb6DkipLfNk1B6fcE9yEnUd"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "分享一个把200k的Github项目转成元Skill工作流的方法！",
+      "summary": "不少开发者被零散的Skill困扰，工具过多会造成无用的Token损耗，依托OpenSquilla的MetaSkill思路就能高效破局。将Superpowers套件打包成定制工作流后，实测Token用量降至原先的67%，搭配小模型前置任务分级、子Agent精简上下文，在长会话里既能保全历史信息，还可以精细化核算各项开销。",
+      "url": "https://waytoagi.feishu.cn/wiki/RsUmw3aNtixZp4kgQTXcR3ANnUc"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "为什么你的ClaudeCode不好用？80%的人卡在这4层约束上",
+      "summary": "很多人装完 Claude Code后，会经历一种很熟悉的落差。别人的分享里，它像一个高级工程师：读项目、拆任务、改代码、跑测试、做总结，一路顺滑。轮到自己这里，它却像一个刚入职但没人带的新人。Claude Code的很多差体验，根源不在模型本身，而在你没有给它搭 harness。所以别急着装更多Skill，也别急着换模型。先检查一件事：你的项目里，有没有一套让Claude Code稳定工作的四层约束。",
+      "url": "https://waytoagi.feishu.cn/wiki/CsLWwcFUYiiIP3koyjRcJ2sgn5g"
+    },
+    {
+      "date": "2026-06-05",
       "title": "不懂金融如何学投资？从开盘前到收盘后，他把扣子接到了真实交易流程",
       "summary": "扣子3.0升级以来，作为全新的 AI Agent 平台，越来越多的用户正在用扣子完成真实工作任务，也有很多人用来辅助投资理财、提供决策参考，让 Agent 来整理信息、追踪变化，并在一次次复盘中不断优化。 有一个用户把扣子接进了自己的日常 A 股交易辅助流程里， 盘前整理市场信息，盘中监控持仓变化，盘后复盘交易策略，再把每天的执行结果继续带回系统中迭代，收益获得大幅提升。",
       "url": "https://waytoagi.feishu.cn/wiki/WVLwwL64wifcn2k9Y3xcDLiknxf"
@@ -33,6 +81,18 @@
       "title": "一问一答式的Vibe Coding的时代已经结束",
       "summary": "还在靠碎片化闲聊指挥AI敲代码的Vibe Coding模式已然落伍，随着Codex、Claude Code上线/goal指令，Goal Coding成为了新趋势。只需要写明落地的收尾标准，AI就能自主规划开发、自测改错，实现无人值守的长时间迭代。未来的核心不再是精妙提示词，而是精准定义项目收尾标准来帮开发者节省盯工耗时。",
       "url": "https://waytoagi.feishu.cn/wiki/RL71wP8ntiKAlKkbI1UcoLqnn9b"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "Claude Code 高阶用法：10 个插件搭起完整开发工作流",
+      "summary": "Claude Code 本身已经挺好用了，但装对插件之后，它可以给开发者一个完整的开发环境：思考、测试、review、部署，一条龙下来不用切换工具。裸装的 Claude Code 有几个明显的问题：跨 session 没有记忆、不能实时访问网络、没法做浏览器测试、也缺一道安全门槛挡住危险代码。插件就是来补这些洞的。下面 10 个作者实际用下来觉得有帮助的，每个解决一个具体痛点。",
+      "url": "https://waytoagi.feishu.cn/wiki/Eb5uwZJQli9Mg4kOmKjcZRrCnWo"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "30分钟掌握Codex的97%功能(完整教程)",
+      "summary": "大多数人打开 Codex，看到聊天窗口，就把它当成一个界面更华丽的 ChatGPT。结果， 90%的用户 都错过了它真正强大的功能。他们 不会构建技能（Skills） ， 不会部署到线上 ， 不会让自动化任务在后台运行 。本文将用14个步骤，在30分钟内带你从空白文件夹搭建出完整可用的 AI 工作流。",
+      "url": "https://waytoagi.feishu.cn/wiki/Mo08w2F6KiwUOVkBDHUc7Uysnxf"
     },
     {
       "date": "2026-06-04",
