@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T10:30:35.034449Z",
+  "generated_at": "2026-06-05T16:28:35.865241Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -20,7 +20,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/RL71wP8ntiKAlKkbI1UcoLqnn9b"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 33,
   "updates_7d": [
     {
       "date": "2026-06-05",
@@ -219,33 +219,9 @@
       "title": "5.24-5.31｜本周顶级 AI 论文",
       "summary": "本周十大顶尖AI论文覆盖智能体优化、模型效率、科研协作、长上下文治理等前沿方向，干货密度极高。从把Skill文档当作可训练外部参数、将智能体工作流编译进小模型权重降本百倍，到去中心化AI团队自主开展科学研究，创新思路层出不穷。还有仿生睡眠机制缓解长上下文成本、通过运行框架修复模型环境适配问题、量化上下文策略降本增效等突破，同时探讨AI科学预测局限、智能体老化成因与框架设计边界。",
       "url": "https://waytoagi.feishu.cn/wiki/SzZqw3cv6iRl3wkRFKscf0ZKnae"
-    },
-    {
-      "date": "2026-05-30",
-      "title": "让你拿到 offer 的 AI 产品经理核心技能丨Aakash Gupta",
-      "summary": "Arize AI 的联合创始人兼 CPO Aparna Dhinakaran，带来了一期很适合产品经理看的实操对话。她没有把 AI PM 讲成一个抽象岗位，而是现场用 Claude Code、GitHub issue、Arize Phoenix 和 evals 跑了一条完整链路：从用户反馈里发现痛点，让 agent 生成优先级报告，再用 trace 和评估结果判断这个 agent 有没有胡来。",
-      "url": "https://waytoagi.feishu.cn/wiki/XaVBwX2AqiL109kDoq4cCaQwnOc"
-    },
-    {
-      "date": "2026-05-30",
-      "title": "我用 Codex 学了 12 个工具，这是我学到的",
-      "summary": "这篇文章分享了一套用Codex学习新知识的全新思路。这篇文章作者分享了为什么大多数人问 Codex 的问题是错的、如何用5 步把Codex从百科全书变成学习教练、如何设计最小的练习，真正教会你东西。",
-      "url": "https://waytoagi.feishu.cn/wiki/EXHlw0HXBicv2yktOybc8lK6nRg"
-    },
-    {
-      "date": "2026-05-30",
-      "title": "OpenClaw与Hermes：源码里的 AI Agent 架构知识大复盘",
-      "summary": "作者在开发QQBot插件的过程中，深度钻研了OpenClaw的源码，也剖析了Hermes存在的串扰、架构等问题。透过种种不完美，作者拆解出两款产品在多通道适配、上下文管控、记忆管理、安全隔离等方面的工程设计思路。这篇文章给Agent 架构设计提供难得的一线参考。",
-      "url": "https://waytoagi.feishu.cn/wiki/OJpxwg3VhiaEuak1iBIc4OAHnUb"
-    },
-    {
-      "date": "2026-05-30",
-      "title": "Claude Dynamic Workflows解析— 迎接全新的 AI 编程生态",
-      "summary": "最近，Anthropic 发布了 Claude Opus 4.8，同时带来了一个很多人还没有意识到其意义的新能力——Claude Code Dynamic Workflows（动态工作流）。也意味着 AI 编程长期存在的几个核心瓶颈——上下文污染、逻辑漂移、复杂任务失控——第一次看到了系统性的解决方案。",
-      "url": "https://waytoagi.feishu.cn/wiki/Uos1w1gIViEnRikVYIicmaTanjd"
     }
   ],
-  "warning": "WaytoAGI 近7日更新抓取失败，已回退到上次成功快照",
+  "warning": null,
   "has_error": false,
   "error": null
 }
