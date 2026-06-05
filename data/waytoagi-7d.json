@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-06-05T06:21:28.137195Z",
+  "generated_at": "2026-06-05T10:30:35.034449Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-05",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
     {
       "date": "2026-06-05",
       "title": "不懂金融如何学投资？从开盘前到收盘后，他把扣子接到了真实交易流程",
       "summary": "扣子3.0升级以来，作为全新的 AI Agent 平台，越来越多的用户正在用扣子完成真实工作任务，也有很多人用来辅助投资理财、提供决策参考，让 Agent 来整理信息、追踪变化，并在一次次复盘中不断优化。 有一个用户把扣子接进了自己的日常 A 股交易辅助流程里， 盘前整理市场信息，盘中监控持仓变化，盘后复盘交易策略，再把每天的执行结果继续带回系统中迭代，收益获得大幅提升。",
       "url": "https://waytoagi.feishu.cn/wiki/WVLwwL64wifcn2k9Y3xcDLiknxf"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "一问一答式的Vibe Coding的时代已经结束",
+      "summary": "还在靠碎片化闲聊指挥AI敲代码的Vibe Coding模式已然落伍，随着Codex、Claude Code上线/goal指令，Goal Coding成为了新趋势。只需要写明落地的收尾标准，AI就能自主规划开发、自测改错，实现无人值守的长时间迭代。未来的核心不再是精妙提示词，而是精准定义项目收尾标准来帮开发者节省盯工耗时。",
+      "url": "https://waytoagi.feishu.cn/wiki/RL71wP8ntiKAlKkbI1UcoLqnn9b"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-06-05",
       "title": "不懂金融如何学投资？从开盘前到收盘后，他把扣子接到了真实交易流程",
       "summary": "扣子3.0升级以来，作为全新的 AI Agent 平台，越来越多的用户正在用扣子完成真实工作任务，也有很多人用来辅助投资理财、提供决策参考，让 Agent 来整理信息、追踪变化，并在一次次复盘中不断优化。 有一个用户把扣子接进了自己的日常 A 股交易辅助流程里， 盘前整理市场信息，盘中监控持仓变化，盘后复盘交易策略，再把每天的执行结果继续带回系统中迭代，收益获得大幅提升。",
       "url": "https://waytoagi.feishu.cn/wiki/WVLwwL64wifcn2k9Y3xcDLiknxf"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "一问一答式的Vibe Coding的时代已经结束",
+      "summary": "还在靠碎片化闲聊指挥AI敲代码的Vibe Coding模式已然落伍，随着Codex、Claude Code上线/goal指令，Goal Coding成为了新趋势。只需要写明落地的收尾标准，AI就能自主规划开发、自测改错，实现无人值守的长时间迭代。未来的核心不再是精妙提示词，而是精准定义项目收尾标准来帮开发者节省盯工耗时。",
+      "url": "https://waytoagi.feishu.cn/wiki/RL71wP8ntiKAlKkbI1UcoLqnn9b"
     },
     {
       "date": "2026-06-04",
