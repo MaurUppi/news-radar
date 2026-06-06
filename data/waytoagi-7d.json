@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T17:12:24.296450Z",
+  "generated_at": "2026-06-06T18:47:09.503252Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-06",
-  "count_today": 6,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-06-06",
@@ -21,6 +21,12 @@
     },
     {
       "date": "2026-06-06",
+      "title": "别拍脑袋定目标了，分享一些出海增长的正确姿势",
+      "summary": "如果你也想要做AI工具出海却一直找不到起步方向，这篇文章或许能帮助到你。先切入小众细分赛道，然后借助广告、社群快速验证目标客户，通过深挖付费用户信息来精准锁定真实需求。另外从产品和流量双向拆解竞品数据，这样定出来的目标才是有对标、有路径、有节奏的 SEO 增长计划。",
+      "url": "https://waytoagi.feishu.cn/wiki/TCGRwrz5IikcT1kjtVMco7wOnTg"
+    },
+    {
+      "date": "2026-06-06",
       "title": "一场活动结束之后，聚光灯应该打在哪里？",
       "summary": "如果你参与了文博会全球AI切磋盛典，不论你在台上还是幕后，在展区还是后勤，在策划组还是临时补位，这篇文章为你而写。如果你没有参与这场活动，但你在意一场复杂活动背后到底是谁在撑，这篇文章带你走一遍完整的执行链，还原每一种角色真实的样子。如果你在运营一个社区或者组织活动，这篇文章给你一套可以带走的方法：如何让那些不在聚光灯下的人，真正被看见。",
       "url": "https://waytoagi.feishu.cn/wiki/IvOBwVEvPiUlXlksdzecf6iOnVc"
@@ -40,11 +46,11 @@
     {
       "date": "2026-06-06",
       "title": "Anthropic设计总监：为何您的整个团队都应该使用AI Agents协同工作丨Product School",
-      "summary": "这次对话采访了在Anthropic负责Claude Code和Claude co-work设计的Meaghan Choi。她也亲历了Claude Code从内部小项目变成全球热门开发工具的过程。本期更像一份产品团队改造现场记录：角色边界、质量门槛、企业采用和 ROI，都被放进Claude Code 的实际工作法里，尤其适合正在重写团队流程、评估AI工具落地的人读。",
+      "summary": "这次对话采访了在Anthropic负责Claude Code和Claude co-work设计的Meaghan Choi。她也亲历了Claude Code从内部小项目变成全球热门开发工具的过程。本期更像一份产品团队改造现场记录：角色边界、质量门槛、企业采用和 ROI，都被放进Claude Code的实际工作法里，尤其适合正在重写团队流程、评估AI工具落地的人读。",
       "url": "https://waytoagi.feishu.cn/wiki/Qghzw5tvsiGE1hkorq8cKx7znpb"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 39,
   "updates_7d": [
     {
       "date": "2026-06-06",
@@ -60,6 +66,12 @@
     },
     {
       "date": "2026-06-06",
+      "title": "别拍脑袋定目标了，分享一些出海增长的正确姿势",
+      "summary": "如果你也想要做AI工具出海却一直找不到起步方向，这篇文章或许能帮助到你。先切入小众细分赛道，然后借助广告、社群快速验证目标客户，通过深挖付费用户信息来精准锁定真实需求。另外从产品和流量双向拆解竞品数据，这样定出来的目标才是有对标、有路径、有节奏的 SEO 增长计划。",
+      "url": "https://waytoagi.feishu.cn/wiki/TCGRwrz5IikcT1kjtVMco7wOnTg"
+    },
+    {
+      "date": "2026-06-06",
       "title": "一场活动结束之后，聚光灯应该打在哪里？",
       "summary": "如果你参与了文博会全球AI切磋盛典，不论你在台上还是幕后，在展区还是后勤，在策划组还是临时补位，这篇文章为你而写。如果你没有参与这场活动，但你在意一场复杂活动背后到底是谁在撑，这篇文章带你走一遍完整的执行链，还原每一种角色真实的样子。如果你在运营一个社区或者组织活动，这篇文章给你一套可以带走的方法：如何让那些不在聚光灯下的人，真正被看见。",
       "url": "https://waytoagi.feishu.cn/wiki/IvOBwVEvPiUlXlksdzecf6iOnVc"
@@ -79,7 +91,7 @@
     {
       "date": "2026-06-06",
       "title": "Anthropic设计总监：为何您的整个团队都应该使用AI Agents协同工作丨Product School",
-      "summary": "这次对话采访了在Anthropic负责Claude Code和Claude co-work设计的Meaghan Choi。她也亲历了Claude Code从内部小项目变成全球热门开发工具的过程。本期更像一份产品团队改造现场记录：角色边界、质量门槛、企业采用和 ROI，都被放进Claude Code 的实际工作法里，尤其适合正在重写团队流程、评估AI工具落地的人读。",
+      "summary": "这次对话采访了在Anthropic负责Claude Code和Claude co-work设计的Meaghan Choi。她也亲历了Claude Code从内部小项目变成全球热门开发工具的过程。本期更像一份产品团队改造现场记录：角色边界、质量门槛、企业采用和 ROI，都被放进Claude Code的实际工作法里，尤其适合正在重写团队流程、评估AI工具落地的人读。",
       "url": "https://waytoagi.feishu.cn/wiki/Qghzw5tvsiGE1hkorq8cKx7znpb"
     },
     {
