@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T16:30:22.876204Z",
+  "generated_at": "2026-06-09T18:32:53.345423Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-09",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-06-09",
@@ -21,6 +21,12 @@
     },
     {
       "date": "2026-06-09",
+      "title": "a16z合伙人：AI使用成本，正在改写SaaS下一步丨a16z",
+      "summary": "Benedict Evans是前 a16z 合伙人，也是硅谷长期追踪平台迁移的分析师。他这次与a16z 合伙人Erik Torenberg对话，回看自己一年多前那份《AI Eats the World》之后，AI 行业真正发生了什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/BGwhwnCATi7BTtkIVhOcPNQkn7g"
+    },
+    {
+      "date": "2026-06-09",
       "title": "Loop Engineering（循环工程）",
       "summary": "编程智能体的协作模式正在迎来变革，循环工程正成为新趋势。它不再需要人工反复编写、下发提示词，而是搭建自动化循环系统，由其自主调度、校验任务并持续迭代，直至目标完成。目前主流的Claude Code、Codex均已配齐核心组件。这种思路跳出了单一工具选择的局限，转向通用流程设计，或将成为人与AI编程协作的主流方向。不过这一模式尚处早期，需要警惕Token成本飙升、输出质量下滑等问题。",
       "url": "https://waytoagi.feishu.cn/wiki/Y5iYwu4RUijM4pkhoascFW68nQe"
@@ -32,7 +38,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/DkxAwl7RCiBNArksHTKcors3nBg"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-06-09",
@@ -45,6 +51,12 @@
       "title": "揭秘苹果全新 Siri AI 背后模型 苹果如何将 200 亿参数的模型塞进手机里",
       "summary": "苹果在 WWDC 2026 上发布了全新的 Apple Intelligence（苹果智能）和独立的 Siri AI。本次更新背后，都是由它的一整套自研基础模型驱动。小互这篇文章一次讲清楚：五个模型分别是谁、各管什么；手机装不下大模型这个老难题，苹果这次怎么绕过去的；这些模型到底能让你用上哪些新功能；苹果公布的评测数据该怎么看等等。",
       "url": "https://waytoagi.feishu.cn/wiki/HR23w4vv6iyGP2k4nTZcJFC8n2c"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "a16z合伙人：AI使用成本，正在改写SaaS下一步丨a16z",
+      "summary": "Benedict Evans是前 a16z 合伙人，也是硅谷长期追踪平台迁移的分析师。他这次与a16z 合伙人Erik Torenberg对话，回看自己一年多前那份《AI Eats the World》之后，AI 行业真正发生了什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/BGwhwnCATi7BTtkIVhOcPNQkn7g"
     },
     {
       "date": "2026-06-09",
