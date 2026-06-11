@@ -1,17 +1,23 @@
 {
-  "generated_at": "2026-06-11T18:34:04.019750Z",
+  "generated_at": "2026-06-11T21:18:30.376413Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-11",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-06-11",
       "title": "开源「鲁班」Skill，Claude Fable 5下线前我最想跑通的工作流！",
       "summary": "Claude Fable 5 正限时免费开放，作者借助这款强力模型，打造出专属鲁班 Skill，一个专门升级Skill的Skill。它会核验核心价值、对标同行竞品、精准排查现有的短板，每一处改动都会经过验证把关。完成打磨后，你能拿到详尽的分析报告以及可复用的测试脚本与项目规范。",
       "url": "https://waytoagi.feishu.cn/wiki/N8O0w2BG7izfxTkJowwc5gsUn7d"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "从Claude Fable 5系统提示词里，我偷师了5条写Prompt的硬规则",
+      "summary": "模型越强，很多人反而更懵：到底该怎么写Prompt，才能把它用满？结合一份社区整理的 Fable 5 系统提示词，以及 Anthropic 官方文档的指引，作者这篇文章带大家一起探究下普通人怎么改 Prompt，让 Claude Code/Claude 聊天都更听话。",
+      "url": "https://waytoagi.feishu.cn/wiki/HqJtwX5hmijsKVkk6QYccXHynWh"
     },
     {
       "date": "2026-06-11",
@@ -32,13 +38,19 @@
       "url": "https://waytoagi.feishu.cn/wiki/PwOUwV8Uui9Awsk5f7NcVX35nNb"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-06-11",
       "title": "开源「鲁班」Skill，Claude Fable 5下线前我最想跑通的工作流！",
       "summary": "Claude Fable 5 正限时免费开放，作者借助这款强力模型，打造出专属鲁班 Skill，一个专门升级Skill的Skill。它会核验核心价值、对标同行竞品、精准排查现有的短板，每一处改动都会经过验证把关。完成打磨后，你能拿到详尽的分析报告以及可复用的测试脚本与项目规范。",
       "url": "https://waytoagi.feishu.cn/wiki/N8O0w2BG7izfxTkJowwc5gsUn7d"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "从Claude Fable 5系统提示词里，我偷师了5条写Prompt的硬规则",
+      "summary": "模型越强，很多人反而更懵：到底该怎么写Prompt，才能把它用满？结合一份社区整理的 Fable 5 系统提示词，以及 Anthropic 官方文档的指引，作者这篇文章带大家一起探究下普通人怎么改 Prompt，让 Claude Code/Claude 聊天都更听话。",
+      "url": "https://waytoagi.feishu.cn/wiki/HqJtwX5hmijsKVkk6QYccXHynWh"
     },
     {
       "date": "2026-06-11",
