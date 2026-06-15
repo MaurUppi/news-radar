@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T18:24:16.983334Z",
+  "generated_at": "2026-06-15T21:31:08.110108Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-15",
-  "count_today": 2,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-06-15",
@@ -15,12 +15,24 @@
     },
     {
       "date": "2026-06-15",
+      "title": "Nemos：面向 AI 应用的认知启发式分层稀疏记忆架构",
+      "summary": "当下行业通用AI记忆方案仅仅是靠向量化切片检索实现记忆调取，模式简单但是却存在很多短板。默认记忆是无分层、持续堆叠的扁平索引，长期使用极易出现失效问题。猫叔设计了一个架构：Nemos，通过三个独立维度规整记忆，搭配稀疏激活机制管控存储体量，更适配长期稳定运行的AI底层记忆基础设施。",
+      "url": "https://waytoagi.feishu.cn/wiki/E2nYwKY10ifpOFkw2aycClKrneg"
+    },
+    {
+      "date": "2026-06-15",
       "title": "AI音乐周刊 W.A 032",
       "summary": "本周AI音乐行业动态与前沿论文覆盖版权博弈、创作工具、平台治理多条主线。谷歌凭借平台用户条款抗辩音乐AI侵权，华纳收购指纹企业抢占AI版税分配标准；Fender、Suno、Loudly等更新分轨、AI母带功能，索尼推出本地实时即兴伴奏，Deezer上线检测工具整治泛滥AI曲目。文中还收录了多篇音频生成、乐谱建模相关论文。",
       "url": "https://waytoagi.feishu.cn/wiki/ETiKwJPg8i7tcEkeFMLcQUL1nAf"
+    },
+    {
+      "date": "2026-06-15",
+      "title": "AI Agent Loop到底是什么？多数人一上来就用错了丨Greg",
+      "summary": "这篇访谈带大家厘清了当下火热的Agent循环误区，把 human-in-the-loop 、 agentic loop 和 代码评审 loop 拆成三种不同工作法。工程师、PM、独立开发者看完以后，能立刻判断自己该在哪一步把手伸回方向盘。",
+      "url": "https://waytoagi.feishu.cn/wiki/NCAMwukSgiIiNLkYxIRcyBkRnEe"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 34,
   "updates_7d": [
     {
       "date": "2026-06-15",
@@ -30,9 +42,21 @@
     },
     {
       "date": "2026-06-15",
+      "title": "Nemos：面向 AI 应用的认知启发式分层稀疏记忆架构",
+      "summary": "当下行业通用AI记忆方案仅仅是靠向量化切片检索实现记忆调取，模式简单但是却存在很多短板。默认记忆是无分层、持续堆叠的扁平索引，长期使用极易出现失效问题。猫叔设计了一个架构：Nemos，通过三个独立维度规整记忆，搭配稀疏激活机制管控存储体量，更适配长期稳定运行的AI底层记忆基础设施。",
+      "url": "https://waytoagi.feishu.cn/wiki/E2nYwKY10ifpOFkw2aycClKrneg"
+    },
+    {
+      "date": "2026-06-15",
       "title": "AI音乐周刊 W.A 032",
       "summary": "本周AI音乐行业动态与前沿论文覆盖版权博弈、创作工具、平台治理多条主线。谷歌凭借平台用户条款抗辩音乐AI侵权，华纳收购指纹企业抢占AI版税分配标准；Fender、Suno、Loudly等更新分轨、AI母带功能，索尼推出本地实时即兴伴奏，Deezer上线检测工具整治泛滥AI曲目。文中还收录了多篇音频生成、乐谱建模相关论文。",
       "url": "https://waytoagi.feishu.cn/wiki/ETiKwJPg8i7tcEkeFMLcQUL1nAf"
+    },
+    {
+      "date": "2026-06-15",
+      "title": "AI Agent Loop到底是什么？多数人一上来就用错了丨Greg",
+      "summary": "这篇访谈带大家厘清了当下火热的Agent循环误区，把 human-in-the-loop 、 agentic loop 和 代码评审 loop 拆成三种不同工作法。工程师、PM、独立开发者看完以后，能立刻判断自己该在哪一步把手伸回方向盘。",
+      "url": "https://waytoagi.feishu.cn/wiki/NCAMwukSgiIiNLkYxIRcyBkRnEe"
     },
     {
       "date": "2026-06-14",
