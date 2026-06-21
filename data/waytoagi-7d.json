@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-06-21T18:04:32.571643Z",
+  "generated_at": "2026-06-21T20:11:30.643010Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-21",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
+    {
+      "date": "2026-06-21",
+      "title": "面向产品经理的循环工程（Loop Engineering）",
+      "summary": "产品经理接下来要掌握的能力，不是提示词工程，而是循环工程（Loop Engineering）。仅仅优化单次指令只能解决临时需求，真正的目标应该是搭建一套持续自我优化的自动化体系来让你的工作更加高效精准！",
+      "url": "https://waytoagi.feishu.cn/wiki/EgPfwiDrqiVG8GknvfFcRaJknl1"
+    },
     {
       "date": "2026-06-21",
       "title": "基于你自己IP的卡通配图怎么做？阿真今天教会你！",
@@ -32,8 +38,14 @@
       "url": "https://waytoagi.feishu.cn/wiki/JeyDweSQbisuAOkKgeccNfKHnAd"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 33,
   "updates_7d": [
+    {
+      "date": "2026-06-21",
+      "title": "面向产品经理的循环工程（Loop Engineering）",
+      "summary": "产品经理接下来要掌握的能力，不是提示词工程，而是循环工程（Loop Engineering）。仅仅优化单次指令只能解决临时需求，真正的目标应该是搭建一套持续自我优化的自动化体系来让你的工作更加高效精准！",
+      "url": "https://waytoagi.feishu.cn/wiki/EgPfwiDrqiVG8GknvfFcRaJknl1"
+    },
     {
       "date": "2026-06-21",
       "title": "基于你自己IP的卡通配图怎么做？阿真今天教会你！",
