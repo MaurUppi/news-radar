@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T16:14:30.764656Z",
+  "generated_at": "2026-06-21T18:04:32.571643Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-21",
-  "count_today": 2,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-06-21",
@@ -15,12 +15,24 @@
     },
     {
       "date": "2026-06-21",
+      "title": "主流Agent Harness实现对比——SubAgent与MultiAgent",
+      "summary": "在目前主流的Agent Harness中，更多使用的还是SubAgent的方式，或者说Agent As Tool，而不是古典Multi Agent的那种对等Agent范式。本篇文章梳理了主流Agent Harness的实现对比，给搭建Agent系统的开发者提供了清晰的选型参考。",
+      "url": "https://waytoagi.feishu.cn/wiki/GRkZw4xBai1alukvHhicHvO2npe"
+    },
+    {
+      "date": "2026-06-21",
       "title": "Anthropic 负责人：最 AI 化的产品团队如何工作丨Lenny's Podcast",
       "summary": "Fiona Fung 现在带着 Anthropic里Claude Code和Cowork背后的工程、产品团队，也就是Boris Cherny和Cat Wu所在的组织。她能同时看到工程师、PM、设计师、数据科学家和小企业用户怎么被AI改变。让我们一同看看最AI化的产品团队是如何工作的？",
       "url": "https://waytoagi.feishu.cn/docx/DMbudy9srodav7x9t4Acw8WInGd"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "6.14-6.21｜本周顶尖 AI 论文",
+      "summary": "本周精选的十篇顶级论文，覆盖空间视觉推理、技能调度、电脑操作智能体、强化学习、长期记忆、网页自动化与金融数据集多个关键方向。文中提炼了每项工作的核心创新、实测性能提升与落地意义，带你一站式梳理前沿突破。",
+      "url": "https://waytoagi.feishu.cn/wiki/JeyDweSQbisuAOkKgeccNfKHnAd"
     }
   ],
-  "count_7d": 30,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-06-21",
@@ -30,9 +42,21 @@
     },
     {
       "date": "2026-06-21",
+      "title": "主流Agent Harness实现对比——SubAgent与MultiAgent",
+      "summary": "在目前主流的Agent Harness中，更多使用的还是SubAgent的方式，或者说Agent As Tool，而不是古典Multi Agent的那种对等Agent范式。本篇文章梳理了主流Agent Harness的实现对比，给搭建Agent系统的开发者提供了清晰的选型参考。",
+      "url": "https://waytoagi.feishu.cn/wiki/GRkZw4xBai1alukvHhicHvO2npe"
+    },
+    {
+      "date": "2026-06-21",
       "title": "Anthropic 负责人：最 AI 化的产品团队如何工作丨Lenny's Podcast",
       "summary": "Fiona Fung 现在带着 Anthropic里Claude Code和Cowork背后的工程、产品团队，也就是Boris Cherny和Cat Wu所在的组织。她能同时看到工程师、PM、设计师、数据科学家和小企业用户怎么被AI改变。让我们一同看看最AI化的产品团队是如何工作的？",
       "url": "https://waytoagi.feishu.cn/docx/DMbudy9srodav7x9t4Acw8WInGd"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "6.14-6.21｜本周顶尖 AI 论文",
+      "summary": "本周精选的十篇顶级论文，覆盖空间视觉推理、技能调度、电脑操作智能体、强化学习、长期记忆、网页自动化与金融数据集多个关键方向。文中提炼了每项工作的核心创新、实测性能提升与落地意义，带你一站式梳理前沿突破。",
+      "url": "https://waytoagi.feishu.cn/wiki/JeyDweSQbisuAOkKgeccNfKHnAd"
     },
     {
       "date": "2026-06-20",
