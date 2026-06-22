@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T14:38:11.032103Z",
+  "generated_at": "2026-06-22T18:45:08.599519Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-22",
-  "count_today": 3,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-06-22",
@@ -21,12 +21,36 @@
     },
     {
       "date": "2026-06-22",
+      "title": "从 OpenClaw 到 FastClaw：如何设计优秀的多 Agent 架构",
+      "summary": "在深耕一年Agent基础设施、服务五百余名用户后，作者发现分层可独立的迭代才是优质智能体架构的核心。于是做了一个更好的 Agent 框架：FastClaw，面向云原生多租户场景设计，更快、更轻量、更好用。这篇文章记录了他对 OpenClaw 架构的理解，以及对 FastClaw 架构设计的经验总结。",
+      "url": "https://waytoagi.feishu.cn/wiki/XL70wlGQTiz5Spkf6HOc1imrncg"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "YC合伙人：如何利用AI打造一家自我进化的公司丨Y Combinator",
+      "summary": "YC合伙人Tom Blomfield 在这期对话中带我们揭秘公司如何把自己改造成一个会学习的系统：如果 AI 能读取公司的知识、调用工具、观察结果、改写流程，一家公司还需要像过去那样靠层级、会议和中层管理来传递信息吗？",
+      "url": "https://waytoagi.feishu.cn/wiki/YVVxwl1uji8v1pkLcCbcqLLTngg"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "Claude Code 主创复盘疯狂的一年｜对话 Boris & Cat",
+      "summary": "Claude Code 上线满一年，Boris Cherny 和 Cat Wu 以主创身份复盘了团队内部的真实工作流。他们谈论的不是某个具体功能，而是人和agent到底该怎么分工。 让我们来一起探究一下！",
+      "url": "https://waytoagi.feishu.cn/wiki/VcljwUuZciA2v0kyMRUcA5nvnob"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "Blue：想用 Codex 的 Record & Replay 替代 RPA ，简直是做梦",
+      "summary": "Codex最近更新了一个录制回放的插件：Record & Replay 。简单来说，你在电脑上先手动把一个工作流程走一遍，Codex会观察并记录你的操作，随后转成一份可复用、可迭代的Agent Skill。这个插件到底怎么用、和传统 RPA是不是一回事，这篇文章带你拆清楚。",
+      "url": "https://waytoagi.feishu.cn/wiki/SQq1wM2JAig25tkwglzc4MLRnEM"
+    },
+    {
+      "date": "2026-06-22",
       "title": "AI音乐周刊 W.A 033",
       "summary": "本周AI音乐资讯合集覆盖工具更新、前沿模型、版权维权与前沿论文四大板块。ElevenLabs、阿里通义等推出长曲生成、说唱人声无缝切换能力，多款创作平台上线分轨混音、多角色MV、视频智能配乐等实用功能，大幅降低了二创的门槛。大西洋月刊还上线侵权音乐检索库，缓解了从业者对版权的顾虑。还有六篇顶级论文，围绕模型遗忘、AI 音乐检测、歌声精细控制等方向给出了一些创新方案。",
       "url": "https://waytoagi.feishu.cn/wiki/PTqswZdPci0IsAkw1DFcEtHNnVd"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 33,
   "updates_7d": [
     {
       "date": "2026-06-22",
@@ -39,6 +63,30 @@
       "title": "成峰：大更新！Codex × 剪辑Skills，一句话剪视频，免费开源",
       "summary": "成峰这款剪辑 Skill又升级啦！只需上传素材与文稿，AI就可以自动精剪口播、清理瑕疵、生成对齐字幕，还能智能匹配镜头、生成手绘风动态动画。全程支持可视化校对、片段精细化修改，最后一键合成高清成片。",
       "url": "https://waytoagi.feishu.cn/wiki/VYVYwc9Duikj16kX1FAcWO9RnUh"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "从 OpenClaw 到 FastClaw：如何设计优秀的多 Agent 架构",
+      "summary": "在深耕一年Agent基础设施、服务五百余名用户后，作者发现分层可独立的迭代才是优质智能体架构的核心。于是做了一个更好的 Agent 框架：FastClaw，面向云原生多租户场景设计，更快、更轻量、更好用。这篇文章记录了他对 OpenClaw 架构的理解，以及对 FastClaw 架构设计的经验总结。",
+      "url": "https://waytoagi.feishu.cn/wiki/XL70wlGQTiz5Spkf6HOc1imrncg"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "YC合伙人：如何利用AI打造一家自我进化的公司丨Y Combinator",
+      "summary": "YC合伙人Tom Blomfield 在这期对话中带我们揭秘公司如何把自己改造成一个会学习的系统：如果 AI 能读取公司的知识、调用工具、观察结果、改写流程，一家公司还需要像过去那样靠层级、会议和中层管理来传递信息吗？",
+      "url": "https://waytoagi.feishu.cn/wiki/YVVxwl1uji8v1pkLcCbcqLLTngg"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "Claude Code 主创复盘疯狂的一年｜对话 Boris & Cat",
+      "summary": "Claude Code 上线满一年，Boris Cherny 和 Cat Wu 以主创身份复盘了团队内部的真实工作流。他们谈论的不是某个具体功能，而是人和agent到底该怎么分工。 让我们来一起探究一下！",
+      "url": "https://waytoagi.feishu.cn/wiki/VcljwUuZciA2v0kyMRUcA5nvnob"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "Blue：想用 Codex 的 Record & Replay 替代 RPA ，简直是做梦",
+      "summary": "Codex最近更新了一个录制回放的插件：Record & Replay 。简单来说，你在电脑上先手动把一个工作流程走一遍，Codex会观察并记录你的操作，随后转成一份可复用、可迭代的Agent Skill。这个插件到底怎么用、和传统 RPA是不是一回事，这篇文章带你拆清楚。",
+      "url": "https://waytoagi.feishu.cn/wiki/SQq1wM2JAig25tkwglzc4MLRnEM"
     },
     {
       "date": "2026-06-22",
@@ -201,48 +249,6 @@
       "title": "AI-Native的5个层级：如何在30天内从Level 1走到Level 5丨Silicon Valley Girl",
       "summary": "Peter Yang 在 Reddit、Meta、Roblox 做了十年产品，现在一个人经营 14 万订阅者的 newsletter，身边只有视频剪辑和零散 contractor，没有全职团队。过去一年，他把内容生产、分发、复盘、业务判断一项项接进 Codex 和 Claude Code。产品、增长、内容团队能从这期对话里看到一条很实在的迁移路线。",
       "url": "https://waytoagi.feishu.cn/wiki/KFvbw27Y2iqcVLkKGfNce8vgncc"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "（手把手教程）别再手动整理Obsidian了！Loop Engineering我替你试过了",
-      "summary": "作者使用Loop Engineering 架构，搭建了一个可自主运转的知识库自动化循环。文中还给出了可直接套用的规则模板与简易脚本，快跟着一起实操试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/Qe4mwPsy6irYj5kU5GUcqR3XnAc"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "我把n8n最佳实践写成了 Skill，帮你实现工作流全自动开发。",
-      "summary": "很多人尝试让Agent帮忙搭n8n工作流，遇到最费劲的环节就是把目标说清楚。作者为此专门为n8n做了一个Goal生成skill。使用这个 Skill，你可以轻而易举地把一个n8n工作流开发需求，转译成可直接复制的 /goal 指令，从而驱动Agent完成完整的「构建 → 验证 → 部署 → 分层测试 → 迭代」闭环。",
-      "url": "https://waytoagi.feishu.cn/wiki/QhTKwdhGNiCFSCkVA9fcSh3Hn7d"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "值得收藏的 20+ 个 Agent Skills、仓库和市场",
-      "summary": "作者整理了GitHub 上 Star 数最高的十大Agent Skill，快来看看有没有适合你的Skill。",
-      "url": "https://waytoagi.feishu.cn/wiki/BLpDwvdheiDduqkXf26cHYYjnqg"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "Claude Code：如何能构建主动式Agent工作流？丨Claude",
-      "summary": "这篇播客拆解了Anthropic 推出的Claude Code全新Routines主动智能体能力，打破 AI 工具仅能被动等待指令的局限，依托托管后台实现定时、代码库事件、Webhook 多类触发自动执行任务。仅需四组基础配置即可搭建自动化流程，所有运行会话全程可视化，支持中途暂停、调整方向，还能设置Agent互审降低失误。如果你是工程师或者产品负责人，也可以借鉴这套思路把重复流程转化为团队可复用的自动化机制。",
-      "url": "https://waytoagi.feishu.cn/wiki/DbUPwNPvwiC9NRk0oXbcmynangb"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "Business Insider：揭秘 Cursor 的疯狂崛起",
-      "summary": "宝玉这篇文章完整拆解了AI编程工具Cursor的崛起与危机：天才创始人打造出年收入数十亿、覆盖多数五百强的爆款产品，却因深度依赖Anthropic，在对方推出同类竞品后遭遇生存冲击。公司紧急自研Composer模型降低外部钳制，又为补足算力绑定SpaceX，曝光价值600亿美金潜在收购协议。让我们一起来看看这背后有什么内幕？",
-      "url": "https://waytoagi.feishu.cn/wiki/VvTvwPIySi5G63kovRTckMWancg"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "Agent可算开始明码接单了，但我发现最难的不是标价",
-      "summary": "不少AI Agent只停留在演示层面，落地接单、合规验收始终无解。卡尔深度拆解了赏金平台ClawHunt，它打造 AI 赏金任务市场，通过标准化交付清单、指定验收脚本、划定输入输出等规则，建立完整核验体系，从而解决成果难复现、效果难校验的难题。平台虽然还尚未成熟，但是已经完整串联了任务发布、竞标、验收全链路，给想做 AI 接单、自动化交付的开发者提供了一套标准化核验思路。",
-      "url": "https://waytoagi.feishu.cn/wiki/XeJsw8O2Hif3PRkjuZ5cgZ3YnCe"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "AI Agent & Skill 测评方案及落地实践",
-      "summary": "AI Agent 想要落地生产，标准化测评是绕不开的关键环节。本文介绍了 TEG云架构平台部 网关测试团队 在 AI Agent 测评领域的体系化实践，面对 Agent 非确定性、黑盒化、错误级联放大三大难题，建立了一套 \"确定性评分器 + Rubric 评分器 + 人工评分器\"三类组合的完整测评框架 ，覆盖功能正确性、过程质量、效率成本、鲁棒性安全、体验对齐五大维度，并已在 TPerf 性能平台智能分析 Agent 项目中落地验证。",
-      "url": "https://waytoagi.feishu.cn/wiki/V82Ow7Nk9iMcWMkTTKQcAVoRn9b"
     }
   ],
   "warning": null,
