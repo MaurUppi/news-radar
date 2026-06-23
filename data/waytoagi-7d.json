@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-06-23T05:47:20.470502Z",
+  "generated_at": "2026-06-23T09:36:05.104330Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-23",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
+    {
+      "date": "2026-06-23",
+      "title": "刚接触 Codex？10 大必备 Skill 一篇看懂怎么选、怎么用",
+      "summary": "如果你刚接触 Codex，但已经看到很多人在说Skill，这篇可以先帮你把框架搭起来。那么Skill 到底是什么？哪些值得先看？以及你该怎么跟 Codex 提需求，才能让它更稳定地帮你干活？如果你已经用过一段时间，也可以把它当作一份工具清单，看看有没有值得补上的能力。",
+      "url": "https://waytoagi.feishu.cn/wiki/E0U6woMRDivMm5kDx3EcFErHnSd"
+    },
     {
       "date": "2026-06-23",
       "title": "云舒：为了盯住5个在干活的Claude Code，我在桌子上装了排红绿灯",
@@ -20,8 +26,14 @@
       "url": "https://waytoagi.feishu.cn/wiki/TaalwUxMyiU0uokVjKfcEIGgnWc"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-06-23",
+      "title": "刚接触 Codex？10 大必备 Skill 一篇看懂怎么选、怎么用",
+      "summary": "如果你刚接触 Codex，但已经看到很多人在说Skill，这篇可以先帮你把框架搭起来。那么Skill 到底是什么？哪些值得先看？以及你该怎么跟 Codex 提需求，才能让它更稳定地帮你干活？如果你已经用过一段时间，也可以把它当作一份工具清单，看看有没有值得补上的能力。",
+      "url": "https://waytoagi.feishu.cn/wiki/E0U6woMRDivMm5kDx3EcFErHnSd"
+    },
     {
       "date": "2026-06-23",
       "title": "云舒：为了盯住5个在干活的Claude Code，我在桌子上装了排红绿灯",
