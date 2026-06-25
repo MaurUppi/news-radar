@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T16:22:29.345638Z",
+  "generated_at": "2026-06-25T18:31:52.227260Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-25",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-06-25",
@@ -18,9 +18,15 @@
       "title": "一文超详细讲透GitHub：注册，双重认证，搜索，建仓库，issue，本地git，部署，fork，star，pull，push",
       "summary": "这是一篇GitHub的奶爸级别教学。如果你是 AI 编程爱好者，本文对你帮助是极大的。包括：怎么注册，搜索，使用 GitHub、了解 GitHub 详细功能点、如何提交和备份 GitHub 项目。",
       "url": "https://waytoagi.feishu.cn/wiki/FaiswBIzaiYkOHk0AEJctvHRnOb"
+    },
+    {
+      "date": "2026-06-25",
+      "title": "AI Agent时代，PM更要搞清楚客户到底要什么丨UserTesting",
+      "summary": "AI大幅降低开发门槛后，很多团队盲目落地积压的需求，结果徒增维护与运营成本，Token消耗沦为无效指标。产品运营和 AI 策略顾问 Katie Robly在这期对话中重新划分了PM、设计、工程师的协作边界，同时提出核心思路：AI适合承接整理反馈、生成原型等重复性战术工作，人们应该聚焦客户调研、战略取舍等决策环节，初级产品经理尤其要手动核验AI输出、夯实判断力，前置客户需求调研再启动开发。",
+      "url": "https://waytoagi.feishu.cn/wiki/MT58w1F3giRWDnkujc6cQlQrnhe"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 34,
   "updates_7d": [
     {
       "date": "2026-06-25",
@@ -33,6 +39,12 @@
       "title": "一文超详细讲透GitHub：注册，双重认证，搜索，建仓库，issue，本地git，部署，fork，star，pull，push",
       "summary": "这是一篇GitHub的奶爸级别教学。如果你是 AI 编程爱好者，本文对你帮助是极大的。包括：怎么注册，搜索，使用 GitHub、了解 GitHub 详细功能点、如何提交和备份 GitHub 项目。",
       "url": "https://waytoagi.feishu.cn/wiki/FaiswBIzaiYkOHk0AEJctvHRnOb"
+    },
+    {
+      "date": "2026-06-25",
+      "title": "AI Agent时代，PM更要搞清楚客户到底要什么丨UserTesting",
+      "summary": "AI大幅降低开发门槛后，很多团队盲目落地积压的需求，结果徒增维护与运营成本，Token消耗沦为无效指标。产品运营和 AI 策略顾问 Katie Robly在这期对话中重新划分了PM、设计、工程师的协作边界，同时提出核心思路：AI适合承接整理反馈、生成原型等重复性战术工作，人们应该聚焦客户调研、战略取舍等决策环节，初级产品经理尤其要手动核验AI输出、夯实判断力，前置客户需求调研再启动开发。",
+      "url": "https://waytoagi.feishu.cn/wiki/MT58w1F3giRWDnkujc6cQlQrnhe"
     },
     {
       "date": "2026-06-24",
