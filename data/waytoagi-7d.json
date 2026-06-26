@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T17:46:06.354247Z",
+  "generated_at": "2026-06-26T19:44:56.062422Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-26",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-06-26",
@@ -27,12 +27,18 @@
     },
     {
       "date": "2026-06-26",
+      "title": "大多数用户不知道的 27 个 Claude 隐藏功能、设置与快捷操作",
+      "summary": "绝大多数开发者只把Claude Code当作简单编程工具，给出指令就直接采纳输出结果，白白浪费绝大多数核心能力。文中整理了27个实操方法，按入门、进阶、高阶分层拆解，能够大幅提高代码开发、项目改造的整体产出效率。",
+      "url": "https://waytoagi.feishu.cn/wiki/V0RswQDoYi0HlOkUNVBcszZXn8d"
+    },
+    {
+      "date": "2026-06-26",
       "title": "a16z合伙人：AI将如何重塑消费互联网？丨a16z",
       "summary": "a16z合伙人 osh Elman 在这期对话中拆解了下一代消费互联网产品的破局逻辑。想要抢占市场，产品需要重构线上线下生活场景、读懂用户多设备的上下文，打造无法替代的使用体验。你会看到用户为什么留下来，分发从哪里来以及产品怎么进入人的日常生活。",
       "url": "https://waytoagi.feishu.cn/wiki/NQ4OwsiNoirIl3kzpxrcJnzNnP8"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 34,
   "updates_7d": [
     {
       "date": "2026-06-26",
@@ -51,6 +57,12 @@
       "title": "我充值了豆包专业版后，拿它干了这十件事",
       "summary": "豆包付费专业版来了，底层模型升级，面向普通用户的办公入口、专业技能和深度任务也开始补齐。小歪为了测得更充分一点，这次买的是“加强”档， 办公任务、浏览器操作、PPT、表格、可视化、短剧创作、日报、热点抓取、定时提醒 等多种场景全都测试了一遍，快来看看效果如何！",
       "url": "https://waytoagi.feishu.cn/wiki/Cuplwdmy9i9jqJkfXVOcg5nnnMb"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "大多数用户不知道的 27 个 Claude 隐藏功能、设置与快捷操作",
+      "summary": "绝大多数开发者只把Claude Code当作简单编程工具，给出指令就直接采纳输出结果，白白浪费绝大多数核心能力。文中整理了27个实操方法，按入门、进阶、高阶分层拆解，能够大幅提高代码开发、项目改造的整体产出效率。",
+      "url": "https://waytoagi.feishu.cn/wiki/V0RswQDoYi0HlOkUNVBcszZXn8d"
     },
     {
       "date": "2026-06-26",
