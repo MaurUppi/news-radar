@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T13:18:31.492178Z",
+  "generated_at": "2026-07-01T16:04:31.246161Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -44,7 +44,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/Dnj1wlROriI9vPkIguYcV43qnQh"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 28,
   "updates_7d": [
     {
       "date": "2026-06-30",
@@ -213,30 +213,6 @@
       "title": "a16z合伙人：AI将如何重塑消费互联网？丨a16z",
       "summary": "a16z合伙人 osh Elman 在这期对话中拆解了下一代消费互联网产品的破局逻辑。想要抢占市场，产品需要重构线上线下生活场景、读懂用户多设备的上下文，打造无法替代的使用体验。你会看到用户为什么留下来，分发从哪里来以及产品怎么进入人的日常生活。",
       "url": "https://waytoagi.feishu.cn/wiki/NQ4OwsiNoirIl3kzpxrcJnzNnP8"
-    },
-    {
-      "date": "2026-06-25",
-      "title": "实测 Seed 2.1 Pro：从零到一，开源一个大学生就业补贴的公益网站",
-      "summary": "火山方舟上线Seed 2.1 Pro，多项Agent、代码、多模态基准成绩位居前列，兼容主流开发工具且调用成本远低于海外模型。作者用它做了一个毕业生就业补贴公益项目，自主完成全网信息抓取、OCR识别、数据核验质检、开源仓库搭建与检索网站开发。整套项目完成成本仅为同类海外模型的几十分之一，快来看看效果如何。",
-      "url": "https://waytoagi.feishu.cn/wiki/GzFUw0WbLiUSkhkTWwicBYQkn9b"
-    },
-    {
-      "date": "2026-06-25",
-      "title": "一文超详细讲透GitHub：注册，双重认证，搜索，建仓库，issue，本地git，部署，fork，star，pull，push",
-      "summary": "这是一篇GitHub的奶爸级别教学。如果你是 AI 编程爱好者，本文对你帮助是极大的。包括：怎么注册，搜索，使用 GitHub、了解 GitHub 详细功能点、如何提交和备份 GitHub 项目。",
-      "url": "https://waytoagi.feishu.cn/wiki/FaiswBIzaiYkOHk0AEJctvHRnOb"
-    },
-    {
-      "date": "2026-06-25",
-      "title": "Loop Engineering从 0 到 1 小白完整教程",
-      "summary": "以前用 AI，最重要的是 Prompt Engineering。也就是你怎么问，AI 才能答得更好。但现在Loop Engineering 解决的是另一个问题： 怎么让 AI 按步骤持续工作，并且自己检查结果。这篇文章是针对小白从0到1的完整教程以及避坑指南。",
-      "url": "https://waytoagi.feishu.cn/wiki/LlzVwt5SjiHjHOk90vecxUL2nah"
-    },
-    {
-      "date": "2026-06-25",
-      "title": "AI Agent时代，PM更要搞清楚客户到底要什么丨UserTesting",
-      "summary": "AI大幅降低开发门槛后，很多团队盲目落地积压的需求，结果徒增维护与运营成本，Token消耗沦为无效指标。产品运营和 AI 策略顾问 Katie Robly在这期对话中重新划分了PM、设计、工程师的协作边界，同时提出核心思路：AI适合承接整理反馈、生成原型等重复性战术工作，人们应该聚焦客户调研、战略取舍等决策环节，初级产品经理尤其要手动核验AI输出、夯实判断力，前置客户需求调研再启动开发。",
-      "url": "https://waytoagi.feishu.cn/wiki/MT58w1F3giRWDnkujc6cQlQrnhe"
     }
   ],
   "warning": null,
