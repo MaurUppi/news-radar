@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T17:03:10.857567Z",
+  "generated_at": "2026-07-04T18:31:12.136086Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-04",
-  "count_today": 4,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-07-04",
@@ -15,8 +15,20 @@
     },
     {
       "date": "2026-07-04",
+      "title": "来自前OpenAI&DeepMind研究员的独家分享：AI 时代的职业建议",
+      "summary": "曾任职于OpenAI、Google等多家头部AI企业的作者结合大厂求职与创业经历，给出了智能体时代专属职业成长路线。文章中围绕稀缺资源投入、问题发掘、选择高难度赛道、打磨落地细节、平衡机会与转化、低成本入局研究六大维度分享了实操思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/WiHfwocodiRYEok2CulcdoYOnDb"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "如何从零构建自己的 LLM：GPT 与 Claude 背后的五阶段全流程",
+      "summary": "大多数人每天都在使用ChatGPT和Claude，却完全不知道它们究竟是怎么构建出来的。只有一小部分人理解那个精确的流程：它如何把原始互联网文本变成一个能够写作、推理和编程的模型。一旦理解这个流程，你也能从零构建自己的 LLM。",
+      "url": "https://waytoagi.feishu.cn/wiki/E8OwwJZaGiTOjRk6wZ7c0H0jn9b"
+    },
+    {
+      "date": "2026-07-04",
       "title": "前微软x字节工程师转型独立开发：大厂那套方法论，出来后反而没用",
-      "summary": "未来硅世界第18期邀请到了前微软、字节资深工程师分享了很多可直接落地的独立开发经验。不仅给出Claude Code与Codex互补互审的高效工作流，还顺带分享了自建的低成本 VPS 服务、高效信息筛选路线。",
+      "summary": "未来硅世界第18期邀请到了前微软、字节资深工程师分享了很多可直接落地的独立开发经验。这次直播不仅给出Claude Code与Codex互补互审的高效工作流，还顺带分享了低成本 VPS 服务、高效信息筛选路线。",
       "url": "https://waytoagi.feishu.cn/wiki/Dhukw8QV4iQUgDkEgSFcofsinfc"
     },
     {
@@ -32,7 +44,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/GlDvwYykbi3AD9kAxsJcT4Q7nCe"
     }
   ],
-  "count_7d": 29,
+  "count_7d": 31,
   "updates_7d": [
     {
       "date": "2026-07-04",
@@ -42,8 +54,20 @@
     },
     {
       "date": "2026-07-04",
+      "title": "来自前OpenAI&DeepMind研究员的独家分享：AI 时代的职业建议",
+      "summary": "曾任职于OpenAI、Google等多家头部AI企业的作者结合大厂求职与创业经历，给出了智能体时代专属职业成长路线。文章中围绕稀缺资源投入、问题发掘、选择高难度赛道、打磨落地细节、平衡机会与转化、低成本入局研究六大维度分享了实操思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/WiHfwocodiRYEok2CulcdoYOnDb"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "如何从零构建自己的 LLM：GPT 与 Claude 背后的五阶段全流程",
+      "summary": "大多数人每天都在使用ChatGPT和Claude，却完全不知道它们究竟是怎么构建出来的。只有一小部分人理解那个精确的流程：它如何把原始互联网文本变成一个能够写作、推理和编程的模型。一旦理解这个流程，你也能从零构建自己的 LLM。",
+      "url": "https://waytoagi.feishu.cn/wiki/E8OwwJZaGiTOjRk6wZ7c0H0jn9b"
+    },
+    {
+      "date": "2026-07-04",
       "title": "前微软x字节工程师转型独立开发：大厂那套方法论，出来后反而没用",
-      "summary": "未来硅世界第18期邀请到了前微软、字节资深工程师分享了很多可直接落地的独立开发经验。不仅给出Claude Code与Codex互补互审的高效工作流，还顺带分享了自建的低成本 VPS 服务、高效信息筛选路线。",
+      "summary": "未来硅世界第18期邀请到了前微软、字节资深工程师分享了很多可直接落地的独立开发经验。这次直播不仅给出Claude Code与Codex互补互审的高效工作流，还顺带分享了低成本 VPS 服务、高效信息筛选路线。",
       "url": "https://waytoagi.feishu.cn/wiki/Dhukw8QV4iQUgDkEgSFcofsinfc"
     },
     {
