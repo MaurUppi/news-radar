@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-07-06T17:19:55.015677Z",
+  "generated_at": "2026-07-06T19:15:03.903594Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-06",
-  "count_today": 5,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-07-06",
       "title": "未来最保值的技能不是 AI，是懂人性... 《人性操作手册》送你",
       "summary": "不知道该学什么技能？AI、编程、营销、做自媒体……学什么都怕两年后过时。知名独立创作者 Dan Koe点明读懂人性是最保值的技能。学会之后，你再学任何别的技能，威力都会跟着涨。因为不管你做产品、找工作还是搞创作，掏钱的、给机会的、给资源的，都是人。小互这篇文章做了完整拆解，一起来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/Dxq8wh3Q1iIDzRkiRoHcsC2XnCe"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "一文读懂 GPT-5.6 Sol：核心能力解读 + 用户实测汇总",
+      "summary": "GPT-5.6 Sol 是 OpenAI 在6月26日公开预览的 GPT-5.6 系列旗舰模型，定位为该系列中能力最强的一档。整理了一些用户的实测案例，快来看看效果如何！",
+      "url": "https://waytoagi.feishu.cn/wiki/KsL1wSqaQiktGwkeYDJcHuZEn4e"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "yee's AI圈内日记 | Linkloud高宁: 4个来自硅谷的增长方式",
+      "summary": "在WaytoAGI (社区) 和红杉中国联合举办的AGI Builder Camp里，邀请了来自Linkloud联创高宁老师分享。本文在还原高宁老师的讲述之外, yee以产品视角, 根据每个例子真实试用, 向下挖掘, 包含页面截图, 官方网站, 传播路径, 大家可以更加直观的感受到产品力, 也欢迎大家在yee的调研下延伸!",
+      "url": "https://waytoagi.feishu.cn/wiki/PFYGwpgWaiX5TEk5q6NcslYlnTb"
     },
     {
       "date": "2026-07-06",
@@ -38,13 +50,25 @@
       "url": "https://waytoagi.feishu.cn/wiki/Xrkqwwwp4iXDGak0ZA0cI0CNnS7"
     }
   ],
-  "count_7d": 31,
+  "count_7d": 33,
   "updates_7d": [
     {
       "date": "2026-07-06",
       "title": "未来最保值的技能不是 AI，是懂人性... 《人性操作手册》送你",
       "summary": "不知道该学什么技能？AI、编程、营销、做自媒体……学什么都怕两年后过时。知名独立创作者 Dan Koe点明读懂人性是最保值的技能。学会之后，你再学任何别的技能，威力都会跟着涨。因为不管你做产品、找工作还是搞创作，掏钱的、给机会的、给资源的，都是人。小互这篇文章做了完整拆解，一起来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/Dxq8wh3Q1iIDzRkiRoHcsC2XnCe"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "一文读懂 GPT-5.6 Sol：核心能力解读 + 用户实测汇总",
+      "summary": "GPT-5.6 Sol 是 OpenAI 在6月26日公开预览的 GPT-5.6 系列旗舰模型，定位为该系列中能力最强的一档。整理了一些用户的实测案例，快来看看效果如何！",
+      "url": "https://waytoagi.feishu.cn/wiki/KsL1wSqaQiktGwkeYDJcHuZEn4e"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "yee's AI圈内日记 | Linkloud高宁: 4个来自硅谷的增长方式",
+      "summary": "在WaytoAGI (社区) 和红杉中国联合举办的AGI Builder Camp里，邀请了来自Linkloud联创高宁老师分享。本文在还原高宁老师的讲述之外, yee以产品视角, 根据每个例子真实试用, 向下挖掘, 包含页面截图, 官方网站, 传播路径, 大家可以更加直观的感受到产品力, 也欢迎大家在yee的调研下延伸!",
+      "url": "https://waytoagi.feishu.cn/wiki/PFYGwpgWaiX5TEk5q6NcslYlnTb"
     },
     {
       "date": "2026-07-06",
