@@ -1,17 +1,47 @@
 {
-  "generated_at": "2026-07-07T13:33:18.481898Z",
+  "generated_at": "2026-07-07T16:29:05.634018Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-07",
-  "count_today": 1,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-07-07",
       "title": "甲木：开源一个排版 Skill｜彻底解决公众号排版难题（建议收藏！）",
       "summary": "排版问题怎么解决？每次发完文章之后都有很多朋友问公众号是怎么排版的，这次甲木和小李直接封装成Skill开源，兼容所有国内Agent和相关模型，希望每个人都能把自己的颜色、比例、审美偏好，生成一套专属公众号排版风格。欢迎fork、star和提issue。",
       "url": "https://waytoagi.feishu.cn/wiki/JF2GwbKLfixBPokSrOEctLq2nwc"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "又一个神级 Skill，开源了！",
+      "summary": "BrowserAct 近期在 AI Agent 圈子彻底爆火。作者这篇文章拆解了它的核心亮点以及安装步骤。如果你也想让Agent真正跑进真实网页，而不是只停留在在一个干净的 demo页，可以用这个Skill跑一下试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/EDYDwC3D9i4lyRkXu1HcXyUCnEg"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "从零开始玩转循环 (Getting started with loops)【译】",
+      "summary": "Claude官方发布了一篇关于循环工程的文章，将带你了解几种主要的循环类型、适用场景，以及如何在控制token消耗的同时，保证产出的代码质量。并不是所有任务都需要复杂的循环；建议从最简单的方案开始上手，然后根据实际情况灵活挑选这些模式。",
+      "url": "https://waytoagi.feishu.cn/wiki/BRcQwBecviqBo9kMa6mc81DFnag"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Seedance TK视频「真人感」问题的 9 个解法",
+      "summary": "AI 视频「没有真人感」的问题，根本原因不在于模型，用最强的 Seedance 2.0 跑出来的假人比比皆是，而是要在提示词里有没有写「不完美」。饼干哥哥把这套「写不完美」的方法拆成了八个维度，每一个都配了能直接抄的提示词公式。快上手试试效果！",
+      "url": "https://waytoagi.feishu.cn/wiki/P1hjw71FuiQIs1kDfnZc2YUJnad"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "AI Agent 就是新一代 SaaS丨Greg Isenberg",
+      "summary": "Greg Isenberg 在这期 Startup Ideas Podcast 里，把 Agent SaaS 讲得很直白：过去 SaaS 公司卖一套软件，让团队自己进去点按钮；现在 Agent 产品要卖掉的是一份原本由人完成的工作。餐厅接电话、维修公司排工单、客服处理退款、物业分派供应商，原来都是工资、外包或低效协作成本。Greg 的判断很适合今天还在想 AI 产品方向的人：先别急着做一个很大的平台，先找到一个每天重复、老板愿意付钱、结果能验收的小工作。",
+      "url": "https://waytoagi.feishu.cn/wiki/LTYuwqbBFiSfhkkzIomcoqKCnFe"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "340家初创公司、近2万参会者，日本AI创业现场到底什么样？",
+      "summary": "前几天，我们在京都参加了 IVS 2026。这次活动非常热闹，7月1日-3日共3天时间里，一共来了13,000多人，这里面有非常多创业者、开发者、投资人和企业家。今年我们是第一次以参展商的身份来到 IVS，还组了现场逛展群，邀请熟悉当地市场的开发者带大家逛，并且在会后整理了非常丰富的日本AI市场信息。一起来看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/G3yrwoRaii2p68kAHYJcy6sinEg"
     }
   ],
   "count_7d": 34,
@@ -21,6 +51,36 @@
       "title": "甲木：开源一个排版 Skill｜彻底解决公众号排版难题（建议收藏！）",
       "summary": "排版问题怎么解决？每次发完文章之后都有很多朋友问公众号是怎么排版的，这次甲木和小李直接封装成Skill开源，兼容所有国内Agent和相关模型，希望每个人都能把自己的颜色、比例、审美偏好，生成一套专属公众号排版风格。欢迎fork、star和提issue。",
       "url": "https://waytoagi.feishu.cn/wiki/JF2GwbKLfixBPokSrOEctLq2nwc"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "又一个神级 Skill，开源了！",
+      "summary": "BrowserAct 近期在 AI Agent 圈子彻底爆火。作者这篇文章拆解了它的核心亮点以及安装步骤。如果你也想让Agent真正跑进真实网页，而不是只停留在在一个干净的 demo页，可以用这个Skill跑一下试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/EDYDwC3D9i4lyRkXu1HcXyUCnEg"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "从零开始玩转循环 (Getting started with loops)【译】",
+      "summary": "Claude官方发布了一篇关于循环工程的文章，将带你了解几种主要的循环类型、适用场景，以及如何在控制token消耗的同时，保证产出的代码质量。并不是所有任务都需要复杂的循环；建议从最简单的方案开始上手，然后根据实际情况灵活挑选这些模式。",
+      "url": "https://waytoagi.feishu.cn/wiki/BRcQwBecviqBo9kMa6mc81DFnag"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Seedance TK视频「真人感」问题的 9 个解法",
+      "summary": "AI 视频「没有真人感」的问题，根本原因不在于模型，用最强的 Seedance 2.0 跑出来的假人比比皆是，而是要在提示词里有没有写「不完美」。饼干哥哥把这套「写不完美」的方法拆成了八个维度，每一个都配了能直接抄的提示词公式。快上手试试效果！",
+      "url": "https://waytoagi.feishu.cn/wiki/P1hjw71FuiQIs1kDfnZc2YUJnad"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "AI Agent 就是新一代 SaaS丨Greg Isenberg",
+      "summary": "Greg Isenberg 在这期 Startup Ideas Podcast 里，把 Agent SaaS 讲得很直白：过去 SaaS 公司卖一套软件，让团队自己进去点按钮；现在 Agent 产品要卖掉的是一份原本由人完成的工作。餐厅接电话、维修公司排工单、客服处理退款、物业分派供应商，原来都是工资、外包或低效协作成本。Greg 的判断很适合今天还在想 AI 产品方向的人：先别急着做一个很大的平台，先找到一个每天重复、老板愿意付钱、结果能验收的小工作。",
+      "url": "https://waytoagi.feishu.cn/wiki/LTYuwqbBFiSfhkkzIomcoqKCnFe"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "340家初创公司、近2万参会者，日本AI创业现场到底什么样？",
+      "summary": "前几天，我们在京都参加了 IVS 2026。这次活动非常热闹，7月1日-3日共3天时间里，一共来了13,000多人，这里面有非常多创业者、开发者、投资人和企业家。今年我们是第一次以参展商的身份来到 IVS，还组了现场逛展群，邀请熟悉当地市场的开发者带大家逛，并且在会后整理了非常丰富的日本AI市场信息。一起来看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/G3yrwoRaii2p68kAHYJcy6sinEg"
     },
     {
       "date": "2026-07-06",
@@ -189,36 +249,6 @@
       "title": "Agentic Engineering 概念（上）：Agent 的底层逻辑",
       "summary": "如果你现在正在学 Agent 开发，我知道那种迷茫感。每周都有新工具、新框架、新模型、新发布，过一段时间之后，你根本搞不清到底该学什么。学工具？学框架？等下一个更好的？读完这篇文章之后，你会用简单的语言理解 agentic engineering 概念。下次你再读到 Agent 文章、看演示、或者看到 AI 新闻时，你能认识背后的原理。",
       "url": "https://waytoagi.feishu.cn/wiki/BkDewsKX4ixDUFkAxuBczEHDnzA"
-    },
-    {
-      "date": "2026-07-01",
-      "title": "每位 AI 工程师都应该知道的 20 个循环设计模式",
-      "summary": "不少AI工程师只会搭建基础智能体，却做不出可以自我迭代优化的成熟系统。文中汇总了20个经过验证的循环设计范式，可以直接收藏复用。",
-      "url": "https://waytoagi.feishu.cn/wiki/FdlswY1Yyi3cdHkeUBqcr8Nvnrg"
-    },
-    {
-      "date": "2026-07-01",
-      "title": "好用的 Agent Skill 到底怎么构建？丨AI Engineer",
-      "summary": "如果你最近用过 Codex、Claude Code，或者在团队里写过 AGENTS.md，大概已经碰到过一个新问题：给 Agent 的规则越来越多，效果却不一定越来越好。AI Engineer 这场演讲讲的就是这件事。",
-      "url": "https://waytoagi.feishu.cn/wiki/WkU2wJibCinCiekNCHgcBAVrnRd"
-    },
-    {
-      "date": "2026-07-01",
-      "title": "goal-loop 想需求 · 写计划 · 跑 Loop: 一个让AI自动化交付的技能",
-      "summary": "作者开源了一个叫goal-loop的Skill，可以让没有任何编程基础的小白也能搭建标准化的编码流程。它不会替代你思考，只是把 \"想（需求）、写（需求规格与计划文档）、跑（ Loop 自动化循环构建 ）\" 做成完整的工作流。",
-      "url": "https://waytoagi.feishu.cn/wiki/XZrCwJOubiL16bkwLhucjIO0nRe"
-    },
-    {
-      "date": "2026-07-01",
-      "title": "Product Hunt 全网最全使用指南：从入门到榨干",
-      "summary": "Product Hunt 是一个海外新产品集中亮相的地方：AI 工具、SaaS、浏览器插件、开源项目每天上新，用户现场投票、提问、挑刺。读完这篇，你会知道第一次打开该点哪里，看到一个产品怎么判断靠不靠谱，评论区怎么挖真实问题；如果你也想发布产品，哪些规则和坑要先绕开。",
-      "url": "https://waytoagi.feishu.cn/wiki/To3twPcLmirrG3ky8RUcY0Kgn0d"
-    },
-    {
-      "date": "2026-07-01",
-      "title": "GitHub 高级搜索怎么用？普通人也能快速找到高质量资源（内有直接可用的高级搜索语法 建议收藏）",
-      "summary": "很多人用 GitHub 搜索，只会在搜索框里输入一个关键词。 比如：AI、Claude Code、MCP、n8n 然后就被一大堆结果淹没。但其实 GitHub 搜索比普通搜索框强很多。 这篇文章提供了很多直接可用的高级搜索语法，建议收藏！",
-      "url": "https://waytoagi.feishu.cn/wiki/L42BwI3DUiyY8KkK31Mchz3inte"
     }
   ],
   "warning": null,
