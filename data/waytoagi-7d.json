@@ -1,51 +1,75 @@
 {
-  "generated_at": "2026-07-09T14:04:21.411587Z",
+  "generated_at": "2026-07-09T17:00:53.640737Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-07-08",
-  "count_today": 6,
+  "latest_date": "2026-07-09",
+  "count_today": 5,
   "updates_today": [
     {
-      "date": "2026-07-08",
-      "title": "开源一个非常漂亮的文章配图 Skill",
-      "summary": "藏师傅这款开源绘图 Skill 可以一次性解决 AI 配图信息模糊、文字错乱、图表粗糙等高频问题。而且它还自带高级的3D 材质视觉体系，可以自动区分流程图、数据图表、教学原理图等场景；遇到小众专业概念会先检索参考素材，重构图表时会提取语义进行重绘。快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/Va6VwkPcKigf93k0pCRcJDIEnDc"
+      "date": "2026-07-09",
+      "title": "暑假给孩子做复习资料，结果 AI 自己讲上课了",
+      "summary": "家里有中小学孩子、常常要做教辅可视化的家长与老师，这套开源教学Skill可以帮到你们。输入知识点即可自动匹配年级学科，一键生成静态知识图解，覆盖文理多学科；配套动画生成工具还可以生成带配音讲解的教学短片。除此之外，其中还内置了勘误机制来修正知识漏洞，快来上手试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/XedCwFaLtiRpI0kY2cUcstXJnDe"
     },
     {
-      "date": "2026-07-08",
-      "title": "不止“生成”，更懂“设计”｜Seedream 5.0 Pro 发布",
-      "summary": "多模态 图像创作模型——Seedream 5.0 Pro今天正式发布，全方位补齐了图像创作的各类短板。模型在图文匹配、结构合理性、文字渲染与画面美感等基础能力上都有全面提升，既能把密集文字、复杂数据转化为规整专业的可视化图纸，也支持圈选、图层拆分、多图融合等精细化交互式修改，同时还可以高度还原真实人像的光影肌理，一站式满足高密度图文、写实人像、多语言创作需求。",
-      "url": "https://waytoagi.feishu.cn/wiki/DnJFwO1nsits0MkDJbQcFz6AnCg"
+      "date": "2026-07-09",
+      "title": "字节Seedream5.0 Pro 更新，AI生图也变天了！60组案例硬刚GPT Image 2",
+      "summary": "Seedream5.0 Pro 发布了，作者用60多组提示词拿它跟目前最强的gpt image 2图像模型进行了对比，看看在相同的提示词下，会有什么不同的效果。都是高频常见场景，包括课程海报、公众号封面、课程卡片、电商详情页、人物海报、角色设定、国风文化海报。",
+      "url": "https://waytoagi.feishu.cn/wiki/OOmTwY9uKimtgCk7OBJcJtf9noe"
     },
     {
-      "date": "2026-07-08",
-      "title": "一文讲清楚，普通人和中小企业如何搭建AI知识库",
-      "summary": "这篇文章要解决的就是一件事： 让 AI 拿到你的上下文，开始基于你的资料干活。看完之后，你可以获得：一个最小知识库目录结构，一套从安全任务开始跑通的流程，两段可以复制的提示词，以及一个选工具的判断标准。",
-      "url": "https://waytoagi.feishu.cn/wiki/PIYFws93riYrplkQPE7ckyVzndf"
+      "date": "2026-07-09",
+      "title": "WaytoGrowth官宣！我们为所有AI品牌搭建了一个GTM系统",
+      "summary": "WaytoAGI 社区成立三年多，这中间我们见过非常多的AI创业者，也有很多惊艳的产品。很多产品达到一定阶段，最头疼的问题其实是「增长」。AI 产品要走向全球，需要一套从「品牌定位」到「市场触达」的 GTM 增长系统。WaytoAGI 孵化的新项目：WaytoGrowth，专门服务 AI 品牌和有出海需求的创新公司，让产品更容易被发现、更值得信任，并持续获得全球需求。",
+      "url": "https://waytoagi.feishu.cn/wiki/RrMqw39PviZOV1kUcfbciXexnLe"
     },
     {
-      "date": "2026-07-08",
-      "title": "Loop 是什么？怎么用？",
-      "summary": "Loop 这个东西，最近经常被提到。本文是大聪明结合Claude的文档做了详细拆解。",
-      "url": "https://waytoagi.feishu.cn/wiki/EXycwVT9tiKANAk8gNhcAkH0nkb"
+      "date": "2026-07-09",
+      "title": "OpenAI GPT-Live 语音模型全解析：边听边说，还能实时生成UI界面",
+      "summary": "OpenAI 于 2026 年7月8日发布新一代语音模型 GPT-Live，并把它作为 ChatGPT Voice 的新一代底层模型，今天起面向全球用户上线。本文是 OpenAI 官方发布博客的解读。文中的评测结果、偏好数据和安全测试结论均为 OpenAI 自评与内部测试口径，尚无第三方独立验证。",
+      "url": "https://waytoagi.feishu.cn/wiki/GN7Jw7l6tibG3Kk23mbcj0e6nTf"
     },
     {
-      "date": "2026-07-08",
-      "title": "AI音乐周刊 W.A 035",
-      "summary": "本周AI音乐周报覆盖版权博弈、大厂整合、轻量化创作工具与前沿学术论文四大核心动态。大厂正加速生态洗牌：谷歌关停实验项目，转向一站式全链路音乐平台Flow Music；音频名厂iZotope并入视觉巨头Boris FX，打造音画一体流。Suno内测移动端声音克隆并探索API，ElevenMusic推出短视频工具包。还有六篇关于歌声编辑、音乐生成、音频评估方向的学术论文带来全新研究进展！",
-      "url": "https://waytoagi.feishu.cn/wiki/BOwlwVDBViZZwmkzThzcTjSyn3d"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "AI视频入门基础——运镜（一）",
-      "summary": "作者整理了 12种运镜 + 8种转场 + 4套组合连招 + 5条心法 ，每种都配了通用模板和具体示例，可以直接套用到你自己的AI视频提示词里。",
-      "url": "https://waytoagi.feishu.cn/wiki/GeFuwtZTEi2R01k4pMccTZvknLe"
+      "date": "2026-07-09",
+      "title": "Instagram 负责人：为 AI 世界打造 Instagram丨Lenny's Podcast",
+      "summary": "Instagram负责人Mosseri在接手Instagram前，他做过 Facebook News Feed，也带过 Facebook 的排序算法团队。这期 Mosseri 聊了Instagram怎么处理AI内容，AI 能写代码、拉数据、生成内容、解释推荐系统以后，人还负责什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/QeD7wYamtiqgStkbI02cTq8PnUe"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-07-09",
+      "title": "暑假给孩子做复习资料，结果 AI 自己讲上课了",
+      "summary": "家里有中小学孩子、常常要做教辅可视化的家长与老师，这套开源教学Skill可以帮到你们。输入知识点即可自动匹配年级学科，一键生成静态知识图解，覆盖文理多学科；配套动画生成工具还可以生成带配音讲解的教学短片。除此之外，其中还内置了勘误机制来修正知识漏洞，快来上手试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/XedCwFaLtiRpI0kY2cUcstXJnDe"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "字节Seedream5.0 Pro 更新，AI生图也变天了！60组案例硬刚GPT Image 2",
+      "summary": "Seedream5.0 Pro 发布了，作者用60多组提示词拿它跟目前最强的gpt image 2图像模型进行了对比，看看在相同的提示词下，会有什么不同的效果。都是高频常见场景，包括课程海报、公众号封面、课程卡片、电商详情页、人物海报、角色设定、国风文化海报。",
+      "url": "https://waytoagi.feishu.cn/wiki/OOmTwY9uKimtgCk7OBJcJtf9noe"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "WaytoGrowth官宣！我们为所有AI品牌搭建了一个GTM系统",
+      "summary": "WaytoAGI 社区成立三年多，这中间我们见过非常多的AI创业者，也有很多惊艳的产品。很多产品达到一定阶段，最头疼的问题其实是「增长」。AI 产品要走向全球，需要一套从「品牌定位」到「市场触达」的 GTM 增长系统。WaytoAGI 孵化的新项目：WaytoGrowth，专门服务 AI 品牌和有出海需求的创新公司，让产品更容易被发现、更值得信任，并持续获得全球需求。",
+      "url": "https://waytoagi.feishu.cn/wiki/RrMqw39PviZOV1kUcfbciXexnLe"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "OpenAI GPT-Live 语音模型全解析：边听边说，还能实时生成UI界面",
+      "summary": "OpenAI 于 2026 年7月8日发布新一代语音模型 GPT-Live，并把它作为 ChatGPT Voice 的新一代底层模型，今天起面向全球用户上线。本文是 OpenAI 官方发布博客的解读。文中的评测结果、偏好数据和安全测试结论均为 OpenAI 自评与内部测试口径，尚无第三方独立验证。",
+      "url": "https://waytoagi.feishu.cn/wiki/GN7Jw7l6tibG3Kk23mbcj0e6nTf"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Instagram 负责人：为 AI 世界打造 Instagram丨Lenny's Podcast",
+      "summary": "Instagram负责人Mosseri在接手Instagram前，他做过 Facebook News Feed，也带过 Facebook 的排序算法团队。这期 Mosseri 聊了Instagram怎么处理AI内容，AI 能写代码、拉数据、生成内容、解释推荐系统以后，人还负责什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/QeD7wYamtiqgStkbI02cTq8PnUe"
+    },
     {
       "date": "2026-07-08",
       "title": "开源一个非常漂亮的文章配图 Skill",
@@ -231,30 +255,6 @@
       "title": "Richard Socher：为什么你现在需要重新思考你的职业生涯丨Silicon Valley Girl",
       "summary": "很多人最近的焦虑很具体：代码已经能让 Agent 写，图片已经能用模型生成，会议纪要、客服、搜索、调研都在被自动化。下一个被重写的，会不会就是自己的岗位？Richard Socher 在这期里给了一个很硬的判断：问题不能只看 AI 能不能做你的任务，还要看这个任务变便宜后，市场到底需要多少。",
       "url": "https://waytoagi.feishu.cn/wiki/GlDvwYykbi3AD9kAxsJcT4Q7nCe"
-    },
-    {
-      "date": "2026-07-03",
-      "title": "非设计背景，如何用Codex做高级感网站？",
-      "summary": "想靠Codex打造有个人表达、摆脱流水线AI质感的个人站点，作者这套实操思路或许可以对你有所帮助！文中整理了多类优质设计参考渠道与提取网页风格的工具，搭配一系列插件可以精准把控视觉调性。同时还给出了页面迭代、素材生成、画布对比修改的完整实操方案，附带标准化提示词模板，无需专业设计功底，也能清晰界定色彩、布局、动效与避坑要求，生成富有个人特色的网页。",
-      "url": "https://waytoagi.feishu.cn/wiki/Dn3VwfswWiBKpjka3HAcKbyCnNd"
-    },
-    {
-      "date": "2026-07-03",
-      "title": "用 Codex + Remotion 实现无痛自媒体视频日更，涨粉过万：把剪视频变成维护一条生产线",
-      "summary": "作者单人运营账号，两个月时间内拿到了抖音8k多粉丝，小红书2k粉丝的结果，总结了这套用codex做视频的方法论。创作者只需要输出核心观点与调整需求。Codex 搭建标准化复用工作流，Remotion 稳定渲染成片，就可以轻松保持高频更新节奏。",
-      "url": "https://waytoagi.feishu.cn/wiki/JCgmwD87piEa8BkAUcoco5PQnQe"
-    },
-    {
-      "date": "2026-07-03",
-      "title": "Claude Code、Codex跑命令前，先复制这张安全表",
-      "summary": "如果你也习惯让Claude Code、Codex等AI编程工具自动运行陌生的开源仓库，很可能会遭遇隐蔽供应链的攻击。老金给出一套可直接复用的十条安全防护准则，可以避免AI过度自动执行带来的泄密、篡改系统风险。",
-      "url": "https://waytoagi.feishu.cn/wiki/P9RxwpP33ibtDIkxS9FcoWXAn5g"
-    },
-    {
-      "date": "2026-07-03",
-      "title": "Anthropic 工程师：他们到底怎么用 Claude 工作丨How I AI",
-      "summary": "很多团队已经把 Cursor、Claude Code、原型工具接进日常工作，可真正卡人的地方常常不在模型参数。任务还是散落在邮件、日历、Slack、文件夹和脑子里，人还在手动搬数据、反复确认权限、盯着屏幕等 AI 跑完。Anthropic 工程负责人 Felix Rieseberg 在这期对话里就拆解了他们日常到底怎么用Claude处理这种协作问题的。",
-      "url": "https://waytoagi.feishu.cn/wiki/Tp8ZwsEeiiAH6DkDjNIcW6CfnOh"
     }
   ],
   "warning": null,
