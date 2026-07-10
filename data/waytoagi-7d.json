@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-07-10T15:54:43.829657Z",
+  "generated_at": "2026-07-10T17:46:14.800370Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-10",
-  "count_today": 1,
+  "count_today": 7,
   "updates_today": [
+    {
+      "date": "2026-07-10",
+      "title": "实测GPT5.6，分享三个超实用Prompt，跟Fable5分工合作",
+      "summary": "卡尔这篇文章完整拆解了 GPT 5.6 全系列更新的亮点。而且还整理了3个高阶提示词，涵盖产品黑盒自测、项目风险审查、多模型协同编排实操方案，快来上手试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/LF1ywGTgWiuqvKkxyR2cofGNnWe"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "同事只丢一句话，怎么让 AI 帮你反问出完整需求？",
+      "summary": "如果你是产品经理、项目经理、运营，或者任何经常要把别人一句话变成可执行事项的人， 这个Skill就是写给你的 。它会帮你把这句话反问拆解成一份需求沟通清单 。",
+      "url": "https://waytoagi.feishu.cn/wiki/E1jjwSQiliCqBjkPS4wcO8dfnnc"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "YC 合伙人：如何真正了解用户的行为？丨Y Combinator",
+      "summary": "这期内容对于产品经理和创始人来说不容错过：它把“看数据”从一个汇报动作拉回到产品动作，可以知道哪个用户需要被访谈，哪个功能真的在形成习惯，哪个看似成功的渠道只带来一次性试用。",
+      "url": "https://waytoagi.feishu.cn/wiki/SKJYwntkkiJbhLkGJkbcdgQ7nUb"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Seedream 5.0 Pro 超全指南：入口、提示词、效果对比，看这篇就够了",
+      "summary": "关于Seedream 5.0 Pro，小歪做了8个维度的案例测试。而且，为了看看同一套提示词下，不同模型的效果，甚至同样都是Seedream 5.0 Pro，不同工具是不是会有差异。她把 即梦的Seedream 5.0 Pro 、 豆包的Seedream 5.0 Pro 、 GPT的Image 2 和 Gemini的Nano banana Pro 四个效果放在一起，给大家看看对比。",
+      "url": "https://waytoagi.feishu.cn/wiki/MCjWwJHDUiojlmkkjXtcymmjnKh"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Reddit 全网最全使用指南：从入门到榨干",
+      "summary": "一个完全不熟 Reddit 的人，怎么先活下来，再用它看需求、找选题、做产品调研，并避开那些一上来就会踩的规则和账号坑。这篇文章带你看懂！",
+      "url": "https://waytoagi.feishu.cn/wiki/XPvqwTA7CirrZGkvbe5cy6TEndf"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Codex 史诗级更新的最全面解析",
+      "summary": "这里是Codex史诗级更新的最全面解读，你所产生的疑问和你必须知道的最新玩法都在这里面。",
+      "url": "https://waytoagi.feishu.cn/wiki/NE4kwZWIQiqsnjkn7f0cBCNWnpM"
+    },
     {
       "date": "2026-07-10",
       "title": "AI生图总跑偏抽风？提示词注意这几个方面。",
@@ -16,6 +52,42 @@
   ],
   "count_7d": 38,
   "updates_7d": [
+    {
+      "date": "2026-07-10",
+      "title": "实测GPT5.6，分享三个超实用Prompt，跟Fable5分工合作",
+      "summary": "卡尔这篇文章完整拆解了 GPT 5.6 全系列更新的亮点。而且还整理了3个高阶提示词，涵盖产品黑盒自测、项目风险审查、多模型协同编排实操方案，快来上手试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/LF1ywGTgWiuqvKkxyR2cofGNnWe"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "同事只丢一句话，怎么让 AI 帮你反问出完整需求？",
+      "summary": "如果你是产品经理、项目经理、运营，或者任何经常要把别人一句话变成可执行事项的人， 这个Skill就是写给你的 。它会帮你把这句话反问拆解成一份需求沟通清单 。",
+      "url": "https://waytoagi.feishu.cn/wiki/E1jjwSQiliCqBjkPS4wcO8dfnnc"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "YC 合伙人：如何真正了解用户的行为？丨Y Combinator",
+      "summary": "这期内容对于产品经理和创始人来说不容错过：它把“看数据”从一个汇报动作拉回到产品动作，可以知道哪个用户需要被访谈，哪个功能真的在形成习惯，哪个看似成功的渠道只带来一次性试用。",
+      "url": "https://waytoagi.feishu.cn/wiki/SKJYwntkkiJbhLkGJkbcdgQ7nUb"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Seedream 5.0 Pro 超全指南：入口、提示词、效果对比，看这篇就够了",
+      "summary": "关于Seedream 5.0 Pro，小歪做了8个维度的案例测试。而且，为了看看同一套提示词下，不同模型的效果，甚至同样都是Seedream 5.0 Pro，不同工具是不是会有差异。她把 即梦的Seedream 5.0 Pro 、 豆包的Seedream 5.0 Pro 、 GPT的Image 2 和 Gemini的Nano banana Pro 四个效果放在一起，给大家看看对比。",
+      "url": "https://waytoagi.feishu.cn/wiki/MCjWwJHDUiojlmkkjXtcymmjnKh"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Reddit 全网最全使用指南：从入门到榨干",
+      "summary": "一个完全不熟 Reddit 的人，怎么先活下来，再用它看需求、找选题、做产品调研，并避开那些一上来就会踩的规则和账号坑。这篇文章带你看懂！",
+      "url": "https://waytoagi.feishu.cn/wiki/XPvqwTA7CirrZGkvbe5cy6TEndf"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Codex 史诗级更新的最全面解析",
+      "summary": "这里是Codex史诗级更新的最全面解读，你所产生的疑问和你必须知道的最新玩法都在这里面。",
+      "url": "https://waytoagi.feishu.cn/wiki/NE4kwZWIQiqsnjkn7f0cBCNWnpM"
+    },
     {
       "date": "2026-07-10",
       "title": "AI生图总跑偏抽风？提示词注意这几个方面。",
@@ -207,42 +279,6 @@
       "title": "5.2K Star！Meta 开源了其内部使用 8 年的设计系统，已支撑了超1.3万个应用！",
       "summary": "正在做前端开发、依赖AI编程工具的开发者，不容错过这款开源工具。Meta 把自家用了整整8年的设计系统Astryx 给开源了。它支撑过 Facebook、Instagram、Threads 等超过13000个应用的界面开发，见过各种复杂场景，踩过无数坑，然后被一点点打磨到现在这个状态。快来试试！",
       "url": "https://waytoagi.feishu.cn/wiki/HSaQwfQyTiktFtkOzFgcGQwAnZc"
-    },
-    {
-      "date": "2026-07-04",
-      "title": "烧了10亿Token，我做了一个Markdown编辑器，开源免费",
-      "summary": "AI时代，Markdown已经成为AI的第一语言。但是各类Markdown工具要么收费、要么存在云端泄露数据等等问题。冷逸做了一个Markdown编辑器，开源免费，快来上手体验一下！",
-      "url": "https://waytoagi.feishu.cn/wiki/Pk5OwgvSWitjg8ksPsScoMern5c"
-    },
-    {
-      "date": "2026-07-04",
-      "title": "来自前OpenAI&DeepMind研究员的独家分享：AI 时代的职业建议",
-      "summary": "曾任职于OpenAI、Google等多家头部AI企业的作者结合大厂求职与创业经历，给出了智能体时代专属职业成长路线。文章中围绕稀缺资源投入、问题发掘、选择高难度赛道、打磨落地细节、平衡机会与转化、低成本入局研究六大维度分享了实操思路。",
-      "url": "https://waytoagi.feishu.cn/wiki/WiHfwocodiRYEok2CulcdoYOnDb"
-    },
-    {
-      "date": "2026-07-04",
-      "title": "如何从零构建自己的 LLM：GPT 与 Claude 背后的五阶段全流程",
-      "summary": "大多数人每天都在使用ChatGPT和Claude，却完全不知道它们究竟是怎么构建出来的。只有一小部分人理解那个精确的流程：它如何把原始互联网文本变成一个能够写作、推理和编程的模型。一旦理解这个流程，你也能从零构建自己的 LLM。",
-      "url": "https://waytoagi.feishu.cn/wiki/E8OwwJZaGiTOjRk6wZ7c0H0jn9b"
-    },
-    {
-      "date": "2026-07-04",
-      "title": "前微软x字节工程师转型独立开发：大厂那套方法论，出来后反而没用",
-      "summary": "未来硅世界第18期邀请到了前微软、字节资深工程师分享了很多可直接落地的独立开发经验。这次直播不仅给出Claude Code与Codex互补互审的高效工作流，还顺带分享了低成本 VPS 服务、高效信息筛选路线。",
-      "url": "https://waytoagi.feishu.cn/wiki/Dhukw8QV4iQUgDkEgSFcofsinfc"
-    },
-    {
-      "date": "2026-07-04",
-      "title": "从模型到工作流：2026 上半年图片与视频模型盘点。",
-      "summary": "一转眼2026年已经进入下半年，阿真这篇文章盘点了2026 年上半年的图片与视频模型，伴随模型更新时间轴出现的，还有一些当时的测试文章。一起来回顾下！",
-      "url": "https://waytoagi.feishu.cn/wiki/WDCfwZHZeiahlNkJNVQcLKa0nJd"
-    },
-    {
-      "date": "2026-07-04",
-      "title": "Richard Socher：为什么你现在需要重新思考你的职业生涯丨Silicon Valley Girl",
-      "summary": "很多人最近的焦虑很具体：代码已经能让 Agent 写，图片已经能用模型生成，会议纪要、客服、搜索、调研都在被自动化。下一个被重写的，会不会就是自己的岗位？Richard Socher 在这期里给了一个很硬的判断：问题不能只看 AI 能不能做你的任务，还要看这个任务变便宜后，市场到底需要多少。",
-      "url": "https://waytoagi.feishu.cn/wiki/GlDvwYykbi3AD9kAxsJcT4Q7nCe"
     }
   ],
   "warning": null,
