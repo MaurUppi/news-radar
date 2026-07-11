@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-07-11T16:28:40.456862Z",
+  "generated_at": "2026-07-11T17:32:02.302822Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-11",
-  "count_today": 1,
+  "count_today": 4,
   "updates_today": [
+    {
+      "date": "2026-07-11",
+      "title": "原点编剧系统：让电影、连续剧与微短剧，从灵感走到剧本",
+      "summary": "被零散灵感困住、难以落地完整剧本的编剧与内容创作者，快来试试猫叔的原点编剧系统（Plotcat）。它适配电影、长剧集、微短剧三类创作逻辑，打通了从单句创意到完整分场剧本的全流程。除了可以梳理故事内核、立体塑造人物、可视化管理故事结构与人物关系，还按需发散剧情、拆解节奏钩子，始终以创作者判断为主。数据本地存储可以保障素材隐私，兼容主流大模型，简单几步即可部署，新手也能用它高效搭建完整故事体系。",
+      "url": "https://waytoagi.feishu.cn/wiki/BPH4wXVvdikG1DkbNMNcIgcfnEe"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "一文看懂ChatGPT、Codex、Work 的差别",
+      "summary": "最近Codex合并到了ChatGPT应用里，还推出了一个ChatGPT Work模式。这让很多人搞不清楚 ChatGPT、Work、Codex 到底有什么区别，也不知道它们的额度是独立的还是共享的。宝玉这篇文章就带着大家详细拆解下！",
+      "url": "https://waytoagi.feishu.cn/wiki/XgVHwCA1MiF6XskJ41Scd9x1nuh"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "OpenAI 官方 Prompt 指南",
+      "summary": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
+      "url": "https://waytoagi.feishu.cn/wiki/B5vDwYUJ6iB2fwkDUOTcT4ikndc"
+    },
     {
       "date": "2026-07-11",
       "title": "GPT-5.6 Sol 帮我做了个小工具：一键展示你的人生成就",
@@ -14,8 +32,26 @@
       "url": "https://waytoagi.feishu.cn/wiki/Dkq5wOPPUiM1qDkkStgcu0Zsnvd"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-07-11",
+      "title": "原点编剧系统：让电影、连续剧与微短剧，从灵感走到剧本",
+      "summary": "被零散灵感困住、难以落地完整剧本的编剧与内容创作者，快来试试猫叔的原点编剧系统（Plotcat）。它适配电影、长剧集、微短剧三类创作逻辑，打通了从单句创意到完整分场剧本的全流程。除了可以梳理故事内核、立体塑造人物、可视化管理故事结构与人物关系，还按需发散剧情、拆解节奏钩子，始终以创作者判断为主。数据本地存储可以保障素材隐私，兼容主流大模型，简单几步即可部署，新手也能用它高效搭建完整故事体系。",
+      "url": "https://waytoagi.feishu.cn/wiki/BPH4wXVvdikG1DkbNMNcIgcfnEe"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "一文看懂ChatGPT、Codex、Work 的差别",
+      "summary": "最近Codex合并到了ChatGPT应用里，还推出了一个ChatGPT Work模式。这让很多人搞不清楚 ChatGPT、Work、Codex 到底有什么区别，也不知道它们的额度是独立的还是共享的。宝玉这篇文章就带着大家详细拆解下！",
+      "url": "https://waytoagi.feishu.cn/wiki/XgVHwCA1MiF6XskJ41Scd9x1nuh"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "OpenAI 官方 Prompt 指南",
+      "summary": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
+      "url": "https://waytoagi.feishu.cn/wiki/B5vDwYUJ6iB2fwkDUOTcT4ikndc"
+    },
     {
       "date": "2026-07-11",
       "title": "GPT-5.6 Sol 帮我做了个小工具：一键展示你的人生成就",
