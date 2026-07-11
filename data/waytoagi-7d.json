@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-07-11T17:32:02.302822Z",
+  "generated_at": "2026-07-11T19:00:47.125562Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-11",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
+    {
+      "date": "2026-07-11",
+      "title": "我开源了我用于科研的 RW Research Skill",
+      "summary": "作者这套开源Skill包含12个可以独立使用的科研 Skill，包括确定研究问题、检索文献、提取论文、整理证据、设计研究、检查偏倚、写论文和准备投稿，需要的材料和判断并不相同。",
+      "url": "https://waytoagi.feishu.cn/wiki/RaYQwtqFAiVRc1klHGQczuMonad"
+    },
     {
       "date": "2026-07-11",
       "title": "原点编剧系统：让电影、连续剧与微短剧，从灵感走到剧本",
@@ -32,8 +38,14 @@
       "url": "https://waytoagi.feishu.cn/wiki/Dkq5wOPPUiM1qDkkStgcu0Zsnvd"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
+    {
+      "date": "2026-07-11",
+      "title": "我开源了我用于科研的 RW Research Skill",
+      "summary": "作者这套开源Skill包含12个可以独立使用的科研 Skill，包括确定研究问题、检索文献、提取论文、整理证据、设计研究、检查偏倚、写论文和准备投稿，需要的材料和判断并不相同。",
+      "url": "https://waytoagi.feishu.cn/wiki/RaYQwtqFAiVRc1klHGQczuMonad"
+    },
     {
       "date": "2026-07-11",
       "title": "原点编剧系统：让电影、连续剧与微短剧，从灵感走到剧本",
