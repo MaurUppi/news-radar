@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T15:58:29.233840Z",
+  "generated_at": "2026-07-12T17:07:37.426189Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -32,7 +32,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/OZq6wwrediq7yDkISKEcBZtNnJh"
     }
   ],
-  "count_7d": 41,
+  "count_7d": 34,
   "updates_7d": [
     {
       "date": "2026-07-12",
@@ -237,48 +237,6 @@
       "title": "340家初创公司、近2万参会者，日本AI创业现场到底什么样？",
       "summary": "前几天，我们在京都参加了 IVS 2026。这次活动非常热闹，7月1日-3日共3天时间里，一共来了13,000多人，这里面有非常多创业者、开发者、投资人和企业家。今年我们是第一次以参展商的身份来到 IVS，还组了现场逛展群，邀请熟悉当地市场的开发者带大家逛，并且在会后整理了非常丰富的日本AI市场信息。一起来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/G3yrwoRaii2p68kAHYJcy6sinEg"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "未来最保值的技能不是 AI，是懂人性... 《人性操作手册》送你",
-      "summary": "不知道该学什么技能？AI、编程、营销、做自媒体……学什么都怕两年后过时。知名独立创作者 Dan Koe点明读懂人性是最保值的技能。学会之后，你再学任何别的技能，威力都会跟着涨。因为不管你做产品、找工作还是搞创作，掏钱的、给机会的、给资源的，都是人。小互这篇文章做了完整拆解，一起来看看！",
-      "url": "https://waytoagi.feishu.cn/wiki/Dxq8wh3Q1iIDzRkiRoHcsC2XnCe"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "一文读懂 GPT-5.6 Sol：核心能力解读 + 用户实测汇总",
-      "summary": "GPT-5.6 Sol 是 OpenAI 在6月26日公开预览的 GPT-5.6 系列旗舰模型，定位为该系列中能力最强的一档。整理了一些用户的实测案例，快来看看效果如何！",
-      "url": "https://waytoagi.feishu.cn/wiki/KsL1wSqaQiktGwkeYDJcHuZEn4e"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "yee's AI圈内日记 | Linkloud高宁: 4个来自硅谷的增长方式",
-      "summary": "在WaytoAGI (社区) 和红杉中国联合举办的AGI Builder Camp里，邀请了来自Linkloud联创高宁老师分享。本文在还原高宁老师的讲述之外, yee以产品视角, 根据每个例子真实试用, 向下挖掘, 包含页面截图, 官方网站, 传播路径, 大家可以更加直观的感受到产品力, 也欢迎大家在yee的调研下延伸!",
-      "url": "https://waytoagi.feishu.cn/wiki/PFYGwpgWaiX5TEk5q6NcslYlnTb"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "Claude Fable 5 免费体验仅剩 1 天，整理了一些最值得上手的 Prompt",
-      "summary": "倒计时 1 天！Claude Fable 5 免费试用即将结束，精选了一些优质提示词，文档已开放编辑权限，欢迎补充你的独家Prompt！",
-      "url": "https://waytoagi.feishu.cn/wiki/AkLPwkDOtif3Y6kTZBxcKmsQnch"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "Agent 到底是什么？这次我从概念讲到实战",
-      "summary": "不少朋友或许也有类似感受： 概念听了很多，但还没真正从0到1搭过一个智能体，哪怕只是个 demo。所以这篇文章不先追求一个完美定义，先把Agent和工作流的边界讲清楚，再用一个案例实际跑一遍。",
-      "url": "https://waytoagi.feishu.cn/wiki/N1FiwAwOlitdtzktv1scVhiknPf"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "AI-Native企业：Agent团队和AI Factory会怎么重写公司体系丨Augmented U",
-      "summary": "这期Augmented U的嘉宾是 Masha Sharma，Groupon的VP。她做过工程、产品、CTO和创始人，也曾在Avenue One帮公司做到超过10亿美元估值。现在，她的任务是把Groupon的商家体验改造成AI-first growth engine。整场访谈绕着一个问题展开：组织里的工作到底由谁来做。",
-      "url": "https://waytoagi.feishu.cn/wiki/X1gqwZs1riYM3Ik99AWcmG5RnUd"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "6.28-7.5｜本周热门 AI 论文",
-      "summary": "本周热门AI论文合集覆盖自我迭代、MCP 架构、记忆管理、机器人与硬件设计全赛道前沿突破。多篇研究破解了固定评测机制造成的性能增长停滞、技能检索冗余、模型幻觉置信度失调、长时序记忆难管控等普遍难题，给出评估器协同演化、元记忆自主学习、技能联合生成等创新解法，给Agent 开发、模型优化提供了完整新思路。",
-      "url": "https://waytoagi.feishu.cn/wiki/Xrkqwwwp4iXDGak0ZA0cI0CNnS7"
     }
   ],
   "warning": null,
