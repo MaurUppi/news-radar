@@ -1,26 +1,50 @@
 {
-  "generated_at": "2026-07-15T14:48:46.929511Z",
+  "generated_at": "2026-07-15T16:20:21.021452Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-15",
-  "count_today": 1,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-07-15",
       "title": "超适合收藏的AI人像生图合集：12种创意玩法一次打包（附提示词）",
       "summary": "今天这篇文章小歪整理了12种AI人像图片创意玩法，做头像、朋友圈配图、旅行记录、表情包都能用。每种都附了完整提示词，可以适用于GPT Image 2、谷歌Nano banana、即梦、豆包、小云雀 等，直接复制抄作业就行。每个案例都只放了效果图，大家使用的时候是需要根据不同场景，上传自己的真人照片的，才能对人像进行魔改。",
       "url": "https://waytoagi.feishu.cn/wiki/D6GNw7RfFi7qnckOP0lcHVHknee"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "开源TODO Skill，我这三年用AI做知识管理和代办的经验都在这了",
+      "summary": "长期囤积素材、苦于选题杂乱排期的内容创作者，卡尔这套开源待办工具不容错过！它可以完美解决素材堆积、重复选题、日程同步等等难题。仅仅设置三类文件夹即可运行，还可以进行个性化改造，快来上手试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/Xy3nwD4YQiXlJhkwxXLcMruZnLb"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "YC设计负责人：AI 正在重写设计师的工作流丨Y Combinator",
+      "summary": "Y Combinator的设计负责人在这期对话里展示了自己最近做的三个项目：用Paxel观察人们如何与编码Agent协作，用Sodazine记录旧金山的城市故事，再用一套新的设计工具为Startup School制作视觉资产。对设计师、产品经理和工程师来说，这里面最值得关注的并不是某个工具的功能，而是设计师开始拥有了一种新的工作姿势：把想法说清楚，把上下文准备好，再为自己造出一组随时可以丢弃的工具。",
+      "url": "https://waytoagi.feishu.cn/wiki/Hkunwur2milsS5kBY0ucmKk9nAc"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 33,
   "updates_7d": [
     {
       "date": "2026-07-15",
       "title": "超适合收藏的AI人像生图合集：12种创意玩法一次打包（附提示词）",
       "summary": "今天这篇文章小歪整理了12种AI人像图片创意玩法，做头像、朋友圈配图、旅行记录、表情包都能用。每种都附了完整提示词，可以适用于GPT Image 2、谷歌Nano banana、即梦、豆包、小云雀 等，直接复制抄作业就行。每个案例都只放了效果图，大家使用的时候是需要根据不同场景，上传自己的真人照片的，才能对人像进行魔改。",
       "url": "https://waytoagi.feishu.cn/wiki/D6GNw7RfFi7qnckOP0lcHVHknee"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "开源TODO Skill，我这三年用AI做知识管理和代办的经验都在这了",
+      "summary": "长期囤积素材、苦于选题杂乱排期的内容创作者，卡尔这套开源待办工具不容错过！它可以完美解决素材堆积、重复选题、日程同步等等难题。仅仅设置三类文件夹即可运行，还可以进行个性化改造，快来上手试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/Xy3nwD4YQiXlJhkwxXLcMruZnLb"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "YC设计负责人：AI 正在重写设计师的工作流丨Y Combinator",
+      "summary": "Y Combinator的设计负责人在这期对话里展示了自己最近做的三个项目：用Paxel观察人们如何与编码Agent协作，用Sodazine记录旧金山的城市故事，再用一套新的设计工具为Startup School制作视觉资产。对设计师、产品经理和工程师来说，这里面最值得关注的并不是某个工具的功能，而是设计师开始拥有了一种新的工作姿势：把想法说清楚，把上下文准备好，再为自己造出一组随时可以丢弃的工具。",
+      "url": "https://waytoagi.feishu.cn/wiki/Hkunwur2milsS5kBY0ucmKk9nAc"
     },
     {
       "date": "2026-07-14",
@@ -201,42 +225,6 @@
       "title": "AI生图总跑偏抽风？提示词注意这几个方面。",
       "summary": "为什么 AI 总不按照我们的思路生成图片？为什么老是有些离谱操作？为什么用 AI 工具写提示词也会翻车？为什么明显错误的动作，抽卡很多次也无法避免？今天就和阿真一起来看看，相信你看完以后生图翻车情况会少很多，翻车了也会立马知道问题出在哪里。",
       "url": "https://waytoagi.feishu.cn/wiki/XjBZwuk58izKMfkHAe7cBOFun3d"
-    },
-    {
-      "date": "2026-07-09",
-      "title": "暑假给孩子做复习资料，结果 AI 自己讲上课了",
-      "summary": "家里有中小学孩子、常常要做教辅可视化的家长与老师，这套开源教学Skill可以帮到你们。输入知识点即可自动匹配年级学科，一键生成静态知识图解，覆盖文理多学科；配套动画生成工具还可以生成带配音讲解的教学短片。除此之外，其中还内置了勘误机制来修正知识漏洞，快来上手试试。",
-      "url": "https://waytoagi.feishu.cn/wiki/XedCwFaLtiRpI0kY2cUcstXJnDe"
-    },
-    {
-      "date": "2026-07-09",
-      "title": "开源免费！我又在Github挖到了 3 个宝藏工具",
-      "summary": "作者最近又在GitHub翻到几个挺有意思的AI项目，汇总到了这篇文章里。每个项目都简单介绍了一下它是干嘛的、适合谁、值得看的一点。感兴趣的小伙伴可以先收藏，后面真用到的时候再慢慢折腾。",
-      "url": "https://waytoagi.feishu.cn/wiki/VqJ2wwbkwiuH4xkIZZgcKB4knkg"
-    },
-    {
-      "date": "2026-07-09",
-      "title": "字节Seedream5.0 Pro 更新，AI生图也变天了！60组案例硬刚GPT Image 2",
-      "summary": "Seedream5.0 Pro 发布了，作者用60多组提示词拿它跟目前最强的gpt image 2图像模型进行了对比，看看在相同的提示词下，会有什么不同的效果。都是高频常见场景，包括课程海报、公众号封面、课程卡片、电商详情页、人物海报、角色设定、国风文化海报。",
-      "url": "https://waytoagi.feishu.cn/wiki/OOmTwY9uKimtgCk7OBJcJtf9noe"
-    },
-    {
-      "date": "2026-07-09",
-      "title": "WaytoGrowth官宣！我们为所有AI品牌搭建了一个GTM系统",
-      "summary": "WaytoAGI 社区成立三年多，这中间我们见过非常多的AI创业者，也有很多惊艳的产品。很多产品达到一定阶段，最头疼的问题其实是「增长」。AI 产品要走向全球，需要一套从「品牌定位」到「市场触达」的 GTM 增长系统。WaytoAGI 孵化的新项目：WaytoGrowth，专门服务 AI 品牌和有出海需求的创新公司，让产品更容易被发现、更值得信任，并持续获得全球需求。",
-      "url": "https://waytoagi.feishu.cn/wiki/RrMqw39PviZOV1kUcfbciXexnLe"
-    },
-    {
-      "date": "2026-07-09",
-      "title": "OpenAI GPT-Live 语音模型全解析：边听边说，还能实时生成UI界面",
-      "summary": "OpenAI 于 2026 年7月8日发布新一代语音模型 GPT-Live，并把它作为 ChatGPT Voice 的新一代底层模型，今天起面向全球用户上线。本文是 OpenAI 官方发布博客的解读。文中的评测结果、偏好数据和安全测试结论均为 OpenAI 自评与内部测试口径，尚无第三方独立验证。",
-      "url": "https://waytoagi.feishu.cn/wiki/GN7Jw7l6tibG3Kk23mbcj0e6nTf"
-    },
-    {
-      "date": "2026-07-09",
-      "title": "Instagram 负责人：为 AI 世界打造 Instagram丨Lenny's Podcast",
-      "summary": "Instagram负责人Mosseri在接手Instagram前，他做过 Facebook News Feed，也带过 Facebook 的排序算法团队。这期 Mosseri 聊了Instagram怎么处理AI内容，AI 能写代码、拉数据、生成内容、解释推荐系统以后，人还负责什么。",
-      "url": "https://waytoagi.feishu.cn/wiki/QeD7wYamtiqgStkbI02cTq8PnUe"
     }
   ],
   "warning": null,
