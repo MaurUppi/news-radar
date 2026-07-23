@@ -1,26 +1,50 @@
 {
-  "generated_at": "2026-07-23T15:54:04.794959Z",
+  "generated_at": "2026-07-23T17:20:59.525766Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-23",
-  "count_today": 1,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-07-23",
       "title": "梁文锋四小时投资人会议实录",
       "summary": "Deepseek创始人梁文锋在近期一场近4小时的投资人闭门会议上，系统阐述了DeepSeek的核心战略。里面高频出现的是AGI、成本、开源、团队稳定和克制：产品是通往AGI的台阶，Coding Agent 是现阶段重点，持续学习是下一代模型的关键；商业化、C 端流量、超级App 都不急着抢，低价和开源则可以用来换更大的生态势能。这篇文章是收集到的52条言语。部分词句在保留原意的基础上，与原文可能略有出入。",
       "url": "https://waytoagi.feishu.cn/wiki/Ki6WwyHkwiTpKqk67Nfcor8QnYc"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "免费的Qwen Image 3，真能和GPT Image 2硬刚？我拿50个案例试了下",
+      "summary": "千问昨天发布了生图模型： Qwen Image 3。小歪用50+ 组案例，把Qwen Image 3和GPT Image 2放在真人写实、高密度信息图、复杂中文、商业海报、UI、光影细节等场景里做了同题对比。GPT Image 2综合稳定性更强，尤其复杂文字更靠谱；Qwen Image 3 在海报、社媒配图、品牌概念稿上很能打，现在有免费额度，值得顺手试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/VUHlwN1aki0q3okUtzJc8FfknDh"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "Black Forest Labs 发布全新多模态基础模型：FLUX 3",
+      "summary": "",
+      "url": "https://waytoagi.feishu.cn/wiki/HmNawdw4yiUpZjkFxk9cVmcNnWg"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-07-23",
       "title": "梁文锋四小时投资人会议实录",
       "summary": "Deepseek创始人梁文锋在近期一场近4小时的投资人闭门会议上，系统阐述了DeepSeek的核心战略。里面高频出现的是AGI、成本、开源、团队稳定和克制：产品是通往AGI的台阶，Coding Agent 是现阶段重点，持续学习是下一代模型的关键；商业化、C 端流量、超级App 都不急着抢，低价和开源则可以用来换更大的生态势能。这篇文章是收集到的52条言语。部分词句在保留原意的基础上，与原文可能略有出入。",
       "url": "https://waytoagi.feishu.cn/wiki/Ki6WwyHkwiTpKqk67Nfcor8QnYc"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "免费的Qwen Image 3，真能和GPT Image 2硬刚？我拿50个案例试了下",
+      "summary": "千问昨天发布了生图模型： Qwen Image 3。小歪用50+ 组案例，把Qwen Image 3和GPT Image 2放在真人写实、高密度信息图、复杂中文、商业海报、UI、光影细节等场景里做了同题对比。GPT Image 2综合稳定性更强，尤其复杂文字更靠谱；Qwen Image 3 在海报、社媒配图、品牌概念稿上很能打，现在有免费额度，值得顺手试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/VUHlwN1aki0q3okUtzJc8FfknDh"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "Black Forest Labs 发布全新多模态基础模型：FLUX 3",
+      "summary": "",
+      "url": "https://waytoagi.feishu.cn/wiki/HmNawdw4yiUpZjkFxk9cVmcNnWg"
     },
     {
       "date": "2026-07-22",
@@ -195,42 +219,6 @@
       "title": "Claude Code两周100万行背后，藏着19个坑没人提！",
       "summary": "看到Claude Code两周写出100万行代码，很多人第一反应是：以后迁移、重构是不是能直接丢给 AI 跑？老金这篇文章把兴奋感往回拽了一下——真正值得学的不是“跑得快”，而是背后的规则书、裁判、任务账本和断点。长任务可以交给 AI 扩产，但完成标准、测试验证、错误回滚和最终验收，必须提前设计好。",
       "url": "https://waytoagi.feishu.cn/wiki/MLKVw0orgidcLckjO8tcOC0Dnlv"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "提示词越写越长，AI还是做不对？老金开源造Skill的Skill",
-      "summary": "提示词越写越长，AI 还是做不对？老金这篇文章戳中了很多 AI 重度用户的痛点：我们总以为多补几条规则，就能让 AI 更听话，结果只养出一份越来越厚的“祖传提示词”。老金开源的 Meta Skill Creator，更像是在帮你先踩刹车——先想清楚谁来用、交付什么、怎样才算可用。快来试试效果如何！",
-      "url": "https://waytoagi.feishu.cn/wiki/VsaZwHsVGiI4ynkIGeXcGu6jnac"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "从功能清单到执行链路：AI 时代 PRD 的写法变了",
-      "summary": "以前写PRD，很多人习惯列功能、写流程、补几句Prompt；但到了AI 功能里，这套明显不够用了。阿昆这篇文章讲得很实在：AI PRD真正要写清楚的，不是“让 AI 干什么”这么简单，而是它在哪一步介入、需要什么输入、输出怎么验、错了谁接手、边界在哪里。",
-      "url": "https://waytoagi.feishu.cn/wiki/Ajq7wnMsgiz69tkkOAycgKNwnAd"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "一文讲透Skill",
-      "summary": "这篇文章把 Agent 和 Skill 的关系讲得很透：Agent像大脑，负责规划、判断和纠错；Skill像手脚，负责搜索、算数据、发邮件、生成文档。除此之外，还把Skill什么时候该调用、怎么选、怎么写描述、怎么防安全坑，以及一个早报Skill的落地思路串了起来。",
-      "url": "https://waytoagi.feishu.cn/wiki/FIK0wkpdjiOOn0kvjXmcNSROnTc"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "Claude Code是怎么设计出来的：下一代设计师负责什么丨Dive Club",
-      "summary": "Claude Code 的设计负责人Meaghan Choi在 Dive Club 的这次对话里谈到的，不只是按钮、页面或视觉风格，而是一套正在成形的新工作方法：怎样设计没有传统界面的产品，怎样让 AI 从执行工具变成组织成员，以及当做东西越来越容易时，设计师该把判断力用在哪里。 Claude Code 的设计过程，也许正提前揭示了下一代设计工作的边界。",
-      "url": "https://waytoagi.feishu.cn/wiki/JPQIwGmEYiQP7HkCM3cc09NEnzc"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "Cerebras 如何构建内部知识库",
-      "summary": "别再幻想把公司知识都搬进一个“唯一真相库”了，Cerebras 的做法更现实：让信息继续待在 Slack、代码仓库、文档、Jira 这些它本来就会出现的地方，然后用一套知识检索系统把它们串起来。上线3个月后，这个内部知识库每天被问 15000+ 次，员工、自动化流程和 Agent 都在用。这篇文章拆解了这个知识库到底是怎么做的：Slack线程怎么蒸馏、代码仓库怎么向量化、全文检索和向量检索怎么混合、结果怎么重排序、MCP又怎么让Agent 直接调用这些能力。",
-      "url": "https://waytoagi.feishu.cn/wiki/DQKTw3XAyi3rKekevihcjoPYnEf"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "Anthropic 工程师代码产出提升 8 倍：背后的上下文工程系统",
-      "summary": "如果你还在反复改prompt，却发现Claude总是猜错需求、改错文件、产出不稳，这篇文章很值得看。作者把Anthropic工程师代码产出提升8倍的关键拆解了下：真正拉开差距的不是模型变强，而是“上下文工程”。从 AGENTS.md、项目记忆、任务状态，到MCP接入 GitHub、Linear、Slack、Sentry，完整剖析了如何把 AI 从“靠猜的助手”，变成“带着完整信息干活的工程伙伴”。",
-      "url": "https://waytoagi.feishu.cn/wiki/TWsGw8rEficV83kWS5qciK1Qnng"
     }
   ],
   "warning": null,
