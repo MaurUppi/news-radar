@@ -1,17 +1,41 @@
 {
-  "generated_at": "2026-07-28T16:17:45.111252Z",
+  "generated_at": "2026-07-28T17:53:09.632135Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-28",
-  "count_today": 3,
+  "count_today": 7,
   "updates_today": [
+    {
+      "date": "2026-07-28",
+      "title": "目前最强的编程 Agent，不是 Fable 5，而是「用Codex指挥ChatGPT Pro」",
+      "summary": "很多人用编程Agent卡在一个尴尬点：AI 会写代码，但谁来喂上下文、检查安全、跑测试、判断结果真的过关？作者把Codex 当产品经理、Tech Lead和QA，让它在内置浏览器里指挥ChatGPT Pro：先读仓库、打包源码并排除密钥，再把复杂需求拆成多个Pro对话；Codex 负责本地落地、跑测试、反复修Bug。而且用Codex指挥ChatGPT Pro，会大大降低Codex的Token消耗。",
+      "url": "https://waytoagi.feishu.cn/wiki/RkO2wsdTriUsFHkSuLAcJblrnKd"
+    },
     {
       "date": "2026-07-28",
       "title": "欧美微短剧情节灵感库 500",
       "summary": "猫叔整理了 500 个可拆分、可组合、可本地化改写的欧美短剧情节模板。一半保持强情感商业性，另一半用于拓展更符合欧美长线审美的类型混合与人物复杂度。如果你也在做海外短剧，没灵感时可以借鉴下！",
       "url": "https://waytoagi.feishu.cn/wiki/MYeXwnT2cixzYWkQNI2cB9gBnVc"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "徐新：具身智能、AI 与风险投资的 51 条方法论",
+      "summary": "今日资本创始人 徐新 做客《高能量》播客：《Vol.227 具身新贵与投资女王：创新、热潮、泡沫和周期 》，输出了大量与具身、AI、投资相关的观点。快来一起看看一线投资人怎么判断 AI 大机会。",
+      "url": "https://waytoagi.feishu.cn/wiki/K3MGwVNd6iNwjCkpRSIccU4YnGg"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Sif + Claude Code + 飞书 → 搭一个电商 Agent",
+      "summary": "这篇内容将以亚马逊电商日常运营中的 ASIN 销量监控为案例，拆解一个跑在实际业务里的监控 Agent——从赋能效果、框架剖析，到完整的实现流程。案例来自电商场景，但真正想分享的是背后那个可迁移的 Agent 框架：换掉数据源和同步端，它可以搬到任何“定期看数据、重复做分析、只需要重要结论”的业务场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/VrAKwuJAai6b9ckUsCCcnZ9QnJh"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Midjourney V8.2来了，终于对它有了久违的惊喜!",
+      "summary": "Midjourney V8.2来了，结果发现一个比较明显的变化：V8.2最大的提升，是提示词的理解，参考逻辑的优化以及出图的整体稳定性上都有显著的提升。于是乎作者又做了一个系统的测试，对MJ有了久违的的惊喜。我们一起来看！",
+      "url": "https://waytoagi.feishu.cn/wiki/U9n7wcXN4ivoddkSJmccRsojnUn"
     },
     {
       "date": "2026-07-28",
@@ -26,13 +50,37 @@
       "url": "https://waytoagi.feishu.cn/wiki/GHb0weLv5ittpxkxREtcQsFSnhd"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 39,
   "updates_7d": [
+    {
+      "date": "2026-07-28",
+      "title": "目前最强的编程 Agent，不是 Fable 5，而是「用Codex指挥ChatGPT Pro」",
+      "summary": "很多人用编程Agent卡在一个尴尬点：AI 会写代码，但谁来喂上下文、检查安全、跑测试、判断结果真的过关？作者把Codex 当产品经理、Tech Lead和QA，让它在内置浏览器里指挥ChatGPT Pro：先读仓库、打包源码并排除密钥，再把复杂需求拆成多个Pro对话；Codex 负责本地落地、跑测试、反复修Bug。而且用Codex指挥ChatGPT Pro，会大大降低Codex的Token消耗。",
+      "url": "https://waytoagi.feishu.cn/wiki/RkO2wsdTriUsFHkSuLAcJblrnKd"
+    },
     {
       "date": "2026-07-28",
       "title": "欧美微短剧情节灵感库 500",
       "summary": "猫叔整理了 500 个可拆分、可组合、可本地化改写的欧美短剧情节模板。一半保持强情感商业性，另一半用于拓展更符合欧美长线审美的类型混合与人物复杂度。如果你也在做海外短剧，没灵感时可以借鉴下！",
       "url": "https://waytoagi.feishu.cn/wiki/MYeXwnT2cixzYWkQNI2cB9gBnVc"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "徐新：具身智能、AI 与风险投资的 51 条方法论",
+      "summary": "今日资本创始人 徐新 做客《高能量》播客：《Vol.227 具身新贵与投资女王：创新、热潮、泡沫和周期 》，输出了大量与具身、AI、投资相关的观点。快来一起看看一线投资人怎么判断 AI 大机会。",
+      "url": "https://waytoagi.feishu.cn/wiki/K3MGwVNd6iNwjCkpRSIccU4YnGg"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Sif + Claude Code + 飞书 → 搭一个电商 Agent",
+      "summary": "这篇内容将以亚马逊电商日常运营中的 ASIN 销量监控为案例，拆解一个跑在实际业务里的监控 Agent——从赋能效果、框架剖析，到完整的实现流程。案例来自电商场景，但真正想分享的是背后那个可迁移的 Agent 框架：换掉数据源和同步端，它可以搬到任何“定期看数据、重复做分析、只需要重要结论”的业务场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/VrAKwuJAai6b9ckUsCCcnZ9QnJh"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Midjourney V8.2来了，终于对它有了久违的惊喜!",
+      "summary": "Midjourney V8.2来了，结果发现一个比较明显的变化：V8.2最大的提升，是提示词的理解，参考逻辑的优化以及出图的整体稳定性上都有显著的提升。于是乎作者又做了一个系统的测试，对MJ有了久违的的惊喜。我们一起来看！",
+      "url": "https://waytoagi.feishu.cn/wiki/U9n7wcXN4ivoddkSJmccRsojnUn"
     },
     {
       "date": "2026-07-28",
