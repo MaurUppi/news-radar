@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-29T16:49:04.570209Z",
+  "generated_at": "2026-07-29T18:05:23.624675Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-29",
-  "count_today": 6,
+  "count_today": 8,
   "updates_today": [
+    {
+      "date": "2026-07-29",
+      "title": "烧了一万块API后，我找到了同时适用于Fable5和GPT5.6的AI工作流",
+      "summary": "怎么让不同模型各干最适合自己的活呢？卡尔把之前的 partner-skill 升级到2.0，拆成了deep_reasoner、fast_worker、arbiter三种身份：一个做深度规划，一个快速执行，一个独立仲裁。不同项目还能分别绑定Fable5、Opus5、GPT 5.6等模型，并用均衡、质量优先、省钱优先三套策略控制成本，把每个Token都花在刀刃上。",
+      "url": "https://waytoagi.feishu.cn/wiki/X9UYwjAjUiF4kJkrMWjcEWyUnoh"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "普通人最该补的5门AI必修课：MD、SVG、HTML、GitHub、Skill",
+      "summary": "冷逸这篇文章适合刚开始学AI的普通用户，尤其是想用AI写方案、做图、做页面、整理资料的人。Markdown 用来把需求写清楚；SVG用来做可修改的图；HTML用来生成网页、演示页和小工具；GitHub 用来找资源、存作品；Skill 用来把重复流程整理成AI能执行的说明书。小白可以从这里开始补基础。",
+      "url": "https://waytoagi.feishu.cn/wiki/HFYIwD5Xvi0Ls1kNyAgcZpTInec"
+    },
     {
       "date": "2026-07-29",
       "title": "我复刻了一条 4000 赞的博客首页，开源首页设计 Skill",
@@ -22,7 +34,7 @@
     {
       "date": "2026-07-29",
       "title": "别再手动刷X了！我给自己的 X 装了一个会自己找资料的扫描器，开源在了Github。",
-      "summary": "",
+      "summary": "每天在X上刷 AI 信息，最烦的不是看不到好东西，而是刷完就散了：论文、工具、工作流都收藏一堆，回头想找又像大海捞针。作者开源了一个 x-scan Skill，可以让Agent打开独立 Chrome 浏览器扫描X信息流或关键词搜索，按AI相关词初筛，再用Tweet ID去重，最后把作者、正文、数据和链接保存成Markdown，丢进 Obsidian或其他知识库应用。",
       "url": "https://waytoagi.feishu.cn/wiki/Pk7YwOi3qiyI7Okk61RcBHHGnuh"
     },
     {
@@ -44,8 +56,20 @@
       "url": "https://waytoagi.feishu.cn/wiki/Ld3TwMsQ1iBZUSkHzNGcqmConXc"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 41,
   "updates_7d": [
+    {
+      "date": "2026-07-29",
+      "title": "烧了一万块API后，我找到了同时适用于Fable5和GPT5.6的AI工作流",
+      "summary": "怎么让不同模型各干最适合自己的活呢？卡尔把之前的 partner-skill 升级到2.0，拆成了deep_reasoner、fast_worker、arbiter三种身份：一个做深度规划，一个快速执行，一个独立仲裁。不同项目还能分别绑定Fable5、Opus5、GPT 5.6等模型，并用均衡、质量优先、省钱优先三套策略控制成本，把每个Token都花在刀刃上。",
+      "url": "https://waytoagi.feishu.cn/wiki/X9UYwjAjUiF4kJkrMWjcEWyUnoh"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "普通人最该补的5门AI必修课：MD、SVG、HTML、GitHub、Skill",
+      "summary": "冷逸这篇文章适合刚开始学AI的普通用户，尤其是想用AI写方案、做图、做页面、整理资料的人。Markdown 用来把需求写清楚；SVG用来做可修改的图；HTML用来生成网页、演示页和小工具；GitHub 用来找资源、存作品；Skill 用来把重复流程整理成AI能执行的说明书。小白可以从这里开始补基础。",
+      "url": "https://waytoagi.feishu.cn/wiki/HFYIwD5Xvi0Ls1kNyAgcZpTInec"
+    },
     {
       "date": "2026-07-29",
       "title": "我复刻了一条 4000 赞的博客首页，开源首页设计 Skill",
@@ -61,7 +85,7 @@
     {
       "date": "2026-07-29",
       "title": "别再手动刷X了！我给自己的 X 装了一个会自己找资料的扫描器，开源在了Github。",
-      "summary": "",
+      "summary": "每天在X上刷 AI 信息，最烦的不是看不到好东西，而是刷完就散了：论文、工具、工作流都收藏一堆，回头想找又像大海捞针。作者开源了一个 x-scan Skill，可以让Agent打开独立 Chrome 浏览器扫描X信息流或关键词搜索，按AI相关词初筛，再用Tweet ID去重，最后把作者、正文、数据和链接保存成Markdown，丢进 Obsidian或其他知识库应用。",
       "url": "https://waytoagi.feishu.cn/wiki/Pk7YwOi3qiyI7Okk61RcBHHGnuh"
     },
     {
