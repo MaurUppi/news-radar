@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T17:03:42.651503Z",
+  "generated_at": "2026-07-31T18:52:38.707461Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -16,7 +16,7 @@
     {
       "date": "2026-07-31",
       "title": "质检Skill开源：你的Listing在亚马逊眼里，到底能打几分？",
-      "summary": "",
+      "summary": "很多亚马逊卖家优化 Listing 还停留在“凭经验看标题、图片、五点”的阶段，但新的规则和AI购物助手介入后，靠感觉很容易漏掉真正影响流量的扣分项。作者开源了Amazon Listing Doctor这个Skill，用 CDQ、A9、COSMO、Alexa四套逻辑检查标题75字符规则、关键词收录、用户意图覆盖、AI 购物助手可发现性。做亚马逊运营的小伙伴儿可以试试。",
       "url": "https://waytoagi.feishu.cn/wiki/Yj9NwpFkVihly4kEIVocjzoCnTb"
     },
     {
@@ -34,7 +34,7 @@
     {
       "date": "2026-07-31",
       "title": "一个产品经理读完200篇AI论文后，看见了别人看不见的边界",
-      "summary": "",
+      "summary": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
       "url": "https://waytoagi.feishu.cn/wiki/FJggw21NviwOcVkvJZUcdYBpn6c"
     },
     {
@@ -67,7 +67,7 @@
     {
       "date": "2026-07-31",
       "title": "质检Skill开源：你的Listing在亚马逊眼里，到底能打几分？",
-      "summary": "",
+      "summary": "很多亚马逊卖家优化 Listing 还停留在“凭经验看标题、图片、五点”的阶段，但新的规则和AI购物助手介入后，靠感觉很容易漏掉真正影响流量的扣分项。作者开源了Amazon Listing Doctor这个Skill，用 CDQ、A9、COSMO、Alexa四套逻辑检查标题75字符规则、关键词收录、用户意图覆盖、AI 购物助手可发现性。做亚马逊运营的小伙伴儿可以试试。",
       "url": "https://waytoagi.feishu.cn/wiki/Yj9NwpFkVihly4kEIVocjzoCnTb"
     },
     {
@@ -85,7 +85,7 @@
     {
       "date": "2026-07-31",
       "title": "一个产品经理读完200篇AI论文后，看见了别人看不见的边界",
-      "summary": "",
+      "summary": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
       "url": "https://waytoagi.feishu.cn/wiki/FJggw21NviwOcVkvJZUcdYBpn6c"
     },
     {
