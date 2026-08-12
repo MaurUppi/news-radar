@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T10:01:28.724909Z",
+  "generated_at": "2026-08-12T11:20:42.093746Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 529,
+      "duration_ms": 523,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 364,
+      "duration_ms": 287,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 389,
-      "duration_ms": 14800,
+      "item_count": 402,
+      "duration_ms": 24323,
       "error": null
     },
     {
@@ -30,15 +30,15 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 929,
+      "duration_ms": 1281,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3039,
-      "duration_ms": 1678,
+      "item_count": 3037,
+      "duration_ms": 1433,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Zeli",
       "ok": true,
       "item_count": 80,
-      "duration_ms": 652,
+      "duration_ms": 493,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5048,
+      "duration_ms": 5214,
       "error": "HTTPSConnectionPool(host='ai.hubtoday.app', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ai.hubtoday.app', port=443): Failed to resolve 'ai.hubtoday.app' ([Errno -2] Name or service not known)\"))"
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1051,
+      "duration_ms": 1546,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "AI今日热榜",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 191,
       "error": "403 Client Error: Forbidden for url: https://aihot.today/"
     },
     {
@@ -78,23 +78,23 @@
       "site_name": "AI Valley",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 5103,
+      "duration_ms": 4876,
       "error": null
     },
     {
       "site_id": "therundownai",
       "site_name": "The Rundown AI",
       "ok": true,
-      "item_count": 76,
-      "duration_ms": 7209,
+      "item_count": 78,
+      "duration_ms": 7946,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "ok": true,
-      "item_count": 128,
-      "duration_ms": 1127,
+      "item_count": 127,
+      "duration_ms": 1412,
       "error": null
     }
   ],
@@ -104,9 +104,9 @@
     "aihot"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 4894,
-  "items_before_topic_filter": 7467,
-  "items_in_24h": 858,
+  "fetched_raw_items": 4906,
+  "items_before_topic_filter": 7449,
+  "items_in_24h": 864,
   "rss_opml": {
     "enabled": false,
     "path": null,
