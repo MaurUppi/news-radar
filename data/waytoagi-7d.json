@@ -1,16 +1,28 @@
 {
-  "generated_at": "2026-08-13T18:25:48.072906Z",
+  "generated_at": "2026-08-13T19:34:03.719025Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-13",
-  "count_today": 4,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-08-13",
+      "title": "陈言：分享一下我在小红书做自媒体的选题工作流",
+      "summary": "陈言分享了他在小红书做自媒体的选题工作流，不是那种抄话题和复刻账号的。他靠这个方法获得了稳定的广告客户与合作机会。来一起看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/IS1iwIrwriJcqYkrvyacACaUnqg"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "这个封装了我3年实测经验的AI提示词案例网站，今天正式免费开放",
+      "summary": "卡尔把维护了3年的案例库开放了出来，里面有上千条AI视频、前端、Agent 生成记录，还用Seedance 2.0 Fast、MiniMax H3、Wan 3.0跑了136个case，覆盖多素材 MV、文生视频、图生Vlog等场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/RJNbw1hDhiZqjIkJGGxcltf3nhe"
+    },
+    {
+      "date": "2026-08-13",
       "title": "如何让 34 个 AI Agent 主动干活丨Greg Isenberg",
-      "summary": "",
+      "summary": "很多人一听“34 个 AI Agent”，第一反应可能是：这得多会折腾工具啊。其实这篇最值得看的点，反而不是 Agent 数量，而是 Allie K. Miller 怎么把它们变成一支会主动推进工作的“小团队”。",
       "url": "https://waytoagi.feishu.cn/wiki/C9k2wmDY7ip4aMkYC8Zca3pLnYd"
     },
     {
@@ -32,12 +44,24 @@
       "url": "https://waytoagi.feishu.cn/wiki/RO06w0R0Iivq3WkGv0ycIsI1noe"
     }
   ],
-  "count_7d": 30,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-08-13",
+      "title": "陈言：分享一下我在小红书做自媒体的选题工作流",
+      "summary": "陈言分享了他在小红书做自媒体的选题工作流，不是那种抄话题和复刻账号的。他靠这个方法获得了稳定的广告客户与合作机会。来一起看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/IS1iwIrwriJcqYkrvyacACaUnqg"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "这个封装了我3年实测经验的AI提示词案例网站，今天正式免费开放",
+      "summary": "卡尔把维护了3年的案例库开放了出来，里面有上千条AI视频、前端、Agent 生成记录，还用Seedance 2.0 Fast、MiniMax H3、Wan 3.0跑了136个case，覆盖多素材 MV、文生视频、图生Vlog等场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/RJNbw1hDhiZqjIkJGGxcltf3nhe"
+    },
+    {
+      "date": "2026-08-13",
       "title": "如何让 34 个 AI Agent 主动干活丨Greg Isenberg",
-      "summary": "",
+      "summary": "很多人一听“34 个 AI Agent”，第一反应可能是：这得多会折腾工具啊。其实这篇最值得看的点，反而不是 Agent 数量，而是 Allie K. Miller 怎么把它们变成一支会主动推进工作的“小团队”。",
       "url": "https://waytoagi.feishu.cn/wiki/C9k2wmDY7ip4aMkYC8Zca3pLnYd"
     },
     {
