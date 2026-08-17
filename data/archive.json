@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-17T08:40:12.396934Z",
+  "generated_at": "2026-08-17T09:38:41.122169Z",
   "hot_days": 7,
-  "total_items": 292933,
-  "hot_items": 54393,
-  "cold_items": 238540,
+  "total_items": 293246,
+  "hot_items": 54246,
+  "cold_items": 239000,
   "hot_archive": "archive-hot.json.gz",
   "cold_archive": "archive-cold.json.gz"
 }
