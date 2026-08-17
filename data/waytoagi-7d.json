@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T16:24:32.561151Z",
+  "generated_at": "2026-08-17T16:54:41.601161Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-17",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-08-17",
@@ -27,12 +27,18 @@
     },
     {
       "date": "2026-08-17",
+      "title": "AI音乐周刊 W.A 041",
+      "summary": "AI音乐领域在这一周有个明显的信号：平台不只在拼生成效果，也开始拼版权合规、分发规则和专业工作流。Suno开始限制下载并强化C2PA溯源，Spotify给AI Persona打标并默认切断推荐流量，Suno与BMG合作走向合规共建。同时还有7篇高质量论文，覆盖乐器合成、音频生成与模型评测。",
+      "url": "https://waytoagi.feishu.cn/wiki/OiyFwKrCaipukTkmQUPcdaCbn2b"
+    },
+    {
+      "date": "2026-08-17",
       "title": "AI PPT全场景、多维度实用测评（打工人实测，早下班有救！）",
       "summary": "芋头小宝这篇文章用打工人最常用的PPT场景，横评了最近出来的几个办公型Agent在PPT文档解析和生成方面的能力差距。经常需要用AI工具做PPT的人，可以先看这篇少走点弯路。",
       "url": "https://waytoagi.feishu.cn/wiki/YFszwFAM5ikgVRkKoQecKlG5nyd"
     }
   ],
-  "count_7d": 17,
+  "count_7d": 18,
   "updates_7d": [
     {
       "date": "2026-08-17",
@@ -51,6 +57,12 @@
       "title": "Agent的上限，可能不在模型，而在团队知识",
       "summary": "Agent真正上生产后，最先翻车的往往不是模型，而是知识：找不准、喂不进、旧内容越堆越乱。这篇文章从安全中心团队的真实实践出发，拆清楚了怎么定目标、搭知识体系、处理知识生产、检索、注入和淘汰，最后跑出一套能持续迭代的知识飞轮。想让Agent从“偶尔好用”变成“稳定可用”，这套经验很值得参考。",
       "url": "https://waytoagi.feishu.cn/wiki/LDVewr1dUiZ48tkp4iAc9hUInhe"
+    },
+    {
+      "date": "2026-08-17",
+      "title": "AI音乐周刊 W.A 041",
+      "summary": "AI音乐领域在这一周有个明显的信号：平台不只在拼生成效果，也开始拼版权合规、分发规则和专业工作流。Suno开始限制下载并强化C2PA溯源，Spotify给AI Persona打标并默认切断推荐流量，Suno与BMG合作走向合规共建。同时还有7篇高质量论文，覆盖乐器合成、音频生成与模型评测。",
+      "url": "https://waytoagi.feishu.cn/wiki/OiyFwKrCaipukTkmQUPcdaCbn2b"
     },
     {
       "date": "2026-08-17",
