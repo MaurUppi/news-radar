@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T16:38:52.529804Z",
+  "generated_at": "2026-08-18T17:24:41.177132Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-18",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-08-18",
@@ -15,18 +15,30 @@
     },
     {
       "date": "2026-08-18",
+      "title": "Benchmark 合伙人：为什么下一个爆款AI产品将具备社交功能丨Every",
+      "summary": "Benchmark 合伙人Sarah Tavel这篇播客访谈抛出了一个消费级AI的关键创业思路：模型够用之后，产品竞争会转向用户体验、信任和网络效应。未来的爆款AI产品，可能会让你关注靠谱的人、复用他们的方法、看清提示词和资料来源，并在健康、写作、教育、家庭管理等真实任务里自然沉淀社区内容。",
+      "url": "https://waytoagi.feishu.cn/wiki/PFcywyQoRisrRIkHAtmcVdCMnIg"
+    },
+    {
+      "date": "2026-08-18",
       "title": "AI视频入门基础——运镜（二）+转场",
       "summary": "作者整理了12种运镜+8种转场+4套组合连招+5条心法 ，每种都配了通用模板和具体示例，可以直接套用到你自己的AI视频提示词里。",
       "url": "https://waytoagi.feishu.cn/wiki/NBQUwfPzQimPITkqf3jc7T9Bnke"
     }
   ],
-  "count_7d": 17,
+  "count_7d": 18,
   "updates_7d": [
     {
       "date": "2026-08-18",
       "title": "一个极度实用的深度思考Prompt，帮你挖出最本质的答案。",
       "summary": "卡兹克分享了一个极度实用的深度思考Prompt：双向钢人Prompt。它会先帮你重述真实问题，再分别强化“支持你”和“反对你”的最强理由，接着找出真正分歧和关键变量，只问一个最关键的问题，等你回答后再给判断和行动。适合用来做决策、写方案、复盘项目，尤其适合那些“我好像知道答案，但又说不清为什么”的问题。",
       "url": "https://waytoagi.feishu.cn/wiki/AUAYwSpRBiQZSxk9XtecEHfZn7d"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "Benchmark 合伙人：为什么下一个爆款AI产品将具备社交功能丨Every",
+      "summary": "Benchmark 合伙人Sarah Tavel这篇播客访谈抛出了一个消费级AI的关键创业思路：模型够用之后，产品竞争会转向用户体验、信任和网络效应。未来的爆款AI产品，可能会让你关注靠谱的人、复用他们的方法、看清提示词和资料来源，并在健康、写作、教育、家庭管理等真实任务里自然沉淀社区内容。",
+      "url": "https://waytoagi.feishu.cn/wiki/PFcywyQoRisrRIkHAtmcVdCMnIg"
     },
     {
       "date": "2026-08-18",
