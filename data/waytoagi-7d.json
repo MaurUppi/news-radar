@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T16:34:33.494653Z",
+  "generated_at": "2026-08-25T17:29:39.371887Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-25",
-  "count_today": 6,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-08-25",
@@ -33,6 +33,12 @@
     },
     {
       "date": "2026-08-25",
+      "title": "《100 个问题》系列丛书",
+      "summary": "都说提示词已死，AI 越聊越笨。作者整理了《关于提示工程的100个问题》，带你看清提示工程当下真实面貌。",
+      "url": "https://waytoagi.feishu.cn/wiki/YTt3wPPIeixEK5kbJPnc0YL7nTf"
+    },
+    {
+      "date": "2026-08-25",
       "title": "OpenClaw创始人：“乐趣就是速度”丨Y Combinator",
       "summary": "这期对话复盘了OpenClaw从一小时做出的WhatsApp中继，到周下载量 470万、社区PR爆炸、配置项堆到9500个的全过程。里面最值得开发者和 AI 创业者看的，是Peter对增长、依赖平台、安全边界和产品失焦的反思：热度会来会走，真正要守住的是你自己的判断、使用频率和创造乐趣。",
       "url": "https://waytoagi.feishu.cn/wiki/UNB4wK4XkiuChHksIBFcSZiBnNf"
@@ -44,7 +50,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/U6C3wpb9OiwXn9kngvkcwluGnSb"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-08-25",
@@ -69,6 +75,12 @@
       "title": "「豆包工作」+ 飞书完全指南",
       "summary": "豆包工作这次把入口直接放进飞书：云文档、多维表格、群聊、会议纪要，都能在权限范围内被调用起来。这篇文章把豆包工作怎么访问、飞书登录后能做什么、隐私边界和套餐额度讲得很清楚。",
       "url": "https://waytoagi.feishu.cn/wiki/XFzXweH7Biu9KKk7dWocZZNgnzO"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "《100 个问题》系列丛书",
+      "summary": "都说提示词已死，AI 越聊越笨。作者整理了《关于提示工程的100个问题》，带你看清提示工程当下真实面貌。",
+      "url": "https://waytoagi.feishu.cn/wiki/YTt3wPPIeixEK5kbJPnc0YL7nTf"
     },
     {
       "date": "2026-08-25",
