@@ -1,15 +1,77 @@
 {
-  "generated_at": "2026-10-07T11:15:05.804871Z",
+  "generated_at": "2026-10-07T17:54:37.309471Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": null,
-  "count_today": 0,
-  "updates_today": [],
-  "count_7d": 0,
-  "updates_7d": [],
-  "warning": "近7日未解析到更新条目",
+  "latest_date": "2026-10-07",
+  "count_today": 5,
+  "updates_today": [
+    {
+      "date": "2026-10-07",
+      "title": "Nano Banana 2.1 公开资料全景整理",
+      "summary": "",
+      "url": "https://waytoagi.feishu.cn/wiki/ZmLGwZp1wiTCijkLbgCcS7ilnqe"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Mistral 发布 Mistral Large 4 公开预览版",
+      "summary": "10月6日，Mistral Large 4 公开预览版发布。这款欧洲自研开放权重 MoE 多模态模型，凭借百万级上下文、强悍的网络安全、代码与智能体能力刷新开源模型上限。在漏洞复现、代码 Agent、多模态视觉定位、金融法律任务中，多项评测超越同类开源模型，部分指标对标顶尖闭源模型。依托欧洲本地算力训练，支持私有化部署，兼顾 AI 主权与安全可控，10 月底即将开放权重，适合安全、科研、企业知识工作场景落地。",
+      "url": "https://waytoagi.feishu.cn/wiki/JJe1wWKUIiOF6zkiH7XcMPNYnqg"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Google发布开源多模态向量模型",
+      "summary": "10月6日，Google DeepMind 发布了开放多模态 embedding 模型，可将文本、代码、图像、音视频映射至同一向量空间，上下文提升至 8K。模块化设计搭配向量压缩技术，能在边缘设备轻量化部署。它覆盖 RAG、素材检索、分类聚类场景，主流框架均可接入，文中还有完整调用示例、微调方案和工程避坑指南，帮你快速落地隐私可控的跨模态检索应用。",
+      "url": "https://waytoagi.feishu.cn/wiki/Al1cw6cjCiOqv1kX99Xcqibfnud"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "FLUX 3 Image发布，4K直出",
+      "summary": "10月2日，Black Forest Labs 推出 FLUX 3 Image，提供边界框布局生成、局部编辑、最多十张参考图和原生 2K、4K 输出。",
+      "url": "https://waytoagi.feishu.cn/wiki/X5NWw2lQVi0W6akHHD1c02gonYP"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Comfy Agent：为创意而生的 Agent",
+      "summary": "还在为ComfyUI繁杂节点、工作流调试消耗大量创作精力？Comfy Agent正式登陆Comfy Cloud，本地端也即将上线。只需自然语言下达指令，就能自动搭建、迭代、排查工作流，还支持多模型对比、批量出图与素材管理。现在可以登录云端免费试用，快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QtWMwIAH6iQMPmkY3rEc3KdBnag"
+    }
+  ],
+  "count_7d": 5,
+  "updates_7d": [
+    {
+      "date": "2026-10-07",
+      "title": "Nano Banana 2.1 公开资料全景整理",
+      "summary": "",
+      "url": "https://waytoagi.feishu.cn/wiki/ZmLGwZp1wiTCijkLbgCcS7ilnqe"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Mistral 发布 Mistral Large 4 公开预览版",
+      "summary": "10月6日，Mistral Large 4 公开预览版发布。这款欧洲自研开放权重 MoE 多模态模型，凭借百万级上下文、强悍的网络安全、代码与智能体能力刷新开源模型上限。在漏洞复现、代码 Agent、多模态视觉定位、金融法律任务中，多项评测超越同类开源模型，部分指标对标顶尖闭源模型。依托欧洲本地算力训练，支持私有化部署，兼顾 AI 主权与安全可控，10 月底即将开放权重，适合安全、科研、企业知识工作场景落地。",
+      "url": "https://waytoagi.feishu.cn/wiki/JJe1wWKUIiOF6zkiH7XcMPNYnqg"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Google发布开源多模态向量模型",
+      "summary": "10月6日，Google DeepMind 发布了开放多模态 embedding 模型，可将文本、代码、图像、音视频映射至同一向量空间，上下文提升至 8K。模块化设计搭配向量压缩技术，能在边缘设备轻量化部署。它覆盖 RAG、素材检索、分类聚类场景，主流框架均可接入，文中还有完整调用示例、微调方案和工程避坑指南，帮你快速落地隐私可控的跨模态检索应用。",
+      "url": "https://waytoagi.feishu.cn/wiki/Al1cw6cjCiOqv1kX99Xcqibfnud"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "FLUX 3 Image发布，4K直出",
+      "summary": "10月2日，Black Forest Labs 推出 FLUX 3 Image，提供边界框布局生成、局部编辑、最多十张参考图和原生 2K、4K 输出。",
+      "url": "https://waytoagi.feishu.cn/wiki/X5NWw2lQVi0W6akHHD1c02gonYP"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Comfy Agent：为创意而生的 Agent",
+      "summary": "还在为ComfyUI繁杂节点、工作流调试消耗大量创作精力？Comfy Agent正式登陆Comfy Cloud，本地端也即将上线。只需自然语言下达指令，就能自动搭建、迭代、排查工作流，还支持多模型对比、批量出图与素材管理。现在可以登录云端免费试用，快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QtWMwIAH6iQMPmkY3rEc3KdBnag"
+    }
+  ],
+  "warning": null,
   "has_error": false,
   "error": null
 }
