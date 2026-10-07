@@ -1,16 +1,28 @@
 {
-  "generated_at": "2026-10-07T17:54:37.309471Z",
+  "generated_at": "2026-10-07T22:44:07.634978Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-10-07",
-  "count_today": 5,
+  "count_today": 8,
   "updates_today": [
     {
       "date": "2026-10-07",
+      "title": "用 Muse Gadgets 把个人 Agent 接进你自己的 AI 硬件里",
+      "summary": "你看到 Muse Gadgets，第一反应可能是：Meta 又做了一款硬件？其实不是。它更像一套“自己接硬件”的工具包。Meta 把 ESP32 固件、Linux Device SDK 和配对方式放出来，让你把手边的开发板、树莓派、屏幕、按钮、麦克风或传感器接到 Muse 上。",
+      "url": "https://waytoagi.feishu.cn/wiki/JCm0wL0T4iBzLCkZlTSc9M7SnYb"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Opus 5.5 正在吃掉科普视频！免费开源15种风格提示词",
+      "summary": "Opus 5.5正在重塑视频创作思路，作者利用它开发出了15类10秒可视化短片，覆盖皮影戏、3D拆解、MG动画、科普信息图等多种风格。相比传统视频模型，它文字渲染稳定，修改只需局部调整，制作成本大幅降低。文中还有全套的提示词，你也可以直接复用这套方案，快速产出高质量动态内容。",
+      "url": "https://waytoagi.feishu.cn/wiki/XhIBwaGrFi7jeWk4RK9cv2synLg"
+    },
+    {
+      "date": "2026-10-07",
       "title": "Nano Banana 2.1 公开资料全景整理",
-      "summary": "",
+      "summary": "10月7日，Google 发布全新生图模型：Nano Banana 2.1，支持文生图、局部编辑、多参考图融合，最高可输出 4K 图，中文文字渲染短板得到改善，能维持人物与产品主体一致性，出图价格相比前代也有所降低。一起来试试效果如何！",
       "url": "https://waytoagi.feishu.cn/wiki/ZmLGwZp1wiTCijkLbgCcS7ilnqe"
     },
     {
@@ -36,14 +48,32 @@
       "title": "Comfy Agent：为创意而生的 Agent",
       "summary": "还在为ComfyUI繁杂节点、工作流调试消耗大量创作精力？Comfy Agent正式登陆Comfy Cloud，本地端也即将上线。只需自然语言下达指令，就能自动搭建、迭代、排查工作流，还支持多模型对比、批量出图与素材管理。现在可以登录云端免费试用，快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QtWMwIAH6iQMPmkY3rEc3KdBnag"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "AI音乐周刊 W.A 048",
+      "summary": "本周AI音乐周刊带来重磅版权新规与司法判例，同步还收录了Modulate融资、Suno语音配乐新功能、Mirelo音效插件等产品商业动态。更有6篇前沿论文，涵盖开源音乐框架、舞蹈驱动音乐生成、音乐自动评估等方向。",
+      "url": "https://waytoagi.feishu.cn/wiki/BqtCw19wrixuo8kdBufcQW0AnUe"
     }
   ],
-  "count_7d": 5,
+  "count_7d": 8,
   "updates_7d": [
     {
       "date": "2026-10-07",
+      "title": "用 Muse Gadgets 把个人 Agent 接进你自己的 AI 硬件里",
+      "summary": "你看到 Muse Gadgets，第一反应可能是：Meta 又做了一款硬件？其实不是。它更像一套“自己接硬件”的工具包。Meta 把 ESP32 固件、Linux Device SDK 和配对方式放出来，让你把手边的开发板、树莓派、屏幕、按钮、麦克风或传感器接到 Muse 上。",
+      "url": "https://waytoagi.feishu.cn/wiki/JCm0wL0T4iBzLCkZlTSc9M7SnYb"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Opus 5.5 正在吃掉科普视频！免费开源15种风格提示词",
+      "summary": "Opus 5.5正在重塑视频创作思路，作者利用它开发出了15类10秒可视化短片，覆盖皮影戏、3D拆解、MG动画、科普信息图等多种风格。相比传统视频模型，它文字渲染稳定，修改只需局部调整，制作成本大幅降低。文中还有全套的提示词，你也可以直接复用这套方案，快速产出高质量动态内容。",
+      "url": "https://waytoagi.feishu.cn/wiki/XhIBwaGrFi7jeWk4RK9cv2synLg"
+    },
+    {
+      "date": "2026-10-07",
       "title": "Nano Banana 2.1 公开资料全景整理",
-      "summary": "",
+      "summary": "10月7日，Google 发布全新生图模型：Nano Banana 2.1，支持文生图、局部编辑、多参考图融合，最高可输出 4K 图，中文文字渲染短板得到改善，能维持人物与产品主体一致性，出图价格相比前代也有所降低。一起来试试效果如何！",
       "url": "https://waytoagi.feishu.cn/wiki/ZmLGwZp1wiTCijkLbgCcS7ilnqe"
     },
     {
@@ -69,6 +99,12 @@
       "title": "Comfy Agent：为创意而生的 Agent",
       "summary": "还在为ComfyUI繁杂节点、工作流调试消耗大量创作精力？Comfy Agent正式登陆Comfy Cloud，本地端也即将上线。只需自然语言下达指令，就能自动搭建、迭代、排查工作流，还支持多模型对比、批量出图与素材管理。现在可以登录云端免费试用，快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QtWMwIAH6iQMPmkY3rEc3KdBnag"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "AI音乐周刊 W.A 048",
+      "summary": "本周AI音乐周刊带来重磅版权新规与司法判例，同步还收录了Modulate融资、Suno语音配乐新功能、Mirelo音效插件等产品商业动态。更有6篇前沿论文，涵盖开源音乐框架、舞蹈驱动音乐生成、音乐自动评估等方向。",
+      "url": "https://waytoagi.feishu.cn/wiki/BqtCw19wrixuo8kdBufcQW0AnUe"
     }
   ],
   "warning": null,
