@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:43:23.022713Z",
+  "generated_at": "2026-10-27T20:25:51.884471Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -50,7 +50,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/Gh4pwuLf5iZD5mkSSddcMHGhnec"
     }
   ],
-  "count_7d": 42,
+  "count_7d": 39,
   "updates_7d": [
     {
       "date": "2026-10-27",
@@ -285,24 +285,6 @@
       "title": "Claude Duet 发布：Anthropic 加入 Personal Agent 厮杀",
       "summary": "Anthropic 发布了 Claude Duet，一个独立 Persoal Agent App，会主动整理待办、发现异常、准备材料。作者这篇文章拆解了 Duet 如何借助云端虚拟机和 6000 多个连接器，串起邮件、日历、财务等工作，同时把付款、签署、删除等高风险操作留给人拍板。",
       "url": "https://waytoagi.feishu.cn/wiki/DjtDwHUFzittv2kL4uacXUmandS"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "预训练之后，为什么还要后训练？",
-      "summary": "为什么模型读了海量资料，却连“给 6 岁孩子讲登月”都可能答非所问？关键在于，预训练只会让它学会预测下一个词，离真正会听指令、完成复杂推理，还差一次“岗前培训”。这篇文章解释了 RLHF、DPO、奖励模型等概念，读完你也能理顺预训练与后训练的分工。",
-      "url": "https://waytoagi.feishu.cn/wiki/TswvwP1KfibV0zkll6jcdYlHnye"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "一冠两季！这群在 AI 训练营相识的伙伴，把作品做上了安克黑客松领奖台",
-      "summary": "学了不少 AI 工具，却一直没做出能落地的作品？WaytoAGI 训练营的几位同学给出了答案：从课堂上的陌生人，到组队参加安克首届黑客松，他们围绕家庭储能、办公陪伴等真实问题，24 小时做出的产品，最终拿下一冠两季。这篇文章记录了他们如何靠作品被看见、找到靠谱队友，并把行业经验变成产品。",
-      "url": "https://waytoagi.feishu.cn/wiki/LYBkwu47Ii8P1HknT2HcqDwJnQf"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "AI 搜索是怎么做出来的",
-      "summary": "你问AI明天天气，它几秒就给出答案和出处，背后却是模型拆检索词、搜索引擎筛结果，再把信息送回模型判断；复杂任务还要由 Agent 连续搜好几轮。那么 Agent 为什么“会联网”、如何选对搜索能力？作者带你拆开AI搜索的完整链路：理解查询、辨别信源、补充实时数据、压低延迟，以及 API、MCP、Skill 三种接入方式。",
-      "url": "https://waytoagi.feishu.cn/wiki/L1dpwlMqeiSMZPkigsqcdKonnOb"
     }
   ],
   "warning": null,
