@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-05T17:14:24.374838Z",
+  "generated_at": "2026-11-05T22:45:22.627193Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 590,
+      "duration_ms": 746,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 831,
+      "duration_ms": 379,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 288,
-      "duration_ms": 34603,
+      "item_count": 304,
+      "duration_ms": 49962,
       "error": null
     },
     {
@@ -30,23 +30,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 913,
+      "duration_ms": 998,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3031,
-      "duration_ms": 2324,
+      "item_count": 3024,
+      "duration_ms": 1684,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 77,
-      "duration_ms": 816,
+      "item_count": 78,
+      "duration_ms": 817,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5122,
+      "duration_ms": 5332,
       "error": "HTTPSConnectionPool(host='ai.hubtoday.app', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')))"
     },
     {
@@ -62,15 +62,15 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1450,
+      "duration_ms": 1439,
       "error": null
     },
     {
       "site_id": "aihot",
       "site_name": "AI今日热榜",
       "ok": true,
-      "item_count": 482,
-      "duration_ms": 426,
+      "item_count": 490,
+      "duration_ms": 404,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI Valley",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 5747,
+      "duration_ms": 3527,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "The Rundown AI",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 333,
+      "duration_ms": 257,
       "error": "No Beehiiv issue URLs found at https://www.therundown.ai/archive"
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 125,
-      "duration_ms": 1168,
+      "duration_ms": 1599,
       "error": null
     }
   ],
@@ -104,9 +104,9 @@
     "therundownai"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 5185,
-  "items_before_topic_filter": 5039,
-  "items_in_24h": 921,
+  "fetched_raw_items": 5203,
+  "items_before_topic_filter": 4959,
+  "items_in_24h": 919,
   "rss_opml": {
     "enabled": false,
     "path": null,
